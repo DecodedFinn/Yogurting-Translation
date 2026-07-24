@@ -1,28 +1,25 @@
 # CLT Master Extraction (Translation Source)
 
-A fresh, complete decode of every CLT table currently packed into the
-official client's `Models/CLT/CLT.IRD`/`CLT.IRH` archive, re-pulled from the
-live client install.
+A full decode of every CLT table currently packed into the client's
+`Models/CLT/CLT.IRD`/`CLT.IRH` archive, pulled straight from a live install.
 
 ## What's here
 
 - `clt_decoded/` -- all 64 tables, decrypted, one clean `<TABLE_NAME>.clt.bin`
-  file per table. This is the raw decoded binary, not yet parsed into rows.
-- `clt_csv_source/` -- all 64 tables parsed into semantic CSVs (real column
-  names, one row per table entry) via `tools/cltdecoder/clt_parser`. Source
-  language throughout is Japanese; nothing has been translated yet.
+  file per table. Raw decoded binary, not parsed into rows yet.
+- `clt_csv_source/` -- all 64 tables parsed into proper CSVs with real column
+  names, one row per table entry. Everything's still in Japanese -- nothing
+  has been translated yet.
 
-## Coverage: every table, translatable or not
+## Coverage
 
-All 64 tables in the current client are represented, so this **is** "every
-entry that can be translated" -- not just the handful (`TITLE`, `EPISODE`,
-`EPISODE_DETAIL`, `EPISODE_MONSTER`, `COITEM_TYPE`, `TITLE_EFFECT`,
-`ENCHANT_TITLE`) this project had already reversed for other reasons.
+All 64 tables in the client are here, so this is every entry that can be
+translated, not just a handful.
 
-35,522 total data rows across 64 tables. **25 of the 64 tables contain
-translatable (non-ASCII / Japanese) text** in at least one column; the
-other 39 are purely numeric/config tables (item slot rules, weapon stat
-curves, model/sound IDs, etc.) with nothing to translate.
+35,522 total data rows across 64 tables. 25 of the 64 tables actually contain
+translatable (non-ASCII / Japanese) text in at least one column; the other 39
+are pure numeric/config tables (item slot rules, weapon stat curves,
+model/sound IDs, etc.) with nothing to translate.
 
 | Table | Columns | Rows | Translatable columns |
 |---|---:|---:|---|
@@ -91,19 +88,8 @@ curves, model/sound IDs, etc.) with nothing to translate.
 | TITLE | 6 | 56 | condition,description,name |
 | TITLE_EFFECT | 4 | 70 | (none -- numeric/config only) |
 
-Largest translation surfaces by row count: `COITEM_TYPE` (9,336 rows --
-consumable/quest/coitem names+descriptions), `ITEM_BYUL_TYPE` (3,325 rows --
-byul pet item names+descriptions), `PRODUCT_CATEGORY` (2,371 rows, numeric
-only despite the size), `BEITEM_TYPE` (1,713 rows -- equippable item
-names+descriptions), `ITEM_CHARGED_TYPE` (1,228 rows).
-
-## Next step: actually translating it
-
-This folder is the *source* material -- clean, complete, machine-readable,
-not yet translated. This repo already has a chunked LLM-translation workflow
-for exactly this (see `docs/technical/client_translation_pack_instructions.md`
-and the existing `Translation/CLTs/downloaded_plain_translation_jobs_en/`
-job for the older partial set). The natural next step is regenerating that
-same chunk-job format (`strings_master.csv` / `occurrences.csv` /
-`en/chunks/*.json`) against `clt_csv_source/` here instead, since it now
-covers all 64 tables instead of 64/65 from an older build.
+Largest translation surfaces by row count: COITEM_TYPE (9,336 rows --
+consumable/quest/coitem names+descriptions), ITEM_BYUL_TYPE (3,325 rows --
+byul pet item names+descriptions), PRODUCT_CATEGORY (2,371 rows, numeric only
+despite the size), BEITEM_TYPE (1,713 rows -- equippable item
+names+descriptions), ITEM_CHARGED_TYPE (1,228 rows).
