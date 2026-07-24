@@ -1,0 +1,1229 @@
+item_id,code,name,desc1,desc2,p0,p1,p2
+1,PD000001,Gift Shop Points,You can gift SP to a friend.,For celebrating with friends!,0,0,0
+20,PD002100,Create Secret Room 1-Day Pass,"For 1 day, you can play episodes in a private room that only invited friends can enter.",Together with friends!!,0,0,20001
+21,PD002100,Create Secret Room 3-Day Pass,"For 3 days, you can play episodes in a private room that only invited friends can enter.",Together with friends!!,0,0,20003
+22,PD002100,Create Secret Room 7-Day Pass,"For 7 days, you can play episodes in a private room that only invited friends can enter.",Together with friends!!,0,0,20007
+23,PD002100,Secret Lock,"For 30 days, you can play episodes in a private room that only invited friends can enter.",Together with friends!!,0,0,20030
+24,PD004500,Use Placard 1-Day Pass,"When used, you can hold a placard with any text you like above your head for 1 day.",The Voice of Youth!,0,0,20001
+25,PD004500,Use Placard 3-Day Pass,"When used, you can hold a placard with any text you like above your head for 3 days.",The Voice of Youth!,0,0,20003
+26,PD004500,Use Placard 7-Day Pass,"When used, you can hold a placard with any text you like above your head for 7 days.",The Voice of Youth!,0,0,20007
+27,PD004500,Placard,"When used, you can hold a placard with any text you like above your head for 30 days.",The Voice of Youth!,0,0,20030
+28,PD004100,Use Name Tag 1-Day Pass,"When used, you can wear a name tag showing your name and club name for 1 day.",Show off your club!,0,0,20001
+29,PD004100,Use Name Tag 3-Day Pass,"When used, you can wear a name tag showing your name and club name for 3 days.",Show off your club!,0,0,20003
+30,PD004100,Use Name Tag 7-Day Pass,"When used, you can wear a name tag showing your name and club name for 7 days.",Show off your club!,0,0,20007
+31,PD004100,Name Tag,"When used, you can wear a name tag showing your name and club name for 30 days.",Show off your club!,0,0,20030
+32,PD004100,Use Name Tag 168-Day Pass,"When used, you can wear a name tag showing your name and club name for 168 days.",Show off your club!,0,0,20090
+33,PD004100,Use Name Tag 365-Day Pass,"When used, you can wear a name tag showing your name and club name for 365 days.",Show off your club!,0,0,20365
+34,PD009100,3-Type Set 7 Days,"Set Series Part 1! You can use Placard, Name Tag, and Create Secret Room for 3 days.",Best-Selling Item Set,0,0,20003
+35,PD009100,3-Type Set 7-Day Pass,"Set Series Part 1! You can use Placard, Name Tag, and Create Secret Room for 7 days.",Best-Selling Item Set,0,0,20007
+36,PD009100,3-Type Set 28-Day Pass,"Set Series Part 1! You can use Placard, Name Tag, and Create Secret Room for 28 days.",Best-Selling Item Set,0,0,20030
+37,PD004201,Red Name Tag Backing 1-Use Ticke,Changes the name tag color to red.,Show your personality with your image color!,0,0,0
+38,PD004202,Orange Name Tag Backing 1-Use Ti,Changes the name tag color to orange.,Show your personality with your image color!,0,0,0
+39,PD004203,Yellow Name Tag Backing 1-Use Ti,Changes the name tag color to yellow.,Show your personality with your image color!,0,0,0
+40,PD004204,Green Name Tag Backing 1-Use Tic,Changes the name tag color to green.,Show your personality with your image color!,0,0,0
+41,PD004205,Blue Name Tag Backing 1-Use Tick,Changes the name tag color to blue.,Show your personality with your image color!,0,0,0
+42,PD004206,Indigo Name Tag Backing 1-Use Ti,Changes the name tag color to indigo.,Show your personality with your image color!,0,0,0
+43,PD004207,Purple Name Tag Backing 1-Use Ti,Changes the name tag color to purple.,Show your personality with your image color!,0,0,0
+44,PD004208,Name Tag Backing Set,"You can choose and change the name tag color from 7 colors: red, orange, yellow, green, blue, indigo, and purple.",This is my image color!,0,0,0
+45,PD004300,Change Title 1-Day Pass,"For 1 day, you can freely change your title.",Freely switch between titles!,0,0,20001
+46,PD004300,Change Title 3-Day Pass,"For 3 days, you can freely change your title.",Freely switch between titles!,0,0,20003
+47,PD004300,Change Title 7 Days,"For 7 days, you can freely change your title.",Freely switch between titles!,0,0,20007
+48,PD004300,Freely Change Title,"For 30 days, you can freely change your title (forced titles are excluded).",Freely switch between titles!,0,0,20030
+49,PD004300,Change Title 3-Month Pass,"For 3 months, you can freely change your title.",Freely switch between titles!,0,0,20090
+50,PD004300,Change Title 6-Month Pass,"For 6 months, you can freely change your title.",Freely switch between titles!,0,0,20180
+51,PD004300,Change Title 1-Year Pass,"For 1 year, you can freely change your title.",Freely switch between titles!,0,0,20365
+52,PD006100,Memory Chip 7 Days,"For 3 days, you can increase your friend list limit to 50 people.",Aim for 50 friends!,0,0,20003
+53,PD006100,Memory Chip 7 Days,"For 7 days, you can increase your friend list limit to 50 people.",Aim for 50 friends!,0,0,20007
+54,PD006100,Memory Chip,"For 30 days, you can increase your friend list limit to 50 people.",Aim for 50 friends!,0,0,20030
+55,PD006100,Memory Chip 3-Month Pass,"For 3 months, you can increase your friend list limit to 50 people.",Aim for 50 friends!,0,0,20090
+56,PD006100,Memory Chip 6-Month Pass,"For 6 months, you can increase your friend list limit to 50 people.",Aim for 50 friends!,0,0,20180
+57,PD006100,Memory Chip 1-Year Pass,"For 1 year, you can increase your friend list limit to 50 people.",Aim for 50 friends!,0,0,20365
+58,PD002401,+4 Enhancement Formula (Year 1),+4 weapon enhancement formula series with 100% success rate (for Year 1 weapons only),Safe and reliable weapon enhancement!,0,0,0
+59,PD002402,+4 Enhancement Formula (Year 2),+4 weapon enhancement formula series with 100% success rate (for Year 2 weapons only),Safe and reliable weapon enhancement!,0,0,0
+60,PD002403,+4 Enhancement Formula (Year 3),+4 weapon enhancement formula series with 100% success rate (for Year 3 weapons only),Safe and reliable weapon enhancement!,0,0,0
+61,PD002404,+4 Enhancement Formula (Year 4),+4 weapon enhancement formula series with 100% success rate (for Year 4 weapons only),Safe and reliable weapon enhancement!,0,0,0
+62,PD002411,+5 Enhancement Formula (Year 1),+5 weapon enhancement formula series with 100% success rate (for Year 1 weapons only),Safe and reliable weapon enhancement!,0,0,0
+63,PD002412,+5 Enhancement Formula (Year 2),+5 weapon enhancement formula series with 100% success rate (for Year 2 weapons only),Safe and reliable weapon enhancement!,0,0,0
+64,PD002413,+5 Enhancement Formula (Year 3),+5 weapon enhancement formula series with 100% success rate (for Year 3 weapons only),Safe and reliable weapon enhancement!,0,0,0
+66,PD002414,+5 Enhancement Formula (Year 4),+5 weapon enhancement formula series with 100% success rate (for Year 4 weapons only),Safe and reliable weapon enhancement!,0,0,0
+68,PD004300,Change Title 7 Days,"For 3 days, you can freely change your title.",Freely switch between titles!,0,0,20003
+69,PD006200,Locker 7 Days,"For 7 days, you can use one additional locker.",A must-have for item collections!!,0,0,20007
+70,PD006200,Locker Usage Pass,"For 30 days, you can use one additional locker.",A must-have for collecting items!!,0,0,20030
+71,PD006200,Locker 3-Month Pass,"For 3 months, you can use one additional locker.",A must-have for item collections!!,0,0,20090
+72,PD006200,Locker 6-Month Pass,"For 6 months, you can use one additional locker.",A must-have for item collections!!,0,0,20180
+73,PD006200,Locker 1-Year Pass,"For 1 year, you can use one additional locker.",A must-have for item collections!!,0,0,20365
+74,PD110250,Estiva Academy Male Student Chee,You can use the Estiva Academy male student cheer outfit set for 1 day.,Usable for 1 day,1,1,20001
+75,PD110250,Estiva Academy Male Student Chee,You can use the Estiva Academy male student cheer outfit set for 3 days.,Usable for 3 days,1,1,20003
+76,PD110250,Estiva Academy Male Student Chee,You can use the Estiva Academy male student cheer outfit set for 7 days.,Usable for 7 days,1,1,20007
+77,PD110250,Estiva Academy Male Student Chee,You can use the Estiva Academy male student cheer outfit set for 30 days.,Usable for 30 days,1,1,20030
+78,PD110250,Estiva Academy Male Student Chee,You can use the Estiva Academy male student cheer outfit set for 3 months.,Usable for 3 months,1,1,20090
+79,PD110250,Estiva Academy Male Student Chee,You can use the Estiva Academy male student cheer outfit set for 6 months.,Usable for 6 months,1,1,20180
+80,PD110250,Estiva Academy Male Student Chee,You can use the Estiva Academy male student cheer outfit set for 1 year.,Usable for 1 year,1,1,20365
+81,PD120250,Estiva Academy Female Student Ch,You can use the Estiva Academy female student cheer outfit set for 1 day.,Usable for 1 day,2,1,20001
+82,PD120250,Estiva Academy Female Student Ch,You can use the Estiva Academy female student cheer outfit set for 3 days.,Usable for 3 days,2,1,20003
+83,PD120250,Estiva Academy Female Student Ch,You can use the Estiva Academy female student cheer outfit set for 7 days.,Usable for 7 days,2,1,20007
+84,PD120250,Estiva Academy Female Student Ch,You can use the Estiva Academy female student cheer outfit set for 30 days.,Usable for 30 days,2,1,20030
+85,PD120250,Estiva Academy Female Student Ch,You can use the Estiva Academy female student cheer outfit set for 3 months.,Usable for 3 months,2,1,20090
+86,PD120250,Estiva Academy Female Student Ch,You can use the Estiva Academy female student cheer outfit set for 6 months.,Usable for 6 months,2,1,20180
+87,PD120250,Estiva Academy Female Student Ch,You can use the Estiva Academy female student cheer outfit set for 1 year.,Usable for 1 year,2,1,20365
+88,PD210250,Yoizuki Academy Male Student Che,You can use the Yoizuki Academy male student cheer outfit set for 1 day.,Usable for 1 day,1,2,20001
+89,PD210250,Yoizuki Academy Male Student Che,You can use the Yoizuki Academy male student cheer outfit set for 3 days.,Usable for 3 days,1,2,20003
+90,PD210250,Yoizuki Academy Male Student Che,You can use the Yoizuki Academy male student cheer outfit set for 7 days.,Usable for 7 days,1,2,20007
+91,PD210250,Yoizuki Academy Male Student Che,You can use the Yoizuki Academy male student cheer outfit set for 30 days.,Usable for 30 days,1,2,20030
+92,PD210250,Yoizuki Academy Male Student Che,You can use the Yoizuki Academy male student cheer outfit set for 3 months.,Usable for 3 months,1,2,20090
+93,PD210250,Yoizuki Academy Male Student Che,You can use the Yoizuki Academy male student cheer outfit set for 6 months.,Usable for 6 months,1,2,20180
+94,PD210250,Yoizuki Academy Male Student Che,You can use the Yoizuki Academy male student cheer outfit set for 1 year.,Usable for 1 year,1,2,20365
+95,PD220250,Yoizuki Academy Female Student C,You can use the Yoizuki Academy female student cheer outfit set for 1 day.,Usable for 1 day,2,2,20001
+96,PD220250,Yoizuki Academy Female Student C,You can use the Yoizuki Academy female student cheer outfit set for 3 days.,Usable for 3 days,2,2,20003
+97,PD220250,Yoizuki Academy Female Student C,You can use the Yoizuki Academy female student cheer outfit set for 7 days.,Usable for 7 days,2,2,20007
+98,PD220250,Yoizuki Academy Female Student C,You can use the Yoizuki Academy female student cheer outfit set for 30 days.,Usable for 30 days,2,2,20030
+99,PD220250,Yoizuki Academy Female Student C,You can use the Yoizuki Academy female student cheer outfit set for 3 months.,Usable for 3 months,2,2,20090
+100,PD220250,Yoizuki Academy Female Student C,You can use the Yoizuki Academy female student cheer outfit set for 6 months.,Usable for 6 months,2,2,20180
+101,PD220250,Yoizuki Academy Female Student C,You can use the Yoizuki Academy female student cheer outfit set for 1 year.,Usable for 1 year,2,2,20365
+102,PD110310,Estiva Academy Male Student Tenn,You can use the Estiva Academy male student tennis wear set for 1 day.,Usable for 1 day,1,1,20001
+103,PD110310,Estiva Academy Male Student Tenn,You can use the Estiva Academy male student tennis wear set for 3 days.,Usable for 3 days,1,1,20003
+104,PD110310,Estiva Academy Male Student Tenn,You can use the Estiva Academy male student tennis wear set for 7 days.,Usable for 7 days,1,1,20007
+105,PD110310,Tennis Club Uniform,You can use the Estiva Academy male student tennis club uniform set for 30 days.,Usable for 30 days,1,1,20030
+106,PD110310,Estiva Academy Male Student Tenn,You can use the Estiva Academy male student tennis wear set for 3 months.,Usable for 3 months,1,1,20090
+107,PD110310,Estiva Academy Male Student Tenn,You can use the Estiva Academy male student tennis wear set for 6 months.,Usable for 6 months,1,1,20180
+108,PD110310,Estiva Academy Male Student Tenn,You can use the Estiva Academy male student tennis wear set for 1 year.,Usable for 1 year,1,1,20365
+109,PD120310,Estiva Academy Female Student Te,You can use the Estiva Academy female student tennis wear set for 1 day.,Usable for 1 day,2,1,20001
+110,PD120310,Estiva Academy Female Student Te,You can use the Estiva Academy female student tennis wear set for 3 days.,Usable for 3 days,2,1,20003
+111,PD120310,Estiva Academy Female Student Te,You can use the Estiva Academy female student tennis wear set for 7 days.,Usable for 7 days,2,1,20007
+112,PD120310,Tennis Club Uniform,You can use the Estiva Academy female student tennis club uniform set for 30 days.,Usable for 30 days,2,1,20030
+113,PD120310,Estiva Academy Female Student Te,You can use the Estiva Academy female student tennis wear set for 3 months.,Usable for 3 months,2,1,20090
+114,PD120310,Estiva Academy Female Student Te,You can use the Estiva Academy female student tennis wear set for 6 months.,Usable for 6 months,2,1,20180
+115,PD120310,Estiva Academy Female Student Te,You can use the Estiva Academy female student tennis wear set for 1 year.,Usable for 1 year,2,1,20365
+116,PD210310,Yoizuki Academy Male Student Bad,You can use the Yoizuki Academy male student badminton wear set for 1 day.,Usable for 1 day,1,2,20001
+117,PD210310,Yoizuki Academy Male Student Bad,You can use the Yoizuki Academy male student badminton wear set for 3 days.,Usable for 3 days,1,2,20003
+118,PD210310,Yoizuki Academy Male Student Bad,You can use the Yoizuki Academy male student badminton wear set for 7 days.,Usable for 7 days,1,2,20007
+119,PD210310,Badminton Club Uniform,You can use the Yoizuki Academy male student badminton club uniform set for 30 days.,Usable for 30 days,1,2,20030
+120,PD210310,Yoizuki Academy Male Student Bad,You can use the Yoizuki Academy male student badminton wear set for 3 months.,Usable for 3 months,1,2,20090
+121,PD210310,Yoizuki Academy Male Student Bad,You can use the Yoizuki Academy male student badminton wear set for 6 months.,Usable for 6 months,1,2,20180
+122,PD210310,Yoizuki Academy Male Student Bad,You can use the Yoizuki Academy male student badminton wear set for 1 year.,Usable for 1 year,1,2,20365
+123,PD220310,Yoizuki Academy Female Student B,You can use the Yoizuki Academy female student badminton wear set for 1 day.,Usable for 1 day,2,2,20001
+124,PD220310,Yoizuki Academy Female Student B,You can use the Yoizuki Academy female student badminton wear set for 3 days.,Usable for 3 days,2,2,20003
+125,PD220310,Yoizuki Academy Female Student B,You can use the Yoizuki Academy female student badminton wear set for 7 days.,Usable for 7 days,2,2,20007
+126,PD220310,Badminton Club Uniform,You can use the Yoizuki Academy female student badminton club uniform set for 30 days.,Usable for 30 days,2,2,20030
+127,PD220310,Yoizuki Academy Female Student B,You can use the Yoizuki Academy female student badminton wear set for 3 months.,Usable for 3 months,2,2,20090
+128,PD220310,Yoizuki Academy Female Student B,You can use the Yoizuki Academy female student badminton wear set for 6 months.,Usable for 6 months,2,2,20180
+129,PD220310,Yoizuki Academy Female Student B,You can use the Yoizuki Academy female student badminton wear set for 1 year.,Usable for 1 year,2,2,20365
+130,PD110320,Estiva Academy Male Student Rock,You can use the Estiva Academy male student Rock Club stage outfit set for 1 day.,Usable for 1 day,1,1,20001
+131,PD110320,Estiva Academy Male Student Rock,You can use the Estiva Academy male student Rock Club stage outfit set for 3 days.,Usable for 3 days,1,1,20003
+132,PD110320,Estiva Academy Male Student Rock,You can use the Estiva Academy male student Rock Club stage outfit set for 7 days.,Usable for 7 days,1,1,20007
+133,PD110320,Rock Club Stage Outfit,You can use the Estiva Academy male student Rock Club stage outfit set for 30 days.,Usable for 30 days,1,1,20030
+134,PD110320,Estiva Academy Male Student Rock,You can use the Estiva Academy male student Rock Club stage outfit set for 3 months.,Usable for 3 months,1,1,20090
+135,PD110320,Estiva Academy Male Student Rock,You can use the Estiva Academy male student Rock Club stage outfit set for 6 months.,Usable for 6 months,1,1,20180
+136,PD110320,Estiva Academy Male Student Rock,You can use the Estiva Academy male student Rock Club stage outfit set for 1 year.,Usable for 1 year,1,1,20365
+137,PD120320,Estiva Academy Female Student Ro,You can use the Estiva Academy female student Rock Club stage outfit set for 1 day.,Usable for 1 day,2,1,20001
+138,PD120320,Estiva Academy Female Student Ro,You can use the Estiva Academy female student Rock Club stage outfit set for 3 days.,Usable for 3 days,2,1,20003
+139,PD120320,Estiva Academy Female Student Ro,You can use the Estiva Academy female student Rock Club stage outfit set for 7 days.,Usable for 7 days,2,1,20007
+140,PD120320,Rock Club Stage Outfit,You can use the Estiva Academy female student Rock Club stage outfit set for 30 days.,Usable for 30 days,2,1,20030
+141,PD120320,Estiva Academy Female Student Ro,You can use the Estiva Academy female student Rock Club stage outfit set for 3 months.,Usable for 3 months,2,1,20090
+142,PD120320,Estiva Academy Female Student Ro,You can use the Estiva Academy female student Rock Club stage outfit set for 6 months.,Usable for 6 months,2,1,20180
+143,PD120320,Estiva Academy Female Student Ro,You can use the Estiva Academy female student Rock Club stage outfit set for 1 year.,Usable for 1 year,2,1,20365
+144,PD210320,Yoizuki Academy Male Student Fol,You can use the Yoizuki Academy male student Folk Band Club outfit set for 1 day.,Usable for 1 day,1,2,20001
+145,PD210320,Yoizuki Academy Male Student Fol,You can use the Yoizuki Academy male student Folk Band Club outfit set for 3 days.,Usable for 3 days,1,2,20003
+146,PD210320,Yoizuki Academy Male Student Fol,You can use the Yoizuki Academy male student Folk Band Club outfit set for 7 days.,Usable for 7 days,1,2,20007
+147,PD210320,Folk Band Club Outfit,You can use the Yoizuki Academy male student Folk Band Club outfit set for 30 days.,Usable for 30 days,1,2,20030
+148,PD210320,Yoizuki Academy Male Student Fol,You can use the Yoizuki Academy male student Folk Band Club outfit set for 3 months.,Usable for 3 months,1,2,20090
+149,PD210320,Yoizuki Academy Male Student Fol,You can use the Yoizuki Academy male student Folk Band Club outfit set for 6 months.,Usable for 6 months,1,2,20180
+150,PD210320,Yoizuki Academy Male Student Fol,You can use the Yoizuki Academy male student Folk Band Club outfit set for 1 year.,Usable for 1 year,1,2,20365
+151,PD220320,Yoizuki Academy Female Student F,You can use the Yoizuki Academy female student Folk Band Club outfit set for 1 day.,Usable for 1 day,2,2,20001
+152,PD220320,Yoizuki Academy Female Student F,You can use the Yoizuki Academy female student Folk Band Club outfit set for 3 days.,Usable for 3 days,2,2,20003
+153,PD220320,Yoizuki Academy Female Student F,You can use the Yoizuki Academy female student Folk Band Club outfit set for 7 days.,Usable for 7 days,2,2,20007
+154,PD220320,Folk Band Club Outfit,You can use the Yoizuki Academy female student Folk Band Club outfit set for 30 days.,Usable for 30 days,2,2,20030
+155,PD220320,Yoizuki Academy Female Student F,You can use the Yoizuki Academy female student Folk Band Club outfit set for 3 months.,Usable for 3 months,2,2,20090
+156,PD220320,Yoizuki Academy Female Student F,You can use the Yoizuki Academy female student Folk Band Club outfit set for 6 months.,Usable for 6 months,2,2,20180
+157,PD220320,Yoizuki Academy Female Student F,You can use the Yoizuki Academy female student Folk Band Club outfit set for 1 year.,Usable for 1 year,2,2,20365
+158,PD007000,EXP Up 1 Day,"For 1 day, gained EXP increases.",Hear one thing and understand ten!,0,0,20001
+159,PD007000,EXP Up 3 Days,"For 3 days, gained EXP increases.",Hear one thing and understand ten!,0,0,20003
+160,PD007000,EXP Up 7 Days,"For 7 days, gained EXP increases.",Hear one thing and understand ten!,0,0,20007
+161,PD007000,EXP Up 30 Days,"For 30 days, gained EXP increases.",Hear one thing and understand ten!,0,0,20030
+162,PD007000,EXP Increase 3-Month Pass,"For 3 months, gained EXP increases.",Hear one thing and understand ten!,0,0,20090
+163,PD007000,EXP Increase 6-Month Pass,"For 6 months, gained EXP increases.",Hear one thing and understand ten!,0,0,20180
+164,PD007000,EXP Increase 1-Year Pass,"For 1 year, gained EXP increases.",Hear one thing and understand ten!,0,0,20365
+165,PD007100,Damage Up 1 Day,"For 1 day, attack damage increases.",Attack is the best defense!,0,0,20001
+166,PD007100,Damage Up 3 Days,"For 3 days, attack damage increases.",Attack is the best defense!,0,0,20003
+167,PD007100,Damage Up 7 Days,"For 7 days, attack damage increases.",Attack is the best defense!,0,0,20007
+168,PD007100,Damage Up 30 Days,"For 30 days, attack damage increases.",Attack is the best defense!,0,0,20030
+169,PD007100,Attack Damage Increase 3-Month P,"For 3 months, attack damage increases.",Attack is the best defense!,0,0,20090
+170,PD007100,Attack Damage Increase 6-Month P,"For 6 months, attack damage increases.",Attack is the best defense!,0,0,20180
+171,PD007100,Attack Damage Increase 1-Year Pa,"For 1 year, attack damage increases.",Attack is the best defense!,0,0,20365
+172,PD007200,Defense Up 1 Day,"For 1 day, damage taken decreases.",The one still standing at the end is the winner!,0,0,20001
+173,PD007200,Defense Up 3 Days,"For 3 days, damage taken decreases.",The one still standing at the end is the winner!,0,0,20003
+174,PD007200,Defense Up 7 Days,"For 7 days, damage taken decreases.",The one still standing at the end is the winner!,0,0,20007
+175,PD007200,Defense Up 30 Days,"For 30 days, damage taken decreases.",The one still standing at the end is the winner!,0,0,20030
+176,PD007200,Damage Taken Reduction 3-Month P,"For 3 months, damage taken decreases.",The one still standing at the end is the true winner!,0,0,20090
+177,PD007200,Damage Taken Reduction 6-Month P,"For 6 months, damage taken decreases.",The one still standing at the end is the true winner!,0,0,20180
+178,PD007200,Damage Taken Reduction 1-Year Pa,"For 1 year, damage taken decreases.",The one still standing at the end is the true winner!,0,0,20365
+179,PD007300,Hit Up 1 Day,"For 1 day, accuracy increases.",Say goodbye to misses!,0,0,20001
+180,PD007300,Hit Up 3 Days,"For 3 days, accuracy increases.",Say goodbye to misses!,0,0,20003
+181,PD007300,Hit Up 7 Days,"For 7 days, accuracy increases.",Say goodbye to misses!,0,0,20007
+182,PD007300,Hit Up 30 Days,"For 30 days, accuracy increases.",Say goodbye to misses!,0,0,20030
+183,PD007300,Accuracy Increase 3-Month Pass,"For 3 months, accuracy increases.",Say goodbye to misses!,0,0,20090
+184,PD007300,Accuracy Increase 6-Month Pass,"For 6 months, accuracy increases.",Say goodbye to misses!,0,0,20180
+185,PD007300,Accuracy Increase 1-Year Pass,"For 1 year, accuracy increases.",Say goodbye to misses!,0,0,20365
+186,PD007400,Free Up 1 Day,"For 1 day, evasion increases.",Dodge it and stay unharmed!,0,0,20001
+187,PD007400,Free Up 3 Days,"For 3 days, evasion increases.",Dodge it and stay unharmed!,0,0,20003
+188,PD007400,Free Up 7 Days,"For 7 days, evasion increases.",Dodge it and stay unharmed!,0,0,20007
+189,PD007400,Free Up 30 Days,"For 30 days, evasion increases.",Dodge it and stay unharmed!,0,0,20030
+190,PD007400,Evasion Increase 3-Month Pass,"For 3 months, evasion increases.",Dodge it and stay unharmed!,0,0,20090
+191,PD007400,Evasion Increase 6-Month Pass,"For 6 months, evasion increases.",Dodge it and stay unharmed!,0,0,20180
+192,PD007400,Evasion Increase 1-Year Pass,"For 1 year, evasion increases.",Dodge it and stay unharmed!,0,0,20365
+193,PD007500,Critical Up 1 Day,"For 1 day, critical rate increases.",One-hit kill!,0,0,20001
+194,PD007500,Critical Up 3 Days,"For 3 days, critical rate increases.",One-hit kill!,0,0,20003
+195,PD007500,Critical Up 7 Days,"For 7 days, critical rate increases.",One-hit kill!,0,0,20007
+196,PD007500,Critical Up 30 Days,"For 30 days, critical rate increases.",One-hit kill!,0,0,20030
+197,PD007500,Critical Increase 3-Month Pass,"For 3 months, critical rate increases.",One-hit kill!,0,0,20090
+198,PD007500,Critical Increase 6-Month Pass,"For 6 months, critical rate increases.",One-hit kill!,0,0,20180
+199,PD007500,Critical Increase 1-Year Pass,"For 1 year, critical rate increases.",One-hit kill!,0,0,20365
+200,PD003101,Year 1 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, using this instead of a guidebook increases the success rate by 70% of the base value (if the base is 50%, it becomes 85%).",Make your favorite weapon even stronger!,0,0,0
+201,PD003102,Year 2 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, using this instead of a guidebook increases the success rate by 70% of the base value (if the base is 50%, it becomes 85%).",Make your favorite weapon even stronger!,0,0,0
+202,PD003103,Year 3 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, using this instead of a guidebook increases the success rate by 70% of the base value (if the base is 50%, it becomes 85%).",Make your favorite weapon even stronger!,0,0,0
+203,PD003104,Year 4 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, using this instead of a guidebook increases the success rate by 70% of the base value (if the base is 50%, it becomes 85%).",Make your favorite weapon even stronger!,0,0,0
+204,PD003105,Year 5 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, using this instead of a guidebook increases the success rate by 70% of the base value (if the base is 50%, it becomes 85%).",Make your favorite weapon even stronger!,0,0,0
+205,PD000101,Mezzo-Forte Set,"A set containing a Locker Usage Pass, Placard, and EXP Up 7 Days.",Convenience Set,0,0,0
+206,PD000102,Forte Set,"A set containing Locker Usage Pass ×2, Name Tag, Placard, Memory Chip, and EXP Up 7 Days ×2.",More Convenient Set,0,0,0
+207,PD000103,Fortissimo Set,"A set containing Locker Usage Pass ×3, Name Tag, Name Tag Backing Set, Placard, Memory Chip, Freely Change Title, Secret Lock, and EXP Up 30 Days.",Very Convenient Set,0,0,0
+208,PD000104,Beginner Adagio Set,"A set containing a Locker Usage Pass, Name Tag, Name Tag Backing Set, EXP Up 3 Days, and Defense Up 3 Days.",Beginner Set,0,0,0
+209,PD000105,Allegro Set,"A set containing Damage Up 7 Days, Defense Up 7 Days, and Critical Up 7 Days.",Training Set,0,0,0
+210,PD000106,Moderato Set,"A set containing Hit Up 7 Days, Free Up 7 Days, and EXP Up 7 Days.",Fulfillment Set,0,0,0
+211,PD110220,Robotics Research Club Uniform,You can use the Estiva Academy male student Robotics Research Club uniform set for 30 days.,Usable for 30 days,1,1,20030
+212,PD120220,Robotics Research Club Uniform,You can use the Estiva Academy female student Robotics Research Club uniform set for 30 days.,Usable for 30 days,2,1,20030
+213,PD210290,Archaeology Research Club Unifor,You can use the Yoizuki Academy male student Archaeology Research Club uniform set for 30 days.,Usable for 30 days,1,2,20030
+214,PD220290,Archaeology Research Club Unifor,You can use the Yoizuki Academy female student Archaeology Research Club uniform set for 30 days.,Usable for 30 days,2,2,20030
+215,PD110240,Tea Time Club Uniform,You can use the Estiva Academy male student Tea Time Club uniform set for 30 days.,Usable for 30 days,1,1,20030
+216,PD120240,Tea Time Club Uniform,You can use the Estiva Academy female student Tea Time Club uniform set for 30 days.,Usable for 30 days,2,1,20030
+217,PD210240,Yum Cha Club Uniform,You can use the Yoizuki Academy male student Yum Cha Club uniform set for 30 days.,Usable for 30 days,1,2,20030
+218,PD220240,Yum Cha Club Uniform,You can use the Yoizuki Academy female student Yum Cha Club uniform set for 30 days.,Usable for 30 days,2,2,20030
+219,PD000107,Allegrissimo Set,"A set containing Damage Up 30 Days, Defense Up 30 Days, and Critical Up 30 Days.",Daily Training Set,0,0,0
+220,PD000108,Vivace Set,"A set containing Hit Up 30 Days, Free Up 30 Days, and EXP Up 30 Days.",Daily Fulfillment Set,0,0,0
+221,PD003111,Year 1 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with an unenhanced version of the weapon.",It also includes a special clause!,0,0,0
+222,PD003112,Year 2 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with an unenhanced version of the weapon.",It also includes a special clause!,0,0,0
+223,PD003113,Year 3 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with an unenhanced version of the weapon.",It also includes a special clause!,0,0,0
+224,PD003114,Year 4 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with an unenhanced version of the weapon.",It also includes a special clause!,0,0,0
+225,PD003115,Year 5 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with an unenhanced version of the weapon.",It also includes a special clause!,0,0,0
+226,PD003111,Year 1 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with the weapon in the state it was in before the enhancement attempt.",Cannot be sold!,0,0,0
+227,PD003112,Year 2 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with the weapon in the state it was in before the enhancement attempt.",Cannot be sold!,0,0,0
+228,PD003113,Year 3 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with the weapon in the state it was in before the enhancement attempt.",Cannot be sold!,0,0,0
+229,PD003114,Year 4 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with the weapon in the state it was in before the enhancement attempt.",Cannot be sold!,0,0,0
+230,PD003115,Year 5 Enhancement Insurance Cer,"When enhancing a weapon to +4 or higher, the success rate increases by 70% of the base value, and even if it fails, you are compensated with the weapon in the state it was in before the enhancement attempt.",Cannot be sold!,0,0,0
+231,PD010090,Soccer Support Headband,Male students can use the soccer supporter headband for 1 day.,Limited-time uniform!,1,0,20001
+232,PD010090,Soccer Support Headband,Male students can use the soccer supporter headband for 3 days.,Limited-time uniform!,1,0,20003
+233,PD010090,Soccer Support Headband,Male students can use the soccer supporter headband for 7 days.,Limited-time uniform!,1,0,20007
+234,PD010090,Soccer Support Headband,Male students can use the soccer supporter headband for 30 days.,Limited-time uniform!,1,0,20030
+235,PD010090,Soccer Support Headband,Male students can use the soccer supporter headband for 3 months.,Limited-time uniform!,1,0,20090
+236,PD010090,Soccer Support Headband,Male students can use the soccer supporter headband for 6 months.,Limited-time uniform!,1,0,20180
+237,PD010090,Soccer Support Headband,Male students can use the soccer supporter headband for 1 year.,Limited-time uniform!,1,0,20365
+238,PD010091,Soccer Support Tank Top,Male students can use the soccer supporter tank top for 1 day.,Limited-time uniform!,1,0,20001
+239,PD010091,Soccer Support Tank Top,Male students can use the soccer supporter tank top for 3 days.,Limited-time uniform!,1,0,20003
+240,PD010091,Soccer Support Tank Top,Male students can use the soccer supporter tank top for 7 days.,Limited-time uniform!,1,0,20007
+241,PD010091,Soccer Support Tank Top,Male students can use the soccer supporter tank top for 30 days.,Limited-time uniform!,1,0,20030
+242,PD010091,Soccer Support Tank Top,Male students can use the soccer supporter tank top for 3 months.,Limited-time uniform!,1,0,20090
+243,PD010091,Soccer Support Tank Top,Male students can use the soccer supporter tank top for 6 months.,Limited-time uniform!,1,0,20180
+244,PD010091,Soccer Support Tank Top,Male students can use the soccer supporter tank top for 1 year.,Limited-time uniform!,1,0,20365
+245,PD010092,Soccer Support Pants,Male students can use the soccer supporter pants for 1 day.,Limited-time uniform!,1,0,20001
+246,PD010092,Soccer Support Pants,Male students can use the soccer supporter pants for 3 days.,Limited-time uniform!,1,0,20003
+247,PD010092,Soccer Support Pants,Male students can use the soccer supporter pants for 7 days.,Limited-time uniform!,1,0,20007
+248,PD010092,Soccer Support Pants,Male students can use the soccer supporter pants for 30 days.,Limited-time uniform!,1,0,20030
+249,PD010092,Soccer Support Pants,Male students can use the soccer supporter pants for 3 months.,Limited-time uniform!,1,0,20090
+250,PD010092,Soccer Support Pants,Male students can use the soccer supporter pants for 6 months.,Limited-time uniform!,1,0,20180
+251,PD010092,Soccer Support Pants,Male students can use the soccer supporter pants for 1 year.,Limited-time uniform!,1,0,20365
+252,PD010093,Soccer Support Shoes,Male students can use the soccer supporter shoes for 1 day.,Limited-time uniform!,1,0,20001
+253,PD010093,Soccer Support Shoes,Male students can use the soccer supporter shoes for 3 days.,Limited-time uniform!,1,0,20003
+254,PD010093,Soccer Support Shoes,Male students can use the soccer supporter shoes for 7 days.,Limited-time uniform!,1,0,20007
+255,PD010093,Soccer Support Shoes,Male students can use the soccer supporter shoes for 30 days.,Limited-time uniform!,1,0,20030
+256,PD010093,Soccer Support Shoes,Male students can use the soccer supporter shoes for 3 months.,Limited-time uniform!,1,0,20090
+257,PD010093,Soccer Support Shoes,Male students can use the soccer supporter shoes for 6 months.,Limited-time uniform!,1,0,20180
+258,PD010093,Soccer Support Shoes,Male students can use the soccer supporter shoes for 1 year.,Limited-time uniform!,1,0,20365
+259,PD020090,Soccer Support Headband,Female students can use the soccer supporter headband for 1 day.,Limited-time uniform!,2,0,20001
+260,PD020090,Soccer Support Headband,Female students can use the soccer supporter headband for 3 days.,Limited-time uniform!,2,0,20003
+261,PD020090,Soccer Support Headband,Female students can use the soccer supporter headband for 7 days.,Limited-time uniform!,2,0,20007
+262,PD020090,Soccer Support Headband,Female students can use the soccer supporter headband for 30 days.,Limited-time uniform!,2,0,20030
+263,PD020090,Soccer Support Headband,Female students can use the soccer supporter headband for 3 months.,Limited-time uniform!,2,0,20090
+264,PD020090,Soccer Support Headband,Female students can use the soccer supporter headband for 6 months.,Limited-time uniform!,2,0,20180
+265,PD020090,Soccer Support Headband,Female students can use the soccer supporter headband for 1 year.,Limited-time uniform!,2,0,20365
+266,PD020091,Soccer Support Tube Top,Female students can use the soccer supporter bandeau top for 1 day.,Limited-time uniform!,2,0,20001
+267,PD020091,Soccer Support Tube Top,Female students can use the soccer supporter bandeau top for 3 days.,Limited-time uniform!,2,0,20003
+268,PD020091,Soccer Support Tube Top,Female students can use the soccer supporter bandeau top for 7 days.,Limited-time uniform!,2,0,20007
+269,PD020091,Soccer Support Tube Top,Female students can use the soccer supporter bandeau top for 30 days.,Limited-time uniform!,2,0,20030
+270,PD020091,Soccer Support Tube Top,Female students can use the soccer supporter bandeau top for 3 months.,Limited-time uniform!,2,0,20090
+271,PD020091,Soccer Support Tube Top,Female students can use the soccer supporter bandeau top for 6 months.,Limited-time uniform!,2,0,20180
+272,PD020091,Soccer Support Tube Top,Female students can use the soccer supporter bandeau top for 1 year.,Limited-time uniform!,2,0,20365
+273,PD020092,Soccer Support Pants,Female students can use the soccer supporter pants for 1 day.,Limited-time uniform!,2,0,20001
+274,PD020092,Soccer Support Pants,Female students can use the soccer supporter pants for 3 days.,Limited-time uniform!,2,0,20003
+275,PD020092,Soccer Support Pants,Female students can use the soccer supporter pants for 7 days.,Limited-time uniform!,2,0,20007
+276,PD020092,Soccer Support Pants,Female students can use the soccer supporter pants for 30 days.,Limited-time uniform!,2,0,20030
+277,PD020092,Soccer Support Pants,Female students can use the soccer supporter pants for 3 months.,Limited-time uniform!,2,0,20090
+278,PD020092,Soccer Support Pants,Female students can use the soccer supporter pants for 6 months.,Limited-time uniform!,2,0,20180
+279,PD020092,Soccer Support Pants,Female students can use the soccer supporter pants for 1 year.,Limited-time uniform!,2,0,20365
+280,PD020093,Soccer Support Boots,Female students can use the soccer supporter boots for 1 day.,Limited-time uniform!,2,0,20001
+281,PD020093,Soccer Support Boots,Female students can use the soccer supporter boots for 3 days.,Limited-time uniform!,2,0,20003
+282,PD020093,Soccer Support Boots,Female students can use the soccer supporter boots for 7 days.,Limited-time uniform!,2,0,20007
+283,PD020093,Soccer Support Boots,Female students can use the soccer supporter boots for 30 days.,Limited-time uniform!,2,0,20030
+284,PD020093,Soccer Support Boots,Female students can use the soccer supporter boots for 3 months.,Limited-time uniform!,2,0,20090
+285,PD020093,Soccer Support Boots,Female students can use the soccer supporter boots for 6 months.,Limited-time uniform!,2,0,20180
+286,PD020093,Soccer Support Boots,Female students can use the soccer supporter boots for 1 year.,Limited-time uniform!,2,0,20365
+287,PD010121,Soccer Uniform,Male students can use the soccer uniform for 1 day.,Limited-time uniform!,1,0,20001
+288,PD010121,Soccer Uniform,Male students can use the soccer uniform for 3 days.,Limited-time uniform!,1,0,20003
+289,PD010121,Soccer Uniform,Male students can use the soccer uniform for 7 days.,Limited-time uniform!,1,0,20007
+290,PD010121,Soccer Uniform,Male students can use the soccer uniform for 30 days.,Limited-time uniform!,1,0,20030
+291,PD010121,Soccer Uniform,Male students can use the soccer uniform for 3 months.,Limited-time uniform!,1,0,20090
+292,PD010121,Soccer Uniform,Male students can use the soccer uniform for 6 months.,Limited-time uniform!,1,0,20180
+293,PD010121,Soccer Uniform,Male students can use the soccer uniform for 1 year.,Limited-time uniform!,1,0,20365
+294,PD010122,Soccer Shorts,Male students can use the soccer shorts for 1 day.,Limited-time uniform!,1,0,20001
+295,PD010122,Soccer Shorts,Male students can use the soccer shorts for 3 days.,Limited-time uniform!,1,0,20003
+296,PD010122,Soccer Shorts,Male students can use the soccer shorts for 7 days.,Limited-time uniform!,1,0,20007
+297,PD010122,Soccer Shorts,Male students can use the soccer shorts for 30 days.,Limited-time uniform!,1,0,20030
+298,PD010122,Soccer Shorts,Male students can use the soccer shorts for 3 months.,Limited-time uniform!,1,0,20090
+299,PD010122,Soccer Shorts,Male students can use the soccer shorts for 6 months.,Limited-time uniform!,1,0,20180
+300,PD010122,Soccer Shorts,Male students can use the soccer shorts for 1 year.,Limited-time uniform!,1,0,20365
+301,PD010123,Soccer Shoes,Male students can use the soccer shoes for 1 day.,Limited-time uniform!,1,0,20001
+302,PD010123,Soccer Shoes,Male students can use the soccer shoes for 3 days.,Limited-time uniform!,1,0,20003
+303,PD010123,Soccer Shoes,Male students can use the soccer shoes for 7 days.,Limited-time uniform!,1,0,20007
+304,PD010123,Soccer Shoes,Male students can use the soccer shoes for 30 days.,Limited-time uniform!,1,0,20030
+305,PD010123,Soccer Shoes,Male students can use the soccer shoes for 3 months.,Limited-time uniform!,1,0,20090
+306,PD010123,Soccer Shoes,Male students can use the soccer shoes for 6 months.,Limited-time uniform!,1,0,20180
+307,PD010123,Soccer Shoes,Male students can use the soccer shoes for 1 year.,Limited-time uniform!,1,0,20365
+308,PD020121,Soccer Uniform,Female students can use the soccer uniform for 1 day.,Limited-time uniform!,2,0,20001
+309,PD020121,Soccer Uniform,Female students can use the soccer uniform for 3 days.,Limited-time uniform!,2,0,20003
+310,PD020121,Soccer Uniform,Female students can use the soccer uniform for 7 days.,Limited-time uniform!,2,0,20007
+311,PD020121,Soccer Uniform,Female students can use the soccer uniform for 30 days.,Limited-time uniform!,2,0,20030
+312,PD020121,Soccer Uniform,Female students can use the soccer uniform for 3 months.,Limited-time uniform!,2,0,20090
+313,PD020121,Soccer Uniform,Female students can use the soccer uniform for 6 months.,Limited-time uniform!,2,0,20180
+314,PD020121,Soccer Uniform,Female students can use the soccer uniform for 1 year.,Limited-time uniform!,2,0,20365
+315,PD020122,Soccer Shorts,Female students can use the soccer shorts for 1 day.,Limited-time uniform!,2,0,20001
+316,PD020122,Soccer Shorts,Female students can use the soccer shorts for 3 days.,Limited-time uniform!,2,0,20003
+317,PD020122,Soccer Shorts,Female students can use the soccer shorts for 7 days.,Limited-time uniform!,2,0,20007
+318,PD020122,Soccer Shorts,Female students can use the soccer shorts for 30 days.,Limited-time uniform!,2,0,20030
+319,PD020122,Soccer Shorts,Female students can use the soccer shorts for 3 months.,Limited-time uniform!,2,0,20090
+320,PD020122,Soccer Shorts,Female students can use the soccer shorts for 6 months.,Limited-time uniform!,2,0,20180
+321,PD020122,Soccer Shorts,Female students can use the soccer shorts for 1 year.,Limited-time uniform!,2,0,20365
+322,PD020123,Soccer Shoes,Female students can use the soccer shoes for 1 day.,Limited-time uniform!,2,0,20001
+323,PD020123,Soccer Shoes,Female students can use the soccer shoes for 3 days.,Limited-time uniform!,2,0,20003
+324,PD020123,Soccer Shoes,Female students can use the soccer shoes for 7 days.,Limited-time uniform!,2,0,20007
+325,PD020123,Soccer Shoes,Female students can use the soccer shoes for 30 days.,Limited-time uniform!,2,0,20030
+326,PD020123,Soccer Shoes,Female students can use the soccer shoes for 3 months.,Limited-time uniform!,2,0,20090
+327,PD020123,Soccer Shoes,Female students can use the soccer shoes for 6 months.,Limited-time uniform!,2,0,20180
+328,PD020123,Soccer Shoes,Female students can use the soccer shoes for 1 year.,Limited-time uniform!,2,0,20365
+329,PD010121,Soccer Uniform,Male students can use the soccer uniform set for 30 days.,Limited-time uniform!,1,0,20030
+330,PD020121,Soccer Uniform,Female students can use the soccer uniform set for 30 days.,Limited-time uniform!,2,0,20030
+331,PD000103,Men's Fortissimo Set,"A set containing Locker Usage Pass ×3, Name Tag, Name Tag Backing Set, Placard, Memory Chip, Freely Change Title, Secret Lock, and EXP Up 30 Days.",Includes limited-time bonuses!,1,0,20030
+332,PD000103,Women's Fortissimo Set,"A set containing Locker Usage Pass ×3, Name Tag, Name Tag Backing Set, Placard, Memory Chip, Freely Change Title, Secret Lock, and EXP Up 30 Days.",Includes limited-time bonuses!,2,0,20030
+333,PD000107,Men's Allegrissimo Set,"A set containing Damage Up 30 Days, Defense Up 30 Days, and Critical Up 30 Days.",Includes limited-time bonuses!,1,0,20030
+334,PD000107,Women's Allegrissimo Set,"A set containing Damage Up 30 Days, Defense Up 30 Days, and Critical Up 30 Days.",Includes limited-time bonuses!,2,0,20030
+335,PD000108,Men's Vivace Set,"A set containing Hit Up 30 Days, Free Up 30 Days, and EXP Up 30 Days.",Includes limited-time bonuses!,1,0,20030
+336,PD000108,Women's Vivace Set,"A set containing Hit Up 30 Days, Free Up 30 Days, and EXP Up 30 Days.",Includes limited-time bonuses!,2,0,20030
+337,PD003101,Year 1 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, the success rate increases by at least 70% of the base value (if the base is 50%, it becomes 85% or higher). Especially effective at +7 or higher!",Further success rate increase!,0,0,0
+338,PD003102,Year 2 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, the success rate increases by at least 70% of the base value (if the base is 50%, it becomes 85% or higher). Especially effective at +7 or higher!",Further success rate increase!,0,0,0
+339,PD003103,Year 3 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, the success rate increases by at least 70% of the base value (if the base is 50%, it becomes 85% or higher). Especially effective at +7 or higher!",Further success rate increase!,0,0,0
+340,PD003104,Year 4 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, the success rate increases by at least 70% of the base value (if the base is 50%, it becomes 85% or higher). Especially effective at +7 or higher!",Further success rate increase!,0,0,0
+341,PD003105,Year 5 Enhancement Encyclopedia,"When enhancing a weapon to +4 or higher, the success rate increases by at least 70% of the base value (if the base is 50%, it becomes 85% or higher). Especially effective at +7 or higher!",Further success rate increase!,0,0,0
+342,PD110260,Gambling Club Uniform,You can use the Estiva Academy male student gambling club uniform set for 30 days.,Usable for 30 days,1,1,20030
+343,PD120260,Gambling Club Uniform,You can use the Estiva Academy female student gambling club uniform set for 30 days.,Usable for 30 days,2,1,20030
+344,PD210190,Ninja Club Uniform,You can use the Yoizuki Academy male student ninja club uniform set for 30 days.,Usable for 30 days,1,2,20030
+345,PD220190,Ninja Club Uniform,You can use the Yoizuki Academy female student ninja club uniform set for 30 days.,Usable for 30 days,2,2,20030
+401,PD310170,Rainbow Swimsuit,Male students can use the rainbow swimsuit for 30 days.,Usable for 1 day,1,0,20001
+402,PD310170,Rainbow Swimsuit,Male students can use the rainbow swimsuit for 30 days.,Usable for 3 days,1,0,20003
+403,PD310170,Rainbow Swimsuit,Male students can use the rainbow swimsuit for 30 days.,Usable for 7 days,1,0,20007
+404,PD310170,Rainbow Swimsuit,Male students can use the rainbow swimsuit for 30 days.,Usable for 30 days,1,0,20030
+405,PD310170,Rainbow Swimsuit,Male students can use the rainbow swimsuit for 30 days.,Usable for 90 days,1,0,20090
+406,PD310170,Rainbow Swimsuit,Male students can use the rainbow swimsuit for 30 days.,Usable for 180 days,1,0,20180
+407,PD310170,Rainbow Swimsuit,Male students can use the rainbow swimsuit for 30 days.,Usable for 365 days,1,0,20365
+408,PD320170,White School Swimsuit,Female students can use the white school swimsuit for 30 days.,Usable for 1 day,2,0,20001
+409,PD320170,White School Swimsuit,Female students can use the white school swimsuit for 30 days.,Usable for 3 days,2,0,20003
+410,PD320170,White School Swimsuit,Female students can use the white school swimsuit for 30 days.,Usable for 7 days,2,0,20007
+411,PD320170,White School Swimsuit,Female students can use the white school swimsuit for 30 days.,Usable for 30 days,2,0,20030
+412,PD320170,White School Swimsuit,Female students can use the white school swimsuit for 30 days.,Usable for 90 days,2,0,20090
+413,PD320170,White School Swimsuit,Female students can use the white school swimsuit for 30 days.,Usable for 180 days,2,0,20180
+414,PD320170,White School Swimsuit,Female students can use the white school swimsuit for 30 days.,Usable for 365 days,2,0,20365
+415,PD110341,Chorus Suit,Estiva Academy Chorus Club suit for male students.,Usable for 1 day,1,1,20001
+416,PD110341,Chorus Suit,Estiva Academy Chorus Club suit for male students.,Usable for 3 days,1,1,20003
+417,PD110341,Chorus Suit,Estiva Academy Chorus Club suit for male students.,Usable for 7 days,1,1,20007
+418,PD110341,Chorus Suit,Estiva Academy Chorus Club suit for male students.,Usable for 30 days,1,1,20030
+419,PD110341,Chorus Suit,Estiva Academy Chorus Club suit for male students.,Usable for 90 days,1,1,20090
+420,PD110341,Chorus Suit,Estiva Academy Chorus Club suit for male students.,Usable for 180 days,1,1,20180
+421,PD110341,Chorus Suit,Estiva Academy Chorus Club suit for male students.,Usable for 365 days,1,1,20365
+422,PD110342,Chorus Pants,Estiva Academy Chorus Club pants for male students.,Usable for 1 day,1,1,20001
+423,PD110342,Chorus Pants,Estiva Academy Chorus Club pants for male students.,Usable for 3 days,1,1,20003
+424,PD110342,Chorus Pants,Estiva Academy Chorus Club pants for male students.,Usable for 7 days,1,1,20007
+425,PD110342,Chorus Pants,Estiva Academy Chorus Club pants for male students.,Usable for 30 days,1,1,20030
+426,PD110342,Chorus Pants,Estiva Academy Chorus Club pants for male students.,Usable for 90 days,1,1,20090
+427,PD110342,Chorus Pants,Estiva Academy Chorus Club pants for male students.,Usable for 180 days,1,1,20180
+428,PD110342,Chorus Pants,Estiva Academy Chorus Club pants for male students.,Usable for 365 days,1,1,20365
+429,PD110343,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,Usable for 1 day,1,1,20001
+430,PD110343,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,Usable for 3 days,1,1,20003
+431,PD110343,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,Usable for 7 days,1,1,20007
+432,PD110343,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,Usable for 30 days,1,1,20030
+433,PD110343,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,Usable for 90 days,1,1,20090
+434,PD110343,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,Usable for 180 days,1,1,20180
+435,PD110343,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,Usable for 365 days,1,1,20365
+436,PD120341,Chorus Dress,Estiva Academy Chorus Club dress for female students.,Usable for 1 day,2,1,20001
+437,PD120341,Chorus Dress,Estiva Academy Chorus Club dress for female students.,Usable for 3 days,2,1,20003
+438,PD120341,Chorus Dress,Estiva Academy Chorus Club dress for female students.,Usable for 7 days,2,1,20007
+439,PD120341,Chorus Dress,Estiva Academy Chorus Club dress for female students.,Usable for 30 days,2,1,20030
+440,PD120341,Chorus Dress,Estiva Academy Chorus Club dress for female students.,Usable for 90 days,2,1,20090
+441,PD120341,Chorus Dress,Estiva Academy Chorus Club dress for female students.,Usable for 180 days,2,1,20180
+442,PD120341,Chorus Dress,Estiva Academy Chorus Club dress for female students.,Usable for 365 days,2,1,20365
+443,PD120342,Chorus Skirt,Estiva Academy Chorus Club skirt for female students.,Usable for 1 day,2,1,20001
+444,PD120342,Chorus Skirt,Estiva Academy Chorus Club skirt for female students.,Usable for 3 days,2,1,20003
+445,PD120342,Chorus Skirt,Estiva Academy Chorus Club skirt for female students.,Usable for 7 days,2,1,20007
+446,PD120342,Chorus Skirt,Estiva Academy Chorus Club skirt for female students.,Usable for 30 days,2,1,20030
+447,PD120342,Chorus Skirt,Estiva Academy Chorus Club skirt for female students.,Usable for 90 days,2,1,20090
+448,PD120342,Chorus Skirt,Estiva Academy Chorus Club skirt for female students.,Usable for 180 days,2,1,20180
+449,PD120342,Chorus Skirt,Estiva Academy Chorus Club skirt for female students.,Usable for 365 days,2,1,20365
+450,PD120343,Chorus Shoes,Estiva Academy Chorus Club shoes for female students.,Usable for 1 day,2,1,20001
+451,PD120343,Chorus Shoes,Estiva Academy Chorus Club shoes for female students.,Usable for 3 days,2,1,20003
+452,PD120343,Chorus Shoes,Estiva Academy Chorus Club shoes for female students.,Usable for 7 days,2,1,20007
+453,PD120343,Chorus Shoes,Estiva Academy Chorus Club shoes for female students.,Usable for 30 days,2,1,20030
+454,PD120343,Chorus Shoes,Estiva Academy Chorus Club shoes for female students.,Usable for 90 days,2,1,20090
+455,PD120343,Chorus Shoes,Estiva Academy Chorus Club shoes for female students.,Usable for 180 days,2,1,20180
+456,PD120343,Chorus Shoes,Estiva Academy Chorus Club shoes for female students.,Usable for 365 days,2,1,20365
+457,PD210341,Chorus Robe,Yoizuki Academy Chorus Club robe for male students.,Usable for 1 day,1,2,20001
+458,PD210341,Chorus Robe,Yoizuki Academy Chorus Club robe for male students.,Usable for 3 days,1,2,20003
+459,PD210341,Chorus Robe,Yoizuki Academy Chorus Club robe for male students.,Usable for 7 days,1,2,20007
+460,PD210341,Chorus Robe,Yoizuki Academy Chorus Club robe for male students.,Usable for 30 days,1,2,20030
+461,PD210341,Chorus Robe,Yoizuki Academy Chorus Club robe for male students.,Usable for 90 days,1,2,20090
+462,PD210341,Chorus Robe,Yoizuki Academy Chorus Club robe for male students.,Usable for 180 days,1,2,20180
+463,PD210341,Chorus Robe,Yoizuki Academy Chorus Club robe for male students.,Usable for 365 days,1,2,20365
+464,PD210342,Chorus Pants,Yoizuki Academy Chorus Club pants for male students.,Usable for 1 day,1,2,20001
+465,PD210342,Chorus Pants,Yoizuki Academy Chorus Club pants for male students.,Usable for 3 days,1,2,20003
+466,PD210342,Chorus Pants,Yoizuki Academy Chorus Club pants for male students.,Usable for 7 days,1,2,20007
+467,PD210342,Chorus Pants,Yoizuki Academy Chorus Club pants for male students.,Usable for 30 days,1,2,20030
+468,PD210342,Chorus Pants,Yoizuki Academy Chorus Club pants for male students.,Usable for 90 days,1,2,20090
+469,PD210342,Chorus Pants,Yoizuki Academy Chorus Club pants for male students.,Usable for 180 days,1,2,20180
+470,PD210342,Chorus Pants,Yoizuki Academy Chorus Club pants for male students.,Usable for 365 days,1,2,20365
+471,PD210343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for male students.,Usable for 1 day,1,2,20001
+472,PD210343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for male students.,Usable for 3 days,1,2,20003
+473,PD210343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for male students.,Usable for 7 days,1,2,20007
+474,PD210343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for male students.,Usable for 30 days,1,2,20030
+475,PD210343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for male students.,Usable for 90 days,1,2,20090
+476,PD210343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for male students.,Usable for 180 days,1,2,20180
+477,PD210343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for male students.,Usable for 365 days,1,2,20365
+478,PD220341,Chorus Robe,Yoizuki Academy Chorus Club robe for female students.,Usable for 1 day,2,2,20001
+479,PD220341,Chorus Robe,Yoizuki Academy Chorus Club robe for female students.,Usable for 3 days,2,2,20003
+480,PD220341,Chorus Robe,Yoizuki Academy Chorus Club robe for female students.,Usable for 7 days,2,2,20007
+481,PD220341,Chorus Robe,Yoizuki Academy Chorus Club robe for female students.,Usable for 30 days,2,2,20030
+482,PD220341,Chorus Robe,Yoizuki Academy Chorus Club robe for female students.,Usable for 90 days,2,2,20090
+483,PD220341,Chorus Robe,Yoizuki Academy Chorus Club robe for female students.,Usable for 180 days,2,2,20180
+484,PD220341,Chorus Robe,Yoizuki Academy Chorus Club robe for female students.,Usable for 365 days,2,2,20365
+485,PD220342,Chorus Skirt,Yoizuki Academy Chorus Club skirt for female students.,Usable for 1 day,2,2,20001
+486,PD220342,Chorus Skirt,Yoizuki Academy Chorus Club skirt for female students.,Usable for 3 days,2,2,20003
+487,PD220342,Chorus Skirt,Yoizuki Academy Chorus Club skirt for female students.,Usable for 7 days,2,2,20007
+488,PD220342,Chorus Skirt,Yoizuki Academy Chorus Club skirt for female students.,Usable for 30 days,2,2,20030
+489,PD220342,Chorus Skirt,Yoizuki Academy Chorus Club skirt for female students.,Usable for 90 days,2,2,20090
+490,PD220342,Chorus Skirt,Yoizuki Academy Chorus Club skirt for female students.,Usable for 180 days,2,2,20180
+491,PD220342,Chorus Skirt,Yoizuki Academy Chorus Club skirt for female students.,Usable for 365 days,2,2,20365
+492,PD220343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for female students.,Usable for 1 day,2,2,20001
+493,PD220343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for female students.,Usable for 3 days,2,2,20003
+494,PD220343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for female students.,Usable for 7 days,2,2,20007
+495,PD220343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for female students.,Usable for 30 days,2,2,20030
+496,PD220343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for female students.,Usable for 90 days,2,2,20090
+497,PD220343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for female students.,Usable for 180 days,2,2,20180
+498,PD220343,Chorus Shoes,Yoizuki Academy Chorus Club shoes for female students.,Usable for 365 days,2,2,20365
+499,PD310181,Cyber Suit,Male students can use the cyber suit for 30 days.,Usable for 1 day,1,0,20001
+500,PD310181,Cyber Suit,Male students can use the cyber suit for 30 days.,Usable for 3 days,1,0,20003
+501,PD310181,Cyber Suit,Male students can use the cyber suit for 30 days.,Usable for 7 days,1,0,20007
+502,PD310181,Cyber Suit,Male students can use the cyber suit for 30 days.,Usable for 30 days,1,0,20030
+503,PD310181,Cyber Suit,Male students can use the cyber suit for 30 days.,Usable for 90 days,1,0,20090
+504,PD310181,Cyber Suit,Male students can use the cyber suit for 30 days.,Usable for 180 days,1,0,20180
+505,PD310181,Cyber Suit,Male students can use the cyber suit for 30 days.,Usable for 365 days,1,0,20365
+506,PD310182,Cyber Gloves,Male students can use the cyber gloves for 30 days.,Usable for 1 day,1,0,20001
+507,PD310182,Cyber Gloves,Male students can use the cyber gloves for 30 days.,Usable for 3 days,1,0,20003
+508,PD310182,Cyber Gloves,Male students can use the cyber gloves for 30 days.,Usable for 7 days,1,0,20007
+509,PD310182,Cyber Gloves,Male students can use the cyber gloves for 30 days.,Usable for 30 days,1,0,20030
+510,PD310182,Cyber Gloves,Male students can use the cyber gloves for 30 days.,Usable for 90 days,1,0,20090
+511,PD310182,Cyber Gloves,Male students can use the cyber gloves for 30 days.,Usable for 180 days,1,0,20180
+512,PD310182,Cyber Gloves,Male students can use the cyber gloves for 30 days.,Usable for 365 days,1,0,20365
+513,PD310183,Cyber Boots,Male students can use the cyber boots for 30 days.,Usable for 1 day,1,0,20001
+514,PD310183,Cyber Boots,Male students can use the cyber boots for 30 days.,Usable for 3 days,1,0,20003
+515,PD310183,Cyber Boots,Male students can use the cyber boots for 30 days.,Usable for 7 days,1,0,20007
+516,PD310183,Cyber Boots,Male students can use the cyber boots for 30 days.,Usable for 30 days,1,0,20030
+517,PD310183,Cyber Boots,Male students can use the cyber boots for 30 days.,Usable for 90 days,1,0,20090
+518,PD310183,Cyber Boots,Male students can use the cyber boots for 30 days.,Usable for 180 days,1,0,20180
+519,PD310183,Cyber Boots,Male students can use the cyber boots for 30 days.,Usable for 365 days,1,0,20365
+520,PD310184,Cyber Headgear,Male students can use the cyber headgear for 30 days.,Usable for 1 day,1,0,20001
+521,PD310184,Cyber Headgear,Male students can use the cyber headgear for 30 days.,Usable for 3 days,1,0,20003
+522,PD310184,Cyber Headgear,Male students can use the cyber headgear for 30 days.,Usable for 7 days,1,0,20007
+523,PD310184,Cyber Headgear,Male students can use the cyber headgear for 30 days.,Usable for 30 days,1,0,20030
+524,PD310184,Cyber Headgear,Male students can use the cyber headgear for 30 days.,Usable for 90 days,1,0,20090
+525,PD310184,Cyber Headgear,Male students can use the cyber headgear for 30 days.,Usable for 180 days,1,0,20180
+526,PD310184,Cyber Headgear,Male students can use the cyber headgear for 30 days.,Usable for 365 days,1,0,20365
+527,PD320181,Cyber Suit,Female students can use the cyber suit for 30 days.,Usable for 1 day,2,0,20001
+528,PD320181,Cyber Suit,Female students can use the cyber suit for 30 days.,Usable for 3 days,2,0,20003
+529,PD320181,Cyber Suit,Female students can use the cyber suit for 30 days.,Usable for 7 days,2,0,20007
+530,PD320181,Cyber Suit,Female students can use the cyber suit for 30 days.,Usable for 30 days,2,0,20030
+531,PD320181,Cyber Suit,Female students can use the cyber suit for 30 days.,Usable for 90 days,2,0,20090
+532,PD320181,Cyber Suit,Female students can use the cyber suit for 30 days.,Usable for 180 days,2,0,20180
+533,PD320181,Cyber Suit,Female students can use the cyber suit for 30 days.,Usable for 365 days,2,0,20365
+534,PD320182,Cyber Gloves,Female students can use the cyber gloves for 30 days.,Usable for 1 day,2,0,20001
+535,PD320182,Cyber Gloves,Female students can use the cyber gloves for 30 days.,Usable for 3 days,2,0,20003
+536,PD320182,Cyber Gloves,Female students can use the cyber gloves for 30 days.,Usable for 7 days,2,0,20007
+537,PD320182,Cyber Gloves,Female students can use the cyber gloves for 30 days.,Usable for 30 days,2,0,20030
+538,PD320182,Cyber Gloves,Female students can use the cyber gloves for 30 days.,Usable for 90 days,2,0,20090
+539,PD320182,Cyber Gloves,Female students can use the cyber gloves for 30 days.,Usable for 180 days,2,0,20180
+540,PD320182,Cyber Gloves,Female students can use the cyber gloves for 30 days.,Usable for 365 days,2,0,20365
+541,PD320183,Cyber Boots,Female students can use the cyber boots for 30 days.,Usable for 1 day,2,0,20001
+542,PD320183,Cyber Boots,Female students can use the cyber boots for 30 days.,Usable for 3 days,2,0,20003
+543,PD320183,Cyber Boots,Female students can use the cyber boots for 30 days.,Usable for 7 days,2,0,20007
+544,PD320183,Cyber Boots,Female students can use the cyber boots for 30 days.,Usable for 30 days,2,0,20030
+545,PD320183,Cyber Boots,Female students can use the cyber boots for 30 days.,Usable for 90 days,2,0,20090
+546,PD320183,Cyber Boots,Female students can use the cyber boots for 30 days.,Usable for 180 days,2,0,20180
+547,PD320183,Cyber Boots,Female students can use the cyber boots for 30 days.,Usable for 365 days,2,0,20365
+548,PD320184,Cyber Headgear,Female students can use the cyber headgear for 30 days.,Usable for 1 day,2,0,20001
+549,PD320184,Cyber Headgear,Female students can use the cyber headgear for 30 days.,Usable for 3 days,2,0,20003
+550,PD320184,Cyber Headgear,Female students can use the cyber headgear for 30 days.,Usable for 7 days,2,0,20007
+551,PD320184,Cyber Headgear,Female students can use the cyber headgear for 30 days.,Usable for 30 days,2,0,20030
+552,PD320184,Cyber Headgear,Female students can use the cyber headgear for 30 days.,Usable for 90 days,2,0,20090
+553,PD320184,Cyber Headgear,Female students can use the cyber headgear for 30 days.,Usable for 180 days,2,0,20180
+554,PD320184,Cyber Headgear,Female students can use the cyber headgear for 30 days.,Usable for 365 days,2,0,20365
+555,PD310221,Male Film Uniform Consultation,Male students can use the male movie uniform top for 30 days.,Usable for 1 day,1,0,20001
+556,PD310221,Male Film Uniform Consultation,Male students can use the male movie uniform top for 30 days.,Usable for 3 days,1,0,20003
+557,PD310221,Male Film Uniform Consultation,Male students can use the male movie uniform top for 30 days.,Usable for 7 days,1,0,20007
+558,PD310221,Male Film Uniform Consultation,Male students can use the male movie uniform top for 30 days.,Usable for 30 days,1,0,20030
+559,PD310221,Male Film Uniform Consultation,Male students can use the male movie uniform top for 30 days.,Usable for 90 days,1,0,20090
+560,PD310221,Male Film Uniform Consultation,Male students can use the male movie uniform top for 30 days.,Usable for 180 days,1,0,20180
+561,PD310221,Male Film Uniform Consultation,Male students can use the male movie uniform top for 30 days.,Usable for 365 days,1,0,20365
+562,PD310222,Movie Uniform Bottom (Male),Male students can use the male movie uniform bottom for 30 days.,Usable for 1 day,1,0,20001
+563,PD310222,Movie Uniform Bottom (Male),Male students can use the male movie uniform bottom for 30 days.,Usable for 3 days,1,0,20003
+564,PD310222,Movie Uniform Bottom (Male),Male students can use the male movie uniform bottom for 30 days.,Usable for 7 days,1,0,20007
+565,PD310222,Movie Uniform Bottom (Male),Male students can use the male movie uniform bottom for 30 days.,Usable for 30 days,1,0,20030
+566,PD310222,Movie Uniform Bottom (Male),Male students can use the male movie uniform bottom for 30 days.,Usable for 90 days,1,0,20090
+567,PD310222,Movie Uniform Bottom (Male),Male students can use the male movie uniform bottom for 30 days.,Usable for 180 days,1,0,20180
+568,PD310222,Movie Uniform Bottom (Male),Male students can use the male movie uniform bottom for 30 days.,Usable for 365 days,1,0,20365
+569,PD310223,Movie Uniform Shoes (Male),Male students can use the male movie uniform footwear for 30 days.,Usable for 1 day,1,0,20001
+570,PD310223,Movie Uniform Shoes (Male),Male students can use the male movie uniform footwear for 30 days.,Usable for 3 days,1,0,20003
+571,PD310223,Movie Uniform Shoes (Male),Male students can use the male movie uniform footwear for 30 days.,Usable for 7 days,1,0,20007
+572,PD310223,Movie Uniform Shoes (Male),Male students can use the male movie uniform footwear for 30 days.,Usable for 30 days,1,0,20030
+573,PD310223,Movie Uniform Shoes (Male),Male students can use the male movie uniform footwear for 30 days.,Usable for 90 days,1,0,20090
+574,PD310223,Movie Uniform Shoes (Male),Male students can use the male movie uniform footwear for 30 days.,Usable for 180 days,1,0,20180
+575,PD310223,Movie Uniform Shoes (Male),Male students can use the male movie uniform footwear for 30 days.,Usable for 365 days,1,0,20365
+576,PD320221,Female Film Uniform Consultation,Female students can use the female movie uniform top for 30 days.,Usable for 1 day,2,0,20001
+577,PD320221,Female Film Uniform Consultation,Female students can use the female movie uniform top for 30 days.,Usable for 3 days,2,0,20003
+578,PD320221,Female Film Uniform Consultation,Female students can use the female movie uniform top for 30 days.,Usable for 7 days,2,0,20007
+579,PD320221,Female Film Uniform Consultation,Female students can use the female movie uniform top for 30 days.,Usable for 30 days,2,0,20030
+580,PD320221,Female Film Uniform Consultation,Female students can use the female movie uniform top for 30 days.,Usable for 90 days,2,0,20090
+581,PD320221,Female Film Uniform Consultation,Female students can use the female movie uniform top for 30 days.,Usable for 180 days,2,0,20180
+582,PD320221,Female Film Uniform Consultation,Female students can use the female movie uniform top for 30 days.,Usable for 365 days,2,0,20365
+583,PD320222,Movie Uniform Bottom (Female),Female students can use the female movie uniform bottom for 30 days.,Usable for 1 day,2,0,20001
+584,PD320222,Movie Uniform Bottom (Female),Female students can use the female movie uniform bottom for 30 days.,Usable for 3 days,2,0,20003
+585,PD320222,Movie Uniform Bottom (Female),Female students can use the female movie uniform bottom for 30 days.,Usable for 7 days,2,0,20007
+586,PD320222,Movie Uniform Bottom (Female),Female students can use the female movie uniform bottom for 30 days.,Usable for 30 days,2,0,20030
+587,PD320222,Movie Uniform Bottom (Female),Female students can use the female movie uniform bottom for 30 days.,Usable for 90 days,2,0,20090
+588,PD320222,Movie Uniform Bottom (Female),Female students can use the female movie uniform bottom for 30 days.,Usable for 180 days,2,0,20180
+589,PD320222,Movie Uniform Bottom (Female),Female students can use the female movie uniform bottom for 30 days.,Usable for 365 days,2,0,20365
+590,PD320223,Movie Uniform Shoes (Female),Female students can use the female movie uniform footwear for 30 days.,Usable for 1 day,2,0,20001
+591,PD320223,Movie Uniform Shoes (Female),Female students can use the female movie uniform footwear for 30 days.,Usable for 3 days,2,0,20003
+592,PD320223,Movie Uniform Shoes (Female),Female students can use the female movie uniform footwear for 30 days.,Usable for 7 days,2,0,20007
+593,PD320223,Movie Uniform Shoes (Female),Female students can use the female movie uniform footwear for 30 days.,Usable for 30 days,2,0,20030
+594,PD320223,Movie Uniform Shoes (Female),Female students can use the female movie uniform footwear for 30 days.,Usable for 90 days,2,0,20090
+595,PD320223,Movie Uniform Shoes (Female),Female students can use the female movie uniform footwear for 30 days.,Usable for 180 days,2,0,20180
+596,PD320223,Movie Uniform Shoes (Female),Female students can use the female movie uniform footwear for 30 days.,Usable for 365 days,2,0,20365
+597,PD310191,Orange Aloha Shirt,Male students can use the orange aloha shirt for 30 days.,Usable for 1 day,1,0,20001
+598,PD310191,Orange Aloha Shirt,Male students can use the orange aloha shirt for 30 days.,Usable for 3 days,1,0,20003
+599,PD310191,Orange Aloha Shirt,Male students can use the orange aloha shirt for 30 days.,Usable for 7 days,1,0,20007
+600,PD310191,Orange Aloha Shirt,Male students can use the orange aloha shirt for 30 days.,Usable for 30 days,1,0,20030
+601,PD310191,Orange Aloha Shirt,Male students can use the orange aloha shirt for 30 days.,Usable for 90 days,1,0,20090
+602,PD310191,Orange Aloha Shirt,Male students can use the orange aloha shirt for 30 days.,Usable for 180 days,1,0,20180
+603,PD310191,Orange Aloha Shirt,Male students can use the orange aloha shirt for 30 days.,Usable for 365 days,1,0,20365
+604,PD310192,Blue Cropped Pants,Male students can use the blue cropped pants for 30 days.,Usable for 1 day,1,0,20001
+605,PD310192,Blue Cropped Pants,Male students can use the blue cropped pants for 30 days.,Usable for 3 days,1,0,20003
+606,PD310192,Blue Cropped Pants,Male students can use the blue cropped pants for 30 days.,Usable for 7 days,1,0,20007
+607,PD310192,Blue Cropped Pants,Male students can use the blue cropped pants for 30 days.,Usable for 30 days,1,0,20030
+608,PD310192,Blue Cropped Pants,Male students can use the blue cropped pants for 30 days.,Usable for 90 days,1,0,20090
+609,PD310192,Blue Cropped Pants,Male students can use the blue cropped pants for 30 days.,Usable for 180 days,1,0,20180
+610,PD310192,Blue Cropped Pants,Male students can use the blue cropped pants for 30 days.,Usable for 365 days,1,0,20365
+611,PD310193,Brown Flip-Flops,Male students can use the brown beach sandals for 30 days.,Usable for 1 day,1,0,20001
+612,PD310193,Brown Flip-Flops,Male students can use the brown beach sandals for 30 days.,Usable for 3 days,1,0,20003
+613,PD310193,Brown Flip-Flops,Male students can use the brown beach sandals for 30 days.,Usable for 7 days,1,0,20007
+614,PD310193,Brown Flip-Flops,Male students can use the brown beach sandals for 30 days.,Usable for 30 days,1,0,20030
+615,PD310193,Brown Flip-Flops,Male students can use the brown beach sandals for 30 days.,Usable for 90 days,1,0,20090
+616,PD310193,Brown Flip-Flops,Male students can use the brown beach sandals for 30 days.,Usable for 180 days,1,0,20180
+617,PD310193,Brown Flip-Flops,Male students can use the brown beach sandals for 30 days.,Usable for 365 days,1,0,20365
+618,PD310194,Orange Sunglasses,Male students can use the orange sunglasses for 30 days.,Usable for 1 day,1,0,20001
+619,PD310194,Orange Sunglasses,Male students can use the orange sunglasses for 30 days.,Usable for 3 days,1,0,20003
+620,PD310194,Orange Sunglasses,Male students can use the orange sunglasses for 30 days.,Usable for 7 days,1,0,20007
+621,PD310194,Orange Sunglasses,Male students can use the orange sunglasses for 30 days.,Usable for 30 days,1,0,20030
+622,PD310194,Orange Sunglasses,Male students can use the orange sunglasses for 30 days.,Usable for 90 days,1,0,20090
+623,PD310194,Orange Sunglasses,Male students can use the orange sunglasses for 30 days.,Usable for 180 days,1,0,20180
+624,PD310194,Orange Sunglasses,Male students can use the orange sunglasses for 30 days.,Usable for 365 days,1,0,20365
+625,PD310201,Red Aloha Shirt,Male students can use the red aloha shirt for 30 days.,Usable for 1 day,1,0,20001
+626,PD310201,Red Aloha Shirt,Male students can use the red aloha shirt for 30 days.,Usable for 3 days,1,0,20003
+627,PD310201,Red Aloha Shirt,Male students can use the red aloha shirt for 30 days.,Usable for 7 days,1,0,20007
+628,PD310201,Red Aloha Shirt,Male students can use the red aloha shirt for 30 days.,Usable for 30 days,1,0,20030
+629,PD310201,Red Aloha Shirt,Male students can use the red aloha shirt for 30 days.,Usable for 90 days,1,0,20090
+630,PD310201,Red Aloha Shirt,Male students can use the red aloha shirt for 30 days.,Usable for 180 days,1,0,20180
+631,PD310201,Red Aloha Shirt,Male students can use the red aloha shirt for 30 days.,Usable for 365 days,1,0,20365
+632,PD310202,Green Cropped Pants,Male students can use the green cropped pants for 30 days.,Usable for 1 day,1,0,20001
+633,PD310202,Green Cropped Pants,Male students can use the green cropped pants for 30 days.,Usable for 3 days,1,0,20003
+634,PD310202,Green Cropped Pants,Male students can use the green cropped pants for 30 days.,Usable for 7 days,1,0,20007
+635,PD310202,Green Cropped Pants,Male students can use the green cropped pants for 30 days.,Usable for 30 days,1,0,20030
+636,PD310202,Green Cropped Pants,Male students can use the green cropped pants for 30 days.,Usable for 90 days,1,0,20090
+637,PD310202,Green Cropped Pants,Male students can use the green cropped pants for 30 days.,Usable for 180 days,1,0,20180
+638,PD310202,Green Cropped Pants,Male students can use the green cropped pants for 30 days.,Usable for 365 days,1,0,20365
+639,PD310203,Blue Flip-Flops,Male students can use the blue beach sandals for 30 days.,Usable for 1 day,1,0,20001
+640,PD310203,Blue Flip-Flops,Male students can use the blue beach sandals for 30 days.,Usable for 3 days,1,0,20003
+641,PD310203,Blue Flip-Flops,Male students can use the blue beach sandals for 30 days.,Usable for 7 days,1,0,20007
+642,PD310203,Blue Flip-Flops,Male students can use the blue beach sandals for 30 days.,Usable for 30 days,1,0,20030
+643,PD310203,Blue Flip-Flops,Male students can use the blue beach sandals for 30 days.,Usable for 90 days,1,0,20090
+644,PD310203,Blue Flip-Flops,Male students can use the blue beach sandals for 30 days.,Usable for 180 days,1,0,20180
+645,PD310203,Blue Flip-Flops,Male students can use the blue beach sandals for 30 days.,Usable for 365 days,1,0,20365
+646,PD310204,Blue Sunglasses,Male students can use the blue sunglasses for 30 days.,Usable for 1 day,1,0,20001
+647,PD310204,Blue Sunglasses,Male students can use the blue sunglasses for 30 days.,Usable for 3 days,1,0,20003
+648,PD310204,Blue Sunglasses,Male students can use the blue sunglasses for 30 days.,Usable for 7 days,1,0,20007
+649,PD310204,Blue Sunglasses,Male students can use the blue sunglasses for 30 days.,Usable for 30 days,1,0,20030
+650,PD310204,Blue Sunglasses,Male students can use the blue sunglasses for 30 days.,Usable for 90 days,1,0,20090
+651,PD310204,Blue Sunglasses,Male students can use the blue sunglasses for 30 days.,Usable for 180 days,1,0,20180
+652,PD310204,Blue Sunglasses,Male students can use the blue sunglasses for 30 days.,Usable for 365 days,1,0,20365
+653,PD310211,Blue Aloha Shirt,Male students can use the blue aloha shirt for 30 days.,Usable for 1 day,1,0,20001
+654,PD310211,Blue Aloha Shirt,Male students can use the blue aloha shirt for 30 days.,Usable for 3 days,1,0,20003
+655,PD310211,Blue Aloha Shirt,Male students can use the blue aloha shirt for 30 days.,Usable for 7 days,1,0,20007
+656,PD310211,Blue Aloha Shirt,Male students can use the blue aloha shirt for 30 days.,Usable for 30 days,1,0,20030
+657,PD310211,Blue Aloha Shirt,Male students can use the blue aloha shirt for 30 days.,Usable for 90 days,1,0,20090
+658,PD310211,Blue Aloha Shirt,Male students can use the blue aloha shirt for 30 days.,Usable for 180 days,1,0,20180
+659,PD310211,Blue Aloha Shirt,Male students can use the blue aloha shirt for 30 days.,Usable for 365 days,1,0,20365
+660,PD310212,Gray Cropped Pants,Male students can use the gray cropped pants for 30 days.,Usable for 1 day,1,0,20001
+661,PD310212,Gray Cropped Pants,Male students can use the gray cropped pants for 30 days.,Usable for 3 days,1,0,20003
+662,PD310212,Gray Cropped Pants,Male students can use the gray cropped pants for 30 days.,Usable for 7 days,1,0,20007
+663,PD310212,Gray Cropped Pants,Male students can use the gray cropped pants for 30 days.,Usable for 30 days,1,0,20030
+664,PD310212,Gray Cropped Pants,Male students can use the gray cropped pants for 30 days.,Usable for 90 days,1,0,20090
+665,PD310212,Gray Cropped Pants,Male students can use the gray cropped pants for 30 days.,Usable for 180 days,1,0,20180
+666,PD310212,Gray Cropped Pants,Male students can use the gray cropped pants for 30 days.,Usable for 365 days,1,0,20365
+667,PD310213,Red-Brown Flip-Flops,Male students can use the red-brown beach sandals for 30 days.,Usable for 1 day,1,0,20001
+668,PD310213,Red-Brown Flip-Flops,Male students can use the red-brown beach sandals for 30 days.,Usable for 3 days,1,0,20003
+669,PD310213,Red-Brown Flip-Flops,Male students can use the red-brown beach sandals for 30 days.,Usable for 7 days,1,0,20007
+670,PD310213,Red-Brown Flip-Flops,Male students can use the red-brown beach sandals for 30 days.,Usable for 30 days,1,0,20030
+671,PD310213,Red-Brown Flip-Flops,Male students can use the red-brown beach sandals for 30 days.,Usable for 90 days,1,0,20090
+672,PD310213,Red-Brown Flip-Flops,Male students can use the red-brown beach sandals for 30 days.,Usable for 180 days,1,0,20180
+673,PD310213,Red-Brown Flip-Flops,Male students can use the red-brown beach sandals for 30 days.,Usable for 365 days,1,0,20365
+674,PD310214,Red Sunglasses,Male students can use the red sunglasses for 30 days.,Usable for 1 day,1,0,20001
+675,PD310214,Red Sunglasses,Male students can use the red sunglasses for 30 days.,Usable for 3 days,1,0,20003
+676,PD310214,Red Sunglasses,Male students can use the red sunglasses for 30 days.,Usable for 7 days,1,0,20007
+677,PD310214,Red Sunglasses,Male students can use the red sunglasses for 30 days.,Usable for 30 days,1,0,20030
+678,PD310214,Red Sunglasses,Male students can use the red sunglasses for 30 days.,Usable for 90 days,1,0,20090
+679,PD310214,Red Sunglasses,Male students can use the red sunglasses for 30 days.,Usable for 180 days,1,0,20180
+680,PD310214,Red Sunglasses,Male students can use the red sunglasses for 30 days.,Usable for 365 days,1,0,20365
+681,PD320191,Orange Blouse,Female students can use the orange blouse for 30 days.,Usable for 1 day,2,0,20001
+682,PD320191,Orange Blouse,Female students can use the orange blouse for 30 days.,Usable for 3 days,2,0,20003
+683,PD320191,Orange Blouse,Female students can use the orange blouse for 30 days.,Usable for 7 days,2,0,20007
+684,PD320191,Orange Blouse,Female students can use the orange blouse for 30 days.,Usable for 30 days,2,0,20030
+685,PD320191,Orange Blouse,Female students can use the orange blouse for 30 days.,Usable for 90 days,2,0,20090
+686,PD320191,Orange Blouse,Female students can use the orange blouse for 30 days.,Usable for 180 days,2,0,20180
+687,PD320191,Orange Blouse,Female students can use the orange blouse for 30 days.,Usable for 365 days,2,0,20365
+688,PD320192,Blue Pareo,Female students can use the blue pareo for 30 days.,Usable for 1 day,2,0,20001
+689,PD320192,Blue Pareo,Female students can use the blue pareo for 30 days.,Usable for 3 days,2,0,20003
+690,PD320192,Blue Pareo,Female students can use the blue pareo for 30 days.,Usable for 7 days,2,0,20007
+691,PD320192,Blue Pareo,Female students can use the blue pareo for 30 days.,Usable for 30 days,2,0,20030
+692,PD320192,Blue Pareo,Female students can use the blue pareo for 30 days.,Usable for 90 days,2,0,20090
+693,PD320192,Blue Pareo,Female students can use the blue pareo for 30 days.,Usable for 180 days,2,0,20180
+694,PD320192,Blue Pareo,Female students can use the blue pareo for 30 days.,Usable for 365 days,2,0,20365
+695,PD320193,Blue Sandals,Female students can use the blue sandals for 30 days.,Usable for 1 day,2,0,20001
+696,PD320193,Blue Sandals,Female students can use the blue sandals for 30 days.,Usable for 3 days,2,0,20003
+697,PD320193,Blue Sandals,Female students can use the blue sandals for 30 days.,Usable for 7 days,2,0,20007
+698,PD320193,Blue Sandals,Female students can use the blue sandals for 30 days.,Usable for 30 days,2,0,20030
+699,PD320193,Blue Sandals,Female students can use the blue sandals for 30 days.,Usable for 90 days,2,0,20090
+700,PD320193,Blue Sandals,Female students can use the blue sandals for 30 days.,Usable for 180 days,2,0,20180
+701,PD320193,Blue Sandals,Female students can use the blue sandals for 30 days.,Usable for 365 days,2,0,20365
+702,PD320194,Yellow Straw Hat,Female students can use the yellow straw hat for 30 days.,Usable for 1 day,2,0,20001
+703,PD320194,Yellow Straw Hat,Female students can use the yellow straw hat for 30 days.,Usable for 3 days,2,0,20003
+704,PD320194,Yellow Straw Hat,Female students can use the yellow straw hat for 30 days.,Usable for 7 days,2,0,20007
+705,PD320194,Yellow Straw Hat,Female students can use the yellow straw hat for 30 days.,Usable for 30 days,2,0,20030
+706,PD320194,Yellow Straw Hat,Female students can use the yellow straw hat for 30 days.,Usable for 90 days,2,0,20090
+707,PD320194,Yellow Straw Hat,Female students can use the yellow straw hat for 30 days.,Usable for 180 days,2,0,20180
+708,PD320194,Yellow Straw Hat,Female students can use the yellow straw hat for 30 days.,Usable for 365 days,2,0,20365
+709,PD320201,Red Blouse,Female students can use the red blouse for 30 days.,Usable for 1 day,2,0,20001
+710,PD320201,Red Blouse,Female students can use the red blouse for 30 days.,Usable for 3 days,2,0,20003
+711,PD320201,Red Blouse,Female students can use the red blouse for 30 days.,Usable for 7 days,2,0,20007
+712,PD320201,Red Blouse,Female students can use the red blouse for 30 days.,Usable for 30 days,2,0,20030
+713,PD320201,Red Blouse,Female students can use the red blouse for 30 days.,Usable for 90 days,2,0,20090
+714,PD320201,Red Blouse,Female students can use the red blouse for 30 days.,Usable for 180 days,2,0,20180
+715,PD320201,Red Blouse,Female students can use the red blouse for 30 days.,Usable for 365 days,2,0,20365
+716,PD320202,Red Pareo,Female students can use the red pareo for 30 days.,Usable for 1 day,2,0,20001
+717,PD320202,Red Pareo,Female students can use the red pareo for 30 days.,Usable for 3 days,2,0,20003
+718,PD320202,Red Pareo,Female students can use the red pareo for 30 days.,Usable for 7 days,2,0,20007
+719,PD320202,Red Pareo,Female students can use the red pareo for 30 days.,Usable for 30 days,2,0,20030
+720,PD320202,Red Pareo,Female students can use the red pareo for 30 days.,Usable for 90 days,2,0,20090
+721,PD320202,Red Pareo,Female students can use the red pareo for 30 days.,Usable for 180 days,2,0,20180
+722,PD320202,Red Pareo,Female students can use the red pareo for 30 days.,Usable for 365 days,2,0,20365
+723,PD320203,Pink Sandals,Female students can use the pink sandals for 30 days.,Usable for 1 day,2,0,20001
+724,PD320203,Pink Sandals,Female students can use the pink sandals for 30 days.,Usable for 3 days,2,0,20003
+725,PD320203,Pink Sandals,Female students can use the pink sandals for 30 days.,Usable for 7 days,2,0,20007
+726,PD320203,Pink Sandals,Female students can use the pink sandals for 30 days.,Usable for 30 days,2,0,20030
+727,PD320203,Pink Sandals,Female students can use the pink sandals for 30 days.,Usable for 90 days,2,0,20090
+728,PD320203,Pink Sandals,Female students can use the pink sandals for 30 days.,Usable for 180 days,2,0,20180
+729,PD320203,Pink Sandals,Female students can use the pink sandals for 30 days.,Usable for 365 days,2,0,20365
+730,PD320204,Pink Straw Hat,Female students can use the pink straw hat for 30 days.,Usable for 1 day,2,0,20001
+731,PD320204,Pink Straw Hat,Female students can use the pink straw hat for 30 days.,Usable for 3 days,2,0,20003
+732,PD320204,Pink Straw Hat,Female students can use the pink straw hat for 30 days.,Usable for 7 days,2,0,20007
+733,PD320204,Pink Straw Hat,Female students can use the pink straw hat for 30 days.,Usable for 30 days,2,0,20030
+734,PD320204,Pink Straw Hat,Female students can use the pink straw hat for 30 days.,Usable for 90 days,2,0,20090
+735,PD320204,Pink Straw Hat,Female students can use the pink straw hat for 30 days.,Usable for 180 days,2,0,20180
+736,PD320204,Pink Straw Hat,Female students can use the pink straw hat for 30 days.,Usable for 365 days,2,0,20365
+737,PD320211,Blue Blouse,Female students can use the blue blouse for 30 days.,Usable for 1 day,2,0,20001
+738,PD320211,Blue Blouse,Female students can use the blue blouse for 30 days.,Usable for 3 days,2,0,20003
+739,PD320211,Blue Blouse,Female students can use the blue blouse for 30 days.,Usable for 7 days,2,0,20007
+740,PD320211,Blue Blouse,Female students can use the blue blouse for 30 days.,Usable for 30 days,2,0,20030
+741,PD320211,Blue Blouse,Female students can use the blue blouse for 30 days.,Usable for 90 days,2,0,20090
+742,PD320211,Blue Blouse,Female students can use the blue blouse for 30 days.,Usable for 180 days,2,0,20180
+743,PD320211,Blue Blouse,Female students can use the blue blouse for 30 days.,Usable for 365 days,2,0,20365
+744,PD320212,White Pareo,Female students can use the white pareo for 30 days.,Usable for 1 day,2,0,20001
+745,PD320212,White Pareo,Female students can use the white pareo for 30 days.,Usable for 3 days,2,0,20003
+746,PD320212,White Pareo,Female students can use the white pareo for 30 days.,Usable for 7 days,2,0,20007
+747,PD320212,White Pareo,Female students can use the white pareo for 30 days.,Usable for 30 days,2,0,20030
+748,PD320212,White Pareo,Female students can use the white pareo for 30 days.,Usable for 90 days,2,0,20090
+749,PD320212,White Pareo,Female students can use the white pareo for 30 days.,Usable for 180 days,2,0,20180
+750,PD320212,White Pareo,Female students can use the white pareo for 30 days.,Usable for 365 days,2,0,20365
+751,PD320213,Aqua Sandals,Female students can use the aqua sandals for 30 days.,Usable for 1 day,2,0,20001
+752,PD320213,Aqua Sandals,Female students can use the aqua sandals for 30 days.,Usable for 3 days,2,0,20003
+753,PD320213,Aqua Sandals,Female students can use the aqua sandals for 30 days.,Usable for 7 days,2,0,20007
+754,PD320213,Aqua Sandals,Female students can use the aqua sandals for 30 days.,Usable for 30 days,2,0,20030
+755,PD320213,Aqua Sandals,Female students can use the aqua sandals for 30 days.,Usable for 90 days,2,0,20090
+756,PD320213,Aqua Sandals,Female students can use the aqua sandals for 30 days.,Usable for 180 days,2,0,20180
+757,PD320213,Aqua Sandals,Female students can use the aqua sandals for 30 days.,Usable for 365 days,2,0,20365
+758,PD320214,Pastel Pink Straw Hat,Female students can use the pastel pink straw hat for 30 days.,Usable for 1 day,2,0,20001
+759,PD320214,Pastel Pink Straw Hat,Female students can use the pastel pink straw hat for 30 days.,Usable for 3 days,2,0,20003
+760,PD320214,Pastel Pink Straw Hat,Female students can use the pastel pink straw hat for 30 days.,Usable for 7 days,2,0,20007
+761,PD320214,Pastel Pink Straw Hat,Female students can use the pastel pink straw hat for 30 days.,Usable for 30 days,2,0,20030
+762,PD320214,Pastel Pink Straw Hat,Female students can use the pastel pink straw hat for 30 days.,Usable for 90 days,2,0,20090
+763,PD320214,Pastel Pink Straw Hat,Female students can use the pastel pink straw hat for 30 days.,Usable for 180 days,2,0,20180
+764,PD320214,Pastel Pink Straw Hat,Female students can use the pastel pink straw hat for 30 days.,Usable for 365 days,2,0,20365
+3102301,PD310230,Pink Cat Set,Male students can use the pink cat set for 30 days.,Usable for 1 day,1,0,20001
+3102302,PD310230,Pink Cat Set,Male students can use the pink cat set for 30 days.,Usable for 3 days,1,0,20003
+3102303,PD310230,Pink Cat Set,Male students can use the pink cat set for 30 days.,Usable for 7 days,1,0,20007
+3102304,PD310230,Pink Cat Set,Male students can use the pink cat set for 30 days.,Usable for 30 days,1,0,20030
+3102305,PD310230,Pink Cat Set,Male students can use the pink cat set for 30 days.,Usable for 90 days,1,0,20090
+3102306,PD310230,Pink Cat Set,Male students can use the pink cat set for 30 days.,Usable for 180 days,1,0,20180
+3102307,PD310230,Pink Cat Set,Male students can use the pink cat set for 30 days.,Usable for 365 days,1,0,20365
+3102311,PD310231,Pink Cat Costume,Male students can use the pink cat costume for 30 days.,Usable for 1 day,1,0,20001
+3102312,PD310231,Pink Cat Costume,Male students can use the pink cat costume for 30 days.,Usable for 3 days,1,0,20003
+3102313,PD310231,Pink Cat Costume,Male students can use the pink cat costume for 30 days.,Usable for 7 days,1,0,20007
+3102314,PD310231,Pink Cat Costume,Male students can use the pink cat costume for 30 days.,Usable for 30 days,1,0,20030
+3102315,PD310231,Pink Cat Costume,Male students can use the pink cat costume for 30 days.,Usable for 90 days,1,0,20090
+3102316,PD310231,Pink Cat Costume,Male students can use the pink cat costume for 30 days.,Usable for 180 days,1,0,20180
+3102317,PD310231,Pink Cat Costume,Male students can use the pink cat costume for 30 days.,Usable for 365 days,1,0,20365
+3102321,PD310232,Pink Cat Shoes,Male students can use the pink cat shoes for 30 days.,Usable for 1 day,1,0,20001
+3102322,PD310232,Pink Cat Shoes,Male students can use the pink cat shoes for 30 days.,Usable for 3 days,1,0,20003
+3102323,PD310232,Pink Cat Shoes,Male students can use the pink cat shoes for 30 days.,Usable for 7 days,1,0,20007
+3102324,PD310232,Pink Cat Shoes,Male students can use the pink cat shoes for 30 days.,Usable for 30 days,1,0,20030
+3102325,PD310232,Pink Cat Shoes,Male students can use the pink cat shoes for 30 days.,Usable for 90 days,1,0,20090
+3102326,PD310232,Pink Cat Shoes,Male students can use the pink cat shoes for 30 days.,Usable for 180 days,1,0,20180
+3102327,PD310232,Pink Cat Shoes,Male students can use the pink cat shoes for 30 days.,Usable for 365 days,1,0,20365
+3102331,PD310233,Pink Cat Gloves,Male students can use the pink cat gloves for 30 days.,Usable for 1 day,1,0,20001
+3102332,PD310233,Pink Cat Gloves,Male students can use the pink cat gloves for 30 days.,Usable for 3 days,1,0,20003
+3102333,PD310233,Pink Cat Gloves,Male students can use the pink cat gloves for 30 days.,Usable for 7 days,1,0,20007
+3102334,PD310233,Pink Cat Gloves,Male students can use the pink cat gloves for 30 days.,Usable for 30 days,1,0,20030
+3102335,PD310233,Pink Cat Gloves,Male students can use the pink cat gloves for 30 days.,Usable for 90 days,1,0,20090
+3102336,PD310233,Pink Cat Gloves,Male students can use the pink cat gloves for 30 days.,Usable for 180 days,1,0,20180
+3102337,PD310233,Pink Cat Gloves,Male students can use the pink cat gloves for 30 days.,Usable for 365 days,1,0,20365
+3102341,PD310234,Pink Cat Headgear,Male students can use the pink cat headgear for 30 days.,Usable for 1 day,1,0,20001
+3102342,PD310234,Pink Cat Headgear,Male students can use the pink cat headgear for 30 days.,Usable for 3 days,1,0,20003
+3102343,PD310234,Pink Cat Headgear,Male students can use the pink cat headgear for 30 days.,Usable for 7 days,1,0,20007
+3102344,PD310234,Pink Cat Headgear,Male students can use the pink cat headgear for 30 days.,Usable for 30 days,1,0,20030
+3102345,PD310234,Pink Cat Headgear,Male students can use the pink cat headgear for 30 days.,Usable for 90 days,1,0,20090
+3102346,PD310234,Pink Cat Headgear,Male students can use the pink cat headgear for 30 days.,Usable for 180 days,1,0,20180
+3102347,PD310234,Pink Cat Headgear,Male students can use the pink cat headgear for 30 days.,Usable for 365 days,1,0,20365
+3102401,PD310240,Mottled Cat Set,Male students can use the mottled cat set for 30 days.,Usable for 1 day,1,0,20001
+3102402,PD310240,Mottled Cat Set,Male students can use the mottled cat set for 30 days.,Usable for 3 days,1,0,20003
+3102403,PD310240,Mottled Cat Set,Male students can use the mottled cat set for 30 days.,Usable for 7 days,1,0,20007
+3102404,PD310240,Mottled Cat Set,Male students can use the mottled cat set for 30 days.,Usable for 30 days,1,0,20030
+3102405,PD310240,Mottled Cat Set,Male students can use the mottled cat set for 30 days.,Usable for 90 days,1,0,20090
+3102406,PD310240,Mottled Cat Set,Male students can use the mottled cat set for 30 days.,Usable for 180 days,1,0,20180
+3102407,PD310240,Mottled Cat Set,Male students can use the mottled cat set for 30 days.,Usable for 365 days,1,0,20365
+3102411,PD310241,Spotted Cat Costume,Male students can use the mottled cat costume for 30 days.,Usable for 1 day,1,0,20001
+3102412,PD310241,Spotted Cat Costume,Male students can use the mottled cat costume for 30 days.,Usable for 3 days,1,0,20003
+3102413,PD310241,Spotted Cat Costume,Male students can use the mottled cat costume for 30 days.,Usable for 7 days,1,0,20007
+3102414,PD310241,Spotted Cat Costume,Male students can use the mottled cat costume for 30 days.,Usable for 30 days,1,0,20030
+3102415,PD310241,Spotted Cat Costume,Male students can use the mottled cat costume for 30 days.,Usable for 90 days,1,0,20090
+3102416,PD310241,Spotted Cat Costume,Male students can use the mottled cat costume for 30 days.,Usable for 180 days,1,0,20180
+3102417,PD310241,Spotted Cat Costume,Male students can use the mottled cat costume for 30 days.,Usable for 365 days,1,0,20365
+3102421,PD310242,Spotted Cat Shoes,Male students can use the mottled cat shoes for 30 days.,Usable for 1 day,1,0,20001
+3102422,PD310242,Spotted Cat Shoes,Male students can use the mottled cat shoes for 30 days.,Usable for 3 days,1,0,20003
+3102423,PD310242,Spotted Cat Shoes,Male students can use the mottled cat shoes for 30 days.,Usable for 7 days,1,0,20007
+3102424,PD310242,Spotted Cat Shoes,Male students can use the mottled cat shoes for 30 days.,Usable for 30 days,1,0,20030
+3102425,PD310242,Spotted Cat Shoes,Male students can use the mottled cat shoes for 30 days.,Usable for 90 days,1,0,20090
+3102426,PD310242,Spotted Cat Shoes,Male students can use the mottled cat shoes for 30 days.,Usable for 180 days,1,0,20180
+3102427,PD310242,Spotted Cat Shoes,Male students can use the mottled cat shoes for 30 days.,Usable for 365 days,1,0,20365
+3102431,PD310243,Spotted Cat Gloves,Male students can use the mottled cat gloves for 30 days.,Usable for 1 day,1,0,20001
+3102432,PD310243,Spotted Cat Gloves,Male students can use the mottled cat gloves for 30 days.,Usable for 3 days,1,0,20003
+3102433,PD310243,Spotted Cat Gloves,Male students can use the mottled cat gloves for 30 days.,Usable for 7 days,1,0,20007
+3102434,PD310243,Spotted Cat Gloves,Male students can use the mottled cat gloves for 30 days.,Usable for 30 days,1,0,20030
+3102435,PD310243,Spotted Cat Gloves,Male students can use the mottled cat gloves for 30 days.,Usable for 90 days,1,0,20090
+3102436,PD310243,Spotted Cat Gloves,Male students can use the mottled cat gloves for 30 days.,Usable for 180 days,1,0,20180
+3102437,PD310243,Spotted Cat Gloves,Male students can use the mottled cat gloves for 30 days.,Usable for 365 days,1,0,20365
+3102441,PD310244,Spotted Cat Headgear,Male students can use the mottled cat headgear for 30 days.,Usable for 1 day,1,0,20001
+3102442,PD310244,Spotted Cat Headgear,Male students can use the mottled cat headgear for 30 days.,Usable for 3 days,1,0,20003
+3102443,PD310244,Spotted Cat Headgear,Male students can use the mottled cat headgear for 30 days.,Usable for 7 days,1,0,20007
+3102444,PD310244,Spotted Cat Headgear,Male students can use the mottled cat headgear for 30 days.,Usable for 30 days,1,0,20030
+3102445,PD310244,Spotted Cat Headgear,Male students can use the mottled cat headgear for 30 days.,Usable for 90 days,1,0,20090
+3102446,PD310244,Spotted Cat Headgear,Male students can use the mottled cat headgear for 30 days.,Usable for 180 days,1,0,20180
+3102447,PD310244,Spotted Cat Headgear,Male students can use the mottled cat headgear for 30 days.,Usable for 365 days,1,0,20365
+3102501,PD310250,Blue Cat Set,Male students can use the blue cat set for 30 days.,Usable for 1 day,1,0,20001
+3102502,PD310250,Blue Cat Set,Male students can use the blue cat set for 30 days.,Usable for 3 days,1,0,20003
+3102503,PD310250,Blue Cat Set,Male students can use the blue cat set for 30 days.,Usable for 7 days,1,0,20007
+3102504,PD310250,Blue Cat Set,Male students can use the blue cat set for 30 days.,Usable for 30 days,1,0,20030
+3102505,PD310250,Blue Cat Set,Male students can use the blue cat set for 30 days.,Usable for 90 days,1,0,20090
+3102506,PD310250,Blue Cat Set,Male students can use the blue cat set for 30 days.,Usable for 180 days,1,0,20180
+3102507,PD310250,Blue Cat Set,Male students can use the blue cat set for 30 days.,Usable for 365 days,1,0,20365
+3102511,PD310251,Blue Cat Costume,Male students can use the blue cat costume for 30 days.,Usable for 1 day,1,0,20001
+3102512,PD310251,Blue Cat Costume,Male students can use the blue cat costume for 30 days.,Usable for 3 days,1,0,20003
+3102513,PD310251,Blue Cat Costume,Male students can use the blue cat costume for 30 days.,Usable for 7 days,1,0,20007
+3102514,PD310251,Blue Cat Costume,Male students can use the blue cat costume for 30 days.,Usable for 30 days,1,0,20030
+3102515,PD310251,Blue Cat Costume,Male students can use the blue cat costume for 30 days.,Usable for 90 days,1,0,20090
+3102516,PD310251,Blue Cat Costume,Male students can use the blue cat costume for 30 days.,Usable for 180 days,1,0,20180
+3102517,PD310251,Blue Cat Costume,Male students can use the blue cat costume for 30 days.,Usable for 365 days,1,0,20365
+3102521,PD310252,Blue Cat Shoes,Male students can use the blue cat shoes for 30 days.,Usable for 1 day,1,0,20001
+3102522,PD310252,Blue Cat Shoes,Male students can use the blue cat shoes for 30 days.,Usable for 3 days,1,0,20003
+3102523,PD310252,Blue Cat Shoes,Male students can use the blue cat shoes for 30 days.,Usable for 7 days,1,0,20007
+3102524,PD310252,Blue Cat Shoes,Male students can use the blue cat shoes for 30 days.,Usable for 30 days,1,0,20030
+3102525,PD310252,Blue Cat Shoes,Male students can use the blue cat shoes for 30 days.,Usable for 90 days,1,0,20090
+3102526,PD310252,Blue Cat Shoes,Male students can use the blue cat shoes for 30 days.,Usable for 180 days,1,0,20180
+3102527,PD310252,Blue Cat Shoes,Male students can use the blue cat shoes for 30 days.,Usable for 365 days,1,0,20365
+3102531,PD310253,Blue Cat Gloves,Male students can use the blue cat gloves for 30 days.,Usable for 1 day,1,0,20001
+3102532,PD310253,Blue Cat Gloves,Male students can use the blue cat gloves for 30 days.,Usable for 3 days,1,0,20003
+3102533,PD310253,Blue Cat Gloves,Male students can use the blue cat gloves for 30 days.,Usable for 7 days,1,0,20007
+3102534,PD310253,Blue Cat Gloves,Male students can use the blue cat gloves for 30 days.,Usable for 30 days,1,0,20030
+3102535,PD310253,Blue Cat Gloves,Male students can use the blue cat gloves for 30 days.,Usable for 90 days,1,0,20090
+3102536,PD310253,Blue Cat Gloves,Male students can use the blue cat gloves for 30 days.,Usable for 180 days,1,0,20180
+3102537,PD310253,Blue Cat Gloves,Male students can use the blue cat gloves for 30 days.,Usable for 365 days,1,0,20365
+3102541,PD310254,Blue Cat Headgear,Male students can use the blue cat headgear for 30 days.,Usable for 1 day,1,0,20001
+3102542,PD310254,Blue Cat Headgear,Male students can use the blue cat headgear for 30 days.,Usable for 3 days,1,0,20003
+3102543,PD310254,Blue Cat Headgear,Male students can use the blue cat headgear for 30 days.,Usable for 7 days,1,0,20007
+3102544,PD310254,Blue Cat Headgear,Male students can use the blue cat headgear for 30 days.,Usable for 30 days,1,0,20030
+3102545,PD310254,Blue Cat Headgear,Male students can use the blue cat headgear for 30 days.,Usable for 90 days,1,0,20090
+3102546,PD310254,Blue Cat Headgear,Male students can use the blue cat headgear for 30 days.,Usable for 180 days,1,0,20180
+3102547,PD310254,Blue Cat Headgear,Male students can use the blue cat headgear for 30 days.,Usable for 365 days,1,0,20365
+3102601,PD310260,Black Cat Set,Male students can use the black cat set for 30 days.,Usable for 1 day,1,0,20001
+3102602,PD310260,Black Cat Set,Male students can use the black cat set for 30 days.,Usable for 3 days,1,0,20003
+3102603,PD310260,Black Cat Set,Male students can use the black cat set for 30 days.,Usable for 7 days,1,0,20007
+3102604,PD310260,Black Cat Set,Male students can use the black cat set for 30 days.,Usable for 30 days,1,0,20030
+3102605,PD310260,Black Cat Set,Male students can use the black cat set for 30 days.,Usable for 90 days,1,0,20090
+3102606,PD310260,Black Cat Set,Male students can use the black cat set for 30 days.,Usable for 180 days,1,0,20180
+3102607,PD310260,Black Cat Set,Male students can use the black cat set for 30 days.,Usable for 365 days,1,0,20365
+3102611,PD310261,Black Cat Costume,Male students can use the black cat costume for 30 days.,Usable for 1 day,1,0,20001
+3102612,PD310261,Black Cat Costume,Male students can use the black cat costume for 30 days.,Usable for 3 days,1,0,20003
+3102613,PD310261,Black Cat Costume,Male students can use the black cat costume for 30 days.,Usable for 7 days,1,0,20007
+3102614,PD310261,Black Cat Costume,Male students can use the black cat costume for 30 days.,Usable for 30 days,1,0,20030
+3102615,PD310261,Black Cat Costume,Male students can use the black cat costume for 30 days.,Usable for 90 days,1,0,20090
+3102616,PD310261,Black Cat Costume,Male students can use the black cat costume for 30 days.,Usable for 180 days,1,0,20180
+3102617,PD310261,Black Cat Costume,Male students can use the black cat costume for 30 days.,Usable for 365 days,1,0,20365
+3102621,PD310262,Black Cat Shoes,Male students can use the black cat shoes for 30 days.,Usable for 1 day,1,0,20001
+3102622,PD310262,Black Cat Shoes,Male students can use the black cat shoes for 30 days.,Usable for 3 days,1,0,20003
+3102623,PD310262,Black Cat Shoes,Male students can use the black cat shoes for 30 days.,Usable for 7 days,1,0,20007
+3102624,PD310262,Black Cat Shoes,Male students can use the black cat shoes for 30 days.,Usable for 30 days,1,0,20030
+3102625,PD310262,Black Cat Shoes,Male students can use the black cat shoes for 30 days.,Usable for 90 days,1,0,20090
+3102626,PD310262,Black Cat Shoes,Male students can use the black cat shoes for 30 days.,Usable for 180 days,1,0,20180
+3102627,PD310262,Black Cat Shoes,Male students can use the black cat shoes for 30 days.,Usable for 365 days,1,0,20365
+3102631,PD310263,Black Cat Gloves,Male students can use the black cat gloves for 30 days.,Usable for 1 day,1,0,20001
+3102632,PD310263,Black Cat Gloves,Male students can use the black cat gloves for 30 days.,Usable for 3 days,1,0,20003
+3102633,PD310263,Black Cat Gloves,Male students can use the black cat gloves for 30 days.,Usable for 7 days,1,0,20007
+3102634,PD310263,Black Cat Gloves,Male students can use the black cat gloves for 30 days.,Usable for 30 days,1,0,20030
+3102635,PD310263,Black Cat Gloves,Male students can use the black cat gloves for 30 days.,Usable for 90 days,1,0,20090
+3102636,PD310263,Black Cat Gloves,Male students can use the black cat gloves for 30 days.,Usable for 180 days,1,0,20180
+3102637,PD310263,Black Cat Gloves,Male students can use the black cat gloves for 30 days.,Usable for 365 days,1,0,20365
+3102641,PD310264,Black Cat Headgear,Male students can use the black cat headgear for 30 days.,Usable for 1 day,1,0,20001
+3102642,PD310264,Black Cat Headgear,Male students can use the black cat headgear for 30 days.,Usable for 3 days,1,0,20003
+3102643,PD310264,Black Cat Headgear,Male students can use the black cat headgear for 30 days.,Usable for 7 days,1,0,20007
+3102644,PD310264,Black Cat Headgear,Male students can use the black cat headgear for 30 days.,Usable for 30 days,1,0,20030
+3102645,PD310264,Black Cat Headgear,Male students can use the black cat headgear for 30 days.,Usable for 90 days,1,0,20090
+3102646,PD310264,Black Cat Headgear,Male students can use the black cat headgear for 30 days.,Usable for 180 days,1,0,20180
+3102647,PD310264,Black Cat Headgear,Male students can use the black cat headgear for 30 days.,Usable for 365 days,1,0,20365
+3202301,PD320230,Pink Cat Set,Female students can use the pink cat set for 30 days.,Usable for 1 day,2,0,20001
+3202302,PD320230,Pink Cat Set,Female students can use the pink cat set for 30 days.,Usable for 3 days,2,0,20003
+3202303,PD320230,Pink Cat Set,Female students can use the pink cat set for 30 days.,Usable for 7 days,2,0,20007
+3202304,PD320230,Pink Cat Set,Female students can use the pink cat set for 30 days.,Usable for 30 days,2,0,20030
+3202305,PD320230,Pink Cat Set,Female students can use the pink cat set for 30 days.,Usable for 90 days,2,0,20090
+3202306,PD320230,Pink Cat Set,Female students can use the pink cat set for 30 days.,Usable for 180 days,2,0,20180
+3202307,PD320230,Pink Cat Set,Female students can use the pink cat set for 30 days.,Usable for 365 days,2,0,20365
+3202311,PD320231,Pink Cat Costume,Female students can use the pink cat costume for 30 days.,Usable for 1 day,2,0,20001
+3202312,PD320231,Pink Cat Costume,Female students can use the pink cat costume for 30 days.,Usable for 3 days,2,0,20003
+3202313,PD320231,Pink Cat Costume,Female students can use the pink cat costume for 30 days.,Usable for 7 days,2,0,20007
+3202314,PD320231,Pink Cat Costume,Female students can use the pink cat costume for 30 days.,Usable for 30 days,2,0,20030
+3202315,PD320231,Pink Cat Costume,Female students can use the pink cat costume for 30 days.,Usable for 90 days,2,0,20090
+3202316,PD320231,Pink Cat Costume,Female students can use the pink cat costume for 30 days.,Usable for 180 days,2,0,20180
+3202317,PD320231,Pink Cat Costume,Female students can use the pink cat costume for 30 days.,Usable for 365 days,2,0,20365
+3202321,PD320232,Pink Cat Shoes,Female students can use the pink cat shoes for 30 days.,Usable for 1 day,2,0,20001
+3202322,PD320232,Pink Cat Shoes,Female students can use the pink cat shoes for 30 days.,Usable for 3 days,2,0,20003
+3202323,PD320232,Pink Cat Shoes,Female students can use the pink cat shoes for 30 days.,Usable for 7 days,2,0,20007
+3202324,PD320232,Pink Cat Shoes,Female students can use the pink cat shoes for 30 days.,Usable for 30 days,2,0,20030
+3202325,PD320232,Pink Cat Shoes,Female students can use the pink cat shoes for 30 days.,Usable for 90 days,2,0,20090
+3202326,PD320232,Pink Cat Shoes,Female students can use the pink cat shoes for 30 days.,Usable for 180 days,2,0,20180
+3202327,PD320232,Pink Cat Shoes,Female students can use the pink cat shoes for 30 days.,Usable for 365 days,2,0,20365
+3202331,PD320233,Pink Cat Gloves,Female students can use the pink cat gloves for 30 days.,Usable for 1 day,2,0,20001
+3202332,PD320233,Pink Cat Gloves,Female students can use the pink cat gloves for 30 days.,Usable for 3 days,2,0,20003
+3202333,PD320233,Pink Cat Gloves,Female students can use the pink cat gloves for 30 days.,Usable for 7 days,2,0,20007
+3202334,PD320233,Pink Cat Gloves,Female students can use the pink cat gloves for 30 days.,Usable for 30 days,2,0,20030
+3202335,PD320233,Pink Cat Gloves,Female students can use the pink cat gloves for 30 days.,Usable for 90 days,2,0,20090
+3202336,PD320233,Pink Cat Gloves,Female students can use the pink cat gloves for 30 days.,Usable for 180 days,2,0,20180
+3202337,PD320233,Pink Cat Gloves,Female students can use the pink cat gloves for 30 days.,Usable for 365 days,2,0,20365
+3202341,PD320234,Pink Cat Headgear,Female students can use the pink cat headgear for 30 days.,Usable for 1 day,2,0,20001
+3202342,PD320234,Pink Cat Headgear,Female students can use the pink cat headgear for 30 days.,Usable for 3 days,2,0,20003
+3202343,PD320234,Pink Cat Headgear,Female students can use the pink cat headgear for 30 days.,Usable for 7 days,2,0,20007
+3202344,PD320234,Pink Cat Headgear,Female students can use the pink cat headgear for 30 days.,Usable for 30 days,2,0,20030
+3202345,PD320234,Pink Cat Headgear,Female students can use the pink cat headgear for 30 days.,Usable for 90 days,2,0,20090
+3202346,PD320234,Pink Cat Headgear,Female students can use the pink cat headgear for 30 days.,Usable for 180 days,2,0,20180
+3202347,PD320234,Pink Cat Headgear,Female students can use the pink cat headgear for 30 days.,Usable for 365 days,2,0,20365
+3202401,PD320240,Mottled Cat Set,Female students can use the mottled cat set for 30 days.,Usable for 1 day,2,0,20001
+3202402,PD320240,Mottled Cat Set,Female students can use the mottled cat set for 30 days.,Usable for 3 days,2,0,20003
+3202403,PD320240,Mottled Cat Set,Female students can use the mottled cat set for 30 days.,Usable for 7 days,2,0,20007
+3202404,PD320240,Mottled Cat Set,Female students can use the mottled cat set for 30 days.,Usable for 30 days,2,0,20030
+3202405,PD320240,Mottled Cat Set,Female students can use the mottled cat set for 30 days.,Usable for 90 days,2,0,20090
+3202406,PD320240,Mottled Cat Set,Female students can use the mottled cat set for 30 days.,Usable for 180 days,2,0,20180
+3202407,PD320240,Mottled Cat Set,Female students can use the mottled cat set for 30 days.,Usable for 365 days,2,0,20365
+3202411,PD320241,Spotted Cat Costume,Female students can use the mottled cat costume for 30 days.,Usable for 1 day,2,0,20001
+3202412,PD320241,Spotted Cat Costume,Female students can use the mottled cat costume for 30 days.,Usable for 3 days,2,0,20003
+3202413,PD320241,Spotted Cat Costume,Female students can use the mottled cat costume for 30 days.,Usable for 7 days,2,0,20007
+3202414,PD320241,Spotted Cat Costume,Female students can use the mottled cat costume for 30 days.,Usable for 30 days,2,0,20030
+3202415,PD320241,Spotted Cat Costume,Female students can use the mottled cat costume for 30 days.,Usable for 90 days,2,0,20090
+3202416,PD320241,Spotted Cat Costume,Female students can use the mottled cat costume for 30 days.,Usable for 180 days,2,0,20180
+3202417,PD320241,Spotted Cat Costume,Female students can use the mottled cat costume for 30 days.,Usable for 365 days,2,0,20365
+3202421,PD320242,Spotted Cat Shoes,Female students can use the mottled cat shoes for 30 days.,Usable for 1 day,2,0,20001
+3202422,PD320242,Spotted Cat Shoes,Female students can use the mottled cat shoes for 30 days.,Usable for 3 days,2,0,20003
+3202423,PD320242,Spotted Cat Shoes,Female students can use the mottled cat shoes for 30 days.,Usable for 7 days,2,0,20007
+3202424,PD320242,Spotted Cat Shoes,Female students can use the mottled cat shoes for 30 days.,Usable for 30 days,2,0,20030
+3202425,PD320242,Spotted Cat Shoes,Female students can use the mottled cat shoes for 30 days.,Usable for 90 days,2,0,20090
+3202426,PD320242,Spotted Cat Shoes,Female students can use the mottled cat shoes for 30 days.,Usable for 180 days,2,0,20180
+3202427,PD320242,Spotted Cat Shoes,Female students can use the mottled cat shoes for 30 days.,Usable for 365 days,2,0,20365
+3202431,PD320243,Spotted Cat Gloves,Female students can use the mottled cat gloves for 30 days.,Usable for 1 day,2,0,20001
+3202432,PD320243,Spotted Cat Gloves,Female students can use the mottled cat gloves for 30 days.,Usable for 3 days,2,0,20003
+3202433,PD320243,Spotted Cat Gloves,Female students can use the mottled cat gloves for 30 days.,Usable for 7 days,2,0,20007
+3202434,PD320243,Spotted Cat Gloves,Female students can use the mottled cat gloves for 30 days.,Usable for 30 days,2,0,20030
+3202435,PD320243,Spotted Cat Gloves,Female students can use the mottled cat gloves for 30 days.,Usable for 90 days,2,0,20090
+3202436,PD320243,Spotted Cat Gloves,Female students can use the mottled cat gloves for 30 days.,Usable for 180 days,2,0,20180
+3202437,PD320243,Spotted Cat Gloves,Female students can use the mottled cat gloves for 30 days.,Usable for 365 days,2,0,20365
+3202441,PD320244,Spotted Cat Headgear,Female students can use the mottled cat headgear for 30 days.,Usable for 1 day,2,0,20001
+3202442,PD320244,Spotted Cat Headgear,Female students can use the mottled cat headgear for 30 days.,Usable for 3 days,2,0,20003
+3202443,PD320244,Spotted Cat Headgear,Female students can use the mottled cat headgear for 30 days.,Usable for 7 days,2,0,20007
+3202444,PD320244,Spotted Cat Headgear,Female students can use the mottled cat headgear for 30 days.,Usable for 30 days,2,0,20030
+3202445,PD320244,Spotted Cat Headgear,Female students can use the mottled cat headgear for 30 days.,Usable for 90 days,2,0,20090
+3202446,PD320244,Spotted Cat Headgear,Female students can use the mottled cat headgear for 30 days.,Usable for 180 days,2,0,20180
+3202447,PD320244,Spotted Cat Headgear,Female students can use the mottled cat headgear for 30 days.,Usable for 365 days,2,0,20365
+3202501,PD320250,Blue Cat Set,Female students can use the blue cat set for 30 days.,Usable for 1 day,2,0,20001
+3202502,PD320250,Blue Cat Set,Female students can use the blue cat set for 30 days.,Usable for 3 days,2,0,20003
+3202503,PD320250,Blue Cat Set,Female students can use the blue cat set for 30 days.,Usable for 7 days,2,0,20007
+3202504,PD320250,Blue Cat Set,Female students can use the blue cat set for 30 days.,Usable for 30 days,2,0,20030
+3202505,PD320250,Blue Cat Set,Female students can use the blue cat set for 30 days.,Usable for 90 days,2,0,20090
+3202506,PD320250,Blue Cat Set,Female students can use the blue cat set for 30 days.,Usable for 180 days,2,0,20180
+3202507,PD320250,Blue Cat Set,Female students can use the blue cat set for 30 days.,Usable for 365 days,2,0,20365
+3202511,PD320251,Blue Cat Costume,Female students can use the blue cat costume for 30 days.,Usable for 1 day,2,0,20001
+3202512,PD320251,Blue Cat Costume,Female students can use the blue cat costume for 30 days.,Usable for 3 days,2,0,20003
+3202513,PD320251,Blue Cat Costume,Female students can use the blue cat costume for 30 days.,Usable for 7 days,2,0,20007
+3202514,PD320251,Blue Cat Costume,Female students can use the blue cat costume for 30 days.,Usable for 30 days,2,0,20030
+3202515,PD320251,Blue Cat Costume,Female students can use the blue cat costume for 30 days.,Usable for 90 days,2,0,20090
+3202516,PD320251,Blue Cat Costume,Female students can use the blue cat costume for 30 days.,Usable for 180 days,2,0,20180
+3202517,PD320251,Blue Cat Costume,Female students can use the blue cat costume for 30 days.,Usable for 365 days,2,0,20365
+3202521,PD320252,Blue Cat Shoes,Female students can use the blue cat shoes for 30 days.,Usable for 1 day,2,0,20001
+3202522,PD320252,Blue Cat Shoes,Female students can use the blue cat shoes for 30 days.,Usable for 3 days,2,0,20003
+3202523,PD320252,Blue Cat Shoes,Female students can use the blue cat shoes for 30 days.,Usable for 7 days,2,0,20007
+3202524,PD320252,Blue Cat Shoes,Female students can use the blue cat shoes for 30 days.,Usable for 30 days,2,0,20030
+3202525,PD320252,Blue Cat Shoes,Female students can use the blue cat shoes for 30 days.,Usable for 90 days,2,0,20090
+3202526,PD320252,Blue Cat Shoes,Female students can use the blue cat shoes for 30 days.,Usable for 180 days,2,0,20180
+3202527,PD320252,Blue Cat Shoes,Female students can use the blue cat shoes for 30 days.,Usable for 365 days,2,0,20365
+3202531,PD320253,Blue Cat Gloves,Female students can use the blue cat gloves for 30 days.,Usable for 1 day,2,0,20001
+3202532,PD320253,Blue Cat Gloves,Female students can use the blue cat gloves for 30 days.,Usable for 3 days,2,0,20003
+3202533,PD320253,Blue Cat Gloves,Female students can use the blue cat gloves for 30 days.,Usable for 7 days,2,0,20007
+3202534,PD320253,Blue Cat Gloves,Female students can use the blue cat gloves for 30 days.,Usable for 30 days,2,0,20030
+3202535,PD320253,Blue Cat Gloves,Female students can use the blue cat gloves for 30 days.,Usable for 90 days,2,0,20090
+3202536,PD320253,Blue Cat Gloves,Female students can use the blue cat gloves for 30 days.,Usable for 180 days,2,0,20180
+3202537,PD320253,Blue Cat Gloves,Female students can use the blue cat gloves for 30 days.,Usable for 365 days,2,0,20365
+3202541,PD320254,Blue Cat Headgear,Female students can use the blue cat headgear for 30 days.,Usable for 1 day,2,0,20001
+3202542,PD320254,Blue Cat Headgear,Female students can use the blue cat headgear for 30 days.,Usable for 3 days,2,0,20003
+3202543,PD320254,Blue Cat Headgear,Female students can use the blue cat headgear for 30 days.,Usable for 7 days,2,0,20007
+3202544,PD320254,Blue Cat Headgear,Female students can use the blue cat headgear for 30 days.,Usable for 30 days,2,0,20030
+3202545,PD320254,Blue Cat Headgear,Female students can use the blue cat headgear for 30 days.,Usable for 90 days,2,0,20090
+3202546,PD320254,Blue Cat Headgear,Female students can use the blue cat headgear for 30 days.,Usable for 180 days,2,0,20180
+3202547,PD320254,Blue Cat Headgear,Female students can use the blue cat headgear for 30 days.,Usable for 365 days,2,0,20365
+3202601,PD320260,Black Cat Set,Female students can use the black cat set for 30 days.,Usable for 1 day,2,0,20001
+3202602,PD320260,Black Cat Set,Female students can use the black cat set for 30 days.,Usable for 3 days,2,0,20003
+3202603,PD320260,Black Cat Set,Female students can use the black cat set for 30 days.,Usable for 7 days,2,0,20007
+3202604,PD320260,Black Cat Set,Female students can use the black cat set for 30 days.,Usable for 30 days,2,0,20030
+3202605,PD320260,Black Cat Set,Female students can use the black cat set for 30 days.,Usable for 90 days,2,0,20090
+3202606,PD320260,Black Cat Set,Female students can use the black cat set for 30 days.,Usable for 180 days,2,0,20180
+3202607,PD320260,Black Cat Set,Female students can use the black cat set for 30 days.,Usable for 365 days,2,0,20365
+3202611,PD320261,Black Cat Costume,Female students can use the black cat costume for 30 days.,Usable for 1 day,2,0,20001
+3202612,PD320261,Black Cat Costume,Female students can use the black cat costume for 30 days.,Usable for 3 days,2,0,20003
+3202613,PD320261,Black Cat Costume,Female students can use the black cat costume for 30 days.,Usable for 7 days,2,0,20007
+3202614,PD320261,Black Cat Costume,Female students can use the black cat costume for 30 days.,Usable for 30 days,2,0,20030
+3202615,PD320261,Black Cat Costume,Female students can use the black cat costume for 30 days.,Usable for 90 days,2,0,20090
+3202616,PD320261,Black Cat Costume,Female students can use the black cat costume for 30 days.,Usable for 180 days,2,0,20180
+3202617,PD320261,Black Cat Costume,Female students can use the black cat costume for 30 days.,Usable for 365 days,2,0,20365
+3202621,PD320262,Black Cat Shoes,Female students can use the black cat shoes for 30 days.,Usable for 1 day,2,0,20001
+3202622,PD320262,Black Cat Shoes,Female students can use the black cat shoes for 30 days.,Usable for 3 days,2,0,20003
+3202623,PD320262,Black Cat Shoes,Female students can use the black cat shoes for 30 days.,Usable for 7 days,2,0,20007
+3202624,PD320262,Black Cat Shoes,Female students can use the black cat shoes for 30 days.,Usable for 30 days,2,0,20030
+3202625,PD320262,Black Cat Shoes,Female students can use the black cat shoes for 30 days.,Usable for 90 days,2,0,20090
+3202626,PD320262,Black Cat Shoes,Female students can use the black cat shoes for 30 days.,Usable for 180 days,2,0,20180
+3202627,PD320262,Black Cat Shoes,Female students can use the black cat shoes for 30 days.,Usable for 365 days,2,0,20365
+3202631,PD320263,Black Cat Gloves,Female students can use the black cat gloves for 30 days.,Usable for 1 day,2,0,20001
+3202632,PD320263,Black Cat Gloves,Female students can use the black cat gloves for 30 days.,Usable for 3 days,2,0,20003
+3202633,PD320263,Black Cat Gloves,Female students can use the black cat gloves for 30 days.,Usable for 7 days,2,0,20007
+3202634,PD320263,Black Cat Gloves,Female students can use the black cat gloves for 30 days.,Usable for 30 days,2,0,20030
+3202635,PD320263,Black Cat Gloves,Female students can use the black cat gloves for 30 days.,Usable for 90 days,2,0,20090
+3202636,PD320263,Black Cat Gloves,Female students can use the black cat gloves for 30 days.,Usable for 180 days,2,0,20180
+3202637,PD320263,Black Cat Gloves,Female students can use the black cat gloves for 30 days.,Usable for 365 days,2,0,20365
+3202641,PD320264,Black Cat Headgear,Female students can use the black cat headgear for 30 days.,Usable for 1 day,2,0,20001
+3202642,PD320264,Black Cat Headgear,Female students can use the black cat headgear for 30 days.,Usable for 3 days,2,0,20003
+3202643,PD320264,Black Cat Headgear,Female students can use the black cat headgear for 30 days.,Usable for 7 days,2,0,20007
+3202644,PD320264,Black Cat Headgear,Female students can use the black cat headgear for 30 days.,Usable for 30 days,2,0,20030
+3202645,PD320264,Black Cat Headgear,Female students can use the black cat headgear for 30 days.,Usable for 90 days,2,0,20090
+3202646,PD320264,Black Cat Headgear,Female students can use the black cat headgear for 30 days.,Usable for 180 days,2,0,20180
+3202647,PD320264,Black Cat Headgear,Female students can use the black cat headgear for 30 days.,Usable for 365 days,2,0,20365
+1100211,PD110021,Bringer,You can use the Blade “ブリンガー” for 30 days.,Usable for 1 day,0,0,20001
+1100212,PD110021,Bringer,You can use the Blade “ブリンガー” for 30 days.,Usable for 3 days,0,0,20003
+1100213,PD110021,Bringer,You can use the Blade “ブリンガー” for 30 days.,Usable for 7 days,0,0,20007
+1100214,PD110021,Bringer,You can use the Blade “ブリンガー” for 30 days.,Usable for 30 days,0,0,20030
+1100215,PD110021,Bringer,You can use the Blade “ブリンガー” for 30 days.,Usable for 90 days,0,0,20090
+1100216,PD110021,Bringer,You can use the Blade “ブリンガー” for 30 days.,Usable for 180 days,0,0,20180
+1100217,PD110021,Bringer,You can use the Blade “ブリンガー” for 30 days.,Usable for 365 days,0,0,20365
+1100231,PD110023,Light Breaker,You can use the Blade “ライトブレイカー” for 30 days.,Usable for 1 day,0,0,20001
+1100232,PD110023,Light Breaker,You can use the Blade “ライトブレイカー” for 30 days.,Usable for 3 days,0,0,20003
+1100233,PD110023,Light Breaker,You can use the Blade “ライトブレイカー” for 30 days.,Usable for 7 days,0,0,20007
+1100234,PD110023,Light Breaker,You can use the Blade “ライトブレイカー” for 30 days.,Usable for 30 days,0,0,20030
+1100235,PD110023,Light Breaker,You can use the Blade “ライトブレイカー” for 30 days.,Usable for 90 days,0,0,20090
+1100236,PD110023,Light Breaker,You can use the Blade “ライトブレイカー” for 30 days.,Usable for 180 days,0,0,20180
+1100237,PD110023,Light Breaker,You can use the Blade “ライトブレイカー” for 30 days.,Usable for 365 days,0,0,20365
+1100201,PD110020,Vermilion Edge,You can use the Blade “ヴァーミリオンエッジ” for 30 days.,Usable for 1 day,0,0,20001
+1100202,PD110020,Vermilion Edge,You can use the Blade “ヴァーミリオンエッジ” for 30 days.,Usable for 3 days,0,0,20003
+1100203,PD110020,Vermilion Edge,You can use the Blade “ヴァーミリオンエッジ” for 30 days.,Usable for 7 days,0,0,20007
+1100204,PD110020,Vermilion Edge,You can use the Blade “ヴァーミリオンエッジ” for 30 days.,Usable for 30 days,0,0,20030
+1100205,PD110020,Vermilion Edge,You can use the Blade “ヴァーミリオンエッジ” for 30 days.,Usable for 90 days,0,0,20090
+1100206,PD110020,Vermilion Edge,You can use the Blade “ヴァーミリオンエッジ” for 30 days.,Usable for 180 days,0,0,20180
+1100207,PD110020,Vermilion Edge,You can use the Blade “ヴァーミリオンエッジ” for 30 days.,Usable for 365 days,0,0,20365
+1200131,PD120013,Phoenix Knuckles,You can use the Glove “フェニックスナックル” for 30 days.,Usable for 1 day,0,0,20001
+1200132,PD120013,Phoenix Knuckles,You can use the Glove “フェニックスナックル” for 30 days.,Usable for 3 days,0,0,20003
+1200133,PD120013,Phoenix Knuckles,You can use the Glove “フェニックスナックル” for 30 days.,Usable for 7 days,0,0,20007
+1200134,PD120013,Phoenix Knuckles,You can use the Glove “フェニックスナックル” for 30 days.,Usable for 30 days,0,0,20030
+1200135,PD120013,Phoenix Knuckles,You can use the Glove “フェニックスナックル” for 30 days.,Usable for 90 days,0,0,20090
+1200136,PD120013,Phoenix Knuckles,You can use the Glove “フェニックスナックル” for 30 days.,Usable for 180 days,0,0,20180
+1200137,PD120013,Phoenix Knuckles,You can use the Glove “フェニックスナックル” for 30 days.,Usable for 365 days,0,0,20365
+1200051,PD120005,Rainbow Fist,You can use the Glove “レインボーフィスト” for 30 days.,Usable for 1 day,0,0,20001
+1200052,PD120005,Rainbow Fist,You can use the Glove “レインボーフィスト” for 30 days.,Usable for 3 days,0,0,20003
+1200053,PD120005,Rainbow Fist,You can use the Glove “レインボーフィスト” for 30 days.,Usable for 7 days,0,0,20007
+1200054,PD120005,Rainbow Fist,You can use the Glove “レインボーフィスト” for 30 days.,Usable for 30 days,0,0,20030
+1200055,PD120005,Rainbow Fist,You can use the Glove “レインボーフィスト” for 30 days.,Usable for 90 days,0,0,20090
+1200056,PD120005,Rainbow Fist,You can use the Glove “レインボーフィスト” for 30 days.,Usable for 180 days,0,0,20180
+1200057,PD120005,Rainbow Fist,You can use the Glove “レインボーフィスト” for 30 days.,Usable for 365 days,0,0,20365
+1200061,PD120006,Maxima Gauntlet,You can use the Glove “マキシマガントレット” for 30 days.,Usable for 1 day,0,0,20001
+1200062,PD120006,Maxima Gauntlet,You can use the Glove “マキシマガントレット” for 30 days.,Usable for 3 days,0,0,20003
+1200063,PD120006,Maxima Gauntlet,You can use the Glove “マキシマガントレット” for 30 days.,Usable for 7 days,0,0,20007
+1200064,PD120006,Maxima Gauntlet,You can use the Glove “マキシマガントレット” for 30 days.,Usable for 30 days,0,0,20030
+1200065,PD120006,Maxima Gauntlet,You can use the Glove “マキシマガントレット” for 30 days.,Usable for 90 days,0,0,20090
+1200066,PD120006,Maxima Gauntlet,You can use the Glove “マキシマガントレット” for 30 days.,Usable for 180 days,0,0,20180
+1200067,PD120006,Maxima Gauntlet,You can use the Glove “マキシマガントレット” for 30 days.,Usable for 365 days,0,0,20365
+1300041,PD130004,The DJ,You can use the Myura “The DJ” for 30 days.,Usable for 1 day,0,0,20001
+1300042,PD130004,The DJ,You can use the Myura “The DJ” for 30 days.,Usable for 3 days,0,0,20003
+1300043,PD130004,The DJ,You can use the Myura “The DJ” for 30 days.,Usable for 7 days,0,0,20007
+1300044,PD130004,The DJ,You can use the Myura “The DJ” for 30 days.,Usable for 30 days,0,0,20030
+1300045,PD130004,The DJ,You can use the Myura “The DJ” for 30 days.,Usable for 90 days,0,0,20090
+1300046,PD130004,The DJ,You can use the Myura “The DJ” for 30 days.,Usable for 180 days,0,0,20180
+1300047,PD130004,The DJ,You can use the Myura “The DJ” for 30 days.,Usable for 365 days,0,0,20365
+1300171,PD130017,Angelic Voice,You can use the Myura “エンジェリックボイス” for 30 days.,Usable for 1 day,0,0,20001
+1300172,PD130017,Angelic Voice,You can use the Myura “エンジェリックボイス” for 30 days.,Usable for 3 days,0,0,20003
+1300173,PD130017,Angelic Voice,You can use the Myura “エンジェリックボイス” for 30 days.,Usable for 7 days,0,0,20007
+1300174,PD130017,Angelic Voice,You can use the Myura “エンジェリックボイス” for 30 days.,Usable for 30 days,0,0,20030
+1300175,PD130017,Angelic Voice,You can use the Myura “エンジェリックボイス” for 30 days.,Usable for 90 days,0,0,20090
+1300176,PD130017,Angelic Voice,You can use the Myura “エンジェリックボイス” for 30 days.,Usable for 180 days,0,0,20180
+1300177,PD130017,Angelic Voice,You can use the Myura “エンジェリックボイス” for 30 days.,Usable for 365 days,0,0,20365
+1300211,PD130021,Utanka,You can use the Myura “ウタンカ” for 30 days.,Usable for 1 day,0,0,20001
+1300212,PD130021,Utanka,You can use the Myura “ウタンカ” for 30 days.,Usable for 3 days,0,0,20003
+1300213,PD130021,Utanka,You can use the Myura “ウタンカ” for 30 days.,Usable for 7 days,0,0,20007
+1300214,PD130021,Utanka,You can use the Myura “ウタンカ” for 30 days.,Usable for 30 days,0,0,20030
+1300215,PD130021,Utanka,You can use the Myura “ウタンカ” for 30 days.,Usable for 90 days,0,0,20090
+1300216,PD130021,Utanka,You can use the Myura “ウタンカ” for 30 days.,Usable for 180 days,0,0,20180
+1300217,PD130021,Utanka,You can use the Myura “ウタンカ” for 30 days.,Usable for 365 days,0,0,20365
+1300251,PD130025,Anna Myura (Temporary),You can use the Myura “アンナミューラ（仮）” for 30 days.,Usable for 1 day,0,0,20001
+1300252,PD130025,Anna Myura (Temporary),You can use the Myura “アンナミューラ（仮）” for 30 days.,Usable for 3 days,0,0,20003
+1300253,PD130025,Anna Myura (Temporary),You can use the Myura “アンナミューラ（仮）” for 30 days.,Usable for 7 days,0,0,20007
+1300254,PD130025,Anna Myura (Temporary),You can use the Myura “アンナミューラ（仮）” for 30 days.,Usable for 30 days,0,0,20030
+1300255,PD130025,Anna Myura (Temporary),You can use the Myura “アンナミューラ（仮）” for 30 days.,Usable for 90 days,0,0,20090
+1300256,PD130025,Anna Myura (Temporary),You can use the Myura “アンナミューラ（仮）” for 30 days.,Usable for 180 days,0,0,20180
+1300257,PD130025,Anna Myura (Temporary),You can use the Myura “アンナミューラ（仮）” for 30 days.,Usable for 365 days,0,0,20365
+1400041,PD140004,Undertaker,You can use the Spirit “アンダーテイカー” for 30 days.,Usable for 1 day,0,0,20001
+1400042,PD140004,Undertaker,You can use the Spirit “アンダーテイカー” for 30 days.,Usable for 3 days,0,0,20003
+1400043,PD140004,Undertaker,You can use the Spirit “アンダーテイカー” for 30 days.,Usable for 7 days,0,0,20007
+1400044,PD140004,Undertaker,You can use the Spirit “アンダーテイカー” for 30 days.,Usable for 30 days,0,0,20030
+1400045,PD140004,Undertaker,You can use the Spirit “アンダーテイカー” for 30 days.,Usable for 90 days,0,0,20090
+1400046,PD140004,Undertaker,You can use the Spirit “アンダーテイカー” for 30 days.,Usable for 180 days,0,0,20180
+1400047,PD140004,Undertaker,You can use the Spirit “アンダーテイカー” for 30 days.,Usable for 365 days,0,0,20365
+1400091,PD140009,Hellhound,You can use the Spirit “ヘルハウンド” for 30 days.,Usable for 1 day,0,0,20001
+1400092,PD140009,Hellhound,You can use the Spirit “ヘルハウンド” for 30 days.,Usable for 3 days,0,0,20003
+1400093,PD140009,Hellhound,You can use the Spirit “ヘルハウンド” for 30 days.,Usable for 7 days,0,0,20007
+1400094,PD140009,Hellhound,You can use the Spirit “ヘルハウンド” for 30 days.,Usable for 30 days,0,0,20030
+1400095,PD140009,Hellhound,You can use the Spirit “ヘルハウンド” for 30 days.,Usable for 90 days,0,0,20090
+1400096,PD140009,Hellhound,You can use the Spirit “ヘルハウンド” for 30 days.,Usable for 180 days,0,0,20180
+1400097,PD140009,Hellhound,You can use the Spirit “ヘルハウンド” for 30 days.,Usable for 365 days,0,0,20365
+1400161,PD140016,Apache,You can use the Spirit “アパッチ” for 30 days.,Usable for 1 day,0,0,20001
+1400162,PD140016,Apache,You can use the Spirit “アパッチ” for 30 days.,Usable for 3 days,0,0,20003
+1400163,PD140016,Apache,You can use the Spirit “アパッチ” for 30 days.,Usable for 7 days,0,0,20007
+1400164,PD140016,Apache,You can use the Spirit “アパッチ” for 30 days.,Usable for 30 days,0,0,20030
+1400165,PD140016,Apache,You can use the Spirit “アパッチ” for 30 days.,Usable for 90 days,0,0,20090
+1400166,PD140016,Apache,You can use the Spirit “アパッチ” for 30 days.,Usable for 180 days,0,0,20180
+1400167,PD140016,Apache,You can use the Spirit “アパッチ” for 30 days.,Usable for 365 days,0,0,20365
+3102701,PD310270,Classic Uniform,Male students can use the classic uniform for 30 days.,Usable for 1 day,1,0,20001
+3102711,PD310271,Purple School Jacket,Male students can use the purple school jacket for 30 days.,Usable for 1 day,1,0,20001
+3102721,PD310272,Purple School Pants,Male students can use the purple school pants for 30 days.,Usable for 1 day,1,0,20001
+3102731,PD310273,White School Shoes,Male students can use the white school shoes for 30 days.,Usable for 1 day,1,0,20001
+3102741,PD310274,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 1 day,1,0,20001
+3202701,PD320270,Classic Uniform,Female students can use the classic uniform for 30 days.,Usable for 1 day,2,0,20001
+3202711,PD320271,Purple School Jacket,Female students can use the purple school jacket for 30 days.,Usable for 1 day,2,0,20001
+3202721,PD320272,Orange School Skirt,Female students can use the orange school skirt for 30 days.,Usable for 1 day,2,0,20001
+3202731,PD320273,Purple School Shoes,Female students can use the purple school shoes for 30 days.,Usable for 1 day,2,0,20001
+3202741,PD320274,Purple School Hat,Female students can use the purple school hat for 30 days.,Usable for 1 day,2,0,20001
+3102801,PD310280,Modern Uniform,Male students can use the modern uniform for 30 days.,Usable for 1 day,1,0,20001
+3102811,PD310281,Pink School Jacket,Male students can use the pink school jacket for 30 days.,Usable for 1 day,1,0,20001
+3102821,PD310282,Orange School Pants,Male students can use the orange school pants for 30 days.,Usable for 1 day,1,0,20001
+3102831,PD310283,Orange School Shoes,Male students can use the orange school shoes for 30 days.,Usable for 1 day,1,0,20001
+3102841,PD310284,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 1 day,1,0,20001
+3202801,PD320280,Modern Uniform,Female students can use the modern uniform for 30 days.,Usable for 1 day,2,0,20001
+3202811,PD320281,Pink School Jacket,Female students can use the pink school jacket for 30 days.,Usable for 1 day,2,0,20001
+3202821,PD320282,Purple School Skirt,Female students can use the purple school skirt for 30 days.,Usable for 1 day,2,0,20001
+3202831,PD320283,Pink School Shoes,Female students can use the pink school shoes for 30 days.,Usable for 1 day,2,0,20001
+3202841,PD320284,Pink School Hat,Female students can use the pink school hat for 30 days.,Usable for 1 day,2,0,20001
+3102702,PD310270,Classic Uniform,Male students can use the classic uniform for 30 days.,Usable for 3 days,1,0,20003
+3102712,PD310271,Purple School Jacket,Male students can use the purple school jacket for 30 days.,Usable for 3 days,1,0,20003
+3102722,PD310272,Purple School Pants,Male students can use the purple school pants for 30 days.,Usable for 3 days,1,0,20003
+3102732,PD310273,White School Shoes,Male students can use the white school shoes for 30 days.,Usable for 3 days,1,0,20003
+3102742,PD310274,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 3 days,1,0,20003
+3202702,PD320270,Classic Uniform,Female students can use the classic uniform for 30 days.,Usable for 3 days,2,0,20003
+3202712,PD320271,Purple School Jacket,Female students can use the purple school jacket for 30 days.,Usable for 3 days,2,0,20003
+3202722,PD320272,Orange School Skirt,Female students can use the orange school skirt for 30 days.,Usable for 3 days,2,0,20003
+3202732,PD320273,Purple School Shoes,Female students can use the purple school shoes for 30 days.,Usable for 3 days,2,0,20003
+3202742,PD320274,Purple School Hat,Female students can use the purple school hat for 30 days.,Usable for 3 days,2,0,20003
+3102802,PD310280,Modern Uniform,Male students can use the modern uniform for 30 days.,Usable for 3 days,1,0,20003
+3102812,PD310281,Pink School Jacket,Male students can use the pink school jacket for 30 days.,Usable for 3 days,1,0,20003
+3102822,PD310282,Orange School Pants,Male students can use the orange school pants for 30 days.,Usable for 3 days,1,0,20003
+3102832,PD310283,Orange School Shoes,Male students can use the orange school shoes for 30 days.,Usable for 3 days,1,0,20003
+3102842,PD310284,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 3 days,1,0,20003
+3202802,PD320280,Modern Uniform,Female students can use the modern uniform for 30 days.,Usable for 3 days,2,0,20003
+3202812,PD320281,Pink School Jacket,Female students can use the pink school jacket for 30 days.,Usable for 3 days,2,0,20003
+3202822,PD320282,Purple School Skirt,Female students can use the purple school skirt for 30 days.,Usable for 3 days,2,0,20003
+3202832,PD320283,Pink School Shoes,Female students can use the pink school shoes for 30 days.,Usable for 3 days,2,0,20003
+3202842,PD320284,Pink School Hat,Female students can use the pink school hat for 30 days.,Usable for 3 days,2,0,20003
+3102703,PD310270,Classic Uniform,Male students can use the classic uniform for 30 days.,Usable for 7 days,1,0,20007
+3102713,PD310271,Purple School Jacket,Male students can use the purple school jacket for 30 days.,Usable for 7 days,1,0,20007
+3102723,PD310272,Purple School Pants,Male students can use the purple school pants for 30 days.,Usable for 7 days,1,0,20007
+3102733,PD310273,White School Shoes,Male students can use the white school shoes for 30 days.,Usable for 7 days,1,0,20007
+3102743,PD310274,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 7 days,1,0,20007
+3202703,PD320270,Classic Uniform,Female students can use the classic uniform for 30 days.,Usable for 7 days,2,0,20007
+3202713,PD320271,Purple School Jacket,Female students can use the purple school jacket for 30 days.,Usable for 7 days,2,0,20007
+3202723,PD320272,Orange School Skirt,Female students can use the orange school skirt for 30 days.,Usable for 7 days,2,0,20007
+3202733,PD320273,Purple School Shoes,Female students can use the purple school shoes for 30 days.,Usable for 7 days,2,0,20007
+3202743,PD320274,Purple School Hat,Female students can use the purple school hat for 30 days.,Usable for 7 days,2,0,20007
+3102803,PD310280,Modern Uniform,Male students can use the modern uniform for 30 days.,Usable for 7 days,1,0,20007
+3102813,PD310281,Pink School Jacket,Male students can use the pink school jacket for 30 days.,Usable for 7 days,1,0,20007
+3102823,PD310282,Orange School Pants,Male students can use the orange school pants for 30 days.,Usable for 7 days,1,0,20007
+3102833,PD310283,Orange School Shoes,Male students can use the orange school shoes for 30 days.,Usable for 7 days,1,0,20007
+3102843,PD310284,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 7 days,1,0,20007
+3202803,PD320280,Modern Uniform,Female students can use the modern uniform for 30 days.,Usable for 7 days,2,0,20007
+3202813,PD320281,Pink School Jacket,Female students can use the pink school jacket for 30 days.,Usable for 7 days,2,0,20007
+3202823,PD320282,Purple School Skirt,Female students can use the purple school skirt for 30 days.,Usable for 7 days,2,0,20007
+3202833,PD320283,Pink School Shoes,Female students can use the pink school shoes for 30 days.,Usable for 7 days,2,0,20007
+3202843,PD320284,Pink School Hat,Female students can use the pink school hat for 30 days.,Usable for 7 days,2,0,20007
+3102704,PD310270,Classic Uniform,Male students can use the classic uniform for 30 days.,Usable for 30 days,1,0,20030
+3102714,PD310271,Purple School Jacket,Male students can use the purple school jacket for 30 days.,Usable for 30 days,1,0,20030
+3102724,PD310272,Purple School Pants,Male students can use the purple school pants for 30 days.,Usable for 30 days,1,0,20030
+3102734,PD310273,White School Shoes,Male students can use the white school shoes for 30 days.,Usable for 30 days,1,0,20030
+3102744,PD310274,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 30 days,1,0,20030
+3202704,PD320270,Classic Uniform,Female students can use the classic uniform for 30 days.,Usable for 30 days,2,0,20030
+3202714,PD320271,Purple School Jacket,Female students can use the purple school jacket for 30 days.,Usable for 30 days,2,0,20030
+3202724,PD320272,Orange School Skirt,Female students can use the orange school skirt for 30 days.,Usable for 30 days,2,0,20030
+3202734,PD320273,Purple School Shoes,Female students can use the purple school shoes for 30 days.,Usable for 30 days,2,0,20030
+3202744,PD320274,Purple School Hat,Female students can use the purple school hat for 30 days.,Usable for 30 days,2,0,20030
+3102804,PD310280,Modern Uniform,Male students can use the modern uniform for 30 days.,Usable for 30 days,1,0,20030
+3102814,PD310281,Pink School Jacket,Male students can use the pink school jacket for 30 days.,Usable for 30 days,1,0,20030
+3102824,PD310282,Orange School Pants,Male students can use the orange school pants for 30 days.,Usable for 30 days,1,0,20030
+3102834,PD310283,Orange School Shoes,Male students can use the orange school shoes for 30 days.,Usable for 30 days,1,0,20030
+3102844,PD310284,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 30 days,1,0,20030
+3202804,PD320280,Modern Uniform,Female students can use the modern uniform for 30 days.,Usable for 30 days,2,0,20030
+3202814,PD320281,Pink School Jacket,Female students can use the pink school jacket for 30 days.,Usable for 30 days,2,0,20030
+3202824,PD320282,Purple School Skirt,Female students can use the purple school skirt for 30 days.,Usable for 30 days,2,0,20030
+3202834,PD320283,Pink School Shoes,Female students can use the pink school shoes for 30 days.,Usable for 30 days,2,0,20030
+3202844,PD320284,Pink School Hat,Female students can use the pink school hat for 30 days.,Usable for 30 days,2,0,20030
+3102705,PD310270,Classic Uniform,Male students can use the classic uniform for 30 days.,Usable for 90 days,1,0,20090
+3102715,PD310271,Purple School Jacket,Male students can use the purple school jacket for 30 days.,Usable for 90 days,1,0,20090
+3102725,PD310272,Purple School Pants,Male students can use the purple school pants for 30 days.,Usable for 90 days,1,0,20090
+3102735,PD310273,White School Shoes,Male students can use the white school shoes for 30 days.,Usable for 90 days,1,0,20090
+3102745,PD310274,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 90 days,1,0,20090
+3202705,PD320270,Classic Uniform,Female students can use the classic uniform for 30 days.,Usable for 90 days,2,0,20090
+3202715,PD320271,Purple School Jacket,Female students can use the purple school jacket for 30 days.,Usable for 90 days,2,0,20090
+3202725,PD320272,Orange School Skirt,Female students can use the orange school skirt for 30 days.,Usable for 90 days,2,0,20090
+3202735,PD320273,Purple School Shoes,Female students can use the purple school shoes for 30 days.,Usable for 90 days,2,0,20090
+3202745,PD320274,Purple School Hat,Female students can use the purple school hat for 30 days.,Usable for 90 days,2,0,20090
+3102805,PD310280,Modern Uniform,Male students can use the modern uniform for 30 days.,Usable for 90 days,1,0,20090
+3102815,PD310281,Pink School Jacket,Male students can use the pink school jacket for 30 days.,Usable for 90 days,1,0,20090
+3102825,PD310282,Orange School Pants,Male students can use the orange school pants for 30 days.,Usable for 90 days,1,0,20090
+3102835,PD310283,Orange School Shoes,Male students can use the orange school shoes for 30 days.,Usable for 90 days,1,0,20090
+3102845,PD310284,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 90 days,1,0,20090
+3202805,PD320280,Modern Uniform,Female students can use the modern uniform for 30 days.,Usable for 90 days,2,0,20090
+3202815,PD320281,Pink School Jacket,Female students can use the pink school jacket for 30 days.,Usable for 90 days,2,0,20090
+3202825,PD320282,Purple School Skirt,Female students can use the purple school skirt for 30 days.,Usable for 90 days,2,0,20090
+3202835,PD320283,Pink School Shoes,Female students can use the pink school shoes for 30 days.,Usable for 90 days,2,0,20090
+3202845,PD320284,Pink School Hat,Female students can use the pink school hat for 30 days.,Usable for 90 days,2,0,20090
+3102706,PD310270,Classic Uniform,Male students can use the classic uniform for 30 days.,Usable for 180 days,1,0,20180
+3102716,PD310271,Purple School Jacket,Male students can use the purple school jacket for 30 days.,Usable for 180 days,1,0,20180
+3102726,PD310272,Purple School Pants,Male students can use the purple school pants for 30 days.,Usable for 180 days,1,0,20180
+3102736,PD310273,White School Shoes,Male students can use the white school shoes for 30 days.,Usable for 180 days,1,0,20180
+3102746,PD310274,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 180 days,1,0,20180
+3202706,PD320270,Classic Uniform,Female students can use the classic uniform for 30 days.,Usable for 180 days,2,0,20180
+3202716,PD320271,Purple School Jacket,Female students can use the purple school jacket for 30 days.,Usable for 180 days,2,0,20180
+3202726,PD320272,Orange School Skirt,Female students can use the orange school skirt for 30 days.,Usable for 180 days,2,0,20180
+3202736,PD320273,Purple School Shoes,Female students can use the purple school shoes for 30 days.,Usable for 180 days,2,0,20180
+3202746,PD320274,Purple School Hat,Female students can use the purple school hat for 30 days.,Usable for 180 days,2,0,20180
+3102806,PD310280,Modern Uniform,Male students can use the modern uniform for 30 days.,Usable for 180 days,1,0,20180
+3102816,PD310281,Pink School Jacket,Male students can use the pink school jacket for 30 days.,Usable for 180 days,1,0,20180
+3102826,PD310282,Orange School Pants,Male students can use the orange school pants for 30 days.,Usable for 180 days,1,0,20180
+3102836,PD310283,Orange School Shoes,Male students can use the orange school shoes for 30 days.,Usable for 180 days,1,0,20180
+3102846,PD310284,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 180 days,1,0,20180
+3202806,PD320280,Modern Uniform,Female students can use the modern uniform for 30 days.,Usable for 180 days,2,0,20180
+3202816,PD320281,Pink School Jacket,Female students can use the pink school jacket for 30 days.,Usable for 180 days,2,0,20180
+3202826,PD320282,Purple School Skirt,Female students can use the purple school skirt for 30 days.,Usable for 180 days,2,0,20180
+3202836,PD320283,Pink School Shoes,Female students can use the pink school shoes for 30 days.,Usable for 180 days,2,0,20180
+3202846,PD320284,Pink School Hat,Female students can use the pink school hat for 30 days.,Usable for 180 days,2,0,20180
+3102707,PD310270,Classic Uniform,Male students can use the classic uniform for 30 days.,Usable for 365 days,1,0,20365
+3102717,PD310271,Purple School Jacket,Male students can use the purple school jacket for 30 days.,Usable for 365 days,1,0,20365
+3102727,PD310272,Purple School Pants,Male students can use the purple school pants for 30 days.,Usable for 365 days,1,0,20365
+3102737,PD310273,White School Shoes,Male students can use the white school shoes for 30 days.,Usable for 365 days,1,0,20365
+3102747,PD310274,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 365 days,1,0,20365
+3202707,PD320270,Classic Uniform,Female students can use the classic uniform for 30 days.,Usable for 365 days,2,0,20365
+3202717,PD320271,Purple School Jacket,Female students can use the purple school jacket for 30 days.,Usable for 365 days,2,0,20365
+3202727,PD320272,Orange School Skirt,Female students can use the orange school skirt for 30 days.,Usable for 365 days,2,0,20365
+3202737,PD320273,Purple School Shoes,Female students can use the purple school shoes for 30 days.,Usable for 365 days,2,0,20365
+3202747,PD320274,Purple School Hat,Female students can use the purple school hat for 30 days.,Usable for 365 days,2,0,20365
+3102807,PD310280,Modern Uniform,Male students can use the modern uniform for 30 days.,Usable for 365 days,1,0,20365
+3102817,PD310281,Pink School Jacket,Male students can use the pink school jacket for 30 days.,Usable for 365 days,1,0,20365
+3102827,PD310282,Orange School Pants,Male students can use the orange school pants for 30 days.,Usable for 365 days,1,0,20365
+3102837,PD310283,Orange School Shoes,Male students can use the orange school shoes for 30 days.,Usable for 365 days,1,0,20365
+3102847,PD310284,School Hat ???,Male students can use the school hat - ??? for 30 days.,Usable for 365 days,1,0,20365
+3202807,PD320280,Modern Uniform,Female students can use the modern uniform for 30 days.,Usable for 365 days,2,0,20365
+3202817,PD320281,Pink School Jacket,Female students can use the pink school jacket for 30 days.,Usable for 365 days,2,0,20365
+3202827,PD320282,Purple School Skirt,Female students can use the purple school skirt for 30 days.,Usable for 365 days,2,0,20365
+3202837,PD320283,Pink School Shoes,Female students can use the pink school shoes for 30 days.,Usable for 365 days,2,0,20365
+3202847,PD320284,Pink School Hat,Female students can use the pink school hat for 30 days.,Usable for 365 days,2,0,20365
+1100241,PD110024,Stinger Blaze,You can use the Blade “スティンガーブレイズ” for 30 days.,Usable for 1 day,0,0,20001
+1200171,PD120017,Taurus Gauntlets,You can use the Glove “タウロスギア” for 30 days.,Usable for 1 day,0,0,20001
+1300231,PD130023,Pink Serpent,You can use the Myura “ピンクサーペント” for 30 days.,Usable for 1 day,0,0,20001
+1400211,PD140021,Genocide,You can use the Spirit “ジェノサイド” for 30 days.,Usable for 1 day,0,0,20001
+1100242,PD110024,Stinger Blaze,You can use the Blade “スティンガーブレイズ” for 30 days.,Usable for 3 days,0,0,20003
+1200172,PD120017,Taurus Gauntlets,You can use the Glove “タウロスギア” for 30 days.,Usable for 3 days,0,0,20003
+1300232,PD130023,Pink Serpent,You can use the Myura “ピンクサーペント” for 30 days.,Usable for 3 days,0,0,20003
+1400212,PD140021,Genocide,You can use the Spirit “ジェノサイド” for 30 days.,Usable for 3 days,0,0,20003
+1100243,PD110024,Stinger Blaze,You can use the Blade “スティンガーブレイズ” for 30 days.,Usable for 1 week,0,0,21001
+1200173,PD120017,Taurus Gauntlets,You can use the Glove “タウロスギア” for 30 days.,Usable for 1 week,0,0,21001
+1300233,PD130023,Pink Serpent,You can use the Myura “ピンクサーペント” for 30 days.,Usable for 1 week,0,0,21001
+1400213,PD140021,Genocide,You can use the Spirit “ジェノサイド” for 30 days.,Usable for 1 week,0,0,21001
+1100244,PD110024,Stinger Blaze,You can use the Blade “スティンガーブレイズ” for 30 days.,Usable for 30 days,0,0,20030
+1200174,PD120017,Taurus Gauntlets,You can use the Glove “タウロスギア” for 30 days.,Usable for 30 days,0,0,20030
+1300234,PD130023,Pink Serpent,You can use the Myura “ピンクサーペント” for 30 days.,Usable for 30 days,0,0,20030
+1400214,PD140021,Genocide,You can use the Spirit “ジェノサイド” for 30 days.,Usable for 30 days,0,0,20030
+1100245,PD110024,Stinger Blaze,You can use the Blade “スティンガーブレイズ” for 30 days.,Usable for 3 months,0,0,22003
+1200175,PD120017,Taurus Gauntlets,You can use the Glove “タウロスギア” for 30 days.,Usable for 3 months,0,0,22003
+1300235,PD130023,Pink Serpent,You can use the Myura “ピンクサーペント” for 30 days.,Usable for 3 months,0,0,22003
+1400215,PD140021,Genocide,You can use the Spirit “ジェノサイド” for 30 days.,Usable for 3 months,0,0,22003
+1100246,PD110024,Stinger Blaze,You can use the Blade “スティンガーブレイズ” for 30 days.,Usable for 6 months,0,0,22006
+1200176,PD120017,Taurus Gauntlets,You can use the Glove “タウロスギア” for 30 days.,Usable for 6 months,0,0,22006
+1300236,PD130023,Pink Serpent,You can use the Myura “ピンクサーペント” for 30 days.,Usable for 6 months,0,0,22006
+1400216,PD140021,Genocide,You can use the Spirit “ジェノサイド” for 30 days.,Usable for 6 months,0,0,22006
+1100247,PD110024,Stinger Blaze,You can use the Blade “スティンガーブレイズ” for 30 days.,Usable for 1 year,0,0,23001
+1200177,PD120017,Taurus Gauntlets,You can use the Glove “タウロスギア” for 30 days.,Usable for 1 year,0,0,23001
+1300237,PD130023,Pink Serpent,You can use the Myura “ピンクサーペント” for 30 days.,Usable for 1 year,0,0,23001
+1400217,PD140021,Genocide,You can use the Spirit “ジェノサイド” for 30 days.,Usable for 1 year,0,0,23001

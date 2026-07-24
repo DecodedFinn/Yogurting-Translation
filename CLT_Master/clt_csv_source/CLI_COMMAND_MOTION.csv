@@ -1,0 +1,5 @@
+index,motion_id,command,value
+0,10001,/fail,50
+1,10002,/glad,51
+2,10003,/taunt,52
+3,10004,/happy,53

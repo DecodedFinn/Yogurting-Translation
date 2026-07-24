@@ -1,0 +1,105 @@
+index,fmt,af8,id_len,id_code,s1,s2
+0,A,7,7,Eng0201,,A wonderful memory of school life has been recorded.
+1,B,105,7,Eng0202,,There is not enough free space to save the screenshot.
+2,B,201,7,Srv0001,Communication Ended,Communication with the server has been disconnected.
+3,B,202,7,Srv0002,Communication Failed,Cannot communicate with the server.
+4,B,203,7,Srv0003,Communication Disconnected,Communication was disconnected because you connected from another location.
+5,B,207,7,Srv0004,Communication Disconnected,"We apologize, but the communication has been disconnected."
+6,B,204,7,SVr0101,,Normal
+7,B,205,7,Svr0102,,Crowded
+8,B,206,7,Svr0103,Notice,"The game cannot be run because the game client version is different.<br>Please download and install the latest version, then run it again.($1)"
+9,B,301,7,Log0003,Disconnect Existing Connection,You are connected elsewhere. Disconnect the current connection?
+10,B,302,7,Log0022,Character Will Be Deleted,Creating a new character will delete the existing character. Continue?
+11,B,303,7,Log0004,,<br><br>Welcome to Yogurting!<br><br>Please enter your Attraction ID<br>and password!
+12,B,304,7,Log0023,,You are already connected. Disconnect and log in?
+13,B,305,7,Log0001,,The Attraction ID or password is <br>incorrect.<br>Please check again.
+14,B,306,7,Log0002,,The Attraction ID or password is <br>incorrect.<br>Please check again.
+15,B,307,7,Log0024,,"The world is currently crowded,<br>so responses are delayed."
+16,B,308,7,Log0025,,Communication could not be established.<br>Please wait a while and try again.
+17,B,309,7,Log0005,,"Currently, only testers can connect."
+18,B,310,7,Log0006,,"The trial period has ended. If you used simple registration, please complete full registration. If you registered a trial ID before 2006/07/12, please create a new ID again."
+19,B,311,7,Log0007,,This account is being deleted<br>and cannot be used.
+20,B,312,7,Log0008,,Cannot communicate with the world.
+21,B,313,7,Log0009,,There is no response.<br>The connection is delayed.
+22,B,314,7,Log0010,,There are currently no<br>available worlds.
+23,B,315,7,Log0011,,Communication with the<br>game server has been disconnected.
+24,B,316,7,Log0012,,Cannot communicate with the<br>game server.
+25,B,317,7,Log0013,,Cannot communicate with the<br>world.
+26,B,318,7,Log0014,,"Wait!<br>If you create a new character,<br>this character will be deleted!!"
+27,B,319,7,Log0015,,$1 people are waiting for server communication.
+28,B,320,7,Log0016,,"At your request, your Attraction ID<br>is currently being verified.<br>Please wait a while and connect again."
+29,B,321,7,Log0017,,"To play Yogurting, please log in from the official website first."
+30,B,322,7,Log0018,,The password was entered incorrectly<br>5 or more times!<br>Please log in on the Yogurting official website<br>and check.
+31,B,323,7,Log0019,,"Unfortunately, users under 12<br>cannot connect!<br>Yogurting is available<br>once you turn 12!"
+32,B,324,7,Log0020,,You can play Yogurting<br>if your guardian gives consent.<br>Please connect to the official website<br>and check.
+33,B,325,7,Log0021,,An unknown problem<br>has occurred.<br>Please connect to the official website<br>and contact the Web Help Desk.
+34,B,326,7,Log0026,Waiting to Connect,$1 people are currently waiting to connect.
+35,B,327,7,Log0027,,<br><br><br><br>Connecting to<br>Yogurting.
+36,B,337,7,Log0028,Waiting to Connect,Estimated connection time is $1 seconds.
+37,B,338,7,Log0029,Cannot Connect,You cannot connect after 10:00 PM.
+38,B,328,7,Log0101,,"The game fee is unpaid, or the usage period has expired."
+39,B,329,7,Log0102,,This ID is unauthenticated or suspended.
+40,B,330,7,Log0103,,This ID is unauthenticated or suspended.
+41,B,331,7,Log0104,,This ID is unauthenticated or suspended.
+42,B,332,7,Log0105,,Yogurting has entered official service. Please link your Attraction ID at GungHo's Attraction Center.
+43,B,333,7,Log0106,,The beta service has ended. Please wait until the official service begins.
+44,B,334,7,Log0107,,"The trial period has ended. If you used simple registration, please complete full registration. If you registered a trial ID before 2006/07/12, please create a new ID again."
+45,B,335,7,Log0108,,The ID or password is incorrect.
+46,B,336,7,Log0109,,Please change your<br>character name<br>on the homepage.
+47,B,401,10,Create0001,,Failed to create character.
+48,B,402,10,Create0002,,Server connection error.
+49,B,403,10,Create0101,,This name is already in use.
+50,B,404,10,Create0102,,This name cannot be used.
+51,B,405,10,Create0103,,Character names must be 12 characters or fewer.
+52,B,412,10,Create0104,,The character name is fewer than 6 characters.
+53,B,406,10,Create0201,,The date is invalid. Please enter your birthday again.
+54,B,407,10,Create0301,,The phone number is invalid. Please check again.
+55,B,408,10,Create0302,,Please enter only 4 digits.
+56,B,409,10,Create0303,,This number cannot be used.
+57,B,410,10,Create0304,,An unknown error has occurred.
+58,B,411,10,Create0305,,Failed to delete character.
+59,B,501,7,End0001,Exit Yogurting,Do you really want to exit?
+60,B,511,7,Esc0001,,The “/escape” command cannot be used during an episode. Please use the “Return to School” function.
+61,B,512,7,Esc0002,Escape,"If you use the “/escape” command, you will move to the nearest warp point when reconnecting."
+62,B,513,7,Esc0003,,Escape request canceled.
+63,B,601,10,M_Info0001,,$1 TAFF
+64,B,602,10,M_Info0002,,$1 Level
+65,B,611,8,Club0001,,[Club][Create] This name cannot be used.
+66,B,612,8,Club0301,,[Club] That target cannot be selected.
+67,B,613,8,Club0302,,[Club][Expel Member] Please select a target from the list.
+68,B,614,8,Club0303,,[Club][Appoint Vice President] Please select a target from the list.
+69,B,615,8,Club0304,,[Club][Transfer President] Please select a target from the list.
+70,B,616,8,Club0401,,[Club][Message] There is no target.
+71,B,617,8,Club0501,,President
+72,B,618,8,Club0114,,[Club][Invite] The phone number is incorrect.
+73,B,619,8,Club0113,,[Club][Invite] This target is blocking calls. Please invite them after call blocking is removed.
+74,B,620,8,Club0112,,[Club][Invite] You cannot invite yourself.
+75,B,621,8,Club0115,,[Club][Invite] The club has reached its member limit.
+76,B,622,8,Club0204,Leave Club,"If you leave, you cannot join again until 1 week has passed. Leave the club?"
+77,B,623,8,Club0305,Expel Member,Expel $1?
+78,B,624,8,Club0306,Transfer Presidency,Transfer the presidency to $1?
+79,B,625,8,Club0402,Mass Message,You can send $1 more mass messages today. Send a message to all club members?
+80,B,626,8,Club0307,Appoint Vice President,Appoint $1 as vice president?
+81,B,627,8,Club0308,Dismiss Vice President,Remove $1 from vice president?
+82,B,628,8,Club0309,Decline Vice Presidency,Decline the vice presidency?
+83,B,629,8,Club0004,,Club functions are currently unavailable. Please try again later.
+84,B,630,8,Club0005,,You do not belong to a club.
+85,B,631,8,Club0002,,The club has been disbanded.
+86,B,632,8,Club0003,,Club disbandment has been scheduled (scheduled date: $1).
+87,B,633,8,Club0101,,[Club][Invite] Successful.
+88,B,634,8,Club0102,,This target cannot be invited.
+89,B,635,8,Club0103,,[Club][Invite] The target is already a member.
+90,B,636,8,Club0104,,[Club][Invite] The target has left school.
+91,B,637,8,Club0105,,[Club][Invite] The invitation was refused.
+92,B,638,8,Club0106,,[Club][Invite] Cannot invite in the current state.
+93,B,639,8,Club0107,,[Club][Invite] Cannot invite because disbandment has been requested.
+94,B,640,8,Club0108,,[Club][Invite] Failed.
+95,B,641,8,Club0201,,[Club][Leave] Successful.
+96,B,642,8,Club0202,,[Club][Leave] Failed.
+97,B,643,8,Club0203,,[$1] has joined.
+98,B,644,8,Club0310,,You have been expelled from [$1].
+99,B,645,8,Club0205,,You have left [$1].
+100,B,646,8,Club0311,,[Club][Expel] Failed.
+101,B,647,8,Club0312,,Expelled $1.
+102,B,648,8,Club0313,,$1 has been appointed as the new club president.
+103,B,649,8,Club0314,,[Club] Failed to transfer the presidency.

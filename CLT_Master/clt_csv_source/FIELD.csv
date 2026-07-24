@@ -1,0 +1,458 @@
+index,field_id,code,name
+0,1,SF001001,Estiva Outdoors
+1,2,SF001002,Estiva 1F
+2,3,SF001003,Estiva 2F
+3,4,FD000100,Library
+4,5,FD000101,Library Basement
+5,6,FD000102,Dusty Library
+6,7,FD000103,World Tree Root Maze
+7,8,FD000104,Library Secret Passage
+8,9,FD000105,Dorothy's Room
+9,10,FD000201,Greenhouse Entrance
+10,11,FD000202,Path to the Center
+11,12,FD000203,Mutant Flower
+12,13,FD000204,High Baraus Forest 1
+13,14,FD000205,High Baraus Forest 2
+14,15,FD000300,Underground Secret Passage
+15,16,FD000301,Teacher Bianca's Mansion
+16,17,FD000400,Teacher Bianca's Mansion
+17,18,FD000501,Estiva 1F
+18,19,FD000601,Estiva 1F
+19,20,FD000701,Estiva 2F
+20,21,FD000702,Mutant Flower
+21,22,FD000801,Estiva 3F
+22,24,SF001004,Estiva 3F
+23,25,SF001005,Estiva Basement
+24,26,SF001006,Estiva Backyard
+25,27,SF001007,Estiva Bus Stop
+26,28,FD001001,Estiva 2F
+27,29,FD001501,Estiva Basement
+28,30,FD001502,Underground waterway
+29,31,FD001701,In Front of the School Gate
+30,32,FD002401,"In Front of the School Gate, Day"
+31,33,FD002402,"In Front of the School Gate, Nig"
+32,34,FD000901,Library Basement
+33,35,FD000902,Dusty Library
+34,36,FD000903,Snail Waterway
+35,37,FD000904,Antique Altar
+36,38,FD001101,Flooded School Building 2F
+37,39,FD001201,Underground Secret Passage
+38,40,FD001202,Underground waterway
+39,41,FD001301,World Tree Root Maze
+40,42,FD001302,Dangerous Underground Waterway
+41,43,FD001303,Collapsed Underground Waterway
+42,44,FD001601,Dusty Library
+43,45,FD001602,High Baraus Forest
+44,46,FD001801,Library Basement
+45,47,FD001901,High Baraus Forest 1
+46,48,FD001902,Mutant Flower
+47,49,FD001903,High Baraus Forest 2
+48,50,FD002001,"School Back Mountain, Evening"
+49,51,FD002002,"School Back Mountain, Midnight"
+50,52,FD002101,Library Basement 1
+51,53,FD002102,Library Basement 2
+52,54,FD002103,Dusty Library
+53,55,FD002104,Return Library Basement
+54,56,FD002105,Return Library
+55,57,FD002201,Library Basement
+56,58,FD002202,Dusty Library
+57,59,FD002203,World Tree Root Maze
+58,60,FD002301,Backyard Full of Sheep
+59,61,FD001802,Dusty Library
+60,62,FD002701,"School Backyard, Evening"
+61,63,FD002702,Greenhouse Entrance
+62,64,FD002901,In Front of the School Gate
+63,65,FD002902,Underground Secret Passage
+64,66,FD002903,"In Front of the School Gate, Eve"
+65,67,FD003001,Greenhouse
+66,68,FD003002,School Back Mountain
+67,69,FD001401,Scarecrow Road 1
+68,70,FD001402,Scarecrow Road 2
+69,71,FD001403,Scarecrow Road 3
+70,72,FD001404,Scarecrow Road 4
+71,73,FD001201,Underground Secret Passage
+72,74,FD001202,Snail Waterway
+73,75,FD002801,Mutant Flower
+74,76,FD002802,Path to the Center
+75,77,FD002803,Grounds
+76,78,FD002501,Path to the Center
+77,79,FD002502,Mutant Flower
+78,80,FD002503,Dangerous Underground Waterway
+79,81,FD002601,Underground waterway
+80,82,FD002602,School Back Mountain
+81,83,FD002603,Snail Waterway
+82,84,FD003101,Cathedral
+83,85,FD003102,Public Cemetery Entrance
+84,86,FD003103,Inside the Public Cemetery
+85,87,FD003104,Mandarin Orange Road
+86,88,FD003201,In Front of the Animal Memorial
+87,89,FD003202,Communal Cemetery
+88,90,SF002001,Yozuki Academy Grounds
+89,91,SF002002,Backyard and the area around the
+90,92,SF002003,Yoizuki Academy 1F
+91,93,SF002004,Yoizuki Academy 2F
+92,94,SF002005,Yoizuki Academy 3F
+93,95,FD003301,Yoizuki Academy 1F
+94,96,FD003401,Yoizuki Academy 1F
+95,97,FD003402,Communal Cemetery
+96,98,FD003601,Around the Chapel
+97,99,FD003602,Around the Public Cemetery
+98,100,FD003603,Around the Crematorium
+99,101,FD003701,Underground waterway
+100,102,FD003801,Yoizuki Academy 3F Hallway
+101,103,FD003901,Public Cemetery 2 Entrance
+102,104,FD003902,Public Cemetery 1
+103,105,FD004001,Yoizuki Academy School Shop
+104,106,FD004101,Yoizuki Academy 2F
+105,107,FD004201,Estiva Backyard
+106,108,FD004301,In Front of the School Gate
+107,109,FD004401,Yoizuki Academy 1F
+108,110,FD004402,Yoizuki Academy 2F
+109,111,FD004501,Underground Cemetery Basement St
+110,112,FD004502,Underground Cemetery Basement St
+111,113,FD004503,Underground Cemetery Secret Gate
+112,114,FD004601,"Public Cemetery, Day"
+113,115,FD004602,Crematorium Entrance
+114,116,FD004603,"Public Cemetery, Night"
+115,117,FD004701,Chapel Front Yard
+116,118,FD004702,Puzzle Cemetery
+117,119,FD004801,In Front of the Chapel
+118,120,FD004802,Public Cemetery 1
+119,121,FD004803,In Front of the School Gate
+120,122,FD004804,Public Cemetery 2 Entrance
+121,123,FD004805,In Front of the Chapel
+122,124,FD004901,Ossuary
+123,125,FD005001,Occult Research Club Room
+124,126,FD005002,Fox Cave Entrance
+125,127,FD005101,Occult Research Club Room
+126,128,FD005102,Fox Cave Entrance
+127,129,FD005103,Fox Shrine Entrance
+128,130,FD005104,Fox Shrine Entrance 2
+129,131,FD005201,Underground waterway
+130,132,FD005202,Underground Waterway 2
+131,133,FD005203,Cycloco's Room
+132,134,FD005301,Underground waterway
+133,135,FD005401,Communal Cemetery
+134,136,FD005402,Public Cemetery 2 Entrance
+135,137,FD005403,Public Cemetery 2 Ossuary
+136,138,FD005404,Public Cemetery 2 Crematorium
+137,139,FD005501,Fox Cave Entrance
+138,140,FD005502,Dead Tree Cave
+139,141,FD005503,Fox Shrine Entrance
+140,142,FD005504,Fox Shrine Entrance
+141,143,FD005601,Yoizuki Academy 1F
+142,144,FD005602,Around the Chapel
+143,145,FD005603,Crematorium Entrance
+144,146,FD005604,Ossuary
+145,147,FD005801,Estiva Breeding Pen
+146,148,FD005802,Greenhouse Entrance
+147,149,FD005803,In Front of the Greenhouse Gate
+148,150,FD005804,Greenhouse Secret Passage
+149,151,FD005901,Estiva 1F
+150,152,FD005902,School Back Mountain
+151,153,SF002006,Yoizuki Academy School Shop
+152,154,FD005701,Estiva Backyard
+153,155,FD005702,Underground Shelter
+154,156,FD006001,High Baraus Forest
+155,157,FD006002,Puzzle Waterway
+156,158,FD006003,Underground Drainage Channel
+157,159,FD003501,Yoitsuki Academy Bus Stop
+158,160,FD003502,Underground waterway
+159,161,FD005105,Fox Shrine Entrance 3
+160,162,SF002007,Yoitsuki Academy Bus Stop
+161,163,FD006101,Yoizuki Academy 1F
+162,164,SF002008,Occult Research Club Room
+163,165,SF002009,Old School Building Outdoors
+164,166,SF002010,Old School Building 1F
+165,167,FD006501,Library
+166,168,FD006502,Library Basement
+167,169,FD006601,Estiva 2F
+168,170,FD006602,Estiva 3F
+169,171,FD007001,Yoizuki Academy 1F
+170,172,FD006801,Yozuki Academy Grounds
+171,173,FD006901,Yozuki Academy Grounds
+172,174,FD007101,Yoizuki Academy Chapel
+173,175,FD007102,Yoizuki Academy 3F
+174,176,FD007103,Yoizuki Academy 2F
+175,177,FD006201,Grounds
+176,178,FD007201,Yoizuki Academy Chapel
+177,179,FD007301,Yoizuki Academy Chapel
+178,180,FD007302,Yoizuki Academy Cemetery
+179,181,FD006301,Underground waterway
+180,182,FD006302,Destroyed Underground Waterway
+181,183,FD007601,Estiva 1F
+182,184,FD007602,Estiva 2F
+183,185,FD007901,Estiva 2F
+184,186,FD007501,Yoizuki Academy 2F
+185,187,FD007502,Communal Cemetery
+186,188,FD008001,Yoizuki Academy 1F
+187,189,FD007701,Cemetery Entrance
+188,190,FD007702,Inside the Cemetery
+189,191,FD009301,Old School Building Backyard
+190,192,FD006401,Underground Waterway 2
+191,193,FD006402,Library Underground Waterway
+192,194,FD006403,A Corner of the Library Basement
+193,195,FD006404,In Front of the Forbidden Gate
+194,196,FD009001,Estiva Backyard
+195,8001,FD800101,Test Field 1-1
+196,8002,FD800102,Test Field 1-2
+197,8003,FD800103,Test Field 1-3
+198,8004,FD800104,Test Field 1-4
+199,8005,FD800105,Test Field 1-5
+200,8006,FD800201,Test Field 2-1
+201,8007,FD800202,Test Field 2-2
+202,8008,FD800203,Test Field 2-3
+203,8009,FD800204,Test Field 2-4
+204,8010,FD800205,Test Field 2-5
+205,8011,FD800301,Test Field 3-1
+206,8012,FD800302,Test Field 3-2
+207,8013,FD800303,Test Field 3-3
+208,8014,FD800304,Test Field 3-4
+209,8015,FD800305,Test Field 3-5
+210,8016,FD800401,Test Field 4-1
+211,8017,FD800402,Test Field 4-2
+212,8018,FD800403,Test Field 4-3
+213,8019,FD800404,Test Field 4-4
+214,8020,FD800405,Test Field 4-5
+215,8021,FD810001,Weapon Test Field
+216,197,FD011401,Underground waterway
+217,198,FD011501,Underground waterway
+218,199,FD012101,Tutorial
+219,200,FD012201,Tutorial
+220,201,FD012301,Tutorial
+221,202,FD012401,Tutorial
+222,203,FD012501,Tutorial
+223,204,FD012601,Tutorial
+224,205,FD012701,Tutorial
+225,206,FD012801,Tutorial
+226,207,SF001008,Estiva World Tree
+227,208,SF002011,Yoizuki Academy World Tree
+228,209,FD009201,Old School Building 2F
+229,210,FD009202,Old School Building 1F
+230,211,FD007801,Yoizuki Academy 3F
+231,212,FD007802,Near the World Tree
+232,213,FD007803,Crematorium
+233,214,FD007804,Near the World Tree 2
+234,215,FD007805,Behind the World Tree
+235,216,SF002012,Old School Building 1F
+236,217,SF002013,Old School Building 2F
+237,218,SF002014,Old School Building 2F
+238,219,FD007401,Yoizuki Academy Backyard Garden
+239,220,FD007402,Yoizuki Academy World Tree
+240,221,FD006701,"World Tree, Morning"
+241,222,FD006702,"Greenhouse Passage, Day"
+242,223,FD006703,"World Tree, Evening"
+243,224,FD008101,Underground waterway
+244,225,FD008102,Greenhouse
+245,226,FD008103,Underground waterway
+246,227,FD008104,Secret Laboratory
+247,228,FD008105,Bomb Room
+248,229,FD010901,Old School Building 1F
+249,230,FD010902,Old School Building 2F
+250,231,FD009601,Underground Waterway Entrance
+251,232,FD009602,Underground waterway
+252,233,FD010401,Old-Style Restroom
+253,234,FD009801,Infirmary
+254,235,FD010101,Old School Building
+255,236,FD009701,Library Basement
+256,237,FD009702,Underground waterway
+257,238,FD011101,Underground waterway
+258,239,FD008301,Old School Building 1F
+259,240,FD008302,Old School Building 2F
+260,241,FD008303,Bridge of Wishes
+261,242,FD013001,Old School Courtyard
+262,243,FD013002,Chapel Front Yard
+263,244,FD013901,Breeding Pen
+264,245,FD013201,Bomb Field
+265,246,FD013501,Yoizuki Academy 2F
+266,247,FD013502,Yoizuki Academy 3F
+267,248,FD013401,School Shop
+268,249,FD013402,Yoizuki Academy Incinerator
+269,250,FD013403,Old School Building Breeding Pen
+270,251,FD014101,Old School Building 1F
+271,252,FD013101,Old School Building 1F (Present)
+272,253,FD013102,Old School Building 2F (Past)
+273,254,FD013103,Old School Building 1F (Present)
+274,255,FD013104,Old School Building 1F (Past)
+275,256,FD014001,Cemetery
+276,257,FD009401,Old School Building 2F
+277,258,FD009402,Old School Building 1F
+278,259,FD008401,Old School Building 2F
+279,260,FD008402,Old School Building 1F
+280,261,FD008403,Bridge of Wishes
+281,262,FD008501,Old School Building 2F
+282,263,FD008502,Old School Building 1F
+283,264,FD008503,Old School Building Basement
+284,265,FD009901,Library Basement
+285,266,FD010001,Estiva School Gate
+286,267,FD010002,Underground waterway
+287,268,FD010601,Old School Building 1F
+288,269,FD010602,Old School Building Basement
+289,270,FD010603,Underground Air-Raid Shelter
+290,271,FD014201,Fantasy World
+291,272,SF001009,Estiva World Tree
+292,273,SF002015,Yoizuki Academy World Tree
+293,274,FD010701,Greenhouse
+294,275,FD010702,Four-Dimensional Classroom
+295,276,FD010703,Greenhouse
+296,277,FD014301,Old School Building 1F
+297,278,FD014302,Old School Building 2F
+298,279,FD008701,Old School Courtyard
+299,280,FD008702,Old School Building 1F
+300,281,FD008703,Old School Building Basement 1F
+301,282,FD008704,Old School Building Basement 2F
+302,283,FD008705,Old School Building Basement 2F
+303,284,FD010301,Yoizuki Academy Outdoors
+304,285,FD013301,Old School Building 2F
+305,286,FD013302,Old School Building 1F
+306,287,FD009101,Estiva Pool
+307,288,FD009102,4D Classroom
+308,289,FD009103,Greenhouse
+309,290,FD010201,Old School Courtyard
+310,291,FD010202,The World Tree
+311,292,FD013701,In Front of Yoizuki Academy Chap
+312,293,FD008601,Dirty Old School Building 1F
+313,294,FD008602,Dirty Old School Building 2F
+314,295,FD008603,Clean Old School Building 1F
+315,296,FD008604,Clean Old School Building 2F
+316,297,FD008605,Dirty Old School Building 1F
+317,298,FD008201,Secret Underground Waterway
+318,299,FD008202,Estiva Basement
+319,300,FD008203,Estiva 1F
+320,301,FD011701,Yozuki Academy Grounds
+321,302,FD011702,Mecha Dorothy's Underground Wate
+322,303,FD013601,Training Field 1
+323,304,FD013602,Training Field 2
+324,305,FD014401,Estiva Basement
+325,306,FD014402,4D Classroom
+326,307,FD014403,Estiva Basement
+327,308,FD011901,Yoizuki Academy 1F
+328,309,FD011902,Yoizuki Academy Outdoors
+329,310,FD014501,Secret Underground Waterway
+330,311,FD014502,PTA Yoizuki Academy 1F
+331,312,FD014701,Yoizuki Academy 1F
+332,313,FD014702,Yozuki Academy Grounds
+333,314,FD014601,PTA Underground Waterway
+334,315,SF000001,Episode Waiting Room
+335,316,FD015001,Library Basement
+336,317,FD015002,4D Library
+337,318,FD015003,Gatekeeper
+338,319,FD015201,Underground waterway
+339,320,FD015202,Underground waterway
+340,321,FD015203,Underground Waterway Room
+341,322,FD015204,Yoizuki Academy Breeding Pen
+342,323,FD015401,Underground waterway
+343,324,FD015402,Inside the Factory
+344,325,FD014801,Greenhouse
+345,326,FD014802,Library
+346,327,FD015101,Underground waterway
+347,328,FD015102,Underground waterway
+348,329,FD015103,Underground waterway
+349,330,FD015104,World Tree Hill
+350,331,FD014901,Ossuary
+351,332,FD014902,Fox Cave Entrance
+352,333,FD014903,Fox Cave Island
+353,334,LW010001,Estiva Waiting Room
+354,335,LW010002,Yoizuki Academy Waiting Room
+355,336,FD015301,Ossuary
+356,337,FD015302,Occult Research Club Room
+357,338,FD015303,Thousand-Year Fox Cave
+358,339,SF001010,Estiva School Shop
+359,340,FD015501,Estiva Night-Duty Room
+360,341,FD015502,4D Classroom
+361,342,FD015503,4D Classroom
+362,343,FD015701,Cemetery
+363,344,FD015702,Inside the Cave
+364,345,FD015703,Old School Building Basement 2F
+365,346,FD015601,Yoizuki Academy 1F
+366,347,FD015602,Estiva 1F
+367,348,FD015603,Underground Air-Raid Shelter
+368,349,FD015801,Estiva Outdoors
+369,350,FD015802,Shopping District
+370,351,FD015901,Estiva 2F
+371,352,FD015902,Estiva 3F
+372,353,FD015903,Antique Field
+373,354,FD016201,Estiva 1F
+374,355,FD016202,Road to the PTA Headquarters
+375,356,FD016203,Road to the PTA Headquarters
+376,357,FD016204,PTA Grounds
+377,358,FD016205,PTA Headquarters
+378,359,FD015803,Shopping District Union Headquar
+379,360,FD016001,Dead Tree Cave
+380,361,FD016002,Occult Research Club Room
+381,362,FD016003,Fox Shrine Entrance
+382,363,FD016004,Fox Shrine Entrance
+383,364,FD016005,Dorothy's Room
+384,365,FD016501,Thousand-Year Fox Cave
+385,366,FD016502,Estiva Backyard
+386,367,FD016503,Ossuary
+387,368,FD016101,4D Circular Classroom
+388,369,FD016102,4D Space
+389,370,FD016103,4D Circular Space
+390,371,FD016401,Antique Entrance
+391,372,FD016402,Inside the Antique 1
+392,373,FD016403,The World Tree
+393,374,FD016404,4D Classroom
+394,375,FD016405,Inside the Antique 2
+395,376,FD016406,Path to the Core
+396,377,FD016407,Antique Core
+397,378,FD016301,Ossuary
+398,379,FD016302,Student Council Room
+399,380,FD016303,Library Underground Maze 1
+400,381,FD016304,Library Underground Maze 2
+401,382,FD016305,Library Underground Maze 3
+402,383,FD016306,Library Underground Maze 4
+403,384,FD016307,Ancient Girl's Room
+404,385,HF100101,The World Tree
+405,386,HF100201,Dorothy's Room
+406,387,HF100202,Library Secret Passage
+407,388,HF100203,World Tree Root Maze
+408,389,HF100204,Mecha Dorothy's Room
+409,390,HF100205,Trial Room
+410,391,HF100206,Dusty Library
+411,392,HF100301,Greenhouse Entrance
+412,393,HF100302,Path to the Center
+413,394,HF100303,Mutant Flower
+414,395,HF100304,High Baraus Forest
+415,396,HF100305,Forest of Calamity
+416,397,HF100306,Wolf Forest
+417,398,HF200101,The World Tree
+418,399,HF200201,Forked Road
+419,400,HF200202,Crematorium
+420,401,HF200203,Ossuary
+421,402,HF200301,Old School Courtyard
+422,403,HF200302,Strange Old School Building 2F
+423,404,HF200303,Strange Old School Building 1F
+424,405,HF200304,Underground Secret Passage
+425,406,HF200305,Dark Room
+426,407,HF200306,Dark Corridor
+427,408,HF300101,Estiva Underground Waterway
+428,409,HF300102,Yoizuki Underground Waterway
+429,410,HF300103,Underground Waterway Entrance
+430,411,HF300104,Underground Waterway Fork
+431,412,HF300105,Lost Underground Waterway
+432,413,HF300106,Snail Waterway
+433,414,HF300107,Looping Underground Waterway
+434,415,HF300108,Secret Underground Waterway
+435,416,HF300109,Garbage Disposal Site
+436,417,HF300110,Secret Shortcut
+437,418,HF300111,Cycloco's Room
+438,419,HF300112,Croco's Room
+439,420,HF300113,Unopenable Waterway
+440,421,HF300114,Dark Waterway
+441,422,HF300115,Smoke-Screen Waterway
+442,423,HF300116,Dangerous Underground Waterway
+443,424,SF002016,Cathedral
+444,425,HF100401,4D Classroom
+445,426,HF100402,Reverse World Tree
+446,427,HF100403,Wandering 4D Classroom
+447,428,HF100404,Lost Classroom
+448,429,HF100405,Collapsed 4D Classroom
+449,430,HF200401,Chapel Underground Storehouse
+450,431,HF200402,Underground Cemetery Entrance
+451,432,HF200403,Catacombs.
+452,433,HF200404,Underground Cemetery Depths
+453,434,HF200405,Underground Cemetery Secret Gate
+454,435,HF200501,Waterfall Valley Downstream
+455,436,HF200502,Waterfall Valley Upstream
+456,437,HF200503,Giant Waterfall

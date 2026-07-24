@@ -1,0 +1,37 @@
+item_id,code,name,desc,extra,i0,i1,i2
+1,EN000001,Red Crayon,A Fire-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,1,1
+2,EN000002,Red Colored Pencil,A Fire-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,1,2
+3,EN000003,Red Pastel,A Fire-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,1,3
+4,EN000004,Red Watercolor Paint,A Fire-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,1,4
+5,EN000005,Red Acrylic Paint,A Fire-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,1,5
+6,EN000006,Red Oil Paint,A Fire-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,1,6
+7,EN000007,Blue Crayon,A Water-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,2,1
+8,EN000008,Blue Colored Pencil,A Water-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,2,2
+9,EN000009,Blue Pastel,A Water-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,2,3
+10,EN000010,Blue Watercolor Paint,A Water-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,2,4
+11,EN000011,Blue Acrylic Paint,A Water-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,2,5
+12,EN000012,Blue Oil Paint,A Water-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,2,6
+13,EN000013,Green Crayon,A Wood-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,3,1
+14,EN000014,Green Colored Pencil,A Wood-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,3,2
+15,EN000015,Green Pastel,A Wood-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,3,3
+16,EN000016,Green Watercolor Paint,A Wood-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,3,4
+17,EN000017,Green Acrylic Paint,A Wood-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,3,5
+18,EN000018,Green Oil Paint,A Wood-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,3,6
+19,EN000019,Yellow Crayon,A Metal-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,4,1
+20,EN000020,Yellow Colored Pencil,A Metal-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,4,2
+21,EN000021,Yellow Pastel,A Metal-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,4,3
+22,EN000022,Yellow Watercolor Paint,A Metal-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,4,4
+23,EN000023,Yellow Acrylic Paint,A Metal-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,4,5
+24,EN000024,Yellow Oil Paint,A Metal-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,4,6
+25,EN000025,Brown Crayon,A Earth-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,5,1
+26,EN000026,Brown Colored Pencil,A Earth-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,5,2
+27,EN000027,Brown Pastel,A Earth-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,5,3
+28,EN000028,Brown Watercolor Paint,An Earth-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,5,4
+29,EN000029,Brown Acrylic Paint,An Earth-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,5,5
+30,EN000030,Brown Oil Paint,An Earth-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,5,6
+10001,EN010001,Enhancement Guidebook for first-,Enhancement guide for Year 1. It explains the most basic mindset for enhancing gear. It has many dia,Enhance stones,2,0,1
+10002,EN010002,Enhancement Guidebook for second,Enhancement guide for Year 2. It explains the general procedure for enhancing gear. The text is larg,Enhance stones,2,0,2
+10003,EN010003,Enhancement Guidebook for third-,Enhancement guide for Year 3. It contains practical information about enhancing gear. / Used when at,Enhance stones,2,0,3
+10004,EN010004,Enhancement Guidebook for fourth,Enhancement guide for Year 4. It contains applied theories about enhancing gear. / Used when attach/,Enhance stones,2,0,4
+10005,EN010005,Enhancement Guidebook for fifth-,Enhancement guide for Year 5. It contains more advanced information about enhancing gear. A technica,Enhance stones,2,0,5
+10006,EN010006,Enhancement Guidebook for sixth-,Enhancement guide for Year 6. It contains difficult and complex papers about enhancing gear. Misinte,Enhance stones,2,0,6
