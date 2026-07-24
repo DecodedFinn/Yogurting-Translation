@@ -5,8 +5,6 @@ A full decode of every CLT table currently packed into the client's
 
 ## What's here
 
-- `clt_decoded/` -- all 64 tables, decrypted, one clean `<TABLE_NAME>.clt.bin`
-  file per table. Raw decoded binary, not parsed into rows yet.
 - `clt_csv_source/` -- all 64 tables parsed into proper CSVs with real column
   names, one row per table entry. Everything's still in Japanese -- nothing
   has been translated yet.

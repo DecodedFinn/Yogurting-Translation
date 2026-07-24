@@ -14,12 +14,8 @@ translating.
 
 ## What's in here
 
-- `CLT_Master/clt_decoded/` -- the 64 tables in their raw decrypted binary
-  form. You won't need to edit these directly; they're here as the
-  canonical source and for anyone who wants to rebuild a patched client
-  table later.
-- `CLT_Master/clt_csv_source/` -- the same 64 tables, parsed into CSVs with
-  real column names. This is what you actually work from. See
+- `CLT_Master/clt_csv_source/` -- 64 tables, parsed into CSVs with real
+  column names. This is what you actually work from. See
   [`CLT_Master/README.md`](CLT_Master/README.md) for the full table-by-table
   breakdown of which columns in which files actually have translatable text
   (a lot of the tables are pure numeric/config data with nothing to
