@@ -19,7 +19,10 @@ translating.
   [`CLT_Master/README.md`](CLT_Master/README.md) for the full table-by-table
   breakdown of which columns in which files actually have translatable text
   (a lot of the tables are pure numeric/config data with nothing to
-  translate).
+  translate), and
+  [`CLT_Master/CHARACTER_LIMITS.md`](CLT_Master/CHARACTER_LIMITS.md) for how
+  long your translation is actually allowed to be per column -- some of
+  these are fixed-size buffers on the client side.
 - `translations/<lang>/` -- translated CSVs go here, one folder per
   language (e.g. `translations/en/`, `translations/es/`). This is what
   contributions add.
@@ -42,6 +45,12 @@ translating.
      intact for the line to work in-game.
    - If a line doesn't make sense out of context, leave a `# TODO:` note
      as a comment above it (or ask in the PR) rather than guessing.
+   - Check [`CLT_Master/CHARACTER_LIMITS.md`](CLT_Master/CHARACTER_LIMITS.md)
+     for the column you're working on. Some fields are fixed-size buffers on
+     the client side -- going over the limit gets your translation cut off
+     or worse. Others have no per-field limit but still count toward the
+     whole file's size, so don't blow a short table up into a much longer
+     one.
 4. Open a PR. Partial files are fine -- you don't need to finish an entire
    table in one go, and multiple people can split up a big table across
    separate PRs.

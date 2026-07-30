@@ -8,6 +8,9 @@ A full decode of every CLT table currently packed into the client's
 - `clt_csv_source/` -- all 64 tables parsed into proper CSVs with real column
   names, one row per table entry. Everything's still in Japanese -- nothing
   has been translated yet.
+- [`CHARACTER_LIMITS.md`](CHARACTER_LIMITS.md) -- per-table, per-column
+  character limits for every translatable field. Some columns are fixed-size
+  buffers on the client side; read this before translating anything long.
 
 ## Coverage
 
