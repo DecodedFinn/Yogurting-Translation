@@ -11,9 +11,7 @@ at all. They're not the same, and it matters which one you're editing.
   comes from the actual buffer size in the client's code, minus 1 character
   for the string terminator. Don't write past it, even if the CSV would
   technically accept more text.
-- If a column is marked **unbounded**, there's no per-field buffer capping it
-  -- but see "the catch" below, because that doesn't mean unlimited in
-  practice.
+- If a column is marked **unbounded**, there's no per-field buffer capping it.
 - If a limit is marked **inferred** or **not confirmed**, it's a best guess,
   not something read directly off a real buffer size. Stay well under it to
   be safe.
@@ -31,38 +29,6 @@ at all. They're not the same, and it matters which one you're editing.
   rare supplementary-plane characters like most emoji, which take up 2
   units instead of 1 -- not something translated flavor text is likely to
   hit, but worth knowing if you ever do.
-
-## The catch (depends which tool repacks it)
-
-Each table is one entry in a packed archive with a slot size recorded in its
-index. Whether growing an "unbounded" column is actually free depends on
-which tool puts the translated table back into the archive:
-
-- The simple CSV-export/rebuild path just writes the translated table back
-  into that table's original byte range and refuses if it doesn't fit:
-
-  > `Rebuilt file is too large for fixed slot: Built size: {X} bytes /
-  > Original slot: {Y} bytes / Over by: {X-Y} bytes -- Shorten the CSV text
-  > or use a real archive repacker that updates offsets.`
-
-  Through this path, "unbounded" columns still end up limited in practice by
-  how much bigger the whole file can get before hitting that wall.
-
-- The IRD/IRH archive editor (`replace`/GUI "Replace Selected… (append+repoint)")
-  doesn't have this problem: it appends the new table to the end of the
-  archive and repoints that entry's offset in the index, so it doesn't
-  matter how much bigger the translated table got. Going through this tool,
-  a genuinely unbounded column is actually unbounded.
-
-Point being: if a translation ends up much longer than the source and hits
-a "too large" error, that's a limitation of the tool being used to repack
-it, not a hard ceiling on the column itself -- there's a working way around
-it.
-
-If it's smaller, it just gets padded out -- no problem. So for tables with a
-lot of "unbounded" rows (`TITLE`, `QUEST_EX`, `SKILL_WEAPON`, etc.), the real
-constraint is "don't make the whole file meaningfully longer than the
-original," not "each field can be infinite."
 
 ## Per-column limits
 
@@ -92,21 +58,21 @@ original," not "each field can be infinite."
 | MATCHING_SYS_MSG | id_code | 32 characters | client buffer size, but overflow here is a soft/display issue rather than a hard parse failure -- still don't rely on going over |
 | MATCHING_SYS_MSG | s1 | 128 characters | same as above |
 | MATCHING_SYS_MSG | s2 | 1029 characters | same as above |
-| MATCHING_UNIQUEMON_SPECIAL_EFFECT | name | unbounded | no confirmed buffer -- see file-size ceiling above |
+| MATCHING_UNIQUEMON_SPECIAL_EFFECT | name | unbounded | no confirmed buffer |
 | MON | name | 32 characters | confirmed client buffer size |
 | MONSTER_BASIS | name | 32 characters | confirmed client buffer size |
 | NOTIFY_MSG | text | not confirmed | the number in the tooling is an arbitrary safety ceiling, not a real client limit -- nobody's confirmed the actual cap here, so keep this one short and don't push it |
-| PROMOTE_COND | title, description, requirement | unbounded | no confirmed buffer -- see file-size ceiling above |
-| QUEST_EX | title, objective_text, reward_text, notice_text | unbounded | no confirmed buffer -- see file-size ceiling above |
-| QUEST_ITEM_TYPE | name, description | unbounded | no confirmed buffer -- see file-size ceiling above |
-| QUEST_NPC | name, location | unbounded | no confirmed buffer -- see file-size ceiling above |
-| SCHOOL | name | unbounded | no confirmed buffer -- see file-size ceiling above |
-| SKILL_WEAPON | name, description | unbounded | no confirmed buffer -- see file-size ceiling above |
-| SKL_Desc | name, description | unbounded | no confirmed buffer -- see file-size ceiling above |
-| SKL_Desc2 | text | unbounded | no confirmed buffer -- see file-size ceiling above |
-| SPECIAL_REWARD | name | unbounded | no confirmed buffer -- see file-size ceiling above |
-| STATE_CHANGE | name | unbounded | no confirmed buffer -- see file-size ceiling above |
-| TITLE | name, description, condition | unbounded | no confirmed buffer -- see file-size ceiling above |
+| PROMOTE_COND | title, description, requirement | unbounded | no confirmed buffer |
+| QUEST_EX | title, objective_text, reward_text, notice_text | unbounded | no confirmed buffer |
+| QUEST_ITEM_TYPE | name, description | unbounded | no confirmed buffer |
+| QUEST_NPC | name, location | unbounded | no confirmed buffer |
+| SCHOOL | name | unbounded | no confirmed buffer |
+| SKILL_WEAPON | name, description | unbounded | no confirmed buffer |
+| SKL_Desc | name, description | unbounded | no confirmed buffer |
+| SKL_Desc2 | text | unbounded | no confirmed buffer |
+| SPECIAL_REWARD | name | unbounded | no confirmed buffer |
+| STATE_CHANGE | name | unbounded | no confirmed buffer |
+| TITLE | name, description, condition | unbounded | no confirmed buffer |
 
 Tables not listed here have no translatable text columns at all (pure
 numeric/config data) -- see the coverage table in
