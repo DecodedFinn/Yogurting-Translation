@@ -20,6 +20,17 @@ at all. They're not the same, and it matters which one you're editing.
 - English is usually shorter than Japanese for the same idea, so most fields
   give you *more* headroom once translated, not less. The tight ones to
   actually watch are short fixed fields (names, single-line labels).
+- These numbers are already **character counts**, not byte counts. The
+  client stores this text as UTF-16LE (2 bytes per character), and the
+  limits above account for that -- they're not just the raw buffer size in
+  bytes. The one exception is `MATCHING_EMOTICON.text`, which the client
+  converts to a single-byte buffer instead, which is why it's called out
+  separately below. One more edge case worth knowing: the "1 character = 1
+  unit of buffer space" math holds for essentially everything you'd
+  actually type (Latin, Cyrillic, CJK, Thai, Hangul, etc.), but breaks for
+  rare supplementary-plane characters like most emoji, which take up 2
+  units instead of 1 -- not something translated flavor text is likely to
+  hit, but worth knowing if you ever do.
 
 ## The catch (depends which tool repacks it)
 
