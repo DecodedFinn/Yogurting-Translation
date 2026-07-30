@@ -21,15 +21,32 @@ at all. They're not the same, and it matters which one you're editing.
   give you *more* headroom once translated, not less. The tight ones to
   actually watch are short fixed fields (names, single-line labels).
 
-## The catch: file size still has a ceiling
+## The catch (depends which tool repacks it)
 
-Even "unbounded" columns aren't free. Each table is one entry in a packed
-archive with a fixed slot size. If you translate a table and the whole file
-ends up bigger than its original slot, the rebuild tool refuses to write it:
+Each table is one entry in a packed archive with a slot size recorded in its
+index. Whether growing an "unbounded" column is actually free depends on
+which tool puts the translated table back into the archive:
 
-> `Rebuilt file is too large for fixed slot: Built size: {X} bytes / Original
-> slot: {Y} bytes / Over by: {X-Y} bytes -- Shorten the CSV text or use a real
-> archive repacker that updates offsets.`
+- The simple CSV-export/rebuild path just writes the translated table back
+  into that table's original byte range and refuses if it doesn't fit:
+
+  > `Rebuilt file is too large for fixed slot: Built size: {X} bytes /
+  > Original slot: {Y} bytes / Over by: {X-Y} bytes -- Shorten the CSV text
+  > or use a real archive repacker that updates offsets.`
+
+  Through this path, "unbounded" columns still end up limited in practice by
+  how much bigger the whole file can get before hitting that wall.
+
+- The IRD/IRH archive editor (`replace`/GUI "Replace Selected… (append+repoint)")
+  doesn't have this problem: it appends the new table to the end of the
+  archive and repoints that entry's offset in the index, so it doesn't
+  matter how much bigger the translated table got. Going through this tool,
+  a genuinely unbounded column is actually unbounded.
+
+Point being: if a translation ends up much longer than the source and hits
+a "too large" error, that's a limitation of the tool being used to repack
+it, not a hard ceiling on the column itself -- there's a working way around
+it.
 
 If it's smaller, it just gets padded out -- no problem. So for tables with a
 lot of "unbounded" rows (`TITLE`, `QUEST_EX`, `SKILL_WEAPON`, etc.), the real
