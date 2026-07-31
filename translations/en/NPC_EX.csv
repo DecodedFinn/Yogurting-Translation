@@ -1,0 +1,591 @@
+npc_id,name,unk_int,scale
+1,Paige,1,0
+2,Dorothy,2,0
+3,Bobokan,29,0.71
+4,Shop Auntie,3,0
+5,Ben,4,0.34
+6,Johnny,5,1.64
+7,Mei,6,0.83
+8,Bianca,7,1.44
+10,Yochimaru,9,0.73
+11,Riez,10,1.5
+12,Somunyang,11,0.7
+13,Mao Xiaoping,12,1.24
+14,Johnny,5,1.64
+15,Henkuma,8,0.53
+16,Henkuma,8,0.53
+17,Bianca,7,1.44
+18,Henkuma,8,0.53
+19,Somunyang,11,0.7
+20,Mao Xiaoping,12,1.24
+21,Dorothy,2,0
+22,Greenhouse Gate,30,0
+23,Ben,4,0.34
+24,Paige,1,0
+25,Stefano,31,0.67
+26,Stefano,31,0.67
+27,Shop Auntie,3,0
+28,Mao Xiaoping,12,1.24
+29,Suchong,21,1
+30,Somunyang,11,0.7
+31,Ben,4,0.34
+32,Henkuma,8,0.53
+33,Hyunrang,14,1.04
+34,Peko,19,1.87
+35,Ramin,20,1.87
+36,Suchong,21,1
+37,Grey,22,0.84
+38,Mocha,24,1.25
+39,China,32,1.23
+40,Alina,33,0.95
+41,Warguma,36,0.53
+42,Dwarguma,37,0.53
+43,Suchong,21,1
+44,Warguma,36,0.53
+45,Dwarguma,37,0.53
+46,Riez,10,1.5
+47,Lamb,16,0.58
+48,Hyunrang,14,1.04
+49,Yochimaru,9,0.73
+50,Bobokan,29,0.71
+51,Dorothy,2,0
+52,Karte,34,1.02
+53,Suchong,21,1
+54,Riez,10,1.5
+55,Hyunrang,14,1.04
+56,Mocha,24,1.25
+57,Paige,1,0
+58,Suchong,21,1
+59,Henkuma,8,0.53
+60,Johnny,5,1.64
+61,Johnny,5,1.64
+62,Johnny,5,1.64
+63,Shop Auntie,3,0
+64,Somunyang,11,0.7
+65,Paige,1,0
+66,Mao Xiaoping,12,1.24
+67,Lever,35,0
+68,Yochimaru,9,0.73
+69,Yochimaru,9,0.73
+70,Greenhouse Gate,30,0
+71,Mei,6,0.83
+72,Mei,6,0.83
+73,Mei,6,0.83
+74,Mei,6,0.83
+75,Mei,6,0.83
+76,Suchong,21,1
+77,Johnny,5,1.64
+78,Lamb,16,0.58
+79,Lamb,16,0.58
+80,Suchong,21,1
+81,Suchong,21,1
+82,Lamb,16,0.58
+83,Sheep,15,0.93
+84,Father Vermont,38,0.85
+85,Karen,40,0.57
+86,Karen,40,0.57
+87,Karen,40,0.57
+88,Suiren,39,0.3
+89,Animal Memorial,54,0
+90,Karen,40,0.57
+91,Sam,51,0.34
+92,Youen,46,0.89
+93,Kurata,48,0.79
+94,Karen,40,0.57
+95,Karen,40,0.57
+96,Karen,40,0.57
+97,Karen,40,0.57
+98,Karen,40,0.57
+99,Karen,40,0.57
+100,Shin Sohyun,43,0.99
+101,Ruben,45,0.75
+102,Sam,51,0.34
+103,Suiren,39,0.3
+104,Kurata,48,0.79
+105,Kurata,48,0.79
+106,Kurata,48,0.79
+107,Kurata,48,0.79
+108,Karen,40,0.57
+109,Kurata,48,0.79
+110,Youen,46,0.89
+111,Shaolin,47,0
+112,Student A,49,0.84
+113,Karen,40,0.57
+114,Karen,40,0.57
+115,Karen,40,0.57
+116,Karen,40,0.57
+117,Father Vermont,38,0.85
+118,Megadeath,56,0
+119,Mao Xiaoping,12,1.24
+120,Dorothy,2,0
+121,Bobokan,29,0.71
+122,Henkuma,8,0.53
+123,Shin Sohyun,43,0.99
+124,Grey,22,0.84
+125,Father Vermont,38,0.85
+126,Suiren,39,0.3
+127,Suiren,39,0.3
+128,Karen,40,0.57
+129,Shaolin,47,0
+130,Student A,49,0.84
+131,Shin Sohyun,43,0.99
+132,Shin Sohyun,43,0.99
+133,Suiren,39,0.3
+134,Father Vermont,38,0.85
+135,Father Vermont,38,0.85
+136,Suiren,39,0.3
+137,Suiren,39,0.3
+138,Suiren,39,0.3
+139,Karen,40,0.57
+140,Karen,40,0.57
+141,Student A,49,0.84
+142,Kurata,48,0.79
+143,Shin Sohyun,43,0.99
+144,Lowborn Frog,52,0
+145,Fox Child,53,0
+146,Shaolin,47,0
+147,Woman of the Mausoleum,50,0
+148,Ruben,45,0.75
+149,Ultrasonic Generator,58,0
+150,Shaolin,47,0
+151,Shin Sohyun,43,0.99
+152,Lowborn Frog,52,0
+153,Shin Sohyun,43,0.99
+154,Father Vermont,38,0.85
+155,Kurata,48,0.79
+156,Karen,40,0.57
+157,Lamb,16,0.58
+158,Hyunrang,14,1.04
+159,Werewolf,55,0
+160,Suchong,21,1
+161,Mei,6,0.83
+162,Mei,6,0.83
+163,Karen,40,0.57
+164,Hyunrang,14,1.04
+165,Stefano,31,0.67
+166,Shop Auntie,3,0
+167,Shop Auntie,3,0
+168,Shin Sohyun,43,0.99
+169,Kurata,48,0.79
+170,Ruben,45,0.75
+171,Sam,51,0.34
+172,Shin Sohyun,43,0.99
+173,Youen,46,0.89
+174,Father Vermont,38,0.85
+175,Karen,40,0.57
+176,Suiren,39,0.3
+177,Shop Auntie,3,0
+178,Shop Auntie,3,0
+179,Shaolin,47,0
+180,Student A,49,0.84
+181,Sam,51,0.34
+182,Kurata,48,0.79
+183,Karen,40,0.57
+184,Karen,40,0.57
+185,Father Vermont,38,0.85
+186,Kurata,48,0.79
+187,Johnny,5,1.64
+188,Johnny,5,1.64
+189,Johnny,5,1.64
+190,Mei,6,0.83
+191,Mei,6,0.83
+192,Mei,6,0.83
+193,Mei,6,0.83
+194,Mei,6,0.83
+195,Mei,6,0.83
+196,Sam,51,0.34
+197,Yochimaru,9,0.73
+198,Hyunrang,14,1.04
+199,Hoyang,42,0.98
+200,Meiyen,41,0.52
+201,Warguma,36,0.53
+202,Dwarguma,37,0.53
+203,Mocha,89,1.25
+204,Mocha,89,1.25
+205,Mocha,89,1.25
+206,Mocha,89,1.25
+207,Mocha,89,1.25
+208,Mocha,89,1.25
+209,Paige,1,0
+210,Dorothy,2,0
+211,Bobokan,29,0.71
+212,Sam,51,0.34
+213,Kurata,48,0.79
+214,Sam,51,0.34
+215,Ruben,45,0.75
+216,Shin Sohyun,43,0.99
+217,Shop Auntie,3,0
+218,Suiren,39,0.3
+219,Bianca,7,1.44
+220,Kurata,48,0.79
+221,Father Vermont,38,0.85
+222,Animal Memorial,54,0
+223,Kurata,48,0.79
+224,Karen,40,0.57
+225,Kurata,48,0.79
+226,Suchong,21,1
+227,Mocha,24,1.25
+228,Grey,22,0.84
+229,Grey,22,0.84
+230,China,32,1.23
+231,Shop Auntie,3,0
+232,Bianca,7,1.44
+233,Alina,33,0.95
+234,Riez,10,1.5
+235,Mao Xiaoping,12,1.24
+236,Ben,4,0.34
+237,Kurata,48,0.79
+238,Father Vermont,38,0.85
+239,Rigu,63,0
+240,Rigu,63,0
+241,Kurata,48,0.79
+242,Karen,40,0.57
+243,Sam,51,0.34
+244,Sam,51,0.34
+245,Mei,6,0.83
+246,Johnny,5,1.64
+247,Johnny,5,1.64
+248,Linty,64,0
+249,Vacation Helian,60,0.13
+250,Vacation Helian,60,0.13
+251,Wooden Lever,65,0
+252,Riez,10,1.5
+253,Alina,33,0.95
+254,Dorothy,2,0
+255,Paige,1,0
+7001,Shop Auntie,3,0
+7002,Shop Auntie,3,0
+9000,Shop Auntie,3,0
+9001,Shop Auntie,3,0
+9002,Shop Auntie,3,0
+9003,Shop Auntie,3,0
+9004,Shop Auntie,3,0
+9005,Shop Auntie,3,0
+9006,Shop Auntie,3,0
+9007,Shop Auntie,3,0
+9008,Shop Auntie,3,0
+9009,Shop Auntie,3,0
+9011,Shop Auntie,3,0
+9012,Shop Auntie,3,0
+8001,Paige,1,0
+8002,Dorothy,2,0
+8003,Shop Auntie,3,0
+8004,Ben,4,0.34
+8005,Johnny,5,1.64
+8006,Paige,1,0
+8007,Dorothy,2,0
+8008,Shop Auntie,3,0
+8009,Ben,4,0.34
+8010,Johnny,5,1.64
+8011,Paige,1,0
+8012,Dorothy,2,0
+8013,Shop Auntie,3,0
+8014,Ben,4,0.34
+8015,Johnny,5,1.64
+8016,Paige,1,0
+8017,Dorothy,2,0
+8018,Shop Auntie,3,0
+8019,Ben,4,0.34
+8020,Johnny,5,1.64
+256,Shin Sohyun,43,0.99
+257,Ruben,45,0.75
+258,Peko,19,1.87
+259,Mocha,24,1.25
+260,China,32,1.23
+261,Hyunrang,14,1.04
+262,Grey,22,0.84
+263,Johnny,5,1.64
+264,Shop Auntie,3,0
+265,-2146826246,0,0
+266,-2146826246,0,0
+267,-2146826246,0,0
+268,-2146826246,0,0
+269,-2146826246,0,0
+270,-2146826246,0,0
+271,-2146826246,0,0
+272,-2146826246,0,0
+273,-2146826246,0,0
+274,-2146826246,0,0
+275,-2146826246,0,0
+276,-2146826246,0,0
+277,-2146826246,0,0
+278,-2146826246,0,0
+279,-2146826246,0,0
+280,-2146826246,0,0
+281,-2146826246,0,0
+282,-2146826246,0,0
+283,Kurata,48,0.79
+284,Shin Sohyun,43,0.99
+285,Suiren,39,0.3
+286,Youen,46,0.89
+287,Father Vermont,38,0.85
+288,Shop Auntie,3,0
+289,-2146826246,0,0
+290,-2146826246,0,0
+291,-2146826246,0,0
+292,-2146826246,0,0
+293,-2146826246,0,0
+294,-2146826246,0,0
+295,-2146826246,0,0
+296,-2146826246,0,0
+297,-2146826246,0,0
+298,-2146826246,0,0
+299,-2146826246,0,0
+300,-2146826246,0,0
+301,-2146826246,0,0
+302,-2146826246,0,0
+303,-2146826246,0,0
+304,-2146826246,0,0
+305,-2146826246,0,0
+306,-2146826246,0,0
+307,China,32,1.23
+308,Shin Sohyun,43,0.99
+309,Youen,46,0.89
+310,Shin Sohyun,43,0.99
+311,-2146826246,0,0
+312,Vacation Helian,60,0.13
+313,-2146826246,0,0
+314,-2146826246,0,0
+315,-2146826246,0,0
+316,Wooden Lever,65,0
+317,Helian Baby,68,0
+318,-2146826246,0,0
+319,-2146826246,0,0
+320,-2146826246,0,0
+321,Hoyang,42,0.98
+322,Shin Sohyun,43,0.99
+323,Suchong,21,1
+324,Karte,34,1.02
+325,Inject,73,0
+326,Johnny,5,1.64
+327,Mao Xiaoping,12,1.24
+328,Meiyen,41,0.52
+329,Mujina Guard,44,4.28
+330,Youen,46,0.89
+331,Bianca,7,1.44
+332,Stefano,31,0.67
+333,Emily,74,0
+334,Hoyang,42,0.98
+335,Meiyen,41,0.52
+336,Bianca,7,1.44
+337,Chart,79,1.1
+338,Karte,34,1.02
+339,Warguma,36,0.53
+340,Hoyang,42,0.98
+341,Hoyang,42,0.98
+342,Meiyen,41,0.52
+343,Meiyen,41,0.52
+344,Meiyen,41,0.52
+345,Meiyen,41,0.52
+346,Karen,40,0.57
+347,Father Vermont,38,0.85
+348,Karen,40,0.57
+349,Hachi,76,0.66
+350,Youen,46,0.89
+351,Kurata,48,0.79
+352,Shin Sohyun,43,0.99
+353,Ruben,45,0.75
+354,Karen,40,0.57
+355,Hoyang,42,0.98
+356,Shin Sohyun,43,0.99
+357,Ruben,45,0.75
+358,Ruben,45,0.75
+359,Hoyang,42,0.98
+360,Hoyang,42,0.98
+361,Hoyang,42,0.98
+362,Meiyen,41,0.52
+363,Kurata,48,0.79
+364,Father Vermont,38,0.85
+365,Anna,78,0.97
+366,Nana,111,0.97
+367,Stalin,13,0.75
+368,Meiyen,41,0.52
+369,Meiyen,41,0.52
+370,Hoyang,42,0.98
+371,Hoyang,42,0.98
+372,Hoyang,42,0.98
+373,Hoyang,42,0.98
+374,Puppet Master,81,1.97
+375,Shin Sohyun,43,0.99
+376,Paige,1,0
+377,Stefano,31,0.67
+378,Warguma,36,0.53
+379,Riez,10,1.5
+380,Kurata,80,0.79
+381,Warguma,36,0.53
+382,Warguma,36,0.53
+383,Warguma,36,0.53
+384,Warguma,36,0.53
+385,Warguma,36,0.53
+386,Warguma,36,0.53
+387,Anna,78,0.97
+388,Ruben,45,0.75
+389,Mujina Guard,44,4.28
+390,Anna,78,0.97
+391,Nana,111,0.97
+392,Mei,6,0.83
+393,Christine,61,0.4
+394,Johnny,5,1.64
+395,Stalin,13,0.75
+396,Shin Sohyun,43,0.99
+397,Puppet Master,81,1.97
+398,Puppet Master,81,1.97
+399,Suiren,39,0.3
+400,Hoyang,42,0.98
+401,Suchong,21,1
+402,Hoyang,42,0.98
+403,Encyclopedia,92,0
+404,Suiren,39,0.3
+405,Dirty Karen,40,0.57
+406,Nine Fox,57,0
+407,Shin Sohyun,43,0.99
+408,Hoggy Puppet,88,0
+409,Meiyen,41,0.52
+410,Hoyang,85,0.98
+411,Puppet Master,81,1.97
+412,Hoyang,87,0
+413,Meiyen,86,0
+414,Hoyang,42,0.98
+415,Mocha,24,1.25
+416,Bloody Ducky,69,1.19
+417,Mocha,24,1.25
+418,Sam,51,0.34
+419,Suchong,21,1
+420,Instructor Stefano,84,0
+421,Mecha Dorothy No. 4,90,1
+422,Mocha,24,1.25
+423,Suchong,21,1
+424,Riez,10,1.5
+425,Youen,46,0.89
+426,Ben,4,0.34
+427,Sam,51,0.34
+428,Sowol Male Student,93,0
+429,Sowol Female Student,94,0
+430,Bianca,7,1.44
+431,Linty,64,0
+432,Lever,35,0
+433,Shop Auntie,3,0
+434,Shop Auntie,3,0
+435,Bloody Ducky,69,1.19
+436,Hachi,76,0.66
+437,Shin Sohyun,43,0.99
+438,Sowol Female Student,93,0
+439,Sowol Male Student,94,0
+440,Student A,49,0.84
+441,Bloody Ducky,69,1.19
+442,Grey,22,0.84
+443,Mao Xiaoping,12,1.24
+444,Mysterious Girl,97,0
+445,Grey,22,0.84
+446,Mao Xiaoping,12,1.24
+447,Hachi,76,0.66
+448,Yochimaru,9,0.73
+449,Ruben,45,0.75
+450,Dwarguma,37,0.53
+451,Warguma,36,0.53
+452,L. Torvalds,102,0
+453,Somunyang,11,0.7
+454,Suchong,21,1
+455,Mocha,24,1.25
+456,Student A,49,0.84
+457,Ruben,45,0.75
+458,Shin Sohyun,43,0.99
+459,Estiva Student,99,0
+460,Suiren,39,0.3
+461,Karen,40,0.57
+462,Guardian Fairy,98,0
+463,Father Vermont,38,0.85
+464,Kurata,48,0.79
+465,Student A,49,0.84
+466,Shaolin,47,0
+467,Woman of the Mausoleum,50,0
+468,Shin Sohyun,43,0.99
+469,Ruben,45,0.75
+470,Lever,35,0
+471,Ben,4,0.34
+472,Sam,51,0.34
+473,Grey,22,0.84
+474,Shin Sohyun,43,0.99
+475,Ruben,45,0.75
+476,Puppet Master,81,1.97
+477,Shop Auntie,3,0
+478,Shop Auntie,3,0
+479,Shop Auntie,3,0
+480,Shop Auntie,3,0
+481,Shop Auntie,3,0
+482,Shop Auntie,3,0
+483,Shin Sohyun,43,0.99
+484,Student A,49,0.84
+485,Grey,22,0.84
+486,Book of Absolute Knowledge,96,0
+487,Book of Absolute Knowledge,96,0
+488,Rosie,77,0
+489,Student A,49,0.84
+490,Student A,49,0.84
+491,Student A,49,0.84
+492,Student A,49,0.84
+493,Student A,49,0.84
+494,Student A,49,0.84
+495,Student A,49,0.84
+496,Student A,49,0.84
+497,Student A,49,0.84
+498,Student A,49,0.84
+499,Yochimaru,9,0.73
+500,Suchong,21,1
+501,L. Torvalds,102,0
+502,L. Torvalds,103,0
+503,Mao Xiaoping,12,1.24
+504,Mysterious Girl,97,0
+505,Grey,22,0.84
+506,Kapit,104,0
+507,Kapit,104,0
+508,Bloody Ducky,69,0
+509,Man in Black,70,0
+510,Student A,49,0.84
+511,Shin Sohyun,43,0
+512,Shaolin,47,0
+513,Kurata,48,0
+514,Ruben,45,0
+515,Guardian Fairy,98,0
+516,Woman of the Mausoleum,50,0
+517,Woman of the Mausoleum,106,0
+518,Megadeath,56,0
+519,Megadeath,105,0
+520,Father Vermont,38,0
+521,Linty,64,0
+522,Shin Sohyun,43,0.99
+523,Christine,61,0
+524,Grey,22,0
+525,Frederick,62,0
+526,Suiren and Karen,107,0
+527,Suiren,39,0
+528,Karen,40,0
+529,Ancient Civilization Girl,108,0
+530,Man in Black,70,0
+531,Grey,22,0
+532,Woodherian,60,0
+533,Woodherian,68,0
+534,Christine,61,0
+535,Paige,1,0
+536,Bianca,7,0
+537,Stefano,31,0
+538,Riez,10,0
+539,Somunyang,11,0
+540,Suchong,21,0
+541,L. Torvalds,102,0
+542,China,32,0
+543,Kapit,104,0
+544,Ruben,45,0
+545,Shin Sohyun,43,0
+546,Youen,46,0
+547,Kurata,48,0
+548,Grey,22,0
+549,Shin Sohyun,43,0
+550,China,32,0
+551,Ruben,45,0
+552,Kapit,104,0
+553,Suchong,21,0
+554,Mocha,24,0
+555,Ancient Civilization Girl,108,0
+556,Peko,19,0
+557,Hachi,76,0
