@@ -1,0 +1,729 @@
+key,v1,name,flag_raw,flag_byte,v2,v3
+1,1,Soso,0,0,26,-1
+2,2,Anmonera,0,0,26,-1
+3,3,Marsh,0,0,26,-1
+4,4,Teddy,0,0,26,-1
+5,5,Bobokan,0,0,26,-1
+6,6,Wild Woodherian,0,0,26,-1
+7,7,Ratchu,0,0,26,-1
+8,15,Bookshelf Leg No. 3,0,0,26,-1
+9,16,Mecha Dorothy No. 3,1,1,26,-1
+1001,16,Mecha Dorothy No. 3,1,1,26,-1
+10,51,Dorothy,0,0,26,-1
+11,1,Soso,0,0,87,-1
+12,8,Geto,0,0,87,-1
+13,9,Monera,0,0,87,-1
+14,10,Wood,0,0,87,-1
+15,11,Baraus,0,0,87,-1
+16,12,High Baraus,0,0,87,-1
+17,13,Great Baraus,0,0,87,-1
+1002,13,Great Baraus,0,0,87,-1
+45,13,Great Baraus,1,1,87,-1
+1009,13,Great Baraus,1,1,87,-1
+18,17,Warguma,0,0,52,-1
+19,18,Dwarguma,0,0,52,-1
+21,20,Homekeeper mk-2,0,0,52,-1
+20,19,Henkuma,1,1,52,-1
+1005,19,Henkuma,1,1,52,-1
+23,22,Karte,0,0,52,-1
+24,23,Chart,0,0,52,-1
+22,21,Stefano,1,1,52,-1
+1003,21,Stefano,1,1,52,-1
+26,7,Ratchu,0,0,52,-1
+27,5,Bobokan,0,0,52,-1
+25,24,Bianca,1,1,52,-1
+1004,24,Bianca,1,1,52,-1
+28,5,Bobokan,0,0,69,-1
+29,20,Homekeeper mk-2,0,0,69,-1
+30,21,Stefano,1,1,69,-1
+1006,21,Stefano,1,1,69,-1
+32,23,Chart,0,0,69,-1
+33,22,Karte,0,0,69,-1
+34,18,Dwarguma,0,0,69,-1
+31,24,Bianca,1,1,69,-1
+1007,24,Bianca,1,1,69,-1
+36,17,Warguma,0,0,69,-1
+35,19,Henkuma,1,1,69,-1
+1008,19,Henkuma,1,1,69,-1
+37,1,Soso,0,0,1,-1
+9037,148,Giant Soso,2,2,1,-1
+38,7,Ratchu,0,0,5,-1
+9038,149,Giant Marsh,2,2,5,-1
+39,11,Baraus,0,0,46,-1
+40,10,Wood,0,0,46,-1
+46,8,Geto,0,0,46,-1
+47,12,High Baraus,0,0,46,-1
+9039,149,Giant Marsh,2,2,46,-1
+41,51,Dorothy,0,0,36,-1
+42,3,Marsh,0,0,36,-1
+43,2,Anmonera,0,0,36,-1
+44,51,Dorothy,1,1,36,-1
+92,26,Gatekeeper,1,1,35,-1
+86,46,Hakkoumori,0,0,35,-1
+87,63,☆Soso☆,0,0,35,-1
+88,30,Neighbor,0,0,35,-1
+89,47,Little Croco,0,0,35,-1
+90,33,Croco,0,0,35,-1
+91,25,Blabby,0,0,35,-1
+125,64,Antique Pillar,0,0,35,-1
+48,11,Baraus,0,0,55,-1
+49,12,High Baraus,0,0,55,-1
+9048,148,Giant Soso,2,2,55,-1
+77,29,Myurobie,0,0,75,-1
+78,120,Angry Myurobie,0,0,75,-1
+9077,149,Giant Marsh,2,2,75,-1
+96,28,François,1,1,100,-1
+93,47,Little Croco,0,0,100,-1
+94,33,Croco,0,0,100,-1
+95,27,Globie,0,0,100,-1
+101,34,Cycloco,1,1,63,-1
+97,4,Teddy,0,0,63,-1
+98,7,Ratchu,0,0,63,-1
+99,6,Wild Woodherian,0,0,63,-1
+100,33,Croco,0,0,63,-1
+102,47,Little Croco,0,0,63,-1
+103,12,High Baraus,0,0,63,-1
+104,11,Baraus,0,0,63,-1
+212,12,High Baraus,0,0,63,-1
+9104,150,Giant Seven,2,2,63,-1
+105,8,Geto,0,0,34,-1
+106,9,Monera,0,0,34,-1
+107,10,Wood,0,0,34,-1
+9106,150,Giant Seven,2,2,34,-1
+50,1,Soso,0,0,14,-1
+51,7,Ratchu,0,0,14,-1
+9050,148,Giant Soso,2,2,14,-1
+56,4,Teddy,0,0,40,-1
+57,11,Baraus,0,0,40,-1
+58,12,High Baraus,0,0,40,-1
+59,3,Marsh,0,0,40,-1
+60,8,Geto,0,0,40,-1
+192,1,Soso,0,0,40,-1
+9059,149,Giant Marsh,2,2,40,-1
+52,8,Geto,0,0,3,-1
+9052,149,Giant Marsh,2,2,3,-1
+61,3,Marsh,0,0,7,-1
+62,8,Geto,0,0,7,-1
+9061,149,Giant Marsh,2,2,7,-1
+108,29,Myurobie,0,0,98,-1
+109,120,Angry Myurobie,0,0,98,-1
+128,61,Greenhouse Stone,0,0,98,-1
+9108,149,Giant Marsh,2,2,98,-1
+110,31,Sparbie,0,0,81,-1
+111,32,King Sparbie,0,0,81,-1
+130,52,Yangyang,0,0,81,-1
+81,30,Neighbor,0,0,108,-1
+82,63,☆Soso☆,0,0,108,-1
+83,3,Marsh,0,0,108,-1
+84,7,Ratchu,0,0,108,-1
+85,46,Hakkoumori,0,0,108,-1
+164,5,Bobokan,0,0,108,-1
+165,11,Baraus,0,0,108,-1
+166,12,High Baraus,0,0,108,-1
+71,30,Neighbor,0,0,73,-1
+72,63,☆Soso☆,0,0,73,-1
+73,5,Bobokan,0,0,73,-1
+74,7,Ratchu,0,0,73,-1
+75,51,Dorothy,0,0,73,-1
+76,3,Marsh,0,0,73,-1
+79,52,Yangyang,0,0,11,-1
+80,53,Little Yangyang,0,0,11,-1
+9079,149,Giant Marsh,2,2,11,-1
+53,17,Warguma,0,0,67,-1
+54,18,Dwarguma,0,0,67,-1
+55,19,Henkuma,1,1,67,-1
+112,11,Baraus,0,0,65,-1
+113,33,Croco,0,0,65,-1
+114,47,Little Croco,0,0,65,-1
+115,8,Geto,0,0,65,-1
+123,12,High Baraus,0,0,65,-1
+124,27,Globie,0,0,65,-1
+127,62,Destructible Lever,0,0,65,-1
+9113,148,Giant Soso,2,2,65,-1
+116,27,Globie,0,0,71,-1
+117,28,François,1,1,71,-1
+118,33,Croco,0,0,71,-1
+119,47,Little Croco,0,0,71,-1
+120,34,Cycloco,1,1,71,-1
+129,52,Yangyang,0,0,71,-1
+63,52,Yangyang,0,0,20,-1
+64,53,Little Yangyang,0,0,20,-1
+65,9,Monera,0,0,20,-1
+248,11,Baraus,0,0,20,-1
+249,11,Baraus,0,0,20,-1
+9249,149,Giant Marsh,2,2,20,-1
+121,31,Sparbie,0,0,105,-1
+122,32,King Sparbie,0,0,105,-1
+126,8,Geto,0,0,105,-1
+131,61,Greenhouse Stone,0,0,105,-1
+9121,148,Giant Soso,2,2,105,-1
+66,17,Warguma,0,0,38,-1
+67,18,Dwarguma,0,0,38,-1
+9066,150,Giant Seven,2,2,38,-1
+68,52,Yangyang,0,0,32,-1
+69,53,Little Yangyang,0,0,32,-1
+70,11,Baraus,0,0,32,-1
+220,9,Monera,0,0,32,-1
+221,8,Geto,0,0,32,-1
+9221,148,Giant Soso,2,2,32,-1
+132,58,Wraith,0,0,20,-1
+133,57,Zero-Seven,0,0,20,-1
+9133,150,Giant Seven,2,2,20,-1
+134,8,Geto,0,0,11,-1
+135,57,Zero-Seven,0,0,11,-1
+9135,150,Giant Seven,2,2,11,-1
+136,1,Soso,0,0,3,-1
+137,7,Ratchu,0,0,3,-1
+9137,148,Giant Soso,2,2,3,-1
+138,1,Soso,0,0,14,-1
+139,55,Soso Skeleton,0,0,14,-1
+140,57,Zero-Seven,0,0,14,-1
+9140,150,Giant Seven,2,2,14,-1
+193,47,Little Croco,0,0,67,-1
+194,33,Croco,0,0,67,-1
+9194,150,Giant Seven,2,2,67,-1
+167,58,Wraith,0,0,49,-1
+168,57,Zero-Seven,0,0,49,-1
+169,54,Foxy,0,0,49,-1
+170,56,Halloween,0,0,49,-1
+9168,150,Giant Seven,2,2,49,-1
+250,72,Emily,0,0,69,-1
+9250,149,Giant Marsh,2,2,69,-1
+222,57,Zero-Seven,0,0,43,-1
+223,84,Nightwalker,0,0,43,-1
+224,55,Soso Skeleton,0,0,43,-1
+225,65,Rigu,0,0,43,-1
+226,66,Bio,0,0,43,-1
+9222,150,Giant Seven,2,2,43,-1
+141,58,Wraith,0,0,32,-1
+9141,150,Giant Seven,2,2,32,-1
+227,36,Lady,0,0,1,-1
+228,37,Steady,0,0,1,-1
+229,38,Gou,0,0,1,-1
+230,52,Yangyang,0,0,1,-1
+142,7,Ratchu,0,0,7,-1
+143,9,Monera,0,0,7,-1
+9143,150,Giant Seven,2,2,7,-1
+231,67,Flying Skull,0,0,66,-1
+232,85,Phantom,0,0,66,-1
+251,46,Hakkoumori,0,0,66,-1
+144,54,Foxy,0,0,46,-1
+145,93,Piggy,0,0,46,-1
+146,101,Jelly Deli,0,0,46,-1
+9144,149,Giant Marsh,2,2,46,-1
+180,65,Rigu,0,0,38,-1
+181,66,Bio,0,0,38,-1
+182,2,Anmonera,0,0,38,-1
+183,56,Halloween,0,0,38,-1
+9180,148,Giant Soso,2,2,38,-1
+211,59,Nine Fox,1,1,55,-1
+205,2,Anmonera,0,0,55,-1
+206,54,Foxy,0,0,55,-1
+207,57,Zero-Seven,0,0,55,-1
+208,58,Wraith,0,0,55,-1
+209,65,Rigu,0,0,55,-1
+210,66,Bio,0,0,55,-1
+9207,150,Giant Seven,2,2,55,-1
+213,84,Nightwalker,0,0,30,-1
+214,65,Rigu,0,0,30,-1
+215,66,Bio,0,0,30,-1
+174,71,Montal,0,0,68,-1
+175,69,Fairy,0,0,68,-1
+176,70,Kim Daegam,0,0,68,-1
+195,71,Montal,0,0,73,-1
+196,69,Fairy,0,0,73,-1
+197,70,Kim Daegam,0,0,73,-1
+198,82,Fuku's Turtle,0,0,73,-1
+199,80,Lowborn Frog,0,0,73,-1
+200,68,Fox Child,0,0,73,-1
+201,81,Demp,0,0,73,-1
+147,27,Globie,0,0,63,-1
+148,46,Hakkoumori,0,0,63,-1
+149,33,Croco,0,0,63,-1
+150,34,Cycloco,1,1,63,-1
+173,34,Cycloco,1,1,94,-1
+171,47,Little Croco,0,0,94,-1
+172,33,Croco,0,0,94,-1
+151,56,Halloween,0,0,89,-1
+152,2,Anmonera,0,0,89,-1
+153,54,Foxy,0,0,89,-1
+154,84,Nightwalker,0,0,89,-1
+155,57,Zero-Seven,0,0,89,-1
+156,36,Lady,0,0,89,-1
+157,37,Steady,0,0,89,-1
+158,38,Gou,0,0,89,-1
+159,85,Phantom,0,0,89,-1
+160,65,Rigu,0,0,89,-1
+161,66,Bio,0,0,89,-1
+162,60,Megadeath,1,1,89,-1
+163,60,Megadeath,1,1,89,-1
+184,69,Fairy,0,0,77,-1
+185,70,Kim Daegam,0,0,77,-1
+186,71,Montal,0,0,77,-1
+187,68,Fox Child,0,0,77,-1
+188,81,Demp,0,0,77,-1
+189,80,Lowborn Frog,0,0,77,-1
+190,82,Fuku's Turtle,0,0,77,-1
+191,79,Guardian Fairy,1,1,77,-1
+177,57,Zero-Seven,0,0,29,-1
+178,55,Soso Skeleton,0,0,29,-1
+179,85,Phantom,1,1,29,-1
+216,36,Lady,0,0,79,-1
+217,37,Steady,0,0,79,-1
+218,52,Yangyang,0,0,79,-1
+219,33,Croco,0,0,79,-1
+9216,150,Giant Seven,2,2,79,-1
+233,36,Lady,0,0,111,-1
+234,37,Steady,0,0,111,-1
+235,38,Gou,0,0,111,-1
+236,11,Baraus,0,0,111,-1
+237,12,High Baraus,0,0,111,-1
+238,52,Yangyang,0,0,111,-1
+239,53,Little Yangyang,0,0,111,-1
+240,39,Werewolf,1,1,111,-1
+202,31,Sparbie,0,0,83,-1
+203,37,Steady,0,0,83,-1
+204,36,Lady,0,0,83,-1
+9202,150,Giant Seven,2,2,83,-1
+241,12,High Baraus,0,0,92,-1
+242,29,Myurobie,0,0,92,-1
+243,46,Hakkoumori,0,0,92,-1
+244,33,Croco,0,0,92,-1
+245,27,Globie,0,0,92,-1
+246,28,François,1,1,92,-1
+247,1,Soso,0,0,1,-1
+9247,148,Giant Soso,2,2,1,-1
+281,2,Anmonera,0,0,23,-1
+282,9,Monera,0,0,23,-1
+283,7,Ratchu,0,0,23,-1
+284,5,Bobokan,0,0,23,-1
+9284,149,Giant Marsh,2,2,23,-1
+285,2,Anmonera,0,0,29,-1
+286,7,Ratchu,0,0,29,-1
+287,3,Marsh,0,0,29,-1
+288,5,Bobokan,0,0,29,-1
+294,51,Dorothy,0,0,29,-1
+9287,149,Giant Marsh,2,2,29,-1
+254,3,Marsh,0,0,49,-1
+255,4,Teddy,0,0,49,-1
+256,5,Bobokan,0,0,49,-1
+257,51,Dorothy,0,0,49,-1
+9254,149,Giant Marsh,2,2,49,-1
+252,17,Warguma,0,0,43,-1
+253,18,Dwarguma,0,0,43,-1
+9252,148,Giant Soso,2,2,43,-1
+315,52,Yangyang,0,0,59,-1
+316,9,Monera,0,0,59,-1
+317,117,4D Woodherian,0,0,59,-1
+318,10,Wood,0,0,59,-1
+329,101,Jelly Deli,0,0,59,-1
+6317,148,Giant Soso,2,2,59,-1
+266,8,Geto,0,0,5,-1
+267,55,Soso Skeleton,0,0,5,-1
+9267,150,Giant Seven,2,2,5,-1
+258,7,Ratchu,0,0,17,-1
+9258,150,Giant Seven,2,2,17,-1
+268,9,Monera,0,0,26,-1
+269,101,Jelly Deli,0,0,26,-1
+270,7,Ratchu,0,0,26,-1
+9270,148,Giant Soso,2,2,26,-1
+259,96,Soso Mummy,0,0,52,-1
+260,56,Halloween,0,0,52,-1
+261,65,Rigu,0,0,52,-1
+262,66,Bio,0,0,52,-1
+9261,148,Giant Soso,2,2,52,-1
+263,57,Zero-Seven,0,0,34,-1
+264,55,Soso Skeleton,0,0,34,-1
+265,54,Foxy,0,0,34,-1
+9263,150,Giant Seven,2,2,34,-1
+319,55,Soso Skeleton,0,0,36,-1
+320,2,Anmonera,0,0,36,-1
+321,57,Zero-Seven,0,0,36,-1
+322,54,Foxy,0,0,36,-1
+9321,150,Giant Seven,2,2,36,-1
+271,65,Rigu,0,0,40,-1
+272,66,Bio,0,0,40,-1
+273,55,Soso Skeleton,0,0,40,-1
+274,57,Zero-Seven,0,0,40,-1
+462,58,Wraith,0,0,40,-1
+9274,150,Giant Seven,2,2,40,-1
+276,7,Ratchu,0,0,17,-1
+9276,148,Giant Soso,2,2,17,-1
+277,9,Monera,0,0,23,-1
+278,101,Jelly Deli,0,0,23,-1
+9278,148,Giant Soso,2,2,23,-1
+323,55,Soso Skeleton,0,0,59,-1
+324,93,Piggy,0,0,59,-1
+325,117,4D Woodherian,0,0,59,-1
+326,65,Rigu,0,0,59,-1
+327,66,Bio,0,0,59,-1
+328,101,Jelly Deli,0,0,59,-1
+9326,148,Giant Soso,2,2,59,-1
+275,1,Soso,0,0,2,-1
+9275,148,Giant Soso,2,2,2,-1
+279,1,Soso,0,0,2,-1
+9279,148,Giant Soso,2,2,2,-1
+346,11,Baraus,0,0,89,-1
+347,12,High Baraus,0,0,89,-1
+9346,148,Giant Soso,2,2,89,-1
+436,119,PTA 26,0,0,89,-1
+437,118,PTA 41,0,0,89,-1
+438,95,Patrobo,0,0,89,-1
+439,27,Globie,0,0,89,-1
+440,33,Croco,0,0,89,-1
+348,73,Nina,0,0,92,-1
+349,74,Nino,0,0,92,-1
+350,86,Kamaitachi,0,0,92,-1
+9350,149,Giant Marsh,2,2,92,-1
+375,73,Nina,0,0,94,-1
+376,74,Nino,0,0,94,-1
+377,86,Kamaitachi,0,0,94,-1
+9377,148,Giant Soso,2,2,94,-1
+389,77,Puppet Master,0,0,100,-1
+390,76,Hoggy Puppet,0,0,100,-1
+391,75,Puppet,0,0,100,-1
+9391,150,Giant Seven,2,2,100,-1
+449,99,Music Box Soso,0,0,108,-1
+450,73,Nina,0,0,108,-1
+451,74,Nino,0,0,108,-1
+452,106,Black Widow Spider,0,0,108,-1
+453,86,Kamaitachi,0,0,108,-1
+454,75,Puppet,0,0,108,-1
+455,76,Hoggy Puppet,0,0,108,-1
+456,77,Puppet Master,0,0,108,-1
+9454,149,Giant Marsh,2,2,108,-1
+413,77,Puppet Master,1,1,121,-1
+414,77,Puppet Master,1,1,121,-1
+415,77,Puppet Master,1,1,121,-1
+408,103,Ninja,0,0,121,-1
+409,73,Nina,0,0,121,-1
+410,74,Nino,0,0,121,-1
+411,75,Puppet,0,0,121,-1
+412,76,Hoggy Puppet,0,0,121,-1
+9411,148,Giant Soso,2,2,121,-1
+289,31,Sparbie,0,0,77,-1
+290,17,Warguma,0,0,77,-1
+291,18,Dwarguma,0,0,77,-1
+9290,150,Giant Seven,2,2,77,-1
+427,29,Myurobie,0,0,114,-1
+428,108,Soso Planet,0,0,114,-1
+429,110,Chair Fighter,0,0,114,-1
+430,112,Shadow Beast,0,0,114,-1
+431,109,Desk Mimic,0,0,114,-1
+9428,148,Giant Soso,2,2,114,-1
+313,78,Mujina Guard,0,0,63,-1
+314,86,Kamaitachi,0,0,63,-1
+469,78,Mujina Guard,0,0,63,-1
+9314,149,Giant Marsh,2,2,63,-1
+280,86,Kamaitachi,0,0,65,-1
+9280,150,Giant Seven,2,2,65,-1
+394,99,Music Box Soso,0,0,96,-1
+395,103,Ninja,0,0,96,-1
+396,78,Mujina Guard,0,0,96,-1
+397,134,Ghost Vice Principal Stalin,0,0,96,-1
+9394,148,Giant Soso,2,2,96,-1
+335,47,Little Croco,0,0,87,-1
+336,33,Croco,0,0,87,-1
+337,27,Globie,0,0,87,-1
+338,46,Hakkoumori,0,0,87,-1
+9338,149,Giant Marsh,2,2,87,-1
+339,23,Chart,0,0,85,-1
+340,46,Hakkoumori,0,0,85,-1
+341,94,Tohoho,0,0,85,-1
+9340,150,Giant Seven,2,2,85,-1
+334,122,Soso Fire,0,0,96,-1
+9334,148,Giant Soso,2,2,96,-1
+381,29,Myurobie,0,0,117,-1
+380,21,Stefano,1,1,117,-1
+9381,149,Giant Marsh,2,2,117,-1
+382,95,Patrobo,0,0,125,-1
+383,17,Warguma,0,0,125,-1
+384,18,Dwarguma,0,0,125,-1
+9383,150,Giant Seven,2,2,125,-1
+351,29,Myurobie,0,0,79,-1
+352,120,Angry Myurobie,0,0,79,-1
+9351,148,Giant Soso,2,2,79,-1
+422,55,Soso Skeleton,0,0,117,-1
+423,96,Soso Mummy,0,0,117,-1
+424,93,Piggy,0,0,117,-1
+425,106,Black Widow Spider,0,0,117,-1
+426,99,Music Box Soso,0,0,117,-1
+9190,148,Giant Soso,2,2,117,-1
+416,96,Soso Mummy,0,0,114,-1
+417,101,Jelly Deli,0,0,114,-1
+418,93,Piggy,0,0,114,-1
+9416,148,Giant Soso,2,2,114,-1
+353,123,Red Soso,0,0,60,-1
+354,124,Blue Soso,0,0,60,-1
+392,75,Puppet,0,0,98,-1
+393,76,Hoggy Puppet,0,0,98,-1
+9392,150,Giant Seven,2,2,98,-1
+398,25,Blabby,0,0,102,-1
+399,111,Dimensional Fish,0,0,102,-1
+400,110,Chair Fighter,0,0,102,-1
+401,109,Desk Mimic,0,0,102,-1
+9398,149,Giant Marsh,2,2,102,-1
+330,73,Nina,0,0,102,-1
+331,74,Nino,0,0,102,-1
+332,75,Puppet,0,0,102,-1
+333,78,Mujina Guard,0,0,102,-1
+9332,150,Giant Seven,2,2,102,-1
+295,7,Ratchu,0,0,9,-1
+296,9,Monera,0,0,9,-1
+292,7,Ratchu,0,0,9,-1
+293,9,Monera,0,0,9,-1
+441,16,Mecha Dorothy No. 4,1,1,129,-1
+442,128,Sowol Academy Male Student,0,0,129,-1
+443,129,Sowol Academy Female Student,0,0,129,-1
+444,3,Marsh,0,0,129,-1
+445,27,Globie,0,0,129,-1
+446,33,Croco,0,0,129,-1
+447,129,Sowol Academy Female Student,0,0,129,-1
+448,128,Sowol Academy Male Student,0,0,129,-1
+9442,148,Giant Soso,2,2,129,-1
+463,128,Sowol Academy Male Student,0,0,89,-1
+464,129,Sowol Academy Female Student,0,0,89,-1
+297,7,Ratchu,0,0,1,-1
+298,4,Teddy,0,0,1,-1
+299,7,Ratchu,0,0,1,-1
+300,4,Teddy,0,0,1,-1
+301,7,Ratchu,0,0,1,-1
+302,4,Teddy,0,0,1,-1
+303,7,Ratchu,0,0,1,-1
+304,4,Teddy,0,0,1,-1
+305,9,Monera,0,0,1,-1
+306,58,Wraith,0,0,1,-1
+307,9,Monera,0,0,1,-1
+308,58,Wraith,0,0,1,-1
+309,9,Monera,0,0,1,-1
+310,58,Wraith,0,0,1,-1
+311,9,Monera,0,0,1,-1
+312,58,Wraith,0,0,1,-1
+355,31,Sparbie,0,0,75,-1
+356,126,Kokko,0,0,75,-1
+358,96,Soso Mummy,0,0,75,-1
+359,106,Black Widow Spider,0,0,75,-1
+357,131,Fire Kokko,1,1,75,-1
+9358,148,Giant Soso,2,2,75,-1
+368,128,Sowol Academy Male Student,0,0,73,-1
+369,129,Sowol Academy Female Student,0,0,73,-1
+370,73,Nina,0,0,73,-1
+371,74,Nino,0,0,73,-1
+372,7,Ratchu,0,0,73,-1
+9370,149,Giant Marsh,2,2,73,-1
+419,7,Ratchu,0,0,111,-1
+420,73,Nina,0,0,111,-1
+421,74,Nino,0,0,111,-1
+9420,150,Giant Seven,2,2,111,-1
+360,93,Piggy,0,0,71,-1
+361,96,Soso Mummy,0,0,71,-1
+362,36,Lady,0,0,71,-1
+363,37,Steady,0,0,71,-1
+364,38,Gou,0,0,71,-1
+9361,148,Giant Soso,2,2,71,-1
+378,128,Sowol Academy Male Student,0,0,77,-1
+379,129,Sowol Academy Female Student,0,0,77,-1
+9378,150,Giant Seven,2,2,77,-1
+468,130,Instructor Stefano,1,1,129,-1
+465,5,Bobokan,0,0,129,-1
+466,20,Homekeeper mk-2,0,0,129,-1
+467,95,Patrobo,0,0,129,-1
+9465,150,Giant Seven,2,2,129,-1
+432,101,Jelly Deli,0,0,125,-1
+433,93,Piggy,0,0,125,-1
+434,54,Foxy,0,0,125,-1
+435,59,Nine Fox,0,0,125,-1
+9432,149,Giant Marsh,2,2,125,-1
+342,126,Kokko,0,0,83,-1
+343,36,Lady,0,0,83,-1
+344,37,Steady,0,0,83,-1
+345,38,Gou,0,0,83,-1
+9343,150,Giant Seven,2,2,83,-1
+373,84,Nightwalker,0,0,81,-1
+374,56,Halloween,0,0,81,-1
+9374,148,Giant Soso,2,2,81,-1
+365,132,Male Student from the Past,0,0,85,-1
+366,133,Female Student from the Past,0,0,85,-1
+367,72,Emily,0,0,85,-1
+9365,150,Giant Seven,2,2,85,-1
+385,93,Piggy,0,0,2,-1
+386,112,Shadow Beast,0,0,2,-1
+387,100,Rollex,0,0,2,-1
+388,101,Jelly Deli,0,0,2,-1
+403,125,Shadow Nyudo,0,0,105,-1
+404,103,Ninja,0,0,105,-1
+405,78,Mujina Guard,0,0,105,-1
+406,73,Nina,0,0,105,-1
+407,74,Nino,0,0,105,-1
+402,134,Ghost Vice Principal Stalin,1,1,105,-1
+9404,150,Giant Seven,2,2,105,-1
+457,108,Soso Planet,0,0,121,-1
+458,110,Chair Fighter,0,0,121,-1
+459,109,Desk Mimic,0,0,121,-1
+460,113,Cleaning Professor,0,0,121,-1
+461,111,Dimensional Fish,0,0,121,-1
+9457,148,Giant Soso,2,2,121,-1
+470,118,PTA 41,0,0,135,-1
+471,119,PTA 26,0,0,135,-1
+472,33,Croco,0,0,135,-1
+473,95,Patrobo,0,0,135,-1
+9473,149,Giant Marsh,2,2,135,-1
+476,118,PTA 41,0,0,135,-1
+477,119,PTA 26,0,0,135,-1
+478,33,Croco,0,0,135,-1
+479,95,Patrobo,0,0,135,-1
+9478,149,Giant Marsh,2,2,135,-1
+474,129,Sowol Academy Female Student,0,0,141,-1
+475,128,Sowol Academy Male Student,0,0,141,-1
+9474,148,Giant Soso,2,2,141,-1
+492,5,Bobokan,0,0,141,-1
+493,90,Bonbo,0,0,141,-1
+494,94,Tohoho,0,0,141,-1
+495,95,Patrobo,0,0,141,-1
+9494,150,Giant Seven,2,2,141,-1
+503,79,Guardian Fairy,1,1,147,-1
+497,67,Flying Skull,0,0,147,-1
+498,125,Shadow Nyudo,0,0,147,-1
+499,104,Kota,0,0,147,-1
+500,70,Kim Daegam,0,0,147,-1
+501,71,Montal,0,0,147,-1
+502,69,Fairy,0,0,147,-1
+9500,148,Giant Soso,2,2,147,-1
+484,5,Bobokan,0,0,147,-1
+485,12,High Baraus,0,0,147,-1
+486,90,Bonbo,0,0,147,-1
+487,110,Chair Fighter,0,0,147,-1
+488,109,Desk Mimic,0,0,147,-1
+489,20,Homekeeper mk-2,0,0,147,-1
+490,25,Blabby,0,0,147,-1
+9487,150,Giant Seven,2,2,147,-1
+491,26,Gatekeeper,1,1,147,-1
+480,47,Little Croco,0,0,153,-1
+481,33,Croco,0,0,153,-1
+482,46,Hakkoumori,0,0,153,-1
+483,117,4D Woodherian,0,0,153,-1
+496,34,Cycloco,1,1,153,-1
+9481,149,Giant Marsh,2,2,153,-1
+510,47,Little Croco,0,0,153,-1
+511,33,Croco,0,0,153,-1
+512,90,Bonbo,0,0,153,-1
+513,34,Cycloco,1,1,153,-1
+514,127,Rosie,0,0,153,-1
+515,126,Kokko,0,0,153,-1
+543,47,Little Croco,0,0,153,-1
+544,33,Croco,0,0,153,-1
+9511,150,Giant Seven,2,2,153,-1
+504,67,Flying Skull,0,0,160,-1
+505,46,Hakkoumori,0,0,160,-1
+506,80,Lowborn Frog,0,0,160,-1
+507,92,Zarukaburi,0,0,160,-1
+508,105,Hinowa Nyudo,0,0,160,-1
+9504,148,Giant Soso,2,2,160,-1
+509,82,Fuku's Turtle,0,0,160,-1
+519,120,Angry Myurobie,0,0,160,-1
+520,5,Bobokan Deluxe,0,0,160,-1
+521,95,Patrobo,0,0,160,-1
+522,17,Warguma,0,0,160,-1
+523,18,Dwarguma,0,0,160,-1
+9522,150,Giant Seven,2,2,160,-1
+550,107,Earthquake,1,1,174,-1
+545,1,Soso,0,0,174,-1
+546,55,Soso Skeleton,0,0,174,-1
+547,96,Soso Mummy,0,0,174,-1
+548,108,Soso Planet,0,0,174,-1
+549,122,Soso Fire,0,0,174,-1
+551,96,Soso Mummy,0,0,174,-1
+552,108,Soso Planet,0,0,174,-1
+553,122,Soso Fire,0,0,174,-1
+516,118,PTA 41,0,0,181,-1
+517,119,PTA 26,0,0,181,-1
+518,151,Student A,0,0,181,-1
+594,77,Puppet Master,1,1,167,-1
+588,31,Sparbie,0,0,167,-1
+589,67,Flying Skull,0,0,167,-1
+590,46,Hakkoumori,0,0,167,-1
+591,75,Puppet,0,0,167,-1
+592,75,Puppet,0,0,167,-1
+593,76,Hoggy Puppet,0,0,167,-1
+9591,149,Giant Marsh,2,2,167,-1
+524,28,King Globie,0,0,167,-1
+525,27,Globie,0,0,167,-1
+526,94,Tohoho,0,0,167,-1
+528,90,Bonbo,0,0,167,-1
+529,5,Bobokan Deluxe,0,0,167,-1
+530,20,Homekeeper mk-2,0,0,167,-1
+527,102,Nightlow,1,1,167,-1
+9528,150,Giant Seven,2,2,167,-1
+595,5,Bobokan Deluxe,0,0,167,-1
+531,118,PTA 41,0,0,204,-1
+532,119,PTA 26,0,0,204,-1
+533,25,Blabby,0,0,204,-1
+534,26,Gatekeeper,0,0,204,-1
+601,25,Blabby,0,0,204,-1
+554,71,Montal,0,0,188,-1
+555,104,Kota,0,0,188,-1
+556,82,Fuku's Turtle,0,0,188,-1
+557,125,Shadow Nyudo,0,0,188,-1
+558,91,Prisoner,0,0,188,-1
+559,67,Flying Skull,0,0,188,-1
+560,70,Kim Daegam,0,0,188,-1
+561,69,Fairy,0,0,188,-1
+562,81,Demp,0,0,188,-1
+563,68,Fox Child,0,0,188,-1
+564,80,Lowborn Frog,0,0,188,-1
+565,105,Hinowa Nyudo,0,0,188,-1
+566,92,Zarukaburi,0,0,188,-1
+567,79,Guardian Fairy,1,1,188,-1
+568,83,Thousand-Year Fox,1,1,188,4
+602,79,Guardian Tennyo,0,0,188,-1
+616,115,Amaquila,1,1,188,-1
+597,117,4D Woodherian,0,0,188,-1
+598,116,Quila,0,0,188,-1
+600,117,4D Woodherian,0,0,188,-1
+9597,150,Giant Seven,2,2,188,-1
+535,118,PTA 41,0,0,212,-1
+536,119,PTA 26,0,0,212,-1
+537,118,PTA 41,0,0,212,-1
+538,119,PTA 26,0,0,212,-1
+539,37,Steady,0,0,212,-1
+540,38,Gou,0,0,212,-1
+541,36,Lady,0,0,212,-1
+542,21,Stefano,1,1,212,-1
+622,141,Complete Gatekeeper,1,1,220,-1
+617,71,Montal,0,0,220,-1
+618,91,Prisoner,0,0,220,-1
+619,125,Shadow Nyudo,0,0,220,-1
+620,98,Gregory II,0,0,220,-1
+621,100,Rollex,0,0,220,-1
+623,25,Blabby,0,0,220,-1
+624,142,Antique Guard,0,0,220,-1
+611,143,Antique Queen of Destruction,1,1,230,4
+603,25,Blabby,0,0,230,-1
+604,97,Gregory,0,0,230,-1
+605,98,Gregory II,0,0,230,-1
+606,94,Tohoho,0,0,230,-1
+607,90,Bonbo,0,0,230,-1
+608,114,Catatsler,0,0,230,-1
+609,111,Dimensional Fish,0,0,230,-1
+610,112,Shadow Beast,0,0,230,-1
+612,144,Antique Queen of Salvation,1,1,230,4
+615,147,Complete Antique Queen,1,1,230,4
+613,145,Antique Queen's First Attendant,0,0,230,-1
+614,146,Antique Queen's Second Attendant,0,0,230,-1
+569,3,Marsh,0,0,196,-1
+570,11,Baraus,0,0,196,-1
+571,12,High Baraus,0,0,196,-1
+573,30,Neighbor,0,0,196,-1
+575,5,Bobokan,0,0,196,-1
+576,20,Homekeeper mk-2,0,0,196,-1
+577,17,Warguma,0,0,196,-1
+582,57,Zero-Seven,0,0,196,-1
+583,84,Nightwalker,0,0,196,-1
+584,56,Halloween,0,0,196,-1
+585,85,Phantom,0,0,196,-1
+586,66,Bio,0,0,196,-1
+580,59,Nine Fox,1,1,196,-1
+587,60,Megadeath,1,1,196,-1
+599,115,Amaquila,1,1,196,-1
+625,123,Red Soso,0,0,66,-1
+626,124,Blue Soso,0,0,66,-1
