@@ -58,6 +58,27 @@ translating.
 If you're starting a language that doesn't have a folder yet, just create
 `translations/<code>/` with your first file -- no need to ask first.
 
+## Automated checks
+
+Every PR that touches `translations/` gets checked automatically
+(`.github/workflows/validate-translations.yml`) for the structural stuff
+that's easy to miss by eye:
+
+- the file's still valid CSV with the right header and row count
+- no ragged rows (usually means a translated cell has a comma or quote in it
+  that needed to be wrapped in `"..."`)
+- id/index/numeric columns weren't accidentally edited
+- known hard character limits from `CHARACTER_LIMITS.md` aren't exceeded
+
+It won't catch translation quality or accuracy -- that's still down to
+human review -- but it catches the mechanical mistakes before they end up
+breaking a table in-game. You can run the same check yourself before
+opening a PR:
+
+```sh
+python3 scripts/validate_translations.py
+```
+
 ## A couple of notes
 
 - Files are plain UTF-8 CSV. Any normal spreadsheet editor (LibreOffice

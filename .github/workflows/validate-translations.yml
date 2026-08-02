@@ -1,0 +1,29 @@
+name: Validate translations
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "translations/**"
+      - "CLT_Master/clt_csv_source/**"
+      - "scripts/validate_translations.py"
+      - ".github/workflows/validate-translations.yml"
+  push:
+    branches: [main]
+    paths:
+      - "translations/**"
+      - "CLT_Master/clt_csv_source/**"
+      - "scripts/validate_translations.py"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run structural validation
+        run: python3 scripts/validate_translations.py
