@@ -5,7 +5,7 @@ index,quest_item_id,code,name,description
 3,4,qe000004,ハイバラウスの花びら,ハイバラウスたちの花びら。傘の代わりに使われたりすることもある
 4,5,qe000005,ラッチューのしっぽ,ぐるぐる回るラッチューのしっぽ
 5,6,qe000006,テディの包丁,モンスター・テディの背中に刺さってる包丁。斧の代わりに使えそうなほど大きい
-6,7,qe000007,Warguma's Apology Letter,A letter of apology that says "We will never do bad things again. From all of Warguma." Instead of a stamp, it has Walguma's front paw print pressed on it.
+6,7,qe000007,Warguma's Apology Letter,"A letter of apology that says ""We will never do bad things again. From all of Warguma."" Instead of a stamp, it has Walguma's front paw print pressed on it."
 7,8,qe000008,バリケードの破片,壊れたバリケードの破片。使い道はあるの？
 8,9,qe000009,布切れ,ひらひらした布切れ。服やかばんの材料に使えそうだ
 9,10,qe000010,針,鋭い針
@@ -94,7 +94,7 @@ index,quest_item_id,code,name,description
 92,103,qe000103,高級シルク,高級そうな絹
 93,104,qe000104,オオカミの足,オオカミの足
 94,105,qe000105,オオカミの肉,オオカミの肉。四刀丸さんが焼いて醤油をかけて食べるらしい
-95,106,qe000106,Part of "The Wizard of Oz",A torn piece of "The Wizard of Oz". Collect these to restore the book.
+95,106,qe000106,"Part of ""The Wizard of Oz""","A torn piece of ""The Wizard of Oz"". Collect these to restore the book."
 96,107,qe000107,,
 97,108,qe000108,,
 98,109,qe000109,,
@@ -112,7 +112,7 @@ index,quest_item_id,code,name,description
 110,121,qe000121,ボロボロの旧制服,ボロボロに破れた宵月学院の旧制服
 111,122,qe000122,ボロボロの制服,ボロボロに破れた宵月学院の女生徒の制服
 112,123,qe000123,ボロボロの制服,ボロボロに破れた宵月学院の男子生徒の制服
-113,124,qe000124,"The Wizard of Oz" Cover,"The Wizard of Oz" Cover
+113,124,qe000124,The Wizard of Oz Cover,The Wizard of Oz Cover
 114,125,qe000125,「オズの魔法使い」,「オズの魔法使い」
 115,126,qe000126,ドロシーのヘアバンド,ドロシーのヘアバンド
 116,127,qe000127,羊のネックレス,羊のネックレス
