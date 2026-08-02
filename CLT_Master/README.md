@@ -17,32 +17,37 @@ A full decode of every CLT table currently packed into the client's
 All 64 tables in the client are here, so this is every entry that can be
 translated, not just a handful.
 
-35,522 total data rows across 64 tables. 25 of the 64 tables actually contain
-translatable (non-ASCII / Japanese) text in at least one column; the other 39
-are pure numeric/config tables (item slot rules, weapon stat curves,
-model/sound IDs, etc.) with nothing to translate.
+35,522 total data rows across 64 tables. 34 of the 64 tables have at least
+one text-shaped column (name/desc/title/label/etc.) worth translating or
+localizing; the other 30 are pure numeric/config tables (item slot rules,
+weapon stat curves, model/sound IDs, etc.) with nothing to translate. Some
+of the 34 are currently all-Japanese, some are already in romanized/English
+text but still benefit from consistency edits (a real contribution has
+already standardized a couple of inconsistently-romanized names this way),
+and some rows may just be empty placeholders waiting for a value -- don't
+assume a column with no Japanese text in it today has nothing worth doing.
 
 | Table | Columns | Rows | Translatable columns |
 |---|---:|---:|---|
 | AREA_INFO | 8 | 11 | description,level_range,location,name |
 | ATK_WEAPON | 8 | 523 | (none -- numeric/config only) |
-| BEITEM_SLOT | 13 | 70 | (none -- numeric/config only) |
+| BEITEM_SLOT | 13 | 70 | extra |
 | BEITEM_TYPE | 18 | 1713 | desc,name |
 | CLI_COMMAND_MOTION | 4 | 4 | (none -- numeric/config only) |
 | CLI_MOUSE_CURSOR | 8 | 27 | (none -- numeric/config only) |
 | COITEM_TYPE | 9 | 9336 | desc,extra,name |
-| ENCHANT_TITLE | 2 | 5 | (none -- numeric/config only) |
-| ENITEM_TYPE | 8 | 36 | (none -- numeric/config only) |
+| ENCHANT_TITLE | 2 | 5 | title |
+| ENITEM_TYPE | 8 | 36 | desc,extra,name |
 | EPISODE | 7 | 153 | t1,t2,t3 |
 | EPISODE_DETAIL | 46 | 152 | (none -- numeric/config only) |
 | EPISODE_MONSTER | 7 | 728 | name |
-| FIELD | 4 | 457 | (none -- numeric/config only) |
+| FIELD | 4 | 457 | name |
 | FIELD_MOVE_PRM | 3 | 44 | (none -- numeric/config only) |
 | GO_TARGET_PRM | 4 | 103 | (none -- numeric/config only) |
-| GUIDE_BOARD | 2 | 2 | (none -- numeric/config only) |
+| GUIDE_BOARD | 2 | 2 | title |
 | HUNT_MON | 2 | 187 | (none -- numeric/config only) |
 | ITEM_BYUL_BETYPE | 9 | 466 | (none -- numeric/config only) |
-| ITEM_BYUL_EFFECT | 2 | 29 | (none -- numeric/config only) |
+| ITEM_BYUL_EFFECT | 2 | 29 | name |
 | ITEM_BYUL_PARAM_ENCHANT | 4 | 152 | (none -- numeric/config only) |
 | ITEM_BYUL_TYPE | 15 | 3325 | desc,name |
 | ITEM_BYUL_USEDAYICON | 2 | 34 | (none -- numeric/config only) |
@@ -52,9 +57,9 @@ model/sound IDs, etc.) with nothing to translate.
 | MATCHING_BGM | 2 | 53 | (none -- numeric/config only) |
 | MATCHING_DANCE_MOTION | 2 | 27 | (none -- numeric/config only) |
 | MATCHING_EMOTICON | 3 | 240 | text |
-| MATCHING_EMOTION | 4 | 50 | (none -- numeric/config only) |
+| MATCHING_EMOTION | 4 | 50 | name |
 | MATCHING_EN_EFFECT | 5 | 4 | (none -- numeric/config only) |
-| MATCHING_FACE | 4 | 90 | (none -- numeric/config only) |
+| MATCHING_FACE | 4 | 90 | name |
 | MATCHING_HAIR | 2 | 56 | (none -- numeric/config only) |
 | MATCHING_HELP | 11 | 70 | (none -- numeric/config only) |
 | MATCHING_NPCTRADE_MSG | 6 | 324 | (none -- numeric/config only) |
@@ -69,7 +74,7 @@ model/sound IDs, etc.) with nothing to translate.
 | MON | 6 | 238 | name |
 | MONSTER_BASIS | 5 | 152 | name |
 | NOTIFY_MSG | 2 | 9 | text |
-| NPC_EX | 4 | 590 | (none -- numeric/config only) |
+| NPC_EX | 4 | 590 | name |
 | NoOptionField | 2 | 10 | (none -- numeric/config only) |
 | PRODUCT_CATEGORY | 3 | 2371 | (none -- numeric/config only) |
 | PROMOTE_COND | 5 | 8 | description,requirement,title |
@@ -83,7 +88,7 @@ model/sound IDs, etc.) with nothing to translate.
 | SKL_AREA | 5 | 494 | (none -- numeric/config only) |
 | SKL_Desc | 7 | 167 | description,name |
 | SKL_Desc2 | 13 | 320 | text |
-| SPECIAL_PHONE | 5 | 4 | (none -- numeric/config only) |
+| SPECIAL_PHONE | 5 | 4 | label |
 | SPECIAL_REWARD | 6 | 30 | name |
 | STATE_CHANGE | 4 | 37 | name |
 | TITLE | 6 | 56 | condition,description,name |

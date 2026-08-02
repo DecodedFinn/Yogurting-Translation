@@ -28,24 +28,40 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DIR = REPO_ROOT / "CLT_Master" / "clt_csv_source"
 TRANSLATIONS_DIR = REPO_ROOT / "translations"
 
-# Which columns are expected to actually be translated per table (matches
-# the coverage table in CLT_Master/README.md). Everything else in a table's
-# header must stay byte-identical to the source row.
+# Which columns are expected to actually be translated per table. This is
+# NOT limited to columns that currently contain Japanese text -- a column
+# can be text-shaped (name/desc/title/label/extra/...) and still be empty,
+# numeric-placeholder, or already-ASCII in the current client build, and
+# still be a legitimate thing to edit (e.g. FIELD.name and NPC_EX.name are
+# both like this, and a real contribution has edited exactly those two for
+# naming-consistency reasons). Built from a full scan of every table's
+# header for text-shaped column names, not just a non-ASCII content scan --
+# don't narrow this back down to "columns observed containing Japanese" or
+# this same false-positive class of bug comes back.
 TRANSLATABLE_COLUMNS = {
     "AREA_INFO": {"description", "level_range", "location", "name"},
+    "BEITEM_SLOT": {"extra"},
     "BEITEM_TYPE": {"desc", "name"},
     "COITEM_TYPE": {"desc", "extra", "name"},
+    "ENCHANT_TITLE": {"title"},
+    "ENITEM_TYPE": {"desc", "extra", "name"},
     "EPISODE": {"t1", "t2", "t3", "t4"},
     "EPISODE_MONSTER": {"name"},
+    "FIELD": {"name"},
+    "GUIDE_BOARD": {"title"},
+    "ITEM_BYUL_EFFECT": {"name"},
     "ITEM_BYUL_TYPE": {"desc", "name"},
     "ITEM_CHARGED_TYPE": {"desc1", "desc2"},
     "LOBBY": {"desc", "name"},
     "MATCHING_EMOTICON": {"text"},
+    "MATCHING_EMOTION": {"name"},
+    "MATCHING_FACE": {"name"},
     "MATCHING_SYS_MSG": {"id_code", "s1", "s2"},
     "MATCHING_UNIQUEMON_SPECIAL_EFFECT": {"name"},
     "MON": {"name"},
     "MONSTER_BASIS": {"name"},
     "NOTIFY_MSG": {"text"},
+    "NPC_EX": {"name"},
     "PROMOTE_COND": {"description", "requirement", "title"},
     "QUEST_EX": {"notice_text", "objective_text", "reward_text", "title"},
     "QUEST_ITEM_TYPE": {"description", "name"},
@@ -54,6 +70,7 @@ TRANSLATABLE_COLUMNS = {
     "SKILL_WEAPON": {"description", "name"},
     "SKL_Desc": {"description", "name"},
     "SKL_Desc2": {"text"},
+    "SPECIAL_PHONE": {"label"},
     "SPECIAL_REWARD": {"name"},
     "STATE_CHANGE": {"name"},
     "TITLE": {"condition", "description", "name"},
