@@ -1,37 +1,37 @@
 item_id,code,name,desc,extra,i0,i1,i2
-1,EN000001,Red Crayon,A Fire-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,1,1
-2,EN000002,Red Colored Pencil,A Fire-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,1,2
-3,EN000003,Red Pastel,A Fire-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,1,3
-4,EN000004,Red Watercolor Paint,A Fire-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,1,4
-5,EN000005,Red Acrylic Paint,A Fire-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,1,5
-6,EN000006,Red Oil Paint,A Fire-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,1,6
-7,EN000007,Blue Crayon,A Water-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,2,1
-8,EN000008,Blue Colored Pencil,A Water-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,2,2
-9,EN000009,Blue Pastel,A Water-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,2,3
-10,EN000010,Blue Watercolor Paint,A Water-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,2,4
-11,EN000011,Blue Acrylic Paint,A Water-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,2,5
-12,EN000012,Blue Oil Paint,A Water-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,2,6
-13,EN000013,Green Crayon,A Wood-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,3,1
-14,EN000014,Green Colored Pencil,A Wood-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,3,2
-15,EN000015,Green Pastel,A Wood-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,3,3
-16,EN000016,Green Watercolor Paint,A Wood-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,3,4
-17,EN000017,Green Acrylic Paint,A Wood-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,3,5
-18,EN000018,Green Oil Paint,A Wood-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,3,6
-19,EN000019,Yellow Crayon,A Metal-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,4,1
-20,EN000020,Yellow Colored Pencil,A Metal-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,4,2
-21,EN000021,Yellow Pastel,A Metal-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,4,3
-22,EN000022,Yellow Watercolor Paint,A Metal-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,4,4
-23,EN000023,Yellow Acrylic Paint,A Metal-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,4,5
-24,EN000024,Yellow Oil Paint,A Metal-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,4,6
-25,EN000025,Brown Crayon,A Earth-element crystal for Year 1. / Used when removing/destroying stones for Year 1 or below.,Remove/destroy stone,1,5,1
-26,EN000026,Brown Colored Pencil,A Earth-element crystal for Year 2. / Used when removing/destroying stones for Year 2 or below.,Remove/destroy stone,1,5,2
-27,EN000027,Brown Pastel,A Earth-element crystal for Year 3. / Used when removing/destroying stones for Year 3 or below.,Remove/destroy stone,1,5,3
-28,EN000028,Brown Watercolor Paint,An Earth-element crystal for Year 4. / Used when removing/destroying stones for Year 4 or below.,Remove/destroy stone,1,5,4
-29,EN000029,Brown Acrylic Paint,An Earth-element crystal for Year 5. / Used when removing/destroying stones for Year 5 or below.,Remove/destroy stone,1,5,5
-30,EN000030,Brown Oil Paint,An Earth-element crystal for Year 6. / Used when removing/destroying stones for Year 6 or below.,Remove/destroy stone,1,5,6
-10001,EN010001,Enhancement Guidebook for first-,Enhancement guide for Year 1. It explains the most basic mindset for enhancing gear. It has many dia,Enhance stones,2,0,1
-10002,EN010002,Enhancement Guidebook for second,Enhancement guide for Year 2. It explains the general procedure for enhancing gear. The text is larg,Enhance stones,2,0,2
-10003,EN010003,Enhancement Guidebook for third-,Enhancement guide for Year 3. It contains practical information about enhancing gear. / Used when at,Enhance stones,2,0,3
-10004,EN010004,Enhancement Guidebook for fourth,Enhancement guide for Year 4. It contains applied theories about enhancing gear. / Used when attach/,Enhance stones,2,0,4
-10005,EN010005,Enhancement Guidebook for fifth-,Enhancement guide for Year 5. It contains more advanced information about enhancing gear. A technica,Enhance stones,2,0,5
-10006,EN010006,Enhancement Guidebook for sixth-,Enhancement guide for Year 6. It contains difficult and complex papers about enhancing gear. Misinte,Enhance stones,2,0,6
+1,EN000001,赤のクレヨン,1年生用の火属性エネルギー結晶。<br>1年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,1,1
+2,EN000002,赤の色鉛筆,2年生用の火属性エネルギー結晶。<br>2年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,1,2
+3,EN000003,赤のパステル,3年生用の火属性エネルギー結晶。<br>3年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,1,3
+4,EN000004,赤の水彩絵具,4年生用の火属性エネルギー結晶。<br>4年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,1,4
+5,EN000005,赤のアクリル絵具,5年生用の火属性エネルギー結晶。<br>5年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,1,5
+6,EN000006,赤の油絵具,6年生用の火属性エネルギー結晶。<br>6年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,1,6
+7,EN000007,青のクレヨン,1年生用の水属性エネルギー結晶。<br>1年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,2,1
+8,EN000008,青の色鉛筆,2年生用の水属性エネルギー結晶。<br>2年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,2,2
+9,EN000009,青のパステル,3年生用の水属性エネルギー結晶。<br>3年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,2,3
+10,EN000010,青の水彩絵具,4年生用の水属性エネルギー結晶。<br>4年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,2,4
+11,EN000011,青のアクリル絵具,5年生用の水属性エネルギー結晶。<br>5年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,2,5
+12,EN000012,青の油絵具,6年生用の水属性エネルギー結晶。<br>6年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,2,6
+13,EN000013,緑のクレヨン,1年生用の木属性エネルギー結晶。<br>1年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,3,1
+14,EN000014,緑の色鉛筆,2年生用の木属性エネルギー結晶。<br>2年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,3,2
+15,EN000015,緑のパステル,3年生用の木属性エネルギー結晶。<br>3年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,3,3
+16,EN000016,緑の水彩絵具,4年生用の木属性エネルギー結晶。<br>4年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,3,4
+17,EN000017,緑のアクリル絵具,5年生用の木属性エネルギー結晶。<br>5年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,3,5
+18,EN000018,緑の油絵具,6年生用の木属性エネルギー結晶。<br>6年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,3,6
+19,EN000019,黄色のクレヨン,1年生用の金属性エネルギー結晶。<br>1年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,4,1
+20,EN000020,黄色の色鉛筆,2年生用の金属性エネルギー結晶。<br>2年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,4,2
+21,EN000021,黄色のパステル,3年生用の金属性エネルギー結晶。<br>3年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,4,3
+22,EN000022,黄色の水彩絵具,4年生用の金属性エネルギー結晶。<br>4年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,4,4
+23,EN000023,黄色のアクリル絵具,5年生用の金属性エネルギー結晶。<br>5年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,4,5
+24,EN000024,黄色の油絵具,6年生用の金属性エネルギー結晶。<br>6年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,4,6
+25,EN000025,茶色のクレヨン,1年生用の土属性エネルギー結晶。<br>1年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,5,1
+26,EN000026,茶色の色鉛筆,2年生用の土属性エネルギー結晶。<br>2年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,5,2
+27,EN000027,茶色のパステル,3年生用の土属性エネルギー結晶。<br>3年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,5,3
+28,EN000028,茶色の水彩絵具,4年生用の土属性エネルギー結晶。<br>4年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,5,4
+29,EN000029,茶色のアクリル,5年生用の土属性エネルギー結晶。<br>5年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,5,5
+30,EN000030,茶色の油絵具,6年生用の土属性エネルギー結晶。<br>6年生用以下の源石を解除／破壊する時に使用する。,源石の解除／破壊時に使用,1,5,6
+10001,EN010001,1年生用強化参考書,1年生用強化参考書。装備の強化について、最も基本的な心構えが書かれている。図解も多く、わかりやすい。<br>1年生用以下の源石を装着、解除、または破壊する時に使用する。,源石装着/解除/破壊に使用,2,0,1
+10002,EN010002,2年生用強化参考書,2年生用強化参考書。装備の強化について、大まかな手順が書かれている。字が大きくて読みやすい。<br>2年生用以下の源石を装着、解除、または破壊する時に使用する。,源石装着/解除/破壊に使用,2,0,2
+10003,EN010003,3年生用強化参考書,3年生用強化参考書。装備の強化について、実践的な内容が書かれている。<br>3年生用以下の源石を装着、解除、または破壊する時に使用する。,源石装着/解除/破壊に使用,2,0,3
+10004,EN010004,4年生用強化参考書,4年生用強化参考書。装備の強化について、応用的な理論が書かれている。<br>4年生用以下の源石を装着、解除、または破壊する時に使用する。,源石装着/解除/破壊に使用,2,0,4
+10005,EN010005,5年生用強化参考書,5年生用強化参考書。装備の強化について、より高度な情報が書かれている。読み解くには専門用語辞典が必要。<br>5年生用以下の源石を装着、解除、または破壊する時に使用する。,源石装着/解除/破壊に使用,2,0,5
+10006,EN010006,6年生用強化参考書,6年生用強化参考書。装備の強化について、難解で複雑な論文が書かれている。解釈を誤ると、心に傷を追うことがある。<br>6年生用以下の源石を装着、解除、または破壊する時に使用する。,源石装着/解除/破壊に使用,2,0,6

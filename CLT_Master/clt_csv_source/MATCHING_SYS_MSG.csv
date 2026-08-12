@@ -1,105 +1,105 @@
 index,fmt,af8,id_len,id_code,s1,s2
-0,A,7,7,Eng0201,,A wonderful memory of school life has been recorded.
-1,B,105,7,Eng0202,,There is not enough free space to save the screenshot.
-2,B,201,7,Srv0001,Communication Ended,Communication with the server has been disconnected.
-3,B,202,7,Srv0002,Communication Failed,Cannot communicate with the server.
-4,B,203,7,Srv0003,Communication Disconnected,Communication was disconnected because you connected from another location.
-5,B,207,7,Srv0004,Communication Disconnected,"We apologize, but the communication has been disconnected."
-6,B,204,7,SVr0101,,Normal
-7,B,205,7,Svr0102,,Crowded
-8,B,206,7,Svr0103,Notice,"The game cannot be run because the game client version is different.<br>Please download and install the latest version, then run it again.($1)"
-9,B,301,7,Log0003,Disconnect Existing Connection,You are connected elsewhere. Disconnect the current connection?
-10,B,302,7,Log0022,Character Will Be Deleted,Creating a new character will delete the existing character. Continue?
-11,B,303,7,Log0004,,<br><br>Welcome to Yogurting!<br><br>Please enter your Attraction ID<br>and password!
-12,B,304,7,Log0023,,You are already connected. Disconnect and log in?
-13,B,305,7,Log0001,,The Attraction ID or password is <br>incorrect.<br>Please check again.
-14,B,306,7,Log0002,,The Attraction ID or password is <br>incorrect.<br>Please check again.
-15,B,307,7,Log0024,,"The world is currently crowded,<br>so responses are delayed."
-16,B,308,7,Log0025,,Communication could not be established.<br>Please wait a while and try again.
-17,B,309,7,Log0005,,"Currently, only testers can connect."
-18,B,310,7,Log0006,,"The trial period has ended. If you used simple registration, please complete full registration. If you registered a trial ID before 2006/07/12, please create a new ID again."
-19,B,311,7,Log0007,,This account is being deleted<br>and cannot be used.
-20,B,312,7,Log0008,,Cannot communicate with the world.
-21,B,313,7,Log0009,,There is no response.<br>The connection is delayed.
-22,B,314,7,Log0010,,There are currently no<br>available worlds.
-23,B,315,7,Log0011,,Communication with the<br>game server has been disconnected.
-24,B,316,7,Log0012,,Cannot communicate with the<br>game server.
-25,B,317,7,Log0013,,Cannot communicate with the<br>world.
-26,B,318,7,Log0014,,"Wait!<br>If you create a new character,<br>this character will be deleted!!"
-27,B,319,7,Log0015,,$1 people are waiting for server communication.
-28,B,320,7,Log0016,,"At your request, your Attraction ID<br>is currently being verified.<br>Please wait a while and connect again."
-29,B,321,7,Log0017,,"To play Yogurting, please log in from the official website first."
-30,B,322,7,Log0018,,The password was entered incorrectly<br>5 or more times!<br>Please log in on the Yogurting official website<br>and check.
-31,B,323,7,Log0019,,"Unfortunately, users under 12<br>cannot connect!<br>Yogurting is available<br>once you turn 12!"
-32,B,324,7,Log0020,,You can play Yogurting<br>if your guardian gives consent.<br>Please connect to the official website<br>and check.
-33,B,325,7,Log0021,,An unknown problem<br>has occurred.<br>Please connect to the official website<br>and contact the Web Help Desk.
-34,B,326,7,Log0026,Waiting to Connect,$1 people are currently waiting to connect.
-35,B,327,7,Log0027,,<br><br><br><br>Connecting to<br>Yogurting.
-36,B,337,7,Log0028,Waiting to Connect,Estimated connection time is $1 seconds.
-37,B,338,7,Log0029,Cannot Connect,You cannot connect after 10:00 PM.
-38,B,328,7,Log0101,,"The game fee is unpaid, or the usage period has expired."
-39,B,329,7,Log0102,,This ID is unauthenticated or suspended.
-40,B,330,7,Log0103,,This ID is unauthenticated or suspended.
-41,B,331,7,Log0104,,This ID is unauthenticated or suspended.
-42,B,332,7,Log0105,,Yogurting has entered official service. Please link your Attraction ID at GungHo's Attraction Center.
-43,B,333,7,Log0106,,The beta service has ended. Please wait until the official service begins.
-44,B,334,7,Log0107,,"The trial period has ended. If you used simple registration, please complete full registration. If you registered a trial ID before 2006/07/12, please create a new ID again."
-45,B,335,7,Log0108,,The ID or password is incorrect.
-46,B,336,7,Log0109,,Please change your<br>character name<br>on the homepage.
-47,B,401,10,Create0001,,Failed to create character.
-48,B,402,10,Create0002,,Server connection error.
-49,B,403,10,Create0101,,This name is already in use.
-50,B,404,10,Create0102,,This name cannot be used.
-51,B,405,10,Create0103,,Character names must be 12 characters or fewer.
-52,B,412,10,Create0104,,The character name is fewer than 6 characters.
-53,B,406,10,Create0201,,The date is invalid. Please enter your birthday again.
-54,B,407,10,Create0301,,The phone number is invalid. Please check again.
-55,B,408,10,Create0302,,Please enter only 4 digits.
-56,B,409,10,Create0303,,This number cannot be used.
-57,B,410,10,Create0304,,An unknown error has occurred.
-58,B,411,10,Create0305,,Failed to delete character.
-59,B,501,7,End0001,Exit Yogurting,Do you really want to exit?
-60,B,511,7,Esc0001,,The “/escape” command cannot be used during an episode. Please use the “Return to School” function.
-61,B,512,7,Esc0002,Escape,"If you use the “/escape” command, you will move to the nearest warp point when reconnecting."
-62,B,513,7,Esc0003,,Escape request canceled.
+0,A,7,7,Eng0201,,学校生活の素敵な思い出が刻まれました
+1,B,105,7,Eng0202,,スクリーンショット保存のための空き用量が不足しています
+2,B,201,7,Srv0001,通信終了,サーバーとの通信が切断されました
+3,B,202,7,Srv0002,通信失敗,サーバーと通信出来ません
+4,B,203,7,Srv0003,通信切断,他の場所から接続したため、通信が切断されました
+5,B,207,7,Srv0004,通信切断,恐れ入りますが、通信を切断させていただきました
+6,B,204,7,SVr0101,,普通
+7,B,205,7,Svr0102,,混雜
+8,B,206,7,Svr0103,お知らせ,ゲームクライアントのバージョンが異なるため、ゲームを実行出来ません。<br>最新バージョンをダウンロードし、インストールしてから、もう一度実行して下さい。($1)
+9,B,301,7,Log0003,既存通信切断,他の場所で接続中です。現在の接続を切断しますか？
+10,B,302,7,Log0022,キャラクターが消えます,新しいキャラクターを作成すると、既存のキャラクターが消去されます。続行しますか？
+11,B,303,7,Log0004,,<br><br>ヨーグルティングにようこそ！<br><br>アトラクションIDと、<br>パスワードを入力してね！
+12,B,304,7,Log0023,,既に接続中です。接続を切断してログインしますか？
+13,B,305,7,Log0001,,アトラクションIDかパスワードが <br>違います。<br>もう一度ご確認下さい
+14,B,306,7,Log0002,,アトラクションIDかパスワードが <br>違います。<br>もう一度ご確認下さい
+15,B,307,7,Log0024,,現在、ワールドが混雑しており<br>応答が遅くなっています
+16,B,308,7,Log0025,,通信状態になりません。<br>しばらく時間をおいてから、再試行してください
+17,B,309,7,Log0005,,現在はテスターだけが接続出来ます
+18,B,310,7,Log0006,,お試し期間は終了しました。簡単登録の方は正式登録をお済ませください。2006/07/12以前にお試しID登録された方は、改めて新しいIDの作成をお願いします
+19,B,311,7,Log0007,,削除処理中のアカウントなので<br>使用できません
+20,B,312,7,Log0008,,ワールドと通信出来ません
+21,B,313,7,Log0009,,応答がありません。<br>接続が遅延しています
+22,B,314,7,Log0010,,現在利用出来る<br>ワールドがありません
+23,B,315,7,Log0011,,ゲームサーバーとの<br>通信が切断されました
+24,B,316,7,Log0012,,ゲームサーバーと<br>通信出来ません
+25,B,317,7,Log0013,,ワールドと<br>通信出来ません
+26,B,318,7,Log0014,,待った！<br>キャラクターを新しく作ると<br>このキャラクターは消えちゃうよ！！
+27,B,319,7,Log0015,,$1 人がサーバー通信待機中です
+28,B,320,7,Log0016,,お客様の要請で、現在アトラクションIDを<br>確認中です。<br>しばらく経ってから、また接続して下さい
+29,B,321,7,Log0017,,ヨーグルティングをプレイするには、まず公式サイトからログインして下さい
+30,B,322,7,Log0018,,パスワードが 5回以上<br>間違って入力されました！<br>ヨーグルティング公式サイトで<br>ログイン後ご確認下さい
+31,B,323,7,Log0019,,残念ながら、12歳未満は<br>接続することが出来ません！<br>ヨーグルティングは<br>12歳になってから！
+32,B,324,7,Log0020,,保護者の方が同意して下されば<br>ヨーグルティングをプレイ出来ます。<br>公式サイトに接続して<br>ご確認下さい
+33,B,325,7,Log0021,,原因不明の問題が<br>発生しました。<br>お手数ですが、公式サイトに接続し<br>Webヘルプデスクにお問い合わせ下さい
+34,B,326,7,Log0026,接続待機中,現在 $1人が接続待機中です
+35,B,327,7,Log0027,,<br><br><br><br>ヨーグルティングに<br>接続しています
+36,B,337,7,Log0028,接続待機中,現在の接続予想時間は $1 秒後です
+37,B,338,7,Log0029,接続不可,午後10時以降は接続できません
+38,B,328,7,Log0101,,ゲーム料金が未払いか、利用期間切れです。
+39,B,329,7,Log0102,,認証されていない、または利用停止されたID です。    
+40,B,330,7,Log0103,,認証されていない、または利用停止されたID です。
+41,B,331,7,Log0104,,認証されていない、または利用停止されたID です。
+42,B,332,7,Log0105,,Yogurtingは正式サービスとなりました。ガンホーのアトラクションセンターで、アトラクションIDの紐付け処理をお願いします。
+43,B,333,7,Log0106,,βサービスは終了しました。正式サービス開始までお待ちください。
+44,B,334,7,Log0107,,お試し期間は終了しました。簡単登録の方は正式登録をお済ませください。2006/07/12以前にお試しID登録された方は、改めて新しいIDの作成をお願いします
+45,B,335,7,Log0108,,IDまたはパスワードが違います。
+46,B,336,7,Log0109,,ホームページで<br>キャラクター名前を<br>変更してください。
+47,B,401,10,Create0001,,キャラクター作成に失敗しました
+48,B,402,10,Create0002,,サーバー接続エラーです
+49,B,403,10,Create0101,,既に使用されている名前です
+50,B,404,10,Create0102,,使用不可能な名前です
+51,B,405,10,Create0103,,キャラクターの名前は 12文字までにして下さい
+52,B,412,10,Create0104,,キャラクターの名前が 6文字未満です
+53,B,406,10,Create0201,,正しくない日付です。もう一度誕生日を入力して下さい
+54,B,407,10,Create0301,,正しくない電話番号です。もう一度ご確認下さい
+55,B,408,10,Create0302,,4桁の数字だけ入力して下さい
+56,B,409,10,Create0303,,使用出来ない番号です
+57,B,410,10,Create0304,,不明なエラーが発生しました
+58,B,411,10,Create0305,,キャラクター削除失敗
+59,B,501,7,End0001,ヨーグルティング終了,本当に終了しますか？
+60,B,511,7,Esc0001,,エピソード中は「/escape」コマンドを使用出来ません。「学校に戻る」機能を使用して下さい
+61,B,512,7,Esc0002,脱出,「/escape」コマンドを使用すると、再接続時、一番近いワープポイントに移動します
+62,B,513,7,Esc0003,,脱出要請を取り消しました
 63,B,601,10,M_Info0001,,$1 TAFF
-64,B,602,10,M_Info0002,,$1 Level
-65,B,611,8,Club0001,,[Club][Create] This name cannot be used.
-66,B,612,8,Club0301,,[Club] That target cannot be selected.
-67,B,613,8,Club0302,,[Club][Expel Member] Please select a target from the list.
-68,B,614,8,Club0303,,[Club][Appoint Vice President] Please select a target from the list.
-69,B,615,8,Club0304,,[Club][Transfer President] Please select a target from the list.
-70,B,616,8,Club0401,,[Club][Message] There is no target.
-71,B,617,8,Club0501,,President
-72,B,618,8,Club0114,,[Club][Invite] The phone number is incorrect.
-73,B,619,8,Club0113,,[Club][Invite] This target is blocking calls. Please invite them after call blocking is removed.
-74,B,620,8,Club0112,,[Club][Invite] You cannot invite yourself.
-75,B,621,8,Club0115,,[Club][Invite] The club has reached its member limit.
-76,B,622,8,Club0204,Leave Club,"If you leave, you cannot join again until 1 week has passed. Leave the club?"
-77,B,623,8,Club0305,Expel Member,Expel $1?
-78,B,624,8,Club0306,Transfer Presidency,Transfer the presidency to $1?
-79,B,625,8,Club0402,Mass Message,You can send $1 more mass messages today. Send a message to all club members?
-80,B,626,8,Club0307,Appoint Vice President,Appoint $1 as vice president?
-81,B,627,8,Club0308,Dismiss Vice President,Remove $1 from vice president?
-82,B,628,8,Club0309,Decline Vice Presidency,Decline the vice presidency?
-83,B,629,8,Club0004,,Club functions are currently unavailable. Please try again later.
-84,B,630,8,Club0005,,You do not belong to a club.
-85,B,631,8,Club0002,,The club has been disbanded.
-86,B,632,8,Club0003,,Club disbandment has been scheduled (scheduled date: $1).
-87,B,633,8,Club0101,,[Club][Invite] Successful.
-88,B,634,8,Club0102,,This target cannot be invited.
-89,B,635,8,Club0103,,[Club][Invite] The target is already a member.
-90,B,636,8,Club0104,,[Club][Invite] The target has left school.
-91,B,637,8,Club0105,,[Club][Invite] The invitation was refused.
-92,B,638,8,Club0106,,[Club][Invite] Cannot invite in the current state.
-93,B,639,8,Club0107,,[Club][Invite] Cannot invite because disbandment has been requested.
-94,B,640,8,Club0108,,[Club][Invite] Failed.
-95,B,641,8,Club0201,,[Club][Leave] Successful.
-96,B,642,8,Club0202,,[Club][Leave] Failed.
-97,B,643,8,Club0203,,[$1] has joined.
-98,B,644,8,Club0310,,You have been expelled from [$1].
-99,B,645,8,Club0205,,You have left [$1].
-100,B,646,8,Club0311,,[Club][Expel] Failed.
-101,B,647,8,Club0312,,Expelled $1.
-102,B,648,8,Club0313,,$1 has been appointed as the new club president.
-103,B,649,8,Club0314,,[Club] Failed to transfer the presidency.
+64,B,602,10,M_Info0002,,$1 レベル
+65,B,611,8,Club0001,,[同好会][開設] 使用不可能な名前です
+66,B,612,8,Club0301,,[同好会] その対象は選べません
+67,B,613,8,Club0302,,[同好会][会員追放] リストから対象を選択して下さい
+68,B,614,8,Club0303,,[同好会][副会長任命] リストから対象を選択して下さい
+69,B,615,8,Club0304,,[同好会][会長引き継ぎ] リストから対象を選択して下さい
+70,B,616,8,Club0401,,[同好会][メッセージ] 対象がいません
+71,B,617,8,Club0501,,会長
+72,B,618,8,Club0114,,[同好会][勧誘] 電話番号が間違っています
+73,B,619,8,Club0113,,[同好会][勧誘] 着信拒否の対象です。着信拒否を解除後に勧誘して下さい
+74,B,620,8,Club0112,,[同好会][勧誘] 自分自身を勧誘することは出来ません
+75,B,621,8,Club0115,,[同好会][勧誘] 同好会の人数が上限に達しています
+76,B,622,8,Club0204,同好会をやめる,脱退すると、 1週間経つまで再び入会することが出来ません。脱退しますか？
+77,B,623,8,Club0305,会員を追放する,$1 さんを追放しますか？
+78,B,624,8,Club0306,会長を引き継ぐ,$1 さんに会長を引継ぎますか？
+79,B,625,8,Club0402,全体メッセージ,今日、全体メッセージを送れる回数は残り $1回です。同好会メンバー全員にメッセージを送りますか？
+80,B,626,8,Club0307,副会長任命,$1 さんを副会長に任命しますか？
+81,B,627,8,Club0308,副会長解任,$1 さんを副会長から解任しますか？
+82,B,628,8,Club0309,副会長辞退,副会長を辞退しますか？
+83,B,629,8,Club0004,,現在、同好会機能を利用することが出来ません。しばらくしてから再試行して下さい
+84,B,630,8,Club0005,,同好会に所属していません
+85,B,631,8,Club0002,,同好会が解散されました
+86,B,632,8,Club0003,,同好会の解散が予約されました(予定日:$1)
+87,B,633,8,Club0101,,[同好会][勧誘] 成功しました
+88,B,634,8,Club0102,,勧誘出来ない対象です
+89,B,635,8,Club0103,,[同好会][勧誘] 対象は既に会員になっています
+90,B,636,8,Club0104,,[同好会][勧誘] 対象が下校しました
+91,B,637,8,Club0105,,[同好会][勧誘] 勧誘を拒絶されました
+92,B,638,8,Club0106,,[同好会][勧誘] 勧誘出来ない状態です
+93,B,639,8,Club0107,,[同好会][勧誘] 解散が申請されているため、勧誘できません
+94,B,640,8,Club0108,,[同好会][勧誘] 失敗しました
+95,B,641,8,Club0201,,[同好会][脱退] 成功しました
+96,B,642,8,Club0202,,[同好会][脱退] 失敗しました
+97,B,643,8,Club0203,,[$1]さんが入会しました
+98,B,644,8,Club0310,,[$1]から追放されました
+99,B,645,8,Club0205,,[$1]を脱退しました
+100,B,646,8,Club0311,,[同好会][追放] 失敗しました
+101,B,647,8,Club0312,,[$1] さんを追放しました
+102,B,648,8,Club0313,,[$1] さんが新しい同好会長に任命されました
+103,B,649,8,Club0314,,[同好会] 会長の引き継ぎに失敗しました

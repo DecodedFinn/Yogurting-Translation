@@ -1,30 +1,30 @@
 effect_id,name
-1100,Calorie Increase
-1200,Infinite Calories
-2100,Create Secret Room
-2200,Toll-Free 119
-2300,Weapon Enhancement Insurance
-2400,Special Enhancement Guidebook
-4100,Use Name Tag
-4110,Name Tag Backing
-4200,Use Placard
-4210,Change Placard Design
-4300,Change Title
-5100,Firecracker
-5200,Flower Confetti
-6100,Memory Chip
-6200,Locker
-6300,Phone Function
-10001,Uniform Item
-6201,Locker 2
-6202,Locker 3
-6203,Locker 4
-6204,Locker 5
-6205,Locker 6
-7000,Increased EXP Gain
-7100,Increased Damage to Enemies
-7200,Reduced Damage Taken
-7300,Increased Accuracy
-7400,Increased Evasion
-7500,Increased Critical Rate
-8000,Yogurt
+1100,カロリー増加
+1200,無限カロリー
+2100,秘密ルーム作成
+2200,フリーダイヤル119
+2300,武器強化保険
+2400,特殊強化参考書
+4100,名札使用
+4110,名札台紙
+4200,プラカード使用
+4210,プラカード柄変更
+4300,称号変更
+5100,爆竹
+5200,花吹雪
+6100,メモリーチップ
+6200,ロッカー
+6300,電話機能
+10001,制服アイテム
+6201,ロッカー2
+6202,ロッカー3
+6203,ロッカー4
+6204,ロッカー5
+6205,ロッカー6
+7000,獲得経験値増加
+7100,敵へのダメージ増加
+7200,受けるダメージ減少
+7300,命中率増加
+7400,回避率増加
+7500,クリティカル率増加
+8000,ヨーグルト

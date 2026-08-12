@@ -1,10 +1,10 @@
 msg_id,text
-1,Enter the lobby through the Episode Gate to create and enter episode rooms.
-2,Quest and episode information can be obtained from guide boards.
-3,"Items and TAFF that are unsold, won, or canceled at auction will disappear if not collected within 3 days."
-4,Items dropped by monsters are obtained automatically.
-5,"If your grade when clearing an episode is failing (F), you will not receive items or EXP."
-6,"You can use the phone for 1:1 conversations with friends, sending messages, talking with NPCs, and more."
-7,"If your character becomes unable to move, try escaping with the “/escape” command."
-8,Skills can be learned from NPCs inside the school.
-9,"When playing the game, please set a time limit and take appropriate breaks."
+1,エピソードゲートからロビーに入ると、エピソードルームの作成と進入が出来ます
+2,クエストとエピソードの情報は、案内板から得られます
+3,オークションで流札/落札/競売取消になったアイテムやTAFFは、3日以内に回収しないと消滅します
+4,モンスターがドロップしたアイテムは自動的に獲得されます
+5,エピソードクリア時の成績が落第(F)の場合、アイテムやEXPは得られません
+6,電話を使って、友達との 1:1 会話、メッセージ送信、NPC との会話などが出来ます
+7,キャラクターが移動不可能になった場合、「/escape」コマンドで脱出を試みて下さい
+8,スキルは、学校内の NPCから習うことが出来ます
+9,ゲームをプレイする際には、時間を決めて適度な休憩を取るようにしてください

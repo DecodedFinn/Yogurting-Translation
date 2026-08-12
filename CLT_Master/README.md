@@ -20,12 +20,20 @@ translated, not just a handful.
 35,522 total data rows across 64 tables. 34 of the 64 tables have at least
 one text-shaped column (name/desc/title/label/etc.) worth translating or
 localizing; the other 30 are pure numeric/config tables (item slot rules,
-weapon stat curves, model/sound IDs, etc.) with nothing to translate. Some
-of the 34 are currently all-Japanese, some are already in romanized/English
-text but still benefit from consistency edits (a real contribution has
-already standardized a couple of inconsistently-romanized names this way),
-and some rows may just be empty placeholders waiting for a value -- don't
-assume a column with no Japanese text in it today has nothing worth doing.
+weapon stat curves, model/sound IDs, etc.) with nothing to translate. All 64
+`clt_csv_source/*.csv` files are the genuine, untranslated Japanese client
+data -- re-verified byte-for-byte against a fresh decrypt of a pristine
+client install (2026-08-12) after an earlier extraction pass here had
+accidentally pulled 15 tables (BEITEM_TYPE, ENCHANT_TITLE, ENITEM_TYPE,
+EPISODE, EPISODE_MONSTER, FIELD, GUIDE_BOARD, ITEM_BYUL_EFFECT,
+ITEM_CHARGED_TYPE, MATCHING_SYS_MSG, MON, MONSTER_BASIS, NOTIFY_MSG, NPC_EX,
+SPECIAL_PHONE) from already-patched binaries instead of clean ones, leaking
+already-translated (and in places truncated) English into what's supposed
+to be the untranslated source of truth. If you cloned this repo before that
+fix, re-pull `clt_csv_source/` for those 15 tables. Actual English
+translations live only in `translations/<lang>/*.csv` -- some rows there
+may just be empty placeholders waiting for a value -- don't assume a column
+with no Japanese text in `clt_csv_source` today has nothing worth doing.
 
 | Table | Columns | Rows | Translatable columns |
 |---|---:|---:|---|
