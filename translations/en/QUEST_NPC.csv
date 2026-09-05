@@ -1,0 +1,45 @@
+index,npc_id,name,location,npc_ref_id
+0,1,Paige,"Estiva School Building 1F, Library",1
+1,4,No.2,"Estiva Grounds, East School Shop",4
+2,5,Ben,"Estiva School Building, Entrance",5
+3,6,Johnny,"Estiva Back Mountain, Greenhouse Entrance",6
+4,7,Mei,"Estiva Back Mountain, Greenhouse Entrance",7
+5,8,Bianca,"Estiva School Building 1F, Infirmary",8
+6,10,Yochimaru,"Estiva Back Mountain, Breeding Pen",10
+7,11,Riez,"Estiva School Building 1F, Staff Room",11
+8,12,Somunyang,"Estiva School Building 2F, Lounge",12
+9,13,Mao Xiaoping,"Estiva School Building 2F, Science Room",13
+10,15,Henkuma,"Estiva Main Gate, near the Crosswalk",15
+11,27,No.27,"Sowol Academy Building West, School Shop",27
+12,33,Hyunrang,"Estiva Back Mountain, Breeding Pen",33
+13,34,Peko,"Estiva School Building, Entrance",34
+14,35,Ramin,"Estiva School Building B1, Hallway",35
+15,36,Suchong,"Estiva Grounds, beside the Stage",36
+16,37,Grey,"Estiva School Building 3F, Hallway",37
+17,38,Mocha,"Estiva School Building East, Auditorium",38
+18,39,China,"Estiva School Building 1F, Entrance",39
+19,40,Alina,"Estiva School Building 1F, Music Room",40
+20,41,Warguma,"Estiva Main Gate, near the Bus Stop",41
+21,42,Dwarguma,"Estiva Main Gate, near the Bus Stop",42
+22,557,Hachi,"Sowol Academy Grounds, Northeast",557
+23,82,Donguri,"Estiva Back Mountain, Breeding Pen",82
+24,166,No.386,Estiva School Building B1,166
+25,167,No.486,Sowol Academy Building 2F,167
+26,169,Kurata,"Sowol Academy Building West, Auditorium",169
+27,170,Ruben,"Sowol Academy Grounds, Southwest Plaza",170
+28,171,Sam,"Sowol Academy Building, Entrance",171
+29,172,Shin Sohyun,"Sowol Academy Building 1F, Staff Room",172
+30,173,Youen,"Sowol Academy Building 1F, Infirmary",173
+31,174,Father Vermont,"Sowol Academy Backyard, Chapel",174
+32,175,Karen,"Sowol Academy Backyard, Cemetery Center",175
+33,176,Suiren,"Sowol Academy Backyard, Cemetery Main Gate",176
+34,177,No.777,"Sowol Academy Main Gate, Bus Stop",177
+35,178,No.999,"Estiva Main Gate, Bus Stop",178
+36,179,Shaolin,Occult Research Club Room,179
+37,180,Student A,Occult Research Club Room,180
+38,199,Hoyang,Old School Building 1F,199
+39,200,Meiyen,Old School Building 2F,200
+40,324,Karte,"Estiva Main Gate, by the Blood Donation Van",324
+41,325,Inject,"Sowol Academy Main Gate, by the Blood Donation Van",325
+42,365,Anna,"Estiva Grounds, Center",365
+43,366,Nana,"Sowol Academy Grounds, Center",366

@@ -1,0 +1,38 @@
+index,state_id,code,name
+0,1,SK001105,Max HP Up
+1,2,SK001106,HP Up
+2,3,SK001107,HP Regen Up
+3,4,SK001108,Attack Up
+4,5,SK001109,Defense Up
+5,6,SK001110,Evasion Up
+6,7,SK001111,Attack Speed Up
+7,8,SK001112,Move Speed Up
+8,9,SK001113,Cooldown Speed Up
+9,10,SK001114,Accuracy Up
+10,11,SK001115,Critical Up
+11,12,SK001116,Power Gauge Up
+12,13,SK001117,Revival
+13,129,SK001205,Max HP Down
+14,130,SK001206,HP Down
+15,131,SK001207,HP Regen Down
+16,132,SK001208,Attack Down
+17,133,SK001209,Defense Down
+18,134,SK001210,Evasion Down
+19,135,SK001211,Attack Speed Down
+20,136,SK001212,Move Speed Down
+21,137,SK001213,Cooldown Speed Down
+22,138,SK001214,Accuracy Down
+23,139,SK001215,Critical Down
+24,140,SK001216,Power Gauge Down
+25,256,SK001303,Headache
+26,257,SK001304,Poison
+27,258,SK001305,Deadly Poison
+28,259,SK001306,Paralysis
+29,260,SK001307,Sleep
+30,261,SK001308,Knockdown
+31,262,SK001309,Confusion
+32,263,SK001310,Bomb
+33,264,SK001311,Countdown
+34,265,SK001312,Instant Death
+35,266,SK001313,Zombified
+36,267,SK001117,Invincible
