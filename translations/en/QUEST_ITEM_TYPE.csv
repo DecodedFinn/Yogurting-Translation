@@ -17,12 +17,12 @@ index,quest_item_id,code,name,description
 15,16,qe000016,Proof of Strength,Proof of your strength!
 16,17,qe000017,Fine Teddy Bear,A teddy bear that looks expensive.
 17,18,qe000018,Piece of an Ancient Text,"A single page of an ancient text, so old its edges have frayed away."
-18,19,qe000019,Page's Star Mark,
+18,19,qe000019,Paige's Star Mark,
 19,20,qe000020,Bianca's Star Mark,
 20,21,qe000021,Riez's Star Mark,
 21,22,qe000022,Somunyan's Star Mark,
 22,23,qe000023,Mao Xiaoping's Star Mark,
-23,24,qe000024,Page's Letter of Recommendation,
+23,24,qe000024,Paige's Letter of Recommendation,
 24,25,qe000025,Shitoumaru's Letter of Recommendation,
 25,26,qe000026,Riez's Letter of Recommendation,
 26,27,qe000027,Somunyan's Letter of Recommendation,
@@ -220,7 +220,7 @@ index,quest_item_id,code,name,description
 218,229,qe000229,Meiyen's Hair Tie,The hair tie Meiyen uses to tie her hair back.
 219,230,qe000230,Blue Scarf,The blue scarf Meiyen ties over her uniform jacket with a ribbon.
 220,231,qe000231,Meiyen's Hair,A few strands of Meiyen's hair.
-221,232,qe000232,Page's Handkerchief,"A pretty handkerchief, 100% cotton, with a ribbon on it."
+221,232,qe000232,Paige's Handkerchief,"A pretty handkerchief, 100% cotton, with a ribbon on it."
 222,233,qe000233,Pacifier,The pacifier Donguri always has in his mouth.
 223,234,qe000234,Feather Fan,The feather fan Somunyan-sensei uses.
 224,235,qe000235,Somunyan-sensei's Ribbon,Somunyan-sensei's ribbon.
@@ -379,7 +379,7 @@ index,quest_item_id,code,name,description
 377,387,etc_cs030152,Teardrop Shard,"A gem said to form when a fallen tear crystallises. It is teardrop-shaped: round below, conical above."
 378,388,qe000323,Marionette,A mechanical doll made abroad. Not that different from a puppet.
 379,389,etc_cs030171,Sucheong's Diary,"The diary in which Sucheong writes up the day's events. Surprisingly meticulous, though every word has been doctored in his favour."
-380,390,etc_cs030005,Page from Torvalds's Diary,"A page from the diary of L. Torvalds, chairman of the shopping-district alliance, recording his daily life. It has come apart, so it cannot be read."
+380,390,etc_cs030005,Page from Torvalds' Diary,"A page from the diary of L. Torvalds, chairman of the shopping-district alliance, recording his daily life. It has come apart, so it cannot be read."
 381,391,etc_cs030082,Lunchbox,A very appetising lunchbox. It is a real shame that it has to be delivered to Shitoumaru.
 382,392,etc_cs030039,Grilled Mutton,"Very appetising grilled mutton. It has to be delivered to Shitoumaru, but surely one bite...?"
 383,393,etc_cs030006,Report Card,Arena's report card. Deliver it without looking inside.

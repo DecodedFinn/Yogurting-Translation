@@ -437,7 +437,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 435,150033,foot_F0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
 436,150034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estiva Academy.,6,4,1,2,0,0,1,1,0,0,0,0,522222
 437,150035,etc_be050035,Stefano's Handkerchief,Butler Stefano's handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,522222
-438,150036,etc_be050036,Page's Handkerchief,Librarian Page's handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,522222
+438,150036,etc_be050036,Paige's Handkerchief,Librarian Paige's handkerchief. Be careful not to let Paige catch you.,7,4,0,0,0,0,0,0,0,0,0,0,522222
 439,150037,etc_be050037,Strange Bear's Handkerchief,Strange Bear's handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,522222
 440,150038,etc_be050038,Bianca's Handkerchief,"Professor Bianca's lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,522222
 441,150039,special_F0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
@@ -1240,7 +1240,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1238,50033,foot_F0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
 1239,50034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estiva Academy.,6,4,1,2,0,0,1,1,0,0,0,0,0
 1240,50035,etc_be050035,Stefano's Handkerchief,Butler Stefano's handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,0
-1241,50036,etc_be050036,Page's Handkerchief,Librarian Page's handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,0
+1241,50036,etc_be050036,Paige's Handkerchief,Librarian Paige's handkerchief. Be careful not to let Paige catch you.,7,4,0,0,0,0,0,0,0,0,0,0,0
 1242,50037,etc_be050037,Strange Bear's Handkerchief,Strange Bear's handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,0
 1243,50038,etc_be050038,Bianca's Handkerchief,"Professor Bianca's lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,0
 1244,50039,special_F0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0

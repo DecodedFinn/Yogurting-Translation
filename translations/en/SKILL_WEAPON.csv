@@ -95,30 +95,30 @@ index,skill_id,code,name,description,v0,v1,f0,f1,v2,v3
 93,40029,SK040029,Crazy Drive,,0,0,0.0,0.0,0,0
 94,40030,SK040030,Kozen Energy Bullet,A skill that takes hold and brings the strike down inside a sphere.,22,22,1.0,1.401298464324817e-45,1,300
 95,40031,SK040031,Rider Crush,A skill that fires two tyres to attack.,22,22,1.0,1.401298464324817e-45,1,300
-96,50101,SK050101,Classic dance mula basic attack 1,"Classic dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
-97,50102,SK050102,Classic dance mula basic attack 2,"Classic dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
-98,50103,SK050103,Classic dance mula basic attack 3,"Classic dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
-99,50104,SK050104,Classic dance mula basic attack 4,"Classic dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
-100,50201,SK050201,Cute dance mula basic attack 1,"Cute dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
-101,50202,SK050202,Cute dance mula basic attack 2,"Cute dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
-102,50203,SK050203,Cute dance mula basic attack 3,"Cute dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
-103,50204,SK050204,Cute dance mula basic attack 4,"Cute dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
-104,50301,SK050301,Sexy dance mula basic attack 1,"Sexy dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
-105,50302,SK050302,Sexy dance mula basic attack 2,"Sexy dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
-106,50303,SK050303,Sexy dance mula basic attack 3,"Sexy dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
-107,50304,SK050304,Sexy dance mula basic attack 4,"Sexy dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
-108,50401,SK050401,Funny dance mula basic attack 1,"Funny dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
-109,50402,SK050402,Funny dance mula basic attack 2,"Funny dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
-110,50403,SK050403,Funny dance mula basic attack 3,"Funny dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
-111,50404,SK050404,Funny dance mula basic attack 4,"Funny dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
-112,50501,SK050501,Funky dance mula basic attack 1,"Funky dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
-113,50502,SK050502,Funky dance mula basic attack 2,"Funky dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
-114,50503,SK050503,Funky dance mula basic attack 3,"Funky dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
-115,50504,SK050504,Funky dance mula basic attack 4,"Funky dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
-116,50601,SK050601,Powerful dance mula basic attack 1,"Powerful dance mula basic attack, hit 1.",22,22,1.0,0.0,3,100
-117,50602,SK050602,Powerful dance mula basic attack 2,"Powerful dance mula basic attack, hit 2.",22,22,1.0,0.0,3,100
-118,50603,SK050603,Powerful dance mula basic attack 3,"Powerful dance mula basic attack, hit 3.",22,22,1.0,0.0,3,100
-119,50604,SK050604,Powerful dance mula basic attack 4,"Powerful dance mula basic attack, hit 4.",22,22,1.0,0.0,3,282
+96,50101,SK050101,Classic dance Mura basic attack 1,"Classic dance Mura basic attack, hit 1.",22,22,1.0,0.0,3,115
+97,50102,SK050102,Classic dance Mura basic attack 2,"Classic dance Mura basic attack, hit 2.",22,22,1.0,0.0,3,115
+98,50103,SK050103,Classic dance Mura basic attack 3,"Classic dance Mura basic attack, hit 3.",22,22,1.0,0.0,3,115
+99,50104,SK050104,Classic dance Mura basic attack 4,"Classic dance Mura basic attack, hit 4.",22,22,1.0,0.0,3,167
+100,50201,SK050201,Cute dance Mura basic attack 1,"Cute dance Mura basic attack, hit 1.",22,22,1.0,0.0,3,115
+101,50202,SK050202,Cute dance Mura basic attack 2,"Cute dance Mura basic attack, hit 2.",22,22,1.0,0.0,3,115
+102,50203,SK050203,Cute dance Mura basic attack 3,"Cute dance Mura basic attack, hit 3.",22,22,1.0,0.0,3,115
+103,50204,SK050204,Cute dance Mura basic attack 4,"Cute dance Mura basic attack, hit 4.",22,22,1.0,0.0,3,167
+104,50301,SK050301,Sexy dance Mura basic attack 1,"Sexy dance Mura basic attack, hit 1.",22,22,1.0,0.0,3,115
+105,50302,SK050302,Sexy dance Mura basic attack 2,"Sexy dance Mura basic attack, hit 2.",22,22,1.0,0.0,3,115
+106,50303,SK050303,Sexy dance Mura basic attack 3,"Sexy dance Mura basic attack, hit 3.",22,22,1.0,0.0,3,115
+107,50304,SK050304,Sexy dance Mura basic attack 4,"Sexy dance Mura basic attack, hit 4.",22,22,1.0,0.0,3,167
+108,50401,SK050401,Funny dance Mura basic attack 1,"Funny dance Mura basic attack, hit 1.",22,22,1.0,0.0,3,115
+109,50402,SK050402,Funny dance Mura basic attack 2,"Funny dance Mura basic attack, hit 2.",22,22,1.0,0.0,3,115
+110,50403,SK050403,Funny dance Mura basic attack 3,"Funny dance Mura basic attack, hit 3.",22,22,1.0,0.0,3,115
+111,50404,SK050404,Funny dance Mura basic attack 4,"Funny dance Mura basic attack, hit 4.",22,22,1.0,0.0,3,167
+112,50501,SK050501,Funky dance Mura basic attack 1,"Funky dance Mura basic attack, hit 1.",22,22,1.0,0.0,3,115
+113,50502,SK050502,Funky dance Mura basic attack 2,"Funky dance Mura basic attack, hit 2.",22,22,1.0,0.0,3,115
+114,50503,SK050503,Funky dance Mura basic attack 3,"Funky dance Mura basic attack, hit 3.",22,22,1.0,0.0,3,115
+115,50504,SK050504,Funky dance Mura basic attack 4,"Funky dance Mura basic attack, hit 4.",22,22,1.0,0.0,3,167
+116,50601,SK050601,Powerful dance Mura basic attack 1,"Powerful dance Mura basic attack, hit 1.",22,22,1.0,0.0,3,100
+117,50602,SK050602,Powerful dance Mura basic attack 2,"Powerful dance Mura basic attack, hit 2.",22,22,1.0,0.0,3,100
+118,50603,SK050603,Powerful dance Mura basic attack 3,"Powerful dance Mura basic attack, hit 3.",22,22,1.0,0.0,3,100
+119,50604,SK050604,Powerful dance Mura basic attack 4,"Powerful dance Mura basic attack, hit 4.",22,22,1.0,0.0,3,282
 120,60001,SK060001,Orchestra Blow,"Attacks the enemies around you, with yourself at the centre.",22,0,2.0,1.401298464324817e-45,0,400
 121,60002,SK060002,Rhythm of Healing,A weak area heal.,9,0,1.0,1.401298464324817e-45,0,0
 122,60003,SK060003,Shaman Bell,A weak area sound attack.,22,0,2.0,1.401298464324817e-45,0,400
