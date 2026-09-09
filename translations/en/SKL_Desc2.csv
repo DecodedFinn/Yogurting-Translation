@@ -1,0 +1,321 @@
+index,skill_id,ref_skill_id,effect_id,effect_desc_id,weapon_type,stage,next_skill_id,power_value,v8,f0,text,v9
+0,41001,41001,91011,92011,1,1,41002,1,0,8.0,Basic attack (Attack: 1),0
+1,41002,41001,91011,92011,1,2,41003,8,0,8.0,Basic attack (Attack: 4),0
+2,41003,41001,91011,92011,1,3,41004,15,0,8.0,Basic attack (Attack: 8),0
+3,41004,41001,91011,92012,1,4,41005,22,0,8.0,Basic attack (Attack: 12),0
+4,41005,41001,91011,92012,1,5,41006,29,0,8.0,Basic attack (Attack: 16),0
+5,41006,41001,91011,92012,2,6,41007,36,0,8.0,Basic attack (Attack: 20),0
+6,41007,41001,91011,92013,2,7,41008,43,0,8.0,Basic attack (Attack: 25),0
+7,41008,41001,91011,92013,2,8,41009,50,0,8.0,Basic attack (Attack: 29),0
+8,41009,41001,91011,92013,2,9,41010,57,0,8.0,Basic attack (Attack: 33),0
+9,41010,41001,91011,92014,2,10,0,64,0,8.0,Basic attack (Attack: 37),0
+10,41011,41011,91011,92011,2,1,41012,67,0,8.0,Intermediate attack (Attack: 46),0
+11,41012,41011,91011,92011,3,2,41013,74,0,8.0,Intermediate attack (Attack: 50),0
+12,41013,41011,91011,92011,3,3,41014,81,0,8.0,Intermediate attack (Attack: 55),0
+13,41014,41011,91011,92012,3,4,41015,88,0,8.0,Intermediate attack (Attack: 60),0
+14,41015,41011,91011,92012,3,5,41016,95,0,8.0,Intermediate attack (Attack: 65),0
+15,41016,41011,91011,92012,4,6,41017,102,0,8.0,Intermediate attack (Attack: 70),0
+16,41017,41011,91011,92013,4,7,41018,109,0,8.0,Intermediate attack (Attack: 75),0
+17,41018,41011,91011,92013,4,8,41019,116,0,8.0,Intermediate attack (Attack: 80),0
+18,41019,41011,91011,92013,4,9,41020,123,0,8.0,Intermediate attack (Attack: 84),0
+19,41020,41011,91011,92014,4,10,0,130,0,8.0,Intermediate attack (Attack: 89),0
+20,41021,41021,91011,92011,4,1,41022,133,0,8.0,Advanced attack (Attack: 105),0
+21,41022,41021,91011,92011,4,2,41023,140,0,8.0,Advanced attack (Attack: 113),0
+22,41023,41021,91011,92011,5,3,41024,147,0,8.0,Advanced attack (Attack: 122),0
+23,41024,41021,91011,92012,5,4,41025,154,0,8.0,Advanced attack (Attack: 130),0
+24,41025,41021,91011,92012,5,5,41026,161,0,8.0,Advanced attack (Attack: 138),0
+25,41026,41021,91011,92012,5,6,41027,168,0,8.0,Advanced attack (Attack: 147),0
+26,41027,41021,91011,92013,5,7,41028,175,0,8.0,Advanced attack (Attack: 155),0
+27,41028,41021,91011,92013,5,8,41029,182,0,8.0,Advanced attack (Attack: 164),0
+28,41029,41021,91011,92013,5,9,41030,189,0,8.0,Advanced attack (Attack: 172),0
+29,41030,41021,91011,92014,6,10,0,196,0,8.0,Advanced attack (Attack: 179),0
+30,41031,41031,91031,92031,1,1,41032,4,0,4.5,"Attack up for a time (Attack +2, 35s)",1
+31,41032,41031,91031,92031,1,2,41033,10,0,6.0,"Attack up for a time (Attack +5, 37s)",1
+32,41033,41031,91031,92031,1,3,41034,16,0,7.199999809265137,"Attack up for a time (Attack +8, 39s)",1
+33,41034,41031,91031,92032,1,4,41035,22,0,8.300000190734863,"Attack up for a time (Attack +12, 41s)",1
+34,41035,41031,91031,92032,1,5,41036,28,0,9.100000381469727,"Attack up for a time (Attack +16, 43s)",1
+35,41036,41031,91031,92032,1,6,41037,34,0,10.399999618530273,"Attack up for a time (Attack +20, 46s)",1
+36,41037,41031,91031,92033,2,7,41038,40,0,11.399999618530273,"Attack up for a time (Attack +23, 49s)",1
+37,41038,41031,91031,92033,2,8,41039,46,0,12.100000381469727,"Attack up for a time (Attack +27, 52s)",1
+38,41039,41031,91031,92033,2,9,41040,52,0,12.5,"Attack up for a time (Attack +30, 55s)",1
+39,41040,41031,91031,92034,2,10,0,58,0,13.5,"Attack up for a time (Attack +34, 60s)",1
+40,41041,41041,91031,92031,3,1,41042,70,0,6.300000190734863,"Accuracy up for a time (Accuracy +31, 37s)",1
+41,41042,41041,91031,92031,3,2,41043,76,0,8.5,"Accuracy up for a time (Accuracy +33, 40s)",1
+42,41043,41041,91031,92031,3,3,41044,82,0,10.399999618530273,"Accuracy up for a time (Accuracy +36, 43s)",1
+43,41044,41041,91031,92032,3,4,41045,88,0,12.0,"Accuracy up for a time (Accuracy +39, 46s)",1
+44,41045,41041,91031,92032,3,5,41046,94,0,13.300000190734863,"Accuracy up for a time (Accuracy +41, 49s)",1
+45,41046,41041,91031,92032,3,6,41047,100,0,15.0,"Accuracy up for a time (Accuracy +44, 53s)",1
+46,41047,41041,91031,92033,4,7,41048,106,0,16.200000762939453,"Accuracy up for a time (Accuracy +47, 57s)",1
+47,41048,41041,91031,92033,4,8,41049,112,0,17.100000381469727,"Accuracy up for a time (Accuracy +49, 61s)",1
+48,41049,41041,91031,92033,4,9,41050,118,0,17.5,"Accuracy up for a time (Accuracy +52, 65s)",1
+49,41050,41041,91031,92034,4,10,0,124,0,18.0,"Accuracy up for a time (Accuracy +55, 70s)",1
+50,41051,41051,91031,92031,4,1,41052,136,0,4.5,"Defence down, attack up (Defence -67, Attack +135)",1
+51,41052,41051,91031,92031,4,2,41053,142,0,5.099999904632568,"Defence down, attack up (Defence -72, Attack +145)",1
+52,41053,41051,91031,92031,5,3,41054,148,0,5.599999904632568,"Defence down, attack up (Defence -76, Attack +153)",1
+53,41054,41051,91031,92032,5,4,41055,154,0,6.0,"Defence down, attack up (Defence -81, Attack +163)",1
+54,41055,41051,91031,92032,5,5,41056,160,0,6.300000190734863,"Defence down, attack up (Defence -85, Attack +171)",1
+55,41056,41051,91031,92032,5,6,41057,166,0,7.199999809265137,"Defence down, attack up (Defence -90, Attack +180)",1
+56,41057,41051,91031,92033,5,7,41058,172,0,7.800000190734863,"Defence down, attack up (Defence -94, Attack +189)",1
+57,41058,41051,91031,92033,5,8,41059,178,0,8.300000190734863,"Defence down, attack up (Defence -99, Attack +198)",1
+58,41059,41051,91031,92033,5,9,41060,184,0,8.5,"Defence down, attack up (Defence -103, Attack +206)",1
+59,41060,41051,91031,92034,5,10,0,190,0,9.0,"Defence down, attack up (Defence -108, Attack +216)",1
+60,41091,41091,0,0,1,1,41092,1,0,0.0,"Attack up (Attack +1, passive)",2
+61,41092,41091,0,0,1,2,41093,21,0,0.0,"Attack up (Attack +8, passive)",2
+62,41093,41091,0,0,2,3,41094,41,0,0.0,"Attack up (Attack +16, passive)",2
+63,41094,41091,0,0,2,4,41095,61,0,0.0,"Attack up (Attack +23, passive)",2
+64,41095,41091,0,0,3,5,41096,81,0,0.0,"Attack up (Attack +32, passive)",2
+65,41096,41091,0,0,3,6,41097,101,0,0.0,"Attack up (Attack +39, passive)",2
+66,41097,41091,0,0,4,7,41098,121,0,0.0,"Attack up (Attack +48, passive)",2
+67,41098,41091,0,0,4,8,41099,141,0,0.0,"Attack up (Attack +57, passive)",2
+68,41099,41091,0,0,5,9,41100,161,0,0.0,"Attack up (Attack +69, passive)",2
+69,41100,41091,0,0,5,10,0,181,0,0.0,"Attack up (Attack +81, passive)",2
+70,41101,41101,0,0,1,1,41102,6,0,0.0,"Accuracy up (Accuracy +1, passive)",2
+71,41102,41101,0,0,1,2,41103,25,0,0.0,"Accuracy up (Accuracy +7, passive)",2
+72,41103,41101,0,0,2,3,41104,44,0,0.0,"Accuracy up (Accuracy +13, passive)",2
+73,41104,41101,0,0,2,4,41105,63,0,0.0,"Accuracy up (Accuracy +18, passive)",2
+74,41105,41101,0,0,3,5,41106,82,0,0.0,"Accuracy up (Accuracy +24, passive)",2
+75,41106,41101,0,0,3,6,41107,101,0,0.0,"Accuracy up (Accuracy +30, passive)",2
+76,41107,41101,0,0,4,7,41108,120,0,0.0,"Accuracy up (Accuracy +35, passive)",2
+77,41108,41101,0,0,4,8,41109,139,0,0.0,"Accuracy up (Accuracy +42, passive)",2
+78,41109,41101,0,0,5,9,41110,158,0,0.0,"Accuracy up (Accuracy +51, passive)",2
+79,41110,41101,0,0,5,10,0,177,0,0.0,"Accuracy up (Accuracy +59, passive)",2
+80,41111,41111,0,0,1,1,41112,11,0,0.0,"Max HP up (Max HP +42, passive)",2
+81,41112,41111,0,0,1,2,41113,30,0,0.0,"Max HP up (Max HP +121, passive)",2
+82,41113,41111,0,0,2,3,41114,49,0,0.0,"Max HP up (Max HP +201, passive)",2
+83,41114,41111,0,0,2,4,41115,68,0,0.0,"Max HP up (Max HP +285, passive)",2
+84,41115,41111,0,0,3,5,41116,87,0,0.0,"Max HP up (Max HP +364, passive)",2
+85,41116,41111,0,0,4,6,41117,106,0,0.0,"Max HP up (Max HP +448, passive)",2
+86,41117,41111,0,0,4,7,41118,125,0,0.0,"Max HP up (Max HP +527, passive)",2
+87,41118,41111,0,0,4,8,41119,144,0,0.0,"Max HP up (Max HP +637, passive)",2
+88,41119,41111,0,0,5,9,41120,163,0,0.0,"Max HP up (Max HP +756, passive)",2
+89,41120,41111,0,0,5,10,0,182,0,0.0,"Max HP up (Max HP +882, passive)",2
+90,61001,61001,91011,92011,1,1,61002,1,0,12.0,Basic attack (Attack: 1),0
+91,61002,61001,91011,92011,1,2,61003,8,0,12.0,Basic attack (Attack: 3),0
+92,61003,61001,91011,92011,1,3,61004,15,0,12.0,Basic attack (Attack: 7),0
+93,61004,61001,91011,92012,1,4,61005,22,0,12.0,Basic attack (Attack: 10),0
+94,61005,61001,91011,92012,1,5,61006,29,0,12.0,Basic attack (Attack: 14),0
+95,61006,61001,91011,92012,2,6,61007,36,0,12.0,Basic attack (Attack: 17),0
+96,61007,61001,91011,92013,2,7,61008,43,0,12.0,Basic attack (Attack: 21),0
+97,61008,61001,91011,92013,2,8,61009,50,0,12.0,Basic attack (Attack: 24),0
+98,61009,61001,91011,92013,2,9,61010,57,0,12.0,Basic attack (Attack: 28),0
+99,61010,61001,91011,92014,2,10,0,64,0,12.0,Basic attack (Attack: 31),0
+100,61011,61011,91011,92011,2,1,61012,67,0,12.0,Intermediate attack (Attack: 39),0
+101,61012,61011,91011,92011,3,2,61013,74,0,12.0,Intermediate attack (Attack: 43),0
+102,61013,61011,91011,92011,3,3,61014,81,0,12.0,Intermediate attack (Attack: 47),0
+103,61014,61011,91011,92012,3,4,61015,88,0,12.0,Intermediate attack (Attack: 51),0
+104,61015,61011,91011,92012,3,5,61016,95,0,12.0,Intermediate attack (Attack: 56),0
+105,61016,61011,91011,92012,4,6,61017,102,0,12.0,Intermediate attack (Attack: 60),0
+106,61017,61011,91011,92013,4,7,61018,109,0,12.0,Intermediate attack (Attack: 64),0
+107,61018,61011,91011,92013,4,8,61019,116,0,12.0,Intermediate attack (Attack: 68),0
+108,61019,61011,91011,92013,4,9,61020,123,0,12.0,Intermediate attack (Attack: 72),0
+109,61020,61011,91011,92014,4,10,0,130,0,12.0,Intermediate attack (Attack: 77),0
+110,61021,61021,91031,92031,1,1,61022,4,0,7.199999809265137,"Evasion up for a time (Evasion +1, 38s)",1
+111,61022,61021,91031,92031,1,2,61023,10,0,10.199999809265137,"Evasion up for a time (Evasion +4, 42s)",1
+112,61023,61021,91031,92031,1,3,61024,16,0,12.800000190734863,"Evasion up for a time (Evasion +6, 46s)",1
+113,61024,61021,91031,92032,1,4,61025,22,0,15.800000190734863,"Evasion up for a time (Evasion +9, 51s)",1
+114,61025,61021,91031,92032,1,5,61026,28,0,18.200000762939453,"Evasion up for a time (Evasion +12, 56s)",1
+115,61026,61021,91031,92032,1,6,61027,34,0,20.799999237060547,"Evasion up for a time (Evasion +15, 62s)",1
+116,61027,61021,91031,92033,2,7,61028,40,0,22.799999237060547,"Evasion up for a time (Evasion +17, 68s)",1
+117,61028,61021,91031,92033,2,8,61029,46,0,24.799999237060547,"Evasion up for a time (Evasion +20, 75s)",1
+118,61029,61021,91031,92033,2,9,61030,52,0,26.0,"Evasion up for a time (Evasion +22, 82s)",1
+119,61030,61021,91031,92034,2,10,0,58,0,27.0,"Evasion up for a time (Evasion +25, 90s)",1
+120,61031,61031,91031,92031,3,1,61032,70,0,7.199999809265137,"Cooldown shortened for a time (Cooldown +31, 38s)",1
+121,61032,61031,91031,92031,3,2,61033,76,0,10.199999809265137,"Cooldown shortened for a time (Cooldown +33, 42s)",1
+122,61033,61031,91031,92031,3,3,61034,82,0,12.800000190734863,"Cooldown shortened for a time (Cooldown +36, 46s)",1
+123,61034,61031,91031,92032,3,4,61035,88,0,15.800000190734863,"Cooldown shortened for a time (Cooldown +39, 51s)",1
+124,61035,61031,91031,92032,3,5,61036,94,0,18.200000762939453,"Cooldown shortened for a time (Cooldown +41, 56s)",1
+125,61036,61031,91031,92032,3,6,61037,100,0,20.799999237060547,"Cooldown shortened for a time (Cooldown +44, 62s)",1
+126,61037,61031,91031,92033,4,7,61038,106,0,22.799999237060547,"Cooldown shortened for a time (Cooldown +47, 68s)",1
+127,61038,61031,91031,92033,4,8,61039,112,0,24.799999237060547,"Cooldown shortened for a time (Cooldown +49, 75s)",1
+128,61039,61031,91031,92033,4,9,61040,118,0,26.0,"Cooldown shortened for a time (Cooldown +52, 82s)",1
+129,61040,61031,91031,92034,4,10,0,124,0,27.0,"Cooldown shortened for a time (Cooldown +55, 90s)",1
+130,61041,61041,91031,92031,1,1,61042,6,0,25.0,HP recovery (HP +93),1
+131,61042,61041,91031,92031,1,2,61043,19,0,25.0,HP recovery (HP +373),1
+132,61043,61041,91031,92031,1,3,61044,32,0,25.0,HP recovery (HP +653),1
+133,61044,61041,91031,92032,2,4,61045,45,0,25.0,HP recovery (HP +933),1
+134,61045,61041,91031,92032,2,5,61046,58,0,25.0,HP recovery (HP +1213),1
+135,61046,61041,91031,92032,3,6,61047,71,0,25.0,HP recovery (HP +1475),1
+136,61047,61041,91031,92033,3,7,61048,84,0,25.0,HP recovery (HP +1699),1
+137,61048,61041,91031,92033,3,8,61049,97,0,25.0,HP recovery (HP +1923),1
+138,61049,61041,91031,92033,4,9,61050,110,0,25.0,HP recovery (HP +2147),1
+139,61050,61041,91031,92034,4,10,0,123,0,25.0,HP recovery (HP +2352),1
+140,61121,61121,0,0,1,1,61122,8,0,0.0,"Evasion up (Evasion +2, passive)",2
+141,61122,61121,0,0,1,2,61123,27,0,0.0,"Evasion up (Evasion +7, passive)",2
+142,61123,61121,0,0,2,3,61124,46,0,0.0,"Evasion up (Evasion +13, passive)",2
+143,61124,61121,0,0,2,4,61125,65,0,0.0,"Evasion up (Evasion +19, passive)",2
+144,61125,61121,0,0,3,5,61126,84,0,0.0,"Evasion up (Evasion +25, passive)",2
+145,61126,61121,0,0,4,6,61127,103,0,0.0,"Evasion up (Evasion +30, passive)",2
+146,61127,61121,0,0,4,7,61128,122,0,0.0,"Evasion up (Evasion +36, passive)",2
+147,61128,61121,0,0,4,8,61129,141,0,0.0,"Evasion up (Evasion +43, passive)",2
+148,61129,61121,0,0,5,9,61130,160,0,0.0,"Evasion up (Evasion +51, passive)",2
+149,61130,61121,0,0,5,10,0,179,0,0.0,"Evasion up (Evasion +60, passive)",2
+150,61131,61131,0,0,1,1,61132,10,0,0.0,"Cooldown shortened (Cooldown +3, passive)",2
+151,61132,61131,0,0,1,2,61133,29,0,0.0,"Cooldown shortened (Cooldown +8, passive)",2
+152,61133,61131,0,0,2,3,61134,48,0,0.0,"Cooldown shortened (Cooldown +14, passive)",2
+153,61134,61131,0,0,2,4,61135,67,0,0.0,"Cooldown shortened (Cooldown +20, passive)",2
+154,61135,61131,0,0,3,5,61136,86,0,0.0,"Cooldown shortened (Cooldown +25, passive)",2
+155,61136,61131,0,0,4,6,61137,105,0,0.0,"Cooldown shortened (Cooldown +31, passive)",2
+156,61137,61131,0,0,4,7,61138,124,0,0.0,"Cooldown shortened (Cooldown +36, passive)",2
+157,61138,61131,0,0,4,8,61139,143,0,0.0,"Cooldown shortened (Cooldown +44, passive)",2
+158,61139,61131,0,0,5,9,61140,162,0,0.0,"Cooldown shortened (Cooldown +52, passive)",2
+159,61140,61131,0,0,5,10,0,181,0,0.0,"Cooldown shortened (Cooldown +61, passive)",2
+160,21001,21001,91011,92011,1,1,21002,1,0,8.0,Basic attack (Attack: 1),0
+161,21002,21001,91011,92011,1,2,21003,8,0,8.0,Basic attack (Attack: 4),0
+162,21003,21001,91011,92011,1,3,21004,15,0,8.0,Basic attack (Attack: 8),0
+163,21004,21001,91011,92012,1,4,21005,22,0,8.0,Basic attack (Attack: 12),0
+164,21005,21001,91011,92012,1,5,21006,29,0,8.0,Basic attack (Attack: 16),0
+165,21006,21001,91011,92012,2,6,21007,36,0,8.0,Basic attack (Attack: 20),0
+166,21007,21001,91011,92013,2,7,21008,43,0,8.0,Basic attack (Attack: 25),0
+167,21008,21001,91011,92013,2,8,21009,50,0,8.0,Basic attack (Attack: 29),0
+168,21009,21001,91011,92013,2,9,21010,57,0,8.0,Basic attack (Attack: 33),0
+169,21010,21001,91011,92014,2,10,0,64,0,8.0,Basic attack (Attack: 37),0
+170,21011,21011,91011,92011,2,1,21012,67,0,8.0,Intermediate attack (Attack: 46),0
+171,21012,21011,91011,92011,3,2,21013,74,0,8.0,Intermediate attack (Attack: 50),0
+172,21013,21011,91011,92011,3,3,21014,81,0,8.0,Intermediate attack (Attack: 55),0
+173,21014,21011,91011,92012,3,4,21015,88,0,8.0,Intermediate attack (Attack: 60),0
+174,21015,21011,91011,92012,3,5,21016,95,0,8.0,Intermediate attack (Attack: 65),0
+175,21016,21011,91011,92012,4,6,21017,102,0,8.0,Intermediate attack (Attack: 70),0
+176,21017,21011,91011,92013,4,7,21018,109,0,8.0,Intermediate attack (Attack: 75),0
+177,21018,21011,91011,92013,4,8,21019,116,0,8.0,Intermediate attack (Attack: 80),0
+178,21019,21011,91011,92013,4,9,21020,123,0,8.0,Intermediate attack (Attack: 84),0
+179,21020,21011,91011,92014,4,10,0,130,0,8.0,Intermediate attack (Attack: 89),0
+180,21021,21021,91011,92011,4,1,21022,133,0,8.0,Advanced attack (Attack: 105),0
+181,21022,21021,91011,92011,4,2,21023,140,0,8.0,Advanced attack (Attack: 113),0
+182,21023,21021,91011,92011,5,3,21024,147,0,8.0,Advanced attack (Attack: 122),0
+183,21024,21021,91011,92012,5,4,21025,154,0,8.0,Advanced attack (Attack: 130),0
+184,21025,21021,91011,92012,5,5,21026,161,0,8.0,Advanced attack (Attack: 138),0
+185,21026,21021,91011,92012,5,6,21027,168,0,8.0,Advanced attack (Attack: 147),0
+186,21027,21021,91011,92013,5,7,21028,175,0,8.0,Advanced attack (Attack: 155),0
+187,21028,21021,91011,92013,5,8,21029,182,0,8.0,Advanced attack (Attack: 164),0
+188,21029,21021,91011,92013,5,9,21030,189,0,8.0,Advanced attack (Attack: 172),0
+189,21030,21021,91011,92014,6,10,0,196,0,8.0,Advanced attack (Attack: 179),0
+190,21031,21031,91031,92031,1,1,21032,1,0,4.5,"Defence up for a time (Defence +1, 35s)",1
+191,21032,21031,91031,92031,1,2,21033,8,0,6.0,"Defence up for a time (Defence +4, 37s)",1
+192,21033,21031,91031,92031,1,3,21034,15,0,7.199999809265137,"Defence up for a time (Defence +8, 39s)",1
+193,21034,21031,91031,92032,1,4,21035,22,0,8.300000190734863,"Defence up for a time (Defence +12, 41s)",1
+194,21035,21031,91031,92032,1,5,21036,29,0,9.100000381469727,"Defence up for a time (Defence +16, 43s)",1
+195,21036,21031,91031,92032,2,6,21037,36,0,10.399999618530273,"Defence up for a time (Defence +20, 46s)",1
+196,21037,21031,91031,92033,2,7,21038,43,0,11.399999618530273,"Defence up for a time (Defence +25, 49s)",1
+197,21038,21031,91031,92033,2,8,21039,50,0,12.100000381469727,"Defence up for a time (Defence +29, 52s)",1
+198,21039,21031,91031,92033,2,9,21040,57,0,12.5,"Defence up for a time (Defence +33, 55s)",1
+199,21040,21031,91031,92034,2,10,0,64,0,13.5,"Defence up for a time (Defence +37, 60s)",1
+200,21041,21041,91031,92031,3,1,21042,71,0,6.300000190734863,"Critical up for a time (Critical +21, 37s)",1
+201,21042,21041,91031,92031,3,2,21043,77,0,8.5,"Critical up for a time (Critical +22, 40s)",1
+202,21043,21041,91031,92031,3,3,21044,83,0,10.399999618530273,"Critical up for a time (Critical +24, 43s)",1
+203,21044,21041,91031,92032,3,4,21045,89,0,12.0,"Critical up for a time (Critical +26, 46s)",1
+204,21045,21041,91031,92032,3,5,21046,95,0,13.300000190734863,"Critical up for a time (Critical +28, 49s)",1
+205,21046,21041,91031,92032,3,6,21047,101,0,15.0,"Critical up for a time (Critical +30, 53s)",1
+206,21047,21041,91031,92033,4,7,21048,107,0,16.200000762939453,"Critical up for a time (Critical +31, 57s)",1
+207,21048,21041,91031,92033,4,8,21049,113,0,17.100000381469727,"Critical up for a time (Critical +33, 61s)",1
+208,21049,21041,91031,92033,4,9,21050,119,0,17.5,"Critical up for a time (Critical +35, 65s)",1
+209,21050,21041,91031,92034,4,10,0,125,0,18.0,"Critical up for a time (Critical +37, 70s)",1
+210,21051,21051,91031,92031,4,1,21052,137,0,20.0,"Invincible for a time, finishers unusable (10s)",1
+211,21052,21051,91031,92031,4,2,21053,143,0,24.0,"Invincible for a time, finishers unusable (12s)",1
+212,21053,21051,91031,92031,5,3,21054,149,0,28.0,"Invincible for a time, finishers unusable (14s)",1
+213,21054,21051,91031,92032,5,4,21055,155,0,34.0,"Invincible for a time, finishers unusable (17s)",1
+214,21055,21051,91031,92032,5,5,21056,161,0,40.0,"Invincible for a time, finishers unusable (20s)",1
+215,21056,21051,91031,92032,5,6,21057,167,0,46.0,"Invincible for a time, finishers unusable (23s)",1
+216,21057,21051,91031,92033,5,7,21058,173,0,54.0,"Invincible for a time, finishers unusable (27s)",1
+217,21058,21051,91031,92033,5,8,21059,179,0,62.0,"Invincible for a time, finishers unusable (31s)",1
+218,21059,21051,91031,92033,5,9,21060,185,0,70.0,"Invincible for a time, finishers unusable (35s)",1
+219,21060,21051,91031,92034,5,10,0,191,0,80.0,"Invincible for a time, finishers unusable (40s)",1
+220,21091,21091,0,0,1,1,21092,1,0,0.0,"Defence up (Defence +1, passive)",2
+221,21092,21091,0,0,1,2,21093,21,0,0.0,"Defence up (Defence +8, passive)",2
+222,21093,21091,0,0,2,3,21094,41,0,0.0,"Defence up (Defence +16, passive)",2
+223,21094,21091,0,0,2,4,21095,61,0,0.0,"Defence up (Defence +23, passive)",2
+224,21095,21091,0,0,3,5,21096,81,0,0.0,"Defence up (Defence +32, passive)",2
+225,21096,21091,0,0,3,6,21097,101,0,0.0,"Defence up (Defence +39, passive)",2
+226,21097,21091,0,0,4,7,21098,121,0,0.0,"Defence up (Defence +48, passive)",2
+227,21098,21091,0,0,4,8,21099,141,0,0.0,"Defence up (Defence +57, passive)",2
+228,21099,21091,0,0,5,9,21100,161,0,0.0,"Defence up (Defence +69, passive)",2
+229,21100,21091,0,0,5,10,0,181,0,0.0,"Defence up (Defence +81, passive)",2
+230,21101,21101,0,0,1,1,21102,6,0,0.0,"Critical up (Critical +1, passive)",2
+231,21102,21101,0,0,1,2,21103,25,0,0.0,"Critical up (Critical +5, passive)",2
+232,21103,21101,0,0,2,3,21104,44,0,0.0,"Critical up (Critical +8, passive)",2
+233,21104,21101,0,0,2,4,21105,63,0,0.0,"Critical up (Critical +12, passive)",2
+234,21105,21101,0,0,3,5,21106,82,0,0.0,"Critical up (Critical +16, passive)",2
+235,21106,21101,0,0,3,6,21107,101,0,0.0,"Critical up (Critical +20, passive)",2
+236,21107,21101,0,0,4,7,21108,120,0,0.0,"Critical up (Critical +24, passive)",2
+237,21108,21101,0,0,4,8,21109,139,0,0.0,"Critical up (Critical +28, passive)",2
+238,21109,21101,0,0,5,9,21110,158,0,0.0,"Critical up (Critical +34, passive)",2
+239,21110,21101,0,0,5,10,0,177,0,0.0,"Critical up (Critical +39, passive)",2
+240,21111,21111,0,0,1,1,21112,11,0,0.0,"Max HP up (Max HP +42, passive)",2
+241,21112,21111,0,0,1,2,21113,30,0,0.0,"Max HP up (Max HP +121, passive)",2
+242,21113,21111,0,0,2,3,21114,49,0,0.0,"Max HP up (Max HP +201, passive)",2
+243,21114,21111,0,0,2,4,21115,68,0,0.0,"Max HP up (Max HP +285, passive)",2
+244,21115,21111,0,0,3,5,21116,87,0,0.0,"Max HP up (Max HP +364, passive)",2
+245,21116,21111,0,0,4,6,21117,106,0,0.0,"Max HP up (Max HP +448, passive)",2
+246,21117,21111,0,0,4,7,21118,125,0,0.0,"Max HP up (Max HP +527, passive)",2
+247,21118,21111,0,0,4,8,21119,144,0,0.0,"Max HP up (Max HP +637, passive)",2
+248,21119,21111,0,0,5,9,21120,163,0,0.0,"Max HP up (Max HP +756, passive)",2
+249,21120,21111,0,0,5,10,0,182,0,0.0,"Max HP up (Max HP +882, passive)",2
+250,81001,81001,91011,92011,1,1,81002,1,0,12.0,Basic attack (Attack: 1),0
+251,81002,81001,91011,92011,1,2,81003,8,0,12.0,Basic attack (Attack: 3),0
+252,81003,81001,91011,92011,1,3,81004,15,0,12.0,Basic attack (Attack: 7),0
+253,81004,81001,91011,92012,1,4,81005,22,0,12.0,Basic attack (Attack: 10),0
+254,81005,81001,91011,92012,1,5,81006,29,0,12.0,Basic attack (Attack: 14),0
+255,81006,81001,91011,92012,2,6,81007,36,0,12.0,Basic attack (Attack: 17),0
+256,81007,81001,91011,92013,2,7,81008,43,0,12.0,Basic attack (Attack: 21),0
+257,81008,81001,91011,92013,2,8,81009,50,0,12.0,Basic attack (Attack: 24),0
+258,81009,81001,91011,92013,2,9,81010,57,0,12.0,Basic attack (Attack: 28),0
+259,81010,81001,91011,92014,2,10,0,64,0,12.0,Basic attack (Attack: 31),0
+260,81011,81011,91011,92011,2,1,81012,67,0,12.0,Intermediate attack (Attack: 39),0
+261,81012,81011,91011,92011,3,2,81013,74,0,12.0,Intermediate attack (Attack: 43),0
+262,81013,81011,91011,92011,3,3,81014,81,0,12.0,Intermediate attack (Attack: 47),0
+263,81014,81011,91011,92012,3,4,81015,88,0,12.0,Intermediate attack (Attack: 51),0
+264,81015,81011,91011,92012,3,5,81016,95,0,12.0,Intermediate attack (Attack: 56),0
+265,81016,81011,91011,92012,4,6,81017,102,0,12.0,Intermediate attack (Attack: 60),0
+266,81017,81011,91011,92013,4,7,81018,109,0,12.0,Intermediate attack (Attack: 64),0
+267,81018,81011,91011,92013,4,8,81019,116,0,12.0,Intermediate attack (Attack: 68),0
+268,81019,81011,91011,92013,4,9,81020,123,0,12.0,Intermediate attack (Attack: 72),0
+269,81020,81011,91011,92014,4,10,0,130,0,12.0,Intermediate attack (Attack: 77),0
+270,81021,81021,91031,92031,1,1,81022,4,0,7.199999809265137,"Attack speed up for a time (Attack speed +1, 38s)",1
+271,81022,81021,91031,92031,1,2,81023,10,0,10.199999809265137,"Attack speed up for a time (Attack speed +4, 42s)",1
+272,81023,81021,91031,92031,1,3,81024,16,0,12.800000190734863,"Attack speed up for a time (Attack speed +6, 46s)",1
+273,81024,81021,91031,92032,1,4,81025,22,0,15.800000190734863,"Attack speed up for a time (Attack speed +9, 51s)",1
+274,81025,81021,91031,92032,1,5,81026,28,0,18.200000762939453,"Attack speed up for a time (Attack speed +12, 56s)",1
+275,81026,81021,91031,92032,1,6,81027,34,0,20.799999237060547,"Attack speed up for a time (Attack speed +15, 62s)",1
+276,81027,81021,91031,92033,2,7,81028,40,0,22.799999237060547,"Attack speed up for a time (Attack speed +17, 68s)",1
+277,81028,81021,91031,92033,2,8,81029,46,0,24.799999237060547,"Attack speed up for a time (Attack speed +20, 75s)",1
+278,81029,81021,91031,92033,2,9,81030,52,0,26.0,"Attack speed up for a time (Attack speed +22, 82s)",1
+279,81030,81021,91031,92034,2,10,0,58,0,27.0,"Attack speed up for a time (Attack speed +25, 90s)",1
+280,81031,81031,91031,92031,3,1,81032,70,0,7.199999809265137,"Movement speed up for a time (Movement speed +31, 38s)",1
+281,81032,81031,91031,92031,3,2,81033,76,0,10.199999809265137,"Movement speed up for a time (Movement speed +33, 42s)",1
+282,81033,81031,91031,92031,3,3,81034,82,0,12.800000190734863,"Movement speed up for a time (Movement speed +36, 46s)",1
+283,81034,81031,91031,92032,3,4,81035,88,0,15.800000190734863,"Movement speed up for a time (Movement speed +39, 51s)",1
+284,81035,81031,91031,92032,3,5,81036,94,0,18.200000762939453,"Movement speed up for a time (Movement speed +41, 56s)",1
+285,81036,81031,91031,92032,3,6,81037,100,0,20.799999237060547,"Movement speed up for a time (Movement speed +44, 62s)",1
+286,81037,81031,91031,92033,4,7,81038,106,0,22.799999237060547,"Movement speed up for a time (Movement speed +47, 68s)",1
+287,81038,81031,91031,92033,4,8,81039,112,0,24.799999237060547,"Movement speed up for a time (Movement speed +49, 75s)",1
+288,81039,81031,91031,92033,4,9,81040,118,0,26.0,"Movement speed up for a time (Movement speed +52, 82s)",1
+289,81040,81031,91031,92034,4,10,0,124,0,27.0,"Movement speed up for a time (Movement speed +55, 90s)",1
+290,81041,81041,91031,92031,1,1,81042,6,0,25.0,"HP recovery up for a time (HP recovery +10, 20s)",1
+291,81042,81041,91031,92031,1,2,81043,19,0,25.0,"HP recovery up for a time (HP recovery +40, 20s)",1
+292,81043,81041,91031,92031,1,3,81044,32,0,25.0,"HP recovery up for a time (HP recovery +70, 20s)",1
+293,81044,81041,91031,92032,2,4,81045,45,0,25.0,"HP recovery up for a time (HP recovery +100, 20s)",1
+294,81045,81041,91031,92032,2,5,81046,58,0,25.0,"HP recovery up for a time (HP recovery +130, 20s)",1
+295,81046,81041,91031,92032,3,6,81047,71,0,25.0,"HP recovery up for a time (HP recovery +158, 20s)",1
+296,81047,81041,91031,92033,3,7,81048,84,0,25.0,"HP recovery up for a time (HP recovery +182, 20s)",1
+297,81048,81041,91031,92033,3,8,81049,97,0,25.0,"HP recovery up for a time (HP recovery +206, 20s)",1
+298,81049,81041,91031,92033,4,9,81050,110,0,25.0,"HP recovery up for a time (HP recovery +230, 20s)",1
+299,81050,81041,91031,92034,4,10,0,123,0,25.0,"HP recovery up for a time (HP recovery +252, 20s)",1
+300,81121,81121,0,0,1,1,81122,8,0,0.0,"Attack speed up (Attack speed +2, passive)",2
+301,81122,81121,0,0,1,2,81123,27,0,0.0,"Attack speed up (Attack speed +7, passive)",2
+302,81123,81121,0,0,2,3,81124,46,0,0.0,"Attack speed up (Attack speed +13, passive)",2
+303,81124,81121,0,0,2,4,81125,65,0,0.0,"Attack speed up (Attack speed +19, passive)",2
+304,81125,81121,0,0,3,5,81126,84,0,0.0,"Attack speed up (Attack speed +25, passive)",2
+305,81126,81121,0,0,4,6,81127,103,0,0.0,"Attack speed up (Attack speed +30, passive)",2
+306,81127,81121,0,0,4,7,81128,122,0,0.0,"Attack speed up (Attack speed +36, passive)",2
+307,81128,81121,0,0,4,8,81129,141,0,0.0,"Attack speed up (Attack speed +43, passive)",2
+308,81129,81121,0,0,5,9,81130,160,0,0.0,"Attack speed up (Attack speed +51, passive)",2
+309,81130,81121,0,0,5,10,0,179,0,0.0,"Attack speed up (Attack speed +60, passive)",2
+310,81131,81131,0,0,1,1,81132,10,0,0.0,"Movement speed up (Movement speed +3, passive)",2
+311,81132,81131,0,0,1,2,81133,29,0,0.0,"Movement speed up (Movement speed +8, passive)",2
+312,81133,81131,0,0,2,3,81134,48,0,0.0,"Movement speed up (Movement speed +14, passive)",2
+313,81134,81131,0,0,2,4,81135,67,0,0.0,"Movement speed up (Movement speed +20, passive)",2
+314,81135,81131,0,0,3,5,81136,86,0,0.0,"Movement speed up (Movement speed +25, passive)",2
+315,81136,81131,0,0,4,6,81137,105,0,0.0,"Movement speed up (Movement speed +31, passive)",2
+316,81137,81131,0,0,4,7,81138,124,0,0.0,"Movement speed up (Movement speed +36, passive)",2
+317,81138,81131,0,0,4,8,81139,143,0,0.0,"Movement speed up (Movement speed +44, passive)",2
+318,81139,81131,0,0,5,9,81140,162,0,0.0,"Movement speed up (Movement speed +52, passive)",2
+319,81140,81131,0,0,5,10,0,181,0,0.0,"Movement speed up (Movement speed +61, passive)",2

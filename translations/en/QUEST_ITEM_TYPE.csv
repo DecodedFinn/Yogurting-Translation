@@ -80,7 +80,7 @@ index,quest_item_id,code,name,description
 78,89,qe000089,Frog's Braid,A Flunky Frog's braided hair.
 79,90,qe000090,Orb of Darkness,Orb of darkness.
 80,91,qe000091,Firewood,Firewood you can burn as fuel.
-81,92,qe000092,Ammonella Horn,An Ammonella's horn.
+81,92,qe000092,Anmonera Horn,An Anmonera's horn.
 82,93,qe000093,Fine Crocodile Leather,Crocodile leather that looks expensive. Bianca-sensei uses it when she makes crocodile-leather handbags.
 83,94,qe000094,Estiva Student ID,
 84,95,qe000095,Zero-Seven's Skull,A skull obtained by defeating Zero-Seven.
@@ -295,7 +295,7 @@ index,quest_item_id,code,name,description
 293,304,qe000304,Mujina Fur,"A mujina's fur, surprisingly fluffy."
 294,305,qe000305,Hoggy Puppet's Leg,The leg of a vicious-looking Hoggy Puppet. It looks ready to start moving on its own.
 295,306,qe000306,Nina's Claw,"Nina's claw. Sharp and filthy, so a scratch from it looks likely to make you ill."
-296,307,qe000307,Myurobi's Wing,A Myurobi's wing. Prettier than you would expect.
+296,307,qe000307,Myurobie's Wing,A Myurobie's wing. Prettier than you would expect.
 297,308,qe000308,Superbee's Tail,A rare Superbee tail.
 298,309,qe000309,Francois's Body Fluid,Body fluid taken to check Francois's health. Dangerous to touch directly.
 299,310,qe000310,Sai Croco's Eyeball,The eyeball of the giant beast Sai Croco.
@@ -305,10 +305,10 @@ index,quest_item_id,code,name,description
 303,314,qe000314,Snail Milk,Milk you would rather not drink; it looks like it would make you sick.
 304,315,qe000315,Meiyen's Love Letter,"A letter with Meiyen's feelings in it. You would like to read it, but that would not be the decent thing to do."
 305,316,qe000316,Paper with Hoyang's Poem,A scrap of paper with one of Hoyang's poems on it. He seems to have gone off it halfway through and thrown it away.
-306,317,qe000317,Myurobi's Egg,A Myurobi's egg. Probably harmful to humans.
+306,317,qe000317,Myurobie's Egg,A Myurobie's egg. Probably harmful to humans.
 307,318,qe000318,Meiyen's Sheet Music,The sheet music Meiyen plays the organ from. She has it almost memorised now and hardly uses it.
 308,319,qe000319,Kamaitachi's Claw,A kamaitachi's sharp foot claw. Take care not to cut yourself.
-309,320,qe000320,Boiled Myurobi Egg?,A boiled Myurobi egg Mocha made... let us call it that.
+309,320,qe000320,Boiled Myurobie Egg?,A boiled Myurobie egg Mocha made... let us call it that.
 310,321,qe000321,Missing Student's Notebook,"The notebook of a student who went missing. It has their name, year and so on written in it."
 311,322,qe000322,Certificate of Running Mastery,"A certificate saying you are an excellent runner. Issued by Karte, officially recognised by Estiva."
 312,323,qe000323,Anda's Cursed Doll,The doll Anda treasures. He apparently sleeps holding it every night...
@@ -364,7 +364,7 @@ index,quest_item_id,code,name,description
 362,373,qe000085,Final Notebook,"A legendary book written about all manner of ""finals"". They say that whenever somebody brings something to an end, it is written in here automatically."
 363,374,etc_cs030009,Fox Barley,"An extremely rare variety of barley, a fibre-rich health food, growing wild only in the fox cave. It shines a golden colour."
 364,375,etc_cs030016,Scoop,"The latest information, the sort that makes a newspaper worth reading. Print a false story and you lose both trust and standing, so check it carefully."
-365,376,qe000074,Helian Doll,A small stuffed toy modelled on a Woodhelian... or so it is claimed. An eerie doll. Something about it feels dangerous.
+365,376,qe000074,Helian Doll,A small stuffed toy modelled on a Woodherian... or so it is claimed. An eerie doll. Something about it feels dangerous.
 366,377,etc_cs030011,Antique Timer,A fragment of an antique that looks like a large cog. Rumour says it can manipulate time.
 367,378,etc_rb000002,Light Box,A light box about the size of a milk crate. Something inside rattles around.
 368,379,etc_rb000004,Heavy Box,A box that is very heavy for its size. A ticking sound comes from inside...
@@ -420,5 +420,5 @@ index,quest_item_id,code,name,description
 418,463,etc_cs030015,Luminous Substance,A mysterious substance giving off a glow so faint you only notice it in the dark. Gather enough and it will light a book at night.
 419,464,etc_cs030096,The Unknown Way to Raise a Cockoo,"A book handed down among the mysterious Linti tribe, describing their secret method of raising Cockoos."
 420,465,etc_cs030204,Mysterious Flower,A special flower said to grow as a parasite on the bodies of the mysterious Linti. It smells extremely odd.
-421,466,etc_cs030023,Fruit of Conversation,A mysterious fruit known for letting you talk with Woodhelians when eaten.
+421,466,etc_cs030023,Fruit of Conversation,A mysterious fruit known for letting you talk with Woodherians when eaten.
 422,467,etc_cs030192,100x Sweetness Special Candy,A candy made by a special method known only to the mysterious Linti tribe. It is said to be 100 times sweeter than ordinary sweets.

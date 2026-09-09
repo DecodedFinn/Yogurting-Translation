@@ -1,0 +1,31 @@
+index,reward_id,reward_type,value,duration,name
+0,11,1,10,90,EXP gained +10%
+1,12,1,15,120,EXP gained +15%
+2,13,1,20,90,EXP gained +20%
+3,21,2,3,90,Attack +3
+4,22,2,5,120,Attack +5
+5,23,2,6,100,Attack +6
+6,31,3,3,90,Defence +3
+7,32,3,5,120,Defence +5
+8,33,3,6,100,Defence +6
+9,41,4,10,60,Monster item drop rate +10% (a 20% rate becomes 22%)
+10,42,4,15,80,Monster item drop rate +15% (a 20% rate becomes 23%)
+11,43,4,20,70,Monster item drop rate +20% (a 20% rate becomes 24%)
+12,91,1,100,720,EXP gained +100%
+13,92,1,100,960,EXP gained +100%
+14,93,1,100,120,EXP gained +100%
+15,94,1,100,150,EXP gained +100%
+16,95,1,120,960,EXP gained +120%
+17,96,1,150,960,EXP gained +150%
+18,97,1,180,960,EXP gained +180%
+19,98,1,200,960,EXP gained +200%
+20,99,1,300,960,EXP gained +300%
+21,100,1,400,960,EXP gained +400%
+22,24,2,7,130,Attack +7
+23,25,2,8,140,Attack +8
+24,26,2,9,150,Attack +9
+25,27,2,10,160,Attack +10
+26,34,3,7,130,Defence +7
+27,35,3,8,140,Defence +8
+28,36,3,9,150,Defence +9
+29,37,3,10,160,Defence +10

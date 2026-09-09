@@ -1,0 +1,194 @@
+index,skill_id,code,name,description,v0,v1,f0,f1,v2,v3
+0,10101,SK010101,Brutal bludgeoning weapon basic attack 1,"Brutal bludgeoning weapon basic attack, hit 1.",22,22,1.0,0.0,1,100
+1,10102,SK010102,Brutal bludgeoning weapon basic attack 2,"Brutal bludgeoning weapon basic attack, hit 2.",22,22,1.0,0.0,1,100
+2,10103,SK010103,Brutal bludgeoning weapon basic attack 3,"Brutal bludgeoning weapon basic attack, hit 3.",22,22,1.0,0.0,1,100
+3,10104,SK010104,Brutal bludgeoning weapon basic attack 4,"Brutal bludgeoning weapon basic attack, hit 4.",22,22,1.0,0.0,1,230
+4,10201,SK010201,Large heavy weapon basic attack 1,"Large heavy weapon basic attack, hit 1.",22,22,1.0,0.0,1,96
+5,10202,SK010202,Large heavy weapon basic attack 2,"Large heavy weapon basic attack, hit 2.",22,22,1.0,0.0,1,96
+6,10203,SK010203,Large heavy weapon basic attack 3,"Large heavy weapon basic attack, hit 3.",22,22,1.0,0.0,1,96
+7,10204,SK010204,Large heavy weapon basic attack 4,"Large heavy weapon basic attack, hit 4.",22,22,1.0,0.0,1,167
+8,10301,SK010301,Short light weapon basic attack 1,"Short light weapon basic attack, hit 1.",22,22,1.0,0.0,1,100
+9,10302,SK010302,Short light weapon basic attack 2,"Short light weapon basic attack, hit 2.",22,22,1.0,0.0,1,100
+10,10303,SK010303,Short light weapon basic attack 3,"Short light weapon basic attack, hit 3.",22,22,1.0,0.0,1,100
+11,10304,SK010304,Short light weapon basic attack 4,"Short light weapon basic attack, hit 4.",22,22,1.0,0.0,1,100
+12,10401,SK010401,Ordinary light weapon basic attack 1,"Ordinary light weapon basic attack, hit 1.",22,22,1.0,0.0,1,86
+13,10402,SK010402,Ordinary light weapon basic attack 2,"Ordinary light weapon basic attack, hit 2.",22,22,1.0,0.0,1,86
+14,10403,SK010403,Ordinary light weapon basic attack 3,"Ordinary light weapon basic attack, hit 3.",22,22,1.0,0.0,1,86
+15,10404,SK010404,Ordinary light weapon basic attack 4,"Ordinary light weapon basic attack, hit 4.",22,22,1.0,0.0,1,142
+16,20001,SK020001,Stinger Edge,"A skill where the blades separate and circle you, attacking the enemy.",22,22,2.0,1.401298464324817e-45,1,150
+17,20002,SK020002,Tri-Slash,A skill that gathers power and brings the weapon down diagonally.,22,22,1.0,1.401298464324817e-45,1,300
+18,20003,SK020003,Megaton Fall,Deals damage to the enemy directly in front of you.,22,22,1.0,1.401298464324817e-45,1,300
+19,20004,SK020004,Megaton Crusher,Deals damage to several enemies in front of the player character.,22,22,1.0,2.802596928649634e-45,1,450
+20,20005,SK020005,Thorn Spear,A skill that stabs the enemy in front with a poison vine.,22,22,1.0,1.401298464324817e-45,1,300
+21,20006,SK020006,Poison Ivy Spear,A skill that runs the enemy in front through with a powerful thrust.,22,22,2.0,2.802596928649634e-45,1,450
+22,20007,SK020007,Spin Cutter,,0,0,0.0,0.0,0,0
+23,20008,SK020008,Floorboard Splitter,"A skill that grips the sword two-handed and slams it down, sending shattered ground flying at the enemy.",22,22,1.0,1.401298464324817e-45,1,300
+24,20009,SK020009,Bring It On,"Spins the bat one-handed, then swings it with both.",22,22,1.0,1.401298464324817e-45,1,300
+25,20010,SK020010,Wicked Home Run,"Spits on one hand, takes hold of the bat and swings at the enemy.",22,22,1.0,2.802596928649634e-45,1,300
+26,20011,SK020011,Holy Swing,Raise the blade high in one hand and light spills from the sky; the blade that catches it strikes.,22,22,1.0,1.401298464324817e-45,1,300
+27,20012,SK020012,Cut,,0,0,0.0,0.0,0,0
+28,20013,SK020013,Taming,,0,0,0.0,0.0,0,0
+29,20014,SK020014,Air Slash,So fast that only the glint of the blade's path is visible. A formidable three-stage attack.,22,22,1.0,1.401298464324817e-45,1,300
+30,20015,SK020015,Sonic Wave,"A skill that swings the blade up and down as though raising a storm, hurling shockwaves.",22,32,2.0,2.802596928649634e-45,1,450
+31,20016,SK020016,Driving Cut,A skill that adds spin to a thrust to loose an even deadlier blow.,22,22,1.0,1.401298464324817e-45,1,200
+32,20017,SK020017,Dangerous Cross,"An attack that comes down in a cross. A charming pose, but let your guard down and you will regret it.",22,22,1.0,1.401298464324817e-45,1,300
+33,20018,SK020018,Juggernaut Break,"A skill that drives an overwhelmingly heavy weapon into the ground, attacking with the earthquake it raises.",22,22,2.0,1.401298464324817e-45,1,300
+34,20019,SK020019,Cutting Thunder,,0,0,0.0,0.0,0,0
+35,20020,SK020020,Shower Bellowing,,0,0,0.0,0.0,0,0
+36,20021,SK020021,Electric Storm,Drives the beam sabre into the ground and attacks with the magnetic storm it stirs up.,22,22,1.0,1.401298464324817e-45,1,300
+37,20022,SK020022,Flash,A skill that focuses all your energy and cuts ahead of you in an instant.,22,22,1.0,1.401298464324817e-45,1,300
+38,20023,SK020023,Three Kills,A skill that steps in at tremendous speed and uses the accelerated arc of the blade to cut the enemy faster than the eye can follow.,22,22,1.0,2.802596928649634e-45,1,600
+39,20024,SK020024,Yogyeokcham,,0,0,0.0,0.0,0,0
+40,20025,SK020025,Ilgyeokcham,,0,0,0.0,0.0,0,0
+41,20026,SK020026,One-Hit Kill,,0,0,0.0,0.0,0,0
+42,20027,SK020027,Heaven and Earth Split,,0,0,0.0,0.0,0,0
+43,20028,SK020028,Death Wheel,"A skill that cuts with both arms, tracing a powerful X.",22,22,1.0,1.401298464324817e-45,1,300
+44,20029,SK020029,Perfect Storm,,22,22,1.0,1.401298464324817e-45,1,300
+45,20030,SK020030,Carotene Rocket,,22,22,1.0,1.401298464324817e-45,1,300
+46,20031,SK020031,Knock Away,,0,0,0.0,0.0,0,0
+47,20032,SK020032,Surprise Headbutt,A clown bursts out of the floor.,22,22,1.0,1.401298464324817e-45,1,300
+48,20033,SK020033,Breaker Down,Six fluorescent lamps spark and attack the enemy.,22,22,1.0,1.401298464324817e-45,1,300
+49,30101,SK030101,Boxing glove weapon basic attack 1,"Boxing glove weapon basic attack, hit 1.",22,22,1.0,0.0,1,81
+50,30102,SK030102,Boxing glove weapon basic attack 2,"Boxing glove weapon basic attack, hit 2.",22,22,1.0,0.0,1,77
+51,30103,SK030103,Boxing glove weapon basic attack 3,"Boxing glove weapon basic attack, hit 3.",22,22,1.0,0.0,1,72
+52,30104,SK030104,Boxing glove weapon basic attack 4,"Boxing glove weapon basic attack, hit 4.",22,22,1.0,0.0,1,143
+53,30201,SK030201,Martial-arts glove weapon basic attack 1,"Martial-arts glove weapon basic attack, hit 1.",22,22,1.0,0.0,1,81
+54,30202,SK030202,Martial-arts glove weapon basic attack 2,"Martial-arts glove weapon basic attack, hit 2.",22,22,1.0,0.0,1,77
+55,30203,SK030203,Martial-arts glove weapon basic attack 3,"Martial-arts glove weapon basic attack, hit 3.",22,22,1.0,0.0,1,72
+56,30204,SK030204,Martial-arts glove weapon basic attack 4,"Martial-arts glove weapon basic attack, hit 4.",22,22,1.0,0.0,1,143
+57,30301,SK030301,Claw glove basic attack 1,"Claw glove basic attack, hit 1.",22,22,1.0,0.0,1,81
+58,30302,SK030302,Claw glove basic attack 2,"Claw glove basic attack, hit 2.",22,22,1.0,0.0,1,77
+59,30303,SK030303,Claw glove basic attack 3,"Claw glove basic attack, hit 3.",22,22,1.0,0.0,1,72
+60,30304,SK030304,Claw glove basic attack 4,"Claw glove basic attack, hit 4.",22,22,1.0,0.0,1,143
+61,30401,SK030401,Heavy gear glove basic attack 1,"Heavy gear glove basic attack, hit 1.",22,22,1.0,0.0,1,100
+62,30402,SK030402,Heavy gear glove basic attack 2,"Heavy gear glove basic attack, hit 2.",22,22,1.0,0.0,1,100
+63,30403,SK030403,Heavy gear glove basic attack 3,"Heavy gear glove basic attack, hit 3.",22,22,1.0,0.0,1,100
+64,30404,SK030404,Heavy gear glove basic attack 4,"Heavy gear glove basic attack, hit 4.",22,22,1.0,0.0,1,100
+65,40001,SK040001,Rising Upper,Swings the fists to attack the enemies around you.,22,22,2.0,1.401298464324817e-45,1,300
+66,40002,SK040002,Kozen Blast Bomb,A skill that swings the right arm wide and hurls a sphere of energy.,22,22,2.0,2.802596928649634e-45,2,550
+67,40003,SK040003,Zarin Blazing Fist,"A skill that gathers energy in one hand and slams it into the ground, attacking with the shockwave.",22,22,2.0,1.401298464324817e-45,1,200
+68,40004,SK040004,Frantic Scratch,,22,22,0.0,0.0,0,0
+69,40005,SK040005,Vacuum Scratch,,22,22,0.0,0.0,0,0
+70,40006,SK040006,Rainbow Shine,A skill that swings both fists in a cross to attack. Anything hit is pushed back.,22,22,1.0,1.401298464324817e-45,1,450
+71,40007,SK040007,Maxima Shot,,0,0,0.0,0.0,0,0
+72,40008,SK040008,Four-Card Punch,A skill that throws four cards into the air and attacks by controlling them.,22,22,1.0,1.401298464324817e-45,1,300
+73,40009,SK040009,Royal Straight,A five-stage combo skill. Anything hit is pushed back. (Not implemented),22,22,2.0,2.802596928649634e-45,1,600
+74,40010,SK040010,Drill Spin Claw,,22,22,1.0,1.401298464324817e-45,1,300
+75,40011,SK040011,Cheonbang Drive,,22,22,1.0,1.401298464324817e-45,1,300
+76,40012,SK040012,Whirling Air Slash,A beam cuts through the air from the crossed arms.,22,22,1.0,1.401298464324817e-45,1,300
+77,40013,SK040013,Jaws of the Giant Beast,Bring the hands together and a mouth appears on the fist to tear the enemy apart.,22,22,1.0,1.401298464324817e-45,1,300
+78,40014,SK040014,Corkscrew Drill,A skill that destroys the enemy using the force of the earth's axis.,22,22,1.0,1.401298464324817e-45,1,300
+79,40015,SK040015,Gigantic Bolt,,0,0,0.0,0.0,0,0
+80,40016,SK040016,Phoenix Strike,,22,22,1.0,1.401298464324817e-45,1,500
+81,40017,SK040017,Swift Blade Strike,"Raises both hands, brings them down crossed and looses an X-shaped attack.",22,22,1.0,1.401298464324817e-45,1,300
+82,40018,SK040018,Swift Blade Flurry,A ten-stage combo.,22,22,2.0,2.802596928649634e-45,1,450
+83,40019,SK040019,Dual Charging,,0,0,0.0,0.0,0,0
+84,40020,SK040020,Viper Hook,,22,22,1.0,1.401298464324817e-45,1,200
+85,40021,SK040021,Viper Blow,,22,22,1.0,2.802596928649634e-45,1,332
+86,40022,SK040022,Izuna Drop,A jumping mid-air throw.,22,22,1.0,1.401298464324817e-45,1,300
+87,40023,SK040023,Eagle Talon,Tears the enemy apart with sharp claws.,22,22,1.0,1.401298464324817e-45,1,300
+88,40024,SK040024,Mammoth Brake,,0,0,0.0,0.0,0,0
+89,40025,SK040025,Taishan Breaker,,0,0,0.0,0.0,0,0
+90,40026,SK040026,Destroyer,,0,0,0.0,0.0,0,0
+91,40027,SK040027,Ultima Launcher,,0,0,0.0,0.0,0,0
+92,40028,SK040028,Spiral Blow,Throw the uppercut and a tornado goes with it.,22,22,1.0,1.401298464324817e-45,1,150
+93,40029,SK040029,Crazy Drive,,0,0,0.0,0.0,0,0
+94,40030,SK040030,Kozen Energy Bullet,A skill that takes hold and brings the strike down inside a sphere.,22,22,1.0,1.401298464324817e-45,1,300
+95,40031,SK040031,Rider Crush,A skill that fires two tyres to attack.,22,22,1.0,1.401298464324817e-45,1,300
+96,50101,SK050101,Classic dance mula basic attack 1,"Classic dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
+97,50102,SK050102,Classic dance mula basic attack 2,"Classic dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
+98,50103,SK050103,Classic dance mula basic attack 3,"Classic dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
+99,50104,SK050104,Classic dance mula basic attack 4,"Classic dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
+100,50201,SK050201,Cute dance mula basic attack 1,"Cute dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
+101,50202,SK050202,Cute dance mula basic attack 2,"Cute dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
+102,50203,SK050203,Cute dance mula basic attack 3,"Cute dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
+103,50204,SK050204,Cute dance mula basic attack 4,"Cute dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
+104,50301,SK050301,Sexy dance mula basic attack 1,"Sexy dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
+105,50302,SK050302,Sexy dance mula basic attack 2,"Sexy dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
+106,50303,SK050303,Sexy dance mula basic attack 3,"Sexy dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
+107,50304,SK050304,Sexy dance mula basic attack 4,"Sexy dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
+108,50401,SK050401,Funny dance mula basic attack 1,"Funny dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
+109,50402,SK050402,Funny dance mula basic attack 2,"Funny dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
+110,50403,SK050403,Funny dance mula basic attack 3,"Funny dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
+111,50404,SK050404,Funny dance mula basic attack 4,"Funny dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
+112,50501,SK050501,Funky dance mula basic attack 1,"Funky dance mula basic attack, hit 1.",22,22,1.0,0.0,3,115
+113,50502,SK050502,Funky dance mula basic attack 2,"Funky dance mula basic attack, hit 2.",22,22,1.0,0.0,3,115
+114,50503,SK050503,Funky dance mula basic attack 3,"Funky dance mula basic attack, hit 3.",22,22,1.0,0.0,3,115
+115,50504,SK050504,Funky dance mula basic attack 4,"Funky dance mula basic attack, hit 4.",22,22,1.0,0.0,3,167
+116,50601,SK050601,Powerful dance mula basic attack 1,"Powerful dance mula basic attack, hit 1.",22,22,1.0,0.0,3,100
+117,50602,SK050602,Powerful dance mula basic attack 2,"Powerful dance mula basic attack, hit 2.",22,22,1.0,0.0,3,100
+118,50603,SK050603,Powerful dance mula basic attack 3,"Powerful dance mula basic attack, hit 3.",22,22,1.0,0.0,3,100
+119,50604,SK050604,Powerful dance mula basic attack 4,"Powerful dance mula basic attack, hit 4.",22,22,1.0,0.0,3,282
+120,60001,SK060001,Orchestra Blow,"Attacks the enemies around you, with yourself at the centre.",22,0,2.0,1.401298464324817e-45,0,400
+121,60002,SK060002,Rhythm of Healing,A weak area heal.,9,0,1.0,1.401298464324817e-45,0,0
+122,60003,SK060003,Shaman Bell,A weak area sound attack.,22,0,2.0,1.401298464324817e-45,0,400
+123,60004,SK060004,Etude of Passion,,0,0,0.0,0.0,0,0
+124,60005,SK060005,Weak Beatbox,,9,0,2.0,1.401298464324817e-45,0,0
+125,60006,SK060006,Reaping Blow,,22,0,2.0,1.401298464324817e-45,0,400
+126,60007,SK060007,Fluffy Motion,A skill that purifies the air around you and cures the poisoned state.,9,0,1.0,1.401298464324817e-45,0,0
+127,60008,SK060008,Recoiling Wave,"A skill whose pure, elegant sound lifts the heart and makes you quicker.",9,0,1.0,1.401298464324817e-45,0,0
+128,60009,SK060009,Rhapsody of Thunder,A weak area sound attack.,22,0,1.0,1.401298464324817e-45,0,400
+129,60010,SK060010,Violino of Silence,A skill that calms the mind and restores body and spirit.,9,0,3.0,1.401298464324817e-45,0,0
+130,60011,SK060011,Czerny No. 100,,22,0,2.0,1.401298464324817e-45,0,400
+131,60012,SK060012,Bossa No Cha-Cha,,22,0,2.0,1.401298464324817e-45,0,400
+132,60013,SK060013,Clarinero,,22,0,2.0,1.401298464324817e-45,0,400
+133,60014,SK060014,Freezing Motion,,22,0,2.0,1.401298464324817e-45,0,400
+134,60015,SK060015,Drunken Eight Immortals,A shockwave fierce enough to sober you up in a single blow.,22,0,2.0,1.401298464324817e-45,0,400
+135,60016,SK060016,Drunken Venus,TBD,9,0,2.0,1.401298464324817e-45,0,0
+136,60017,SK060017,Chigi Daegichek,,0,0,0.0,0.0,0,0
+137,60018,SK060018,Spin Scratch,,0,0,0.0,0.0,0,0
+138,60019,SK060019,Maxter Wrapping,,0,0,0.0,0.0,0,0
+139,60020,SK060020,Funky Boogie,,22,0,2.0,1.401298464324817e-45,0,400
+140,60021,SK060021,Zigzag Rack,,0,0,0.0,0.0,0,0
+141,60022,SK060022,Magnetic Wave,,0,0,0.0,0.0,0,0
+142,60023,SK060023,Breath of Heaven,Transforms into an angel and walks the area scattering powder of blessing.,9,0,1.0,1.401298464324817e-45,0,0
+143,60024,SK060024,Divine Voice,Spreads the hands as if in prayer to the sky and calls up a hymn.,22,0,2.0,1.401298464324817e-45,0,400
+144,60025,SK060025,Inferno,,0,0,0.0,0.0,0,0
+145,60026,SK060026,Flame Lord,,0,0,0.0,0.0,0,0
+146,60027,SK060027,Utangka Dance,,0,0,0.0,0.0,0,0
+147,60028,SK060028,Carnival Fever,"A skull appears above your head, looks around and vanishes.",22,0,1.0,1.401298464324817e-45,0,400
+148,60029,SK060029,Flowber,A skill that attacks the enemies around you with sound waves.,22,0,2.0,1.401298464324817e-45,0,400
+149,60030,SK060030,Fantasia,A skill that attacks the enemies around you with sound waves.,22,0,2.0,1.401298464324817e-45,0,400
+150,60031,SK060031,Serenade of Noise,A skill whose waves fly off irregularly in all directions. Sometimes paralyses.,22,0,2.0,2.802596928649634e-45,0,800
+151,60032,SK060032,Morning Song,A skill that attacks the enemies around you with sound waves.,22,0,2.0,1.401298464324817e-45,0,400
+152,70101,SK070101,Command spirit basic attack 1,"Command spirit basic attack, hit 1.",22,22,1.0,0.0,5,115
+153,70102,SK070102,Command spirit basic attack 2,"Command spirit basic attack, hit 2.",22,22,1.0,0.0,5,115
+154,70103,SK070103,Command spirit basic attack 3,"Command spirit basic attack, hit 3.",22,22,1.0,0.0,5,115
+155,70104,SK070104,Command spirit basic attack 4,"Command spirit basic attack, hit 4.",22,22,1.0,0.0,5,167
+156,70201,SK070201,Light-bending spirit basic attack 1,"Light-bending spirit basic attack, hit 1.",22,22,1.0,0.0,5,115
+157,70202,SK070202,Light-bending spirit basic attack 2,"Light-bending spirit basic attack, hit 2.",22,22,1.0,0.0,5,115
+158,70203,SK070203,Light-bending spirit basic attack 3,"Light-bending spirit basic attack, hit 3.",22,22,1.0,0.0,5,115
+159,70204,SK070204,Light-bending spirit basic attack 4,"Light-bending spirit basic attack, hit 4.",22,22,1.0,0.0,5,167
+160,70301,SK070301,Mutant command spirit basic attack 1,"Mutant command spirit basic attack, hit 1.",22,22,1.0,0.0,5,115
+161,70302,SK070302,Mutant command spirit basic attack 2,"Mutant command spirit basic attack, hit 2.",22,22,1.0,0.0,5,115
+162,70303,SK070303,Mutant command spirit basic attack 3,"Mutant command spirit basic attack, hit 3.",22,22,1.0,0.0,5,115
+163,70304,SK070304,Mutant command spirit basic attack 4,"Mutant command spirit basic attack, hit 4.",22,22,1.0,0.0,5,167
+164,80001,SK080001,Aqua Drop,Summons a water spirit and drops it on the enemy's head.,22,32,3.0,1.401298464324817e-45,5,800
+165,80002,SK080002,Fire Drop,Summons a salamander to attack the enemy.,22,32,3.0,1.401298464324817e-45,5,800
+166,80003,SK080003,Snake Chain,An attack skill that makes the most of a serpent's nature.,22,32,3.0,1.401298464324817e-45,5,800
+167,80004,SK080004,Requiem Buster,,22,32,3.0,1.401298464324817e-45,5,800
+168,80005,SK080005,Holy Spirit,Raises your own defence for a time.,1,0,2.5,2.802596928649634e-45,0,0
+169,80006,SK080006,Cry of the Tree Spirit,A tree spirit appears in front of the character and cries out. The shockwave deals a small amount of damage.,22,32,3.0,1.401298464324817e-45,5,800
+170,80007,SK080007,Bat Arrow,,22,32,3.0,1.401298464324817e-45,5,800
+171,80008,SK080008,Lifesaver,,0,0,0.0,0.0,0,0
+172,80009,SK080009,Carpet Bombing,"Throw the bomb, it burns for 3 seconds and then explodes. Stand too close and it hurts you too.",22,32,3.0,1.401298464324817e-45,5,800
+173,80010,SK080010,Flame of the Abyss,Collapses the floor with a wave of energy.,22,32,2.0,1.401298464324817e-45,5,800
+174,80011,SK080011,Yaksha Summoning,"A yaksha appears, an ogre with a staff above and cloud below, and attacks with hammering blows.",22,32,3.0,1.401298464324817e-45,5,800
+175,80012,SK080012,Ice Wave,,0,0,0.0,0.0,0,0
+176,80013,SK080013,Useful English Words,"Take a large book from the spirit and memorise a word, and the word appears and attacks.",22,32,2.0,1.401298464324817e-45,5,800
+177,80014,SK080014,Valkyrie Spear,A skill that summons the warrior maiden Valkyrie to attack the enemy.,22,32,3.0,1.401298464324817e-45,5,800
+178,80015,SK080015,Summon Seraphim,,22,32,2.0,1.401298464324817e-45,5,800
+179,80016,SK080016,Battle Winner,,0,0,0.0,0.0,0,0
+180,80017,SK080017,Twinkle Gem,A glittering gem drifts up to the enemy and explodes.,22,32,2.0,1.401298464324817e-45,5,800
+181,80018,SK080018,Blue Hope Knight,A veil of darkness falls around the enemy and deals damage.,22,32,2.0,2.802596928649634e-45,5,800
+182,80019,SK080019,Apache Flag,,0,0,0.0,0.0,0,0
+183,80020,SK080020,Apache Stab,,0,0,0.0,0.0,0,0
+184,80021,SK080021,Detonation,,0,0,0.0,0.0,0,0
+185,80022,SK080022,Desperado,,0,0,0.0,0.0,0,0
+186,80023,SK080023,Incubus,,0,0,0.0,0.0,0,0
+187,80024,SK080024,Eternal Dream,,0,0,0.0,0.0,0,0
+188,80025,SK080025,Genocide Cutter,,0,0,0.0,0.0,0,0
+189,80026,SK080026,Complete the Ornament,,0,0,0.0,0.0,0,0
+190,80027,SK080027,Exorcism,,22,32,3.0,1.401298464324817e-45,5,800
+191,80028,SK080028,Turtleneck,,1,0,1.0,1.401298464324817e-45,0,0
+192,80029,SK080029,Endless Nightmare,A mass of iron spikes bursts out of the floor.,22,32,2.0,1.401298464324817e-45,5,800

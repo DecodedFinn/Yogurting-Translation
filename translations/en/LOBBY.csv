@@ -1,0 +1,78 @@
+index,lobby_id,name,desc
+0,10001,Beside Ben-sensei,Beside Ben-sensei<br>(School Building Entrance west)
+1,10002,Beside Riez-sensei,Beside Riez-sensei<br>(School Building 1F Staff Room)
+2,10003,Beside Grey,Beside Grey<br>(School Building 3F east)
+3,10004,Beside Somunyan-sensei,Beside Somunyan-sensei<br>(School Building 2F centre)
+4,10101,In Front of the Basketball Court,In Front of the Basketball Court<br>(Groundswest)
+5,10102,Behind the Auditorium,Behind the Auditorium<br>(Groundseast)
+6,10201,Ticket Office,"School Gate, Ticket Office<br>(School Gatenorthwest)"
+7,10202,Main Gate Bus Stop,"School Gate, Bus Stop<br>(School Gatesoutheast)"
+8,10203,Main Gate Blood Donation Van,"School Gate, Blood Donation Van<br>(School Gatesouthwest)"
+9,10301,"School Building Basement, Training Room","School Building Basement, outside the Training Room<br>(down from the school building)"
+10,10401,School Building 1F Library,School Building 1F Library<br>(School Building 1Fwest)
+11,10402,"School Building 1F, Staff Room","School Building 1F, Staff Room<br>(School Building 1F west)"
+12,10403,School Building 1F Music Room,School Building 1F Music Room<br>(School Building 1Feast)
+13,10501,School Building 2F,School Building 2F Hallway<br>(School Building 2Feast)
+14,10601,School Building 3F Art Room,School Building 3F outside the Art Room<br>(School Building 3Fwest)
+15,10701,In Front of the Greenhouse,"Backyard, in front of the greenhouse<br>(top of the backyard stairs)"
+16,10702,In Front of the Greenhouse,"Backyard, in front of the greenhouse<br>(top of the backyard stairs)"
+17,10703,Backyard Rest Plaza,"Backyard, Rest Plaza<br>(by the backyard benches)"
+18,10704,"Backyard, Animal Pens","Backyard, Animal Pens<br>(backyard east)"
+19,10801,The World Tree,The World Tree
+20,10802,The World Tree,The World Tree
+21,10803,The World Tree,The World Tree
+22,10804,The World Tree,The World Tree
+23,10805,The World Tree,The World Tree
+24,10806,The World Tree,The World Tree
+25,10807,The World Tree,The World Tree
+26,10808,The World Tree,The World Tree
+27,20001,Beside Sam-sensei,Beside Sam-sensei<br>(School Building Entrance west)
+28,20002,Beside Shin Sohyun,Beside Shin Sohyun<br>(School Building 1F Staff Room)
+29,20003,Beside Father Vermont,Beside Father Vermont<br>(down the stairs west of the grounds)
+30,20004,Beside Suiren,Beside Suiren<br>(down the stairs west of the grounds)
+31,20101,In Front of the Auditorium,In front of the auditorium<br>(grounds west)
+32,20102,Cherry Tree Avenue,Cherry Tree Avenue<br>(grounds east)
+33,20201,"School Gate, Subway Station","School Gate, Subway Station<br>(school gate northwest)"
+34,20202,"School Gate, Bus Stop","School Gate, Bus Stop<br>(school gate southeast)"
+35,20401,School Building 1F west,"School Building 1F, outside the boys' toilets<br>(far west of 1F)"
+36,20402,"School Building 1F, Staff Room","School Building 1F, Staff Room<br>(School Building 1F west)"
+37,20403,School Building 1F centre,"School Building 1F, outside the counselling room (1F centre)"
+38,20501,School Building 2F,"School Building 2F, outside the girls' toilets<br>(2F west)"
+39,20601,School Building 3F,"School Building 3F, by the water fountain<br>(3F east)"
+40,20701,Old School Building Forecourt,In front of the old school building<br>(via the warp point east of the grounds)
+41,20702,School Building 2F,"School Building 2F, outside the boys' toilets<br>(2F east)"
+42,20703,"Old School Building 1F, west classroom","Old School Building 1F, beside Hoyang<br>(via the warp point east of the grounds)"
+43,20704,Old School Building 2F,"Old School Building 2F, beside Meiyen"
+44,20901,Chapel Front Yard,"Backyard, in front of the chapel<br>(down the stairs west of the grounds)"
+45,20902,Graveyard Storehouse,"Backyard, graveyard storehouse<br>(down the stairs west of the grounds)"
+46,20903,Graveyard Back Gate,"Backyard, graveyard back gate<br>(down the stairs west of the grounds)"
+47,21001,Occult Research Club Room,Occult Research Club room<br>(?????)
+48,21101,The World Tree,The World Tree
+49,21102,The World Tree,The World Tree
+50,21103,The World Tree,The World Tree
+51,21104,The World Tree,The World Tree
+52,21105,The World Tree,The World Tree
+53,21106,The World Tree,The World Tree
+54,21107,The World Tree,The World Tree
+55,21108,The World Tree,The World Tree
+56,9000,Test EP000,Test EP000
+57,9001,Test EP001,Test EP001
+58,9002,Test EP002,Test EP002
+59,9003,Test EP003,Test EP003
+60,9004,Test EP004,Test EP004
+61,9005,Test EP005,Test EP005
+62,9006,Test EP006,Test EP006
+63,9007,Test EP007,Test EP007
+64,9008,Test EP008,Test EP008
+65,9009,Test EP009,Test EP009
+66,9010,Test EP010,Test EP010
+67,9011,Test EP011,Test EP011
+68,9012,Test EP012,Test EP012
+69,9013,Test EP013,Test EP013
+70,9014,Test EP014,Test EP014
+71,9015,Test EP015,Test EP015
+72,9016,Test EP016,Test EP016
+73,165,Level team test (GK),Level team test (GK)
+74,9100,149~152 internal testing,149~152 internal testing
+75,9110,153~158 internal testing,153~158 internal testing
+76,9111,"155,156,159~164 internal testing","155,156,159~164 internal testing"

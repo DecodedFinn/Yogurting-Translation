@@ -1,0 +1,168 @@
+index,skill_id,code,name,description,ref_skill_id,group_id
+0,41001,skill_skl4001,Ptolemy,"An attack that places you at the centre of the world, calculating the enemy's movement to land a precise blow. Deals damage to the enemy.",41001,2
+1,41011,skill_skl4001,Hess,An attack likened to the force of the mantle moving the seabed. Deals heavy damage to the enemy.,41001,2
+2,41021,skill_skl4001,Wegener,A powerful attack likened to a force great enough to move continents. Deals very heavy damage.,41001,2
+3,41031,skill_skl4003,Van der Waals,A skill that gathers the faint energy scattered through the body into a single point to produce great power. Raises attack for a time.,41003,2
+4,41041,skill_skl4003,Faraday's Eye,A skill that finds the enemy's opening with concentration keen enough to make out atomic structure. Raises accuracy for a time.,41003,2
+5,41051,skill_skl4003,Boyle's Law,"Just as the volume and pressure of a gas are inversely proportional at a constant temperature, this dangerous skill trades defence for greater attack for a time.",41003,2
+6,41091,skill_skl4006,Bohr,Quantises angular momentum to raise attack.,0,2
+7,41101,skill_skl4006,Mendeleev,"Organises every pattern of attack into a system and strikes precisely to suit the situation, raising accuracy.",0,2
+8,41111,skill_skl4006,Blessing of the Stromatolite,"Draws on the vitality of the stromatolite, which holds the secret of life's origin and history on this planet, raising maximum HP.",0,2
+9,61001,skill_skl6001,Appassionato,Music played with passion attacks the enemy. Mula's basic attack skill. Deals damage to the enemy.,61001,3
+10,61011,skill_skl6001,Agitato,Batters the enemy with a fierce beat. Deals heavy damage.,61001,3
+11,61021,skill_skl6003,Leggiero,Plays a light-footed melody that lifts the hearts of those nearby. Raises evasion for a time.,61003,3
+12,61031,skill_skl6003,Accelerando,Raises the tempo little by little until you fight to a rhythm faster than you realise. Shortens cooldown for a time.,61003,3
+13,61041,skill_skl6003,Spiritoso,"A cheerful, lively beat restores the spirits of those nearby. Recovers HP.",61003,3
+14,61121,skill_skl6006,Cantabile,Slips past the enemy's attacks with movements as smooth as singing. Raises evasion.,0,3
+15,61131,skill_skl6006,Prestissimo,Pushes your body's rhythm to its limit and plays an extremely fast melody. Shortens cooldown.,0,3
+16,21001,skill_skl2001,Scratch,"An attack applying the scratch technique, where layered paint is scraped away to reveal the colour beneath. Rakes the enemy with the blade's edge for damage.",21001,1
+17,21011,skill_skl2001,Decollage,"A skill applying decollage, the technique of tearing away what has been pasted down. A destructive attack that rends, batters and cuts. Deals heavy damage.",21001,1
+18,21021,skill_skl2001,Etching,"A terrifying skill that reproduces copperplate etching with a blade: ground is laid on the plate, the motif drawn with a needle, and acid does the rest. Deals very heavy damage.",21001,1
+19,21031,skill_skl2003,Collage,A skill that gathers whatever lies nearby on the blade's tip and binds it into a wall. Raises defence temporarily.,21003,1
+20,21041,skill_skl2003,Sfumato,"A skill applying sfumato, the blurring of colour boundaries, to make an attack hard to see coming. Raises critical temporarily.",21003,1
+21,21051,skill_skl2003,Gestalt,"A skill that empties the mind until the image of yourself perceived by the senses turns transparent. You are invincible for a time, but cannot use a finisher while it lasts.",21003,1
+22,21091,skill_skl2006,Assemblage,A skill that gathers up objects lying about and forms them into a kind of armour. Raises defence.,0,1
+23,21101,skill_skl2006,Frottage,"A skill that brings the potential hidden inside you to the surface, the way frottage lifts an image. Raises critical.",0,1
+24,21111,skill_skl2006,Vorticism,A skill that circulates your energy in a vortex to raise your metabolism. Raises maximum HP.,0,1
+25,81001,skill_skl8001,Weber's Law,"A spirit user's basic skill, using the control learned from commanding weak spirits to make a stronger one attack. Deals damage to the enemy.",81001,4
+26,81011,skill_skl8001,Albino Attack,A skill that raises a spirit's power until your whole body shines white. Deals heavy damage.,81001,4
+27,81021,skill_skl8003,ATP Activation,"Activates the muscle-contraction energy released by breaking down adenosine triphosphate, raising attack speed for a time.",81003,4
+28,81031,skill_skl8003,Haemoglobin Boost,"A skill that increases haemoglobin in the blood, improving oxygen supply so you can run faster. Raises movement speed for a time.",81003,4
+29,81041,skill_skl8003,TCA Acceleration,A skill that accelerates the body's metabolic cycle to raise recovery dramatically. Raises natural HP recovery for a time.,81003,4
+30,81121,skill_skl8006,Sutton,A skill that manipulates the genetic information in your chromosomes to reach a speed beyond your limits. Raises attack speed.,0,4
+31,81131,skill_skl8006,Myoglobin Boost,"A skill that increases myoglobin, raising the oxygen held in muscle tissue so you can run faster. Raises movement speed.",0,4
+32,20001,skill_SK020001,Stinger Edge,Separates the blade's edges and carves up every enemy around you.,20001,1
+33,20002,skill_SK020002,Tri-Slash,Gives geometric principle physical form and fires a set-square-shaped wave of energy.,20002,1
+34,20003,skill_SK020003,Megaton Fall,TBD,20003,1
+35,20004,skill_SK020004,Megaton Crusher,"The enemy underestimates a small hammer, and is flattened when it suddenly grows enormous.",20004,1
+36,20005,skill_SK020005,Thorn Spear,TBD,20005,1
+37,20006,skill_SK020006,Thorn Spear,Swing the rapier like a conductor and thorns of death run the enemy through.,20006,1
+38,20007,skill_SK020007,Spin Cutter,TBD,20007,1
+39,20008,skill_SK020008,Floorboard Splitter,"Slams the blade into the ground with everything you have, sending the shattered floor flying at the enemy.",20008,1
+40,20009,skill_SK020009,Bring It On,TBD,20009,1
+41,20010,skill_SK020010,Wicked Home Run,TBD,20010,1
+42,20011,skill_SK020011,Holy Swing,TBD,20011,1
+43,20012,skill_SK020012,Cut,TBD,20012,1
+44,20013,skill_SK020013,Taming,TBD,20013,1
+45,20014,skill_SK020014,Air Slash,TBD,20014,1
+46,20015,skill_SK020015,Sonic Wave,Splits the air with a high-speed spin of the blade and hurls the shockwave.,20015,1
+47,20016,skill_SK020016,Driving Cut,Spins the screw at high speed to generate a vacuum tornado.,20016,1
+48,20017,skill_SK020017,Dangerous Cross,TBD,20017,1
+49,20018,skill_SK020018,Juggernaut Break,"Overwhelming weight flattens the enemy, breaking the very ground as it lands.",20018,1
+50,20019,skill_SK020019,Cutting Thunder,TBD,20019,1
+51,20020,skill_SK020020,Shower Bellowing,TBD,20020,1
+52,20021,skill_SK020021,Electric Storm,"Drives an electrode into the ground to draw in the static in the air, generating artificial lightning to attack the enemy.",20021,1
+53,20022,skill_SK020022,Flash,TBD,20022,1
+54,20023,skill_SK020023,Three Kills,"Kills the enemy's spirit, their sword and their technique to open a gap, then lands a lethal blow.",20023,1
+55,20024,skill_SK020024,Yogyeokcham,TBD,20024,1
+56,20025,skill_SK020025,Ilgyeokcham,TBD,20025,1
+57,20026,skill_SK020026,One-Hit Kill,TBD,20026,1
+58,20027,skill_SK020027,Heaven and Earth Split,TBD,20027,1
+59,20028,skill_SK020028,Death Wheel,Fires the circular blade hidden in that peculiar sword to attack the enemy.,20028,1
+60,20029,skill_SK020029,Perfect Storm,Condenses the moisture in the air and slams down a huge bullet of water.,20029,1
+61,20030,skill_SK020030,Carotene Rocket,Strikes a carrot-shaped missile with a frying pan to ignite it and fire it off.,20030,1
+62,20031,skill_SK020031,Knock Away,TBD,20031,1
+63,20032,skill_SK020032,Surprise Headbutt,"A giant clown's head bursts out of the ground, striking body and mind at once.",20032,1
+64,20033,skill_SK020033,Breaker Down,"Uses the magnetic resonance of a fluorescent lamp to land a numbing, crackling blow.",20033,1
+65,20034,skill_SK020034,Blind Stab,"A blow that cuts the heavens, splits the earth and strikes the enemy down.",20034,1
+66,20035,skill_SK020035,Mirage Blade,Doubles of the Stinger rain down on the enemy.,20035,1
+67,20036,skill_SK020036,Antique Madness,TBD,20036,1
+68,40001,skill_SK040001,Rising Upper,An uppercut that wreathes the fist in flame and launches you upward like a rocket.,40001,2
+69,40002,skill_SK040002,Kozen Blast Bomb,Gathers energy in both hands and releases it all at once.,40002,2
+70,40003,skill_SK040003,Zarin Blazing Fist,Sublimates a hungry spirit into energy and attacks the enemy. They say the thing you most want to eat appears as an image at that moment.,40003,2
+71,40004,skill_SK040004,Frantic Scratch,TBD,40004,2
+72,40005,skill_SK040005,Vacuum Scratch,TBD,40005,2
+73,40006,skill_SK040006,Rainbow Shine,Cuts the enemy with a blade of energy that traces a rainbow arc.,40006,2
+74,40007,skill_SK040007,Maxima Shot,TBD,40007,2
+75,40008,skill_SK040008,Four-Card Punch,TBD,40008,2
+76,40009,skill_SK040009,Royal Straight,"A finishing combo that settles things in one go, straight from a poker face. Sadly, no use at all in actual gambling.",40009,2
+77,40010,skill_SK040010,Drill Spin Claw,"Leaps in spinning at high speed, cutting and then running the enemy through.",40010,2
+78,40011,skill_SK040011,Cheonbang Drive,An elegant technique that delivers a run of kicks while breakdancing.,40011,2
+79,40012,skill_SK040012,Whirling Air Slash,Charges the blade with energy and hurls the edge it forms.,40012,2
+80,40013,skill_SK040013,Jaws of the Giant Beast,Summons a demon beast from the underworld to attack the enemy.,40013,2
+81,40014,skill_SK040014,Corkscrew Drill,"Soars high and comes down as a spinning, piercing kick. Dangerous to use within 30 minutes of eating.",40014,2
+82,40015,skill_SK040015,Gigantic Bolt,TBD,40015,2
+83,40016,skill_SK040016,Phoenix Strike,Looses the arrow of flame the legendary phoenix gives off as it is reborn.,40016,2
+84,40017,skill_SK040017,Swift Blade Strike,TBD,40017,2
+85,40018,skill_SK040018,Swift Blade Flurry,A rush so fast the fists seem beyond counting.,40018,2
+86,40019,skill_SK040019,Dual Charging,TBD,40019,2
+87,40020,skill_SK040020,Viper Hook,TBD,40020,2
+88,40021,skill_SK040021,Viper Blow,Sprays the poison held in the knuckle along with the punch.,40021,2
+89,40022,skill_SK040022,Izuna Drop,TBD,40022,2
+90,40023,skill_SK040023,Eagle Talon,Tears the enemy apart with talons as sharp as an eagle's.,40023,2
+91,40024,skill_SK040024,Mammoth Brake,TBD,40024,2
+92,40025,skill_SK040025,Taishan Breaker,TBD,40025,2
+93,40026,skill_SK040026,Destroyer,TBD,40026,2
+94,40027,skill_SK040027,Ultima Launcher,TBD,40027,2
+95,40028,skill_SK040028,Spiral Blow,"Looses a whirlwind said to arise only when power, technique and speed come together.",40028,2
+96,40029,skill_SK040029,Crazy Drive,TBD,40029,2
+97,40030,skill_SK040030,Kozen Energy Bullet,TBD,40030,2
+98,40031,skill_SK040031,Rider Crush,A huge tyre of energy slams into the enemy.,40031,2
+99,40032,skill_SK040032,Maximum Drop,The spirit's arm dwelling in the gauntlet takes form and comes crashing down.,40032,2
+100,40033,skill_SK040033,Jumping Horn Bomb,Leaps high on the glove's power and smashes the enemy below. So forceful it splits the very ground.,40033,2
+101,40034,skill_SK040034,Fatal Scratch,TBD,40034,2
+102,60001,skill_SK060001,Orchestra Blow,Attacks with a fiercely spinning vortex of sound.,60001,3
+103,60002,skill_SK060002,Rhythm of Healing,TBD,60002,3
+104,60003,skill_SK060003,Shaman Bell,Rings a bell used in sorcery to throw the enemy into confusion.,60003,3
+105,60004,skill_SK060004,Etude of Passion,TBD,60004,3
+106,60005,skill_SK060005,Weak Beatbox,TBD,60005,3
+107,60006,skill_SK060006,Reaping Blow,Blinds the enemy with a blaze of spotlights and strikes.,60006,3
+108,60007,skill_SK060007,Fluffy Motion,TBD,60007,3
+109,60008,skill_SK060008,Recoiling Wave,TBD,60008,3
+110,60009,skill_SK060009,Rhapsody of Thunder,TBD,60009,3
+111,60010,skill_SK060010,Violino of Silence,TBD,60010,3
+112,60011,skill_SK060011,Czerny No. 100,Looses a ring of light that leaves the enemy unable to move. Their eyes are taken by the light and they never notice the attack.,60011,3
+113,60012,skill_SK060012,Bossa No Cha-Cha,A difficult dance whose highlight is the double spin.,60012,3
+114,60013,skill_SK060013,Clarinero,"Leads the enemy on with a merry melody until they dance on, lost to themselves.",60013,3
+115,60014,skill_SK060014,Freezing Motion,"Fills the area with cold air and attacks. You have a warm scarf, so you will be fine!",60014,3
+116,60015,skill_SK060015,Drunken Eight Immortals,A dance that bewilders the enemy with movements as unpredictable as a drunkard's.,60015,3
+117,60016,skill_SK060016,Drunken Venus,TBD,60016,3
+118,60017,skill_SK060017,Chigi Daegichek,TBD,60017,3
+119,60018,skill_SK060018,Spin Scratch,TBD,60018,3
+120,60019,skill_SK060019,Maxter Wrapping,TBD,60019,3
+121,60020,skill_SK060020,Funky Boogie,"Shines brighter as the dance goes on, and at its peak attacks with a burst of fierce light.",60020,3
+122,60021,skill_SK060021,Zigzag Rack,TBD,60021,3
+123,60022,skill_SK060022,Magnetic Wave,TBD,60022,3
+124,60023,skill_SK060023,Breath of Heaven,TBD,60023,3
+125,60024,skill_SK060024,Divine Voice,A ballroom dance of the heavens. Bewilders the enemy with fierce movement.,60024,3
+126,60025,skill_SK060025,Inferno,TBD,60025,3
+127,60026,skill_SK060026,Flame Lord,TBD,60026,3
+128,60027,skill_SK060027,Utanka Rhythm,Summons the mysterious demon Utanka with a dance of cursing.,60027,3
+129,60028,skill_SK060028,Carnival Fever,Summons the finest skeleton dancers of the underworld and puts on a spectacular show.,60028,3
+130,60029,skill_SK060029,Flowber,A dance that dazes the enemy with languid movement and a slow rhythm.,60029,3
+131,60030,skill_SK060030,Fantasia,A curious dance: dance it happily and the enemies around you disappear.,60030,3
+132,60031,skill_SK060031,Serenade of Noise,"A pop dance, and the stage explodes!",60031,3
+133,60032,skill_SK060032,Morning Song,Dances a spinning ballet that steals the enemy's heart.,60032,3
+134,60033,skill_SK060033,Serpent Kiss,Sets a vicious but very cute pink snake on the enemy.,60033,3
+135,60034,skill_SK060034,Rising Darkness,TBD,60034,3
+136,80001,skill_SK080001,Aqua Drop,Summons a water spirit to attack the enemy.,80001,4
+137,80002,skill_SK080002,Fire Drop,Summons a flame spirit to devour the enemy.,80002,4
+138,80003,skill_SK080003,Snake Chain,Summons a serpent spirit to fall upon the enemy.,80003,4
+139,80004,skill_SK080004,Requiem Buster,Summons a messenger of the underworld to drag the enemy down to hell.,80004,4
+140,80005,skill_SK080005,Holy Spirit,TBD,80005,4
+141,80006,skill_SK080006,Cry of the Tree Spirit,Summons a forest spirit to sing across seven octaves.,80006,4
+142,80007,skill_SK080007,Bat Arrow,Shreds the enemy's nerves with cursed ultrasound.,80007,4
+143,80008,skill_SK080008,Lifesaver,TBD,80008,4
+144,80009,skill_SK080009,Carpet Bombing,Every missile away! A devastating attack that turns the area into a sea of fire.,80009,4
+145,80010,skill_SK080010,Flame of the Abyss,Pays with your own life force to erupt the cold flame of the dark world onto the surface.,80010,4
+146,80011,skill_SK080011,Yaksha Summoning,Summons a yaksha to batter the enemy with furious blows.,80011,4
+147,80012,skill_SK080012,Ice Wave,TBD,80012,4
+148,80013,skill_SK080013,Useful English Words,TBD,80013,4
+149,80014,skill_SK080014,Valkyrie Spear,Summons the warrior maiden Valkyrie to attack with a spear that never misses.,80014,4
+150,80015,skill_SK080015,Summon Seraphim,Summons small spirits to attack at a speed the eye cannot follow.,80015,4
+151,80016,skill_SK080016,Battle Winner,TBD,80016,4
+152,80017,skill_SK080017,Twinkle Gem,Forms a huge crystal out of the molecules in the air and drops it on the enemy's head.,80017,4
+153,80018,skill_SK080018,Blue Hope Knight,TBD,80018,4
+154,80019,skill_SK080019,Wings of the Wilderness,Summons a great bird spirit to attack the enemy.,80019,4
+155,80020,skill_SK080020,Apache Stab,TBD,80020,4
+156,80021,skill_SK080021,Detonation,TBD,80021,4
+157,80022,skill_SK080022,Desperado,TBD,80022,4
+158,80023,skill_SK080023,Incubus,TBD,80023,4
+159,80024,skill_SK080024,Eternal Dream,TBD,80024,4
+160,80025,skill_SK080025,Great Hell Shuriken,Hurls an enormous shuriken that carves the enemy up.,80025,4
+161,80026,skill_SK080026,Complete the Ornament,TBD,80026,4
+162,80027,skill_SK080027,Exorcism,Summons the blade of an underworld official to pass judgement on the enemy.,80027,4
+163,80028,skill_SK080028,Turtleneck,TBD,80028,4
+164,80029,skill_SK080029,Endless Nightmare,Burns the enemy away in a magic circle of hellfire that consumes everything.,80029,4
+165,80030,skill_SK080030,Throwing Turtle,Attacks by hurling a hard turtle shell.,80030,4
+166,80031,skill_SK080031,Feather Breath,TBD,80031,4
