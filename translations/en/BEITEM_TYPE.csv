@@ -15,29 +15,29 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 13,110006,blade_A0006,Wooden Sword,"A must-have item for delinquent mode. Along with the nail bat, it is known as one of the two great weapons of delinquents. Its intimidating appearance is more effective than its practicality.",2,4,8,2,1,0,0,0,104,20008,0,1,522222
 14,110007,blade_A0007,Spiked Bat,"Together with the wooden sword, it is considered one of the two great weapons of delinquents and is a must-have in delinquent mode. Its vicious shape is so intimidating that even the person using it sometimes gets scared.",2,4,8,2,1,0,0,0,101,20009,0,1,522222
 15,110008,blade_A0008,Fly Pang☆,A very large frying pan. There is a rumor that it was originally made to cook ostrich eggs.,2,4,8,2,1,0,0,0,101,20030,0,1,522222
-16,110009,blade_A0009,Evening Star,"A weapon rumored to become strongest in the evening. However, when you actually try using it, the rumor doesn’t seem very believable.",2,4,8,2,1,0,0,0,101,20011,0,1,522222
+16,110009,blade_A0009,Evening Star,"A weapon rumored to become strongest in the evening. However, when you actually try using it, the rumor doesn't seem very believable.",2,4,8,2,1,0,0,0,101,20011,0,1,522222
 17,110010,blade_A0010,Kitchen Knife,"Used for peeling apples and preparing sashimi. Some say it was made as a weapon for cooking monsters, but so far no monster dishes have ever appeared.",2,4,8,2,1,0,0,0,0,0,0,1,522222
 18,110011,blade_A0011,Sonic Blade,A blade equipped with a rapidly spinning edge that operates on the same principle as a chainsaw.,2,4,8,2,1,0,0,0,104,20015,0,1,522222
-19,119002,blade_A0011,Tonic Blade,"A fake Sonic Blade. It’s said that a bold bartender once used it to mix cocktails. Because its output is weak, even first-year students can handle it.",2,4,8,2,1,0,0,0,104,20015,0,1,522222
+19,119002,blade_A0011,Tonic Blade,"A fake Sonic Blade. It's said that a bold bartender once used it to mix cocktails. Because its output is weak, even first-year students can handle it.",2,4,8,2,1,0,0,0,104,20015,0,1,522222
 20,110012,blade_A0012,Magical Stomper,"It looks like a toy, but it actually boasts considerable power. An opponent who gets hit while letting their guard down will be surprised by the damage!",2,4,8,2,1,0,0,0,101,20032,0,1,522222
-21,119022,blade_A0012,Hitōban Hammer,"A weapon that has captured the yokai known as “Hitōban,” which is human during the day but whose head flies away from its body at night. Be careful that it doesn’t fly off when using its skill!",2,4,8,2,1,0,0,0,101,20032,0,1,522222
+21,119022,blade_A0012,Hitōban Hammer,"A weapon that has captured the yokai known as “Hitōban,” which is human during the day but whose head flies away from its body at night. Be careful that it doesn't fly off when using its skill!",2,4,8,2,1,0,0,0,101,20032,0,1,522222
 22,110013,blade_A0013,Juggernaut Hammer,"A crude, brutally heavy hammer. It looks so intimidating that you feel like you might take damage just by looking at it. You should absolutely avoid dueling someone wielding this weapon.",2,4,8,2,1,0,0,0,102,20018,0,1,522222
-23,119004,blade_A0013,Trial Hammer,"It looks almost identical to the Juggernaut Hammer, but because it’s made from a lighter metal than the real one, even second-year students can handle it.",2,4,8,2,1,0,0,0,102,20018,0,1,522222
-24,110014,blade_A0014,Assassin’s Thunder,"A weapon favored by assassins. Electricity flows through the entire blade except for the rubber part of the handle, and simply touching it can cause fatal damage.",2,4,8,2,1,0,0,0,0,0,0,1,522222
-25,110015,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it’s swung is really cool.,2,4,8,2,1,0,0,0,104,20021,0,1,522222
-26,119011,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it’s swung is really cool.,2,4,8,2,1,0,0,0,104,20021,0,1,522222
+23,119004,blade_A0013,Trial Hammer,"It looks almost identical to the Juggernaut Hammer, but because it's made from a lighter metal than the real one, even second-year students can handle it.",2,4,8,2,1,0,0,0,102,20018,0,1,522222
+24,110014,blade_A0014,Assassin's Thunder,"A weapon favored by assassins. Electricity flows through the entire blade except for the rubber part of the handle, and simply touching it can cause fatal damage.",2,4,8,2,1,0,0,0,0,0,0,1,522222
+25,110015,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it's swung is really cool.,2,4,8,2,1,0,0,0,104,20021,0,1,522222
+26,119011,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it's swung is really cool.,2,4,8,2,1,0,0,0,104,20021,0,1,522222
 27,110016,blade_A0016,Katana,"A traditional blade from ancient Japan and a symbol of the samurai. Its edge is extremely sharp, so it must be handled with care.",2,4,8,2,1,0,0,0,104,20023,0,1,522222
 28,110017,blade_A0017,Asura Blade,"A blade said to have a demon god sealed within it. Only those with courage greater than that of the demon god itself can wield it. If mastered, its power is said to be truly terrifying…",2,4,8,2,1,0,0,0,0,0,0,1,522222
 29,110018,blade_A0018,Vice-Principal Slayer,A legendary blade that has been secretly passed down only among sixth-year students. It is said that whoever wields this blade gains the power to defeat even the vice-principal.,2,4,8,2,1,0,0,0,102,20036,0,1,522222
 30,110019,blade_A0019,Screwdriver,A Phillips screwdriver shaped like a screw.,2,4,8,2,1,0,0,0,104,20016,0,1,522222
-31,119003,blade_A0019,Paper Driver,"A screwdriver made out of papercraft. Naturally, it’s weaker than the real thing. If you keep going without any accidents, it might even turn gold?",2,4,8,2,1,0,0,0,104,20016,0,1,522222
-32,119010,blade_A0019,Paper Driver,"A screwdriver made out of papercraft. Naturally, it’s weaker than the real thing. If you keep going without any accidents, it might even turn gold?",2,4,8,2,1,0,0,0,104,20016,0,1,522222
+31,119003,blade_A0019,Paper Driver,"A screwdriver made out of papercraft. Naturally, it's weaker than the real thing. If you keep going without any accidents, it might even turn gold?",2,4,8,2,1,0,0,0,104,20016,0,1,522222
+32,119010,blade_A0019,Paper Driver,"A screwdriver made out of papercraft. Naturally, it's weaker than the real thing. If you keep going without any accidents, it might even turn gold?",2,4,8,2,1,0,0,0,104,20016,0,1,522222
 33,110020,blade_A0020,Vermilion Edge,A blade with a crimson gemstone set in the guard. It is said to become stronger when the gem emits light.,2,4,8,2,1,0,0,0,102,20034,0,1,522222
 34,110021,blade_A0021,Bringer,A blade shaped like a large scythe.,2,4,8,2,1,0,0,0,102,20028,0,1,522222
 35,119005,blade_A0021,Pringer,"A fake version of the Bringer. Even third-year students can equip it, but its attack power is low. Surprisingly, it might be useful as a whisk when making sweets.",2,4,8,2,1,0,0,0,102,20028,0,1,522222
 36,119021,blade_A0021,Kamaitachi,"A blade transformed from the yokai known as “Kamaitachi.” It is said that among the Kamaitachi, the first one knocks a person down, the second one cuts them, and the third one heals the wound.",2,4,8,2,1,0,0,0,102,20028,0,1,522222
 37,110022,blade_A0022,Seaweed,A blade made from golden powder said to be used by sea fairies.,2,4,8,2,1,0,0,0,102,20029,0,1,522222
-38,110023,blade_A0023,Light Breaker,"A blade made using a fluorescent light tube as its base. It has been reinforced so that it won’t break easily, allowing you to fight without worry.",2,4,8,2,1,0,0,0,102,20033,0,1,522222
+38,110023,blade_A0023,Light Breaker,"A blade made using a fluorescent light tube as its base. It has been reinforced so that it won't break easily, allowing you to fight without worry.",2,4,8,2,1,0,0,0,102,20033,0,1,522222
 39,110024,blade_A0024,Stinger Blaze,A blade based on the Stinger that has been improved to achieve higher performance.,2,4,8,2,1,0,0,0,102,20035,0,1,522222
 40,911001,blade_A1001,Anna Stinger,Slot 1,2,4,8,2,1,1,0,0,102,20001,10,1,11005
 41,911002,blade_A1001,Anna Stinger,Slot 2,2,4,8,2,1,2,0,0,102,20001,20,2,11005
@@ -59,7 +59,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 57,111006,blade_A1006,Red Sandalwood Bokken,"A wooden sword made from red sandalwood, a material long said to be legendary. It has a presence and dignity unlike an ordinary wooden sword, making it a must-have if you want to call yourself a true boss!",2,4,8,2,1,0,0,0,104,20008,0,1,522222
 58,119007,blade_A1006,실전 목도 YT,불량 모드의 필수품. 못박힌 배트와 함께 2대 불량 무기라 불리운다. 일반 목도보다는 실전용이라 할 수 있다.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,2,4,8,2,1,0,0,0,104,20008,0,1,522222
 59,119012,blade_A1006,Red Sandalwood Bokken,"A wooden sword made from red sandalwood, a material long said to be legendary. It has a presence and dignity unlike an ordinary wooden sword, making it a must-have if you want to call yourself a true boss!",2,4,8,2,1,0,0,0,104,20008,0,1,522222
-60,119018,blade_A1006,Jinmenju Bokken,"A wooden sword made from the yokai known as the “Jinmenju” (Human-Faced Tree). It is cursed, and it is said that if you continue using it, the owner will eventually turn into a Jinmenju as well. If that doesn’t bother you, enjoy its overwhelming cursed power.",2,4,8,2,1,0,0,0,104,20008,0,1,522222
+60,119018,blade_A1006,Jinmenju Bokken,"A wooden sword made from the yokai known as the “Jinmenju” (Human-Faced Tree). It is cursed, and it is said that if you continue using it, the owner will eventually turn into a Jinmenju as well. If that doesn't bother you, enjoy its overwhelming cursed power.",2,4,8,2,1,0,0,0,104,20008,0,1,522222
 61,111011,blade_A1011,Foreman Sonic Blade,"A cutting machine that enjoys tremendous support from workers at lumberyards and construction sites. As a weapon, it boasts power comparable to a standard Sonic Blade.",2,4,8,2,1,0,0,0,104,20015,0,1,522222
 62,119015,blade_A1011,Foreman Sonic Blade,"A cutting machine that enjoys tremendous support from workers at lumberyards and construction sites. As a weapon, it boasts power comparable to a standard Sonic Blade.",2,4,8,2,1,0,0,0,104,20015,0,1,522222
 63,111013,blade_A1013,Gigantic Hammer,"A weapon created to duel against someone wielding the Juggernaut Hammer. From the day you take up this weapon, you are destined to fight the wielder of the Juggernaut Hammer.",2,4,8,2,1,0,0,0,102,20018,0,1,522222
@@ -77,17 +77,17 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 75,129009,glorb_A0002,Spirit of Righteousness,A pair of gloves whose gauntlet lenses glow blue. They allow the user to unleash a special move that fires shining blasts of energy.,3,4,8,1,2,0,0,0,302,40030,0,1,522222
 76,120003,glorb_A0003,The Ringo Fist,"A pair of gloves covered in patches from being repaired many times. They embody a hungry, never-give-up spirit.",3,4,8,1,2,0,0,0,302,40003,0,1,522222
 77,120004,glorb_A0004,Green Bamboo Claws,A pair of gloves that have the look and feel of green bamboo.,3,4,8,1,2,0,0,0,0,40003,0,1,522222
-78,120005,glorb_A0005,Rainbow Fist,"It came to be called the Rainbow Fist because every time a technique is unleashed, it leaves behind a rainbow-colored trail. Since a rainbow appears whenever its special move is used, it’s often used during school festivals.",3,4,8,1,2,0,0,0,302,40006,0,1,522222
+78,120005,glorb_A0005,Rainbow Fist,"It came to be called the Rainbow Fist because every time a technique is unleashed, it leaves behind a rainbow-colored trail. Since a rainbow appears whenever its special move is used, it's often used during school festivals.",3,4,8,1,2,0,0,0,302,40006,0,1,522222
 79,129004,glorb_A0005,Rainbo Fist,"A fake version of the Rainbow Fist. It breaks easily with use, but because its power is weaker, even lower-year students can use it.",3,4,8,1,2,0,0,0,302,40006,0,1,522222
 80,120006,glorb_A0006,Maxima Gauntlet,"A very heavy pair of gloves, but if mastered, they can unleash tremendous power.",3,4,8,1,2,0,0,0,304,40032,0,1,522222
-81,120007,glorb_A0007,Gambler’s Hand,"A pair of gloves with an Ace of Spades engraved on the back of the hand. When its special move is used, playing cards appear.",3,4,8,1,2,0,0,0,301,40009,0,1,522222
+81,120007,glorb_A0007,Gambler's Hand,"A pair of gloves with an Ace of Spades engraved on the back of the hand. When its special move is used, playing cards appear.",3,4,8,1,2,0,0,0,301,40009,0,1,522222
 82,120008,glorb_A0008,Battle Claw,"A pair of gloves said to have been used mainly in large-scale battles in ancient times. They have since been modified for hunting monsters, but their overwhelming and intimidating presence remains unchanged.",3,4,8,1,2,0,0,0,303,40010,0,1,522222
 83,129006,glorb_A0008,Event Battle Claw,"A pair of gloves said to have been used mainly in large-scale battles in ancient times. They have since been modified for hunting monsters, but their overwhelming and intimidating presence remains unchanged.",3,5,8,1,2,0,0,0,303,40010,0,1,522222
-84,120009,glorb_A0009,Axis of Heaven and Earth,"It’s hard to understand the mindset of anyone who would use gloves with such a bizarre design. However, every student who has used these gloves can’t stop praising them.",3,4,8,1,2,0,0,0,302,40011,0,1,522222
-85,120010,glorb_A0010,Blade Hand,"This weapon is closer to a blade than a glove. When worn on both arms, it feels as if you’re fighting with two swords. It’s well suited for quick, rapid attacks.",3,4,8,1,2,0,0,0,303,40012,0,1,522222
+84,120009,glorb_A0009,Axis of Heaven and Earth,"It's hard to understand the mindset of anyone who would use gloves with such a bizarre design. However, every student who has used these gloves can't stop praising them.",3,4,8,1,2,0,0,0,302,40011,0,1,522222
+85,120010,glorb_A0010,Blade Hand,"This weapon is closer to a blade than a glove. When worn on both arms, it feels as if you're fighting with two swords. It's well suited for quick, rapid attacks.",3,4,8,1,2,0,0,0,303,40012,0,1,522222
 86,120011,glorb_A0011,Biting Claws,A pair of gloves designed to look like a monster with its mouth open. The sharp horns growing from the fingertips show just how powerful this weapon is.,3,4,8,1,2,0,0,0,303,40013,0,1,522222
-87,129022,glorb_A0011,Oni Bite Claws,"A pair of gloves transformed by the yokai known as an “Oni” in order to attack its user. If you keep fighting and satisfy the oni’s hunger, you can avoid being eaten. The phrase “oni hitokuchi” (an oni’s single bite) is used to describe the ferocity with which an oni devours something in one mouthful.",3,4,8,1,2,0,0,0,303,40013,0,1,522222
-88,120012,glorb_A0012,Gigantic Gauntlets,"The heaviest pair of gloves. This weapon is a modified version of gloves said to have been used by an ancient race of giants, adapted for student use. They are difficult to handle, but once you get used to them, there’s nothing left to fear.",0,4,0,0,0,0,0,0,0,0,0,1,522222
+87,129022,glorb_A0011,Oni Bite Claws,"A pair of gloves transformed by the yokai known as an “Oni” in order to attack its user. If you keep fighting and satisfy the oni's hunger, you can avoid being eaten. The phrase “oni hitokuchi” (an oni's single bite) is used to describe the ferocity with which an oni devours something in one mouthful.",3,4,8,1,2,0,0,0,303,40013,0,1,522222
+88,120012,glorb_A0012,Gigantic Gauntlets,"The heaviest pair of gloves. This weapon is a modified version of gloves said to have been used by an ancient race of giants, adapted for student use. They are difficult to handle, but once you get used to them, there's nothing left to fear.",0,4,0,0,0,0,0,0,0,0,0,1,522222
 89,120013,glorb_A0013,Phoenix Knuckles,A pair of gloves said to be made from the feathers of a phoenix.,3,4,8,1,2,0,0,0,302,40016,0,1,522222
 90,129011,glorb_A0013,Phoenix Knuckles,A pair of gloves said to be made from the feathers of a phoenix.,3,4,8,1,2,0,0,0,302,40016,0,1,522222
 91,120014,glorb_A0014,Gordian Cutter,"The fastest weapon available. However, because it focuses so much on speed, its power is not very high.",3,4,8,1,2,0,0,0,302,40018,0,1,522222
@@ -99,10 +99,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 97,120018,glorb_A0018,Ultimate Gauntlets,"As the name suggests, the ultimate pair of gloves. It is said that the gloves themselves choose their wielder.",3,4,8,1,2,0,0,0,304,40034,0,1,522222
 98,120019,glorb_A0019,Phenomenal Gauntlets,"These gloves, equipped with a gauge panel on the back of the hand, were created for exploration purposes.",3,4,8,1,2,0,0,0,301,40014,0,1,522222
 99,120020,glorb_A0020,Dual Gauntlets,"With an appearance like having large bowling balls fitted over the hands, they look overwhelmingly powerful at a glance.",0,4,0,0,0,0,0,0,0,0,0,1,522222
-100,120021,glorb_A0021,Joe’s Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
+100,120021,glorb_A0021,Joe's Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
 101,129003,glorb_A0021,Training Bandages,Hand wraps under 2.5 m in length. Protect your fists well and train hard. Can be worn even by first-year students.,3,4,8,1,2,0,0,0,301,40028,0,1,522222
-102,129010,glorb_A0021,Joe’s Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
-103,129019,glorb_A0021,Ittan-Momen Bandages,"Bandages made from an Ittan-Momen, a cloth yokai and type of tsukumogami. One ‘tan’ measures about 11 meters, making them much longer than ordinary bandages and suited for advanced students.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
+102,129010,glorb_A0021,Joe's Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
+103,129019,glorb_A0021,Ittan-Momen Bandages,"Bandages made from an Ittan-Momen, a cloth yokai and type of tsukumogami. One 'tan' measures about 11 meters, making them much longer than ordinary bandages and suited for advanced students.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
 104,120022,glorb_A0022,Riot Gauntlets,"Gauntlets that convert negative emotions like anger and sadness into strength. After battle, the wearer is said to feel strangely refreshed.",3,4,8,1,2,0,0,0,304,40031,0,1,522222
 105,121001,glorb_A1001,Unwarned is Unarmed,"An early prototype of “Forewarned is Forearmed.” Due to staff negligence it was released with defects and later recalled, earning the sarcastic nickname “Unwarned is Unarmed.”",3,4,8,1,2,0,0,0,302,40001,0,1,522222
 106,129007,glorb_A1001,무비유환 글로브 YT,단단한 금속 재질의 글로브.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,3,4,8,1,2,0,0,0,302,40001,0,1,522222
@@ -115,14 +115,14 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 113,121005,glorb_A1005,Violet Fist,"An improved version of the Rainbow Fist. The violet color in the rainbow trail that appears whenever a technique is unleashed is said to shine even more beautifully now. For some reason, its users often seem to be quite well-tanned.",3,4,8,1,2,0,0,0,302,40006,0,1,522222
 114,129017,glorb_A1005,Violet Fist,"An improved version of the Rainbow Fist. The violet color in the rainbow trail that appears whenever a technique is unleashed is said to shine even more beautifully now. For some reason, its users often seem to be quite well-tanned.",3,4,8,1,2,0,0,0,302,40006,0,1,522222
 115,129020,glorb_A1005,Yatagarasu,"A pair of gloves made using the wings of the three-legged yokai “Yatagarasu,” said to be a messenger of the gods. Because it flaps its wings to point out the correct path, even people with a poor sense of direction can use it with confidence.",3,4,8,1,2,0,0,0,302,40006,0,1,522222
-116,121007,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card—each with a 50% chance—when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,0,0,0,301,40009,0,1,522222
-117,129014,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card—each with a 50% chance—when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,0,0,0,301,40009,0,1,522222
+116,121007,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card - each with a 50% chance - when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,0,0,0,301,40009,0,1,522222
+117,129014,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card - each with a 50% chance - when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,0,0,0,301,40009,0,1,522222
 118,921001,glorb_A1009,Innocent Radiance,Slot 1,3,4,8,1,2,1,0,0,302,40011,10,1,21005
 119,921002,glorb_A1009,Innocent Radiance,Slot 2,3,4,8,1,2,2,0,0,302,40011,20,2,21005
 120,921003,glorb_A1009,Innocent Radiance,Slot 3,3,4,8,1,2,3,0,0,302,40011,30,3,21005
 121,921004,glorb_A1009,Innocent Radiance,Slot 4,3,4,8,1,2,4,0,0,302,40011,40,4,21005
 122,921005,glorb_A1009,Innocent Radiance,Slot 5,3,4,8,1,2,5,0,0,302,40011,50,5,21005
-123,121009,glorb_A1009,Innocent Radiance,"A pair of gloves with a design that surpasses art by a hair’s breadth. Once you get used to them, they’re said to be surprisingly cute. Rumor has it the design comes from drawings made on a whim by either a child or a chimpanzee.",3,4,8,1,2,0,0,0,302,40011,0,1,522222
+123,121009,glorb_A1009,Innocent Radiance,"A pair of gloves with a design that surpasses art by a hair's breadth. Once you get used to them, they're said to be surprisingly cute. Rumor has it the design comes from drawings made on a whim by either a child or a chimpanzee.",3,4,8,1,2,0,0,0,302,40011,0,1,522222
 124,129021,glorb_A1009,One Hundred Yokai Scenes,"A pair of gloves that began to emit a supernatural aura after being colored by a yokai painter. If you stare at them long enough, a 3D image of one hundred yokai appears to emerge. Taking a 15-minute break every hour is recommended?",3,4,8,1,2,0,0,0,302,40011,0,1,522222
 125,121013,glorb_A1013,Heavenly Phoenix,A pair of gloves said to be made from the feathers left behind by a phoenix that repeated death and rebirth a thousand times before finally ascending to the heavens.,3,4,8,1,2,0,0,0,302,40016,0,1,522222
 126,121014,glorb_A1014,Supernatural Might,"It is spoken of alongside the saying, “Technique is Kaitō Ranma, strength is Kairiki Ranshin.” Though this weapon was created by an evil organization as an imitation of “Kaitō Ranma,” it is said that if wielded by someone with a pure, righteous, and strong heart, it will reveal its true power.",3,4,8,1,2,0,0,0,302,40018,0,1,522222
@@ -130,12 +130,12 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 128,129015,glorb_A1015,Venom Knuckles,"A pair of gloves made from snake skin and finished by coating the surface with a specially prepared snake venom. Anyone struck by them falls into a severe state of poisoning and continues to suffer. If worn for too long, even the user may begin to…",3,4,8,1,2,0,0,0,301,40021,0,1,522222
 129,121019,glorb_A1019,Phenometer Proto,"A prototype of the Phenometer Gear developed for exploration. It has functions not found in the mass-produced Phenometer Gear, but its combat performance has already been fully perfected.",3,4,8,1,2,0,0,0,301,40014,0,1,522222
 130,129016,glorb_A1019,Phenometer Proto,"A prototype of the Phenometer Gear developed for exploration. It has functions not found in the mass-produced Phenometer Gear, but its combat performance has already been fully perfected.",3,4,8,1,2,0,0,0,301,40014,0,1,522222
-131,920001,glorb_A1021,Joe’s Blood & Tears Bandages,Slot 1,3,4,8,1,2,1,0,0,301,40028,10,1,20005
-132,920002,glorb_A1021,Joe’s Blood & Tears Bandages,Slot 2,3,4,8,1,2,2,0,0,301,40028,20,2,20005
-133,920003,glorb_A1021,Joe’s Blood & Tears Bandages,Slot 3,3,4,8,1,2,3,0,0,301,40028,30,3,20005
-134,920004,glorb_A1021,Joe’s Blood & Tears Bandages,Slot 4,3,4,8,1,2,4,0,0,301,40028,40,4,20005
-135,920005,glorb_A1021,Joe’s Blood & Tears Bandages,Slot 5,3,4,8,1,2,5,0,0,301,40028,50,5,20005
-136,121021,glorb_A1021,Joe’s Blood & Tears Bandages,"A worn set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists. They are soaked with Joe’s blood, sweat, and tears.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
+131,920001,glorb_A1021,Joe's Blood & Tears Bandages,Slot 1,3,4,8,1,2,1,0,0,301,40028,10,1,20005
+132,920002,glorb_A1021,Joe's Blood & Tears Bandages,Slot 2,3,4,8,1,2,2,0,0,301,40028,20,2,20005
+133,920003,glorb_A1021,Joe's Blood & Tears Bandages,Slot 3,3,4,8,1,2,3,0,0,301,40028,30,3,20005
+134,920004,glorb_A1021,Joe's Blood & Tears Bandages,Slot 4,3,4,8,1,2,4,0,0,301,40028,40,4,20005
+135,920005,glorb_A1021,Joe's Blood & Tears Bandages,Slot 5,3,4,8,1,2,5,0,0,301,40028,50,5,20005
+136,121021,glorb_A1021,Joe's Blood & Tears Bandages,"A worn set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists. They are soaked with Joe's blood, sweat, and tears.",3,4,8,1,2,0,0,0,301,40028,0,1,522222
 137,130001,mura_A0001,Drone,A Mura shaped like a brass instrument.,4,4,1,2,3,0,0,0,501,60001,0,1,522222
 138,130002,mura_A0002,Shaman Bongo,"It has a shape where the outer side is enlarged, with sharp feathers protruding outward.",4,4,1,2,3,0,0,0,505,60003,0,1,522222
 139,139002,mura_A0002,German Bongo,"An obvious imitation of the Shaman Bongo, but since even first-year students can equip it, it turns out to be surprisingly useful for a fake.",4,4,1,2,3,0,0,0,505,60003,0,1,522222
@@ -156,23 +156,23 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 154,931003,mura_A0010,Buzzanova,Slot 3,4,4,1,2,3,3,0,0,502,60012,30,3,31005
 155,931004,mura_A0010,Buzzanova,Slot 4,4,4,1,2,3,4,0,0,502,60012,40,4,31005
 156,931005,mura_A0010,Buzzanova,Slot 5,4,4,1,2,3,5,0,0,502,60012,50,5,31005
-157,130010,mura_A0010,Buzzanova,"A Mura whose lively and cheerful movements stand out more than its sound. Each time the wearer shakes their head, its flashy appearance captures everyone’s attention.",4,4,1,2,3,0,0,0,502,60012,0,1,522222
-158,130011,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one’s spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,0,0,0,501,60013,0,1,522222
+157,130010,mura_A0010,Buzzanova,"A Mura whose lively and cheerful movements stand out more than its sound. Each time the wearer shakes their head, its flashy appearance captures everyone's attention.",4,4,1,2,3,0,0,0,502,60012,0,1,522222
+158,130011,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one's spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,0,0,0,501,60013,0,1,522222
 159,139001,mura_A0011,Bass Clarinet,A clarinet that specializes in low tones. Only students in their fourth year or above can equip it.,4,4,1,2,3,0,0,0,501,60013,0,1,522222
-160,139009,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one’s spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,0,0,0,501,60013,0,1,522222
+160,139009,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one's spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,0,0,0,501,60013,0,1,522222
 161,932001,mura_A0012,Ugi Ugi,Slot 1,4,4,1,2,3,1,0,0,506,60020,10,1,30005
 162,932002,mura_A0012,Ugi Ugi,Slot 2,4,4,1,2,3,2,0,0,506,60020,20,2,30005
 163,932003,mura_A0012,Ugi Ugi,Slot 3,4,4,1,2,3,3,0,0,506,60020,30,3,30005
 164,932004,mura_A0012,Ugi Ugi,Slot 4,4,4,1,2,3,4,0,0,506,60020,40,4,30005
 165,932005,mura_A0012,Ugi Ugi,Slot 5,4,4,1,2,3,5,0,0,506,60020,50,5,30005
-166,130012,mura_A0012,Ugi Ugi,"A Mura said to have been made and used for performances by a once-famous musician. It’s said to represent the musician himself, though it’s unclear whether that refers to his musical sense… or his face.",4,4,1,2,3,0,0,0,506,60020,0,1,522222
-167,130013,mura_A0013,Scratch Mixer,"At first listen, it sends a chill down your spine, but if you keep listening, before you know it you’re completely hooked.",0,4,0,0,0,0,0,0,0,0,0,1,522222
+166,130012,mura_A0012,Ugi Ugi,"A Mura said to have been made and used for performances by a once-famous musician. It's said to represent the musician himself, though it's unclear whether that refers to his musical sense… or his face.",4,4,1,2,3,0,0,0,506,60020,0,1,522222
+167,130013,mura_A0013,Scratch Mixer,"At first listen, it sends a chill down your spine, but if you keep listening, before you know it you're completely hooked.",0,4,0,0,0,0,0,0,0,0,0,1,522222
 168,130014,mura_A0014,MC MacStar,"A mass-produced version of the Mura used by the legendary MC, MC MacStar. It lets people indulge in nostalgia for MC MacStar, and has been met with an explosive reaction from the public.",0,4,0,0,0,0,0,0,0,0,0,1,522222
 169,130015,mura_A0015,Zigzag Tap,"Because this single Mura can produce a wide variety of tones, it is favored by students who aspire to avant-garde art.",0,4,0,0,0,0,0,0,0,0,0,1,522222
-170,130016,mura_A0016,Magnedio,"When surrounded by students wearing this Mura, with antennas sprouting from all over it, you start to feel as if you’ve wandered onto another planet. Just like its unusual shape, the way it’s used is equally unique.",0,4,0,0,0,0,0,0,0,0,0,1,522222
+170,130016,mura_A0016,Magnedio,"When surrounded by students wearing this Mura, with antennas sprouting from all over it, you start to feel as if you've wandered onto another planet. Just like its unusual shape, the way it's used is equally unique.",0,4,0,0,0,0,0,0,0,0,0,1,522222
 171,130017,mura_A0017,Angelic Voice,A wing-shaped Mura said to have been left behind by an angel who returned to the heavens. Intended for upper-grade students.,4,4,1,2,3,0,0,0,501,60024,0,1,522222
-172,130018,mura_A0018,Metal Baroque,A Mura designed for combat rather than for dancing or music. Anyone who sees this gleaming metallic Mura can’t help but feel a sense of fear.,0,4,0,0,0,0,0,0,0,0,0,1,522222
-173,130019,mura_A0019,Tam-Tam Scarf,"This Mura is perfect for cold weather, and in winter it’s often used as a fashion item as well.",4,4,1,2,3,0,0,0,505,60014,0,1,522222
+172,130018,mura_A0018,Metal Baroque,A Mura designed for combat rather than for dancing or music. Anyone who sees this gleaming metallic Mura can't help but feel a sense of fear.,0,4,0,0,0,0,0,0,0,0,0,1,522222
+173,130019,mura_A0019,Tam-Tam Scarf,"This Mura is perfect for cold weather, and in winter it's often used as a fashion item as well.",4,4,1,2,3,0,0,0,505,60014,0,1,522222
 174,139005,mura_A0019,Trial Scarf,A sample version of the Tam-Tam Scarf. Can be equipped by students in their third year or higher.,4,4,1,2,3,0,0,0,505,60014,0,1,522222
 175,130020,mura_A0020,Doburock,"A Mura whose power everyone acknowledges. However, continued use might lead to alcohol poisoning, so be careful. Remember: alcohol is for those 20 and older!",4,4,1,2,3,0,0,0,506,60015,0,1,522222
 176,139022,mura_A0020,Tsuina: Demon-Poison Sake,"A powerful sacred sake that became the key to defeating the yokai Shuten Doji. Poison to demons and medicine to humans. Even if it makes you stronger the more drunk you get, alcohol is only for those 20 and older.",4,4,1,2,3,0,0,0,506,60015,0,1,522222
@@ -181,11 +181,11 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 179,139011,mura_A0022,Tabukai,An earring shaped like a skull.,4,4,1,2,3,0,0,0,505,60028,0,1,522222
 180,130023,mura_A0023,Pink Serpent,A Mura shaped like a cute pink snake.,4,4,1,2,3,0,0,0,503,60033,0,1,522222
 181,130024,mura_A0024,블랙 카마엘,"거대한 날개 장식이 섹시한 느낌을 풍기는, 성인 취향의 뮤라.",4,4,1,2,3,0,0,0,503,60034,0,1,522222
-182,130025,mura_A0025,Drone Anna,"To commemorate Anna taking first place in the 2006 ‘Spring General Election!’<br>this original Mura was created based on a drone. Its name was also chosen through a public contest, making it a symbol of the friendship between Anna and everyone!",4,4,1,2,3,0,0,0,501,60001,0,1,522222
+182,130025,mura_A0025,Drone Anna,"To commemorate Anna taking first place in the 2006 'Spring General Election!'<br>this original Mura was created based on a drone. Its name was also chosen through a public contest, making it a symbol of the friendship between Anna and everyone!",4,4,1,2,3,0,0,0,501,60001,0,1,522222
 183,131001,mura_A1001,Classic Drone,"An early model drone. Unlike the modern drones that have been refined over time, it has a distinct charm and a sense of history.",4,4,1,2,3,0,0,0,501,60001,0,1,522222
 184,139008,mura_A1001,브로운 YT,금관 악기 형상의 뮤라.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,4,4,1,2,3,0,0,0,501,60001,0,1,522222
 185,139013,mura_A1001,Classic Drone,"An early model drone. Unlike the modern drones that have been refined over time, it has a distinct charm and a sense of history.",4,4,1,2,3,0,0,0,501,60001,0,1,522222
-186,139018,mura_A1001,Classic Drone WAM,An instrument of a certain composer said to lurk in the music room. Those who use it gain the composer’s power and improved memory. It might come in very handy during tests.,4,4,1,2,3,0,0,0,501,60001,0,1,522222
+186,139018,mura_A1001,Classic Drone WAM,An instrument of a certain composer said to lurk in the music room. Those who use it gain the composer's power and improved memory. It might come in very handy during tests.,4,4,1,2,3,0,0,0,501,60001,0,1,522222
 187,131002,mura_A1002,Mystic Bongo,"A specially crafted shaman bongo passed down through generations. Used only during secret rituals closed to outsiders, it holds great folkloric value.",4,4,1,2,3,0,0,0,505,60003,0,1,522222
 188,139015,mura_A1002,Mystic Bongo,"A specially crafted shaman bongo passed down through generations. Used only during secret rituals closed to outsiders, it holds great folkloric value.",4,4,1,2,3,0,0,0,505,60003,0,1,522222
 189,933001,mura_A1004,The DJ SNF,Slot 1,4,4,1,2,3,1,0,0,505,60006,10,1,31005
@@ -199,8 +199,8 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 197,131006,mura_A1006,Soprano Pan Flute,"A type of pan flute that is lightweight and easy to play, making it popular with many people. It is tuned to produce high notes.",4,4,1,2,3,0,0,0,501,60030,0,1,522222
 198,139007,mura_A1006,골든 팬 플룻 YT,사용법이 간편하고 무게가 가벼워 많은 사람들이 애용하는 황금빛 뮤라. 때문에 리코링 전용 음악 대회도 간간히 열리기도 한다.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,4,4,1,2,3,0,0,0,501,60030,0,1,522222
 199,139012,mura_A1006,Soprano Pan Flute,"A type of pan flute that is lightweight and easy to play, making it popular with many people. It is tuned to produce high notes.",4,4,1,2,3,0,0,0,501,60030,0,1,522222
-200,131007,mura_A1007,Crash Cymbaline,A Mura called the ‘king of percussion’ by cymbaline players. It’s so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,0,0,0,501,60031,0,1,522222
-201,139014,mura_A1007,Crash Cymbaline,A Mura called the ‘king of percussion’ by cymbaline players. It’s so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,0,0,0,501,60031,0,1,522222
+200,131007,mura_A1007,Crash Cymbaline,A Mura called the 'king of percussion' by cymbaline players. It's so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,0,0,0,501,60031,0,1,522222
+201,139014,mura_A1007,Crash Cymbaline,A Mura called the 'king of percussion' by cymbaline players. It's so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,0,0,0,501,60031,0,1,522222
 202,139019,mura_A1007,Cry Cymbaline,"A cymbaline that produces a sound as loud as the cry of the yokai Konaki-jiji. The key is to handle it as gently as a baby. Legend says that when Konaki-jiji cries, earthquakes occur.",4,4,1,2,3,0,0,0,501,60009,0,1,522222
 203,131008,mura_A1008,Amati Violin,A master violin crafted by a top-tier artisan. It is said that many of the violins in circulation today were modeled after it.,4,4,1,2,3,0,0,0,501,60032,0,1,522222
 204,139016,mura_A1008,Amati Violin,A master violin crafted by a top-tier artisan. It is said that many of the violins in circulation today were modeled after it.,4,4,1,2,3,0,0,0,501,60032,0,1,522222
@@ -225,7 +225,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 223,140006,spirit_A0006,Vampire Trunk,A spirit rarely used because the rows of fangs growing from it look so unsettling.,5,4,4,2,4,0,0,0,701,80007,0,1,522222
 224,149005,spirit_A0006,Umpire Trunk,A trunk containing a poor umpire who was mistaken for a vampire. Usable even by third-year students.,5,4,4,2,4,0,0,0,701,80007,0,1,522222
 225,140007,spirit_A0007,Lifeguard,"Originally created to fight ancient vampires, this spirit is now mainly used for medical treatment in hospitals. Its red cross mark is distinctive.",0,4,0,0,0,0,0,0,0,0,0,1,522222
-226,140008,spirit_A0008,Winged Bomb,"A winged bomb. Wearing it might make others see you as dangerous, but it’s effective when taking down large numbers of monsters.",5,4,4,2,4,0,0,0,702,80009,0,1,522222
+226,140008,spirit_A0008,Winged Bomb,"A winged bomb. Wearing it might make others see you as dangerous, but it's effective when taking down large numbers of monsters.",5,4,4,2,4,0,0,0,702,80009,0,1,522222
 227,140009,spirit_A0009,Hellhound,A coffin-shaped spirit said to contain a ferocious war dog that once rampaged across ancient battlefields.,5,4,4,2,4,0,0,0,701,80010,0,1,522222
 228,140010,spirit_A0010,Yasha Lantern,An Eastern-style lantern worn on the back. Legend says two yasha who once ravaged the world long ago were sealed inside it.,5,4,4,2,4,0,0,0,702,80011,0,1,522222
 229,149002,spirit_A0010,Daiitoku Lantern,A lantern said to contain a yasha that transcends death and can even defeat the king of the underworld. Its aura is so overwhelming that only fifth-year students or above can wield it.,5,4,4,2,4,0,0,0,702,80011,0,1,522222
@@ -244,7 +244,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 242,149022,spirit_A0018,Ox-Head Demon,"A spirit formed from the head of Gozuki, the underworld demon with the head of an ox and the body of a man who torments the dead. The constant chewing and foul breath are hard to ignore, but its power is tremendous!",5,4,4,2,4,0,0,0,701,80029,0,1,522222
 243,140019,spirit_A0019,Turtle Plate,"A spirit shaped like a turtle shell, designed with a focus on defense rather than offense.",5,4,4,2,4,0,0,0,702,80030,0,1,522222
 244,140020,spirit_A0020,Exo Topaz,A weapon used to defeat evil spirits.,5,4,4,2,4,0,0,0,701,80027,0,1,522222
-245,149004,spirit_A0020,Exo & Birth,"A replica of the Exo Topaz said to have been made by the mysterious artisan brothers Exo and Birth. Despite being a copy, it’s carefully made and can be used even by second-year students.",5,4,4,2,4,0,0,0,701,80027,0,1,522222
+245,149004,spirit_A0020,Exo & Birth,"A replica of the Exo Topaz said to have been made by the mysterious artisan brothers Exo and Birth. Despite being a copy, it's carefully made and can be used even by second-year students.",5,4,4,2,4,0,0,0,701,80027,0,1,522222
 246,140021,spirit_A0021,Genocide,A vicious spirit wielding a massive disc-shaped blade.,5,4,4,2,4,0,0,0,703,80025,0,1,522222
 247,140022,spirit_A0022,Elite Bag,A bag used by elite students. Neatly organized and unmistakably studious.,0,4,0,0,0,0,0,0,0,0,0,1,522222
 248,140023,spirit_A0023,프레이야의 날개,설명 추가,5,4,4,2,4,0,0,0,703,80031,0,1,522222
@@ -274,7 +274,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 272,941004,spirit_A1010,Yasha Andon,Slot 4,5,4,4,2,4,4,0,0,702,80011,40,4,40005
 273,941005,spirit_A1010,Yasha Andon,Slot 5,5,4,4,2,4,5,0,0,702,80011,50,5,40005
 274,141010,spirit_A1010,Yasha Andon,An Eastern-style lamp that can summon a yasha that became a guardian deity in Buddhism. This type of lamp is called an andon.,5,4,4,2,4,0,0,0,702,80011,0,1,522222
-275,149019,spirit_A1010,Ao Andon,A pale blue andon said to contain the demon woman that appears at the end of the Hyakumonogatari stories. It’s sure to be an essential item for keeping cool in the summer!?,5,4,4,2,4,0,0,0,702,80011,0,1,522222
+275,149019,spirit_A1010,Ao Andon,A pale blue andon said to contain the demon woman that appears at the end of the Hyakumonogatari stories. It's sure to be an essential item for keeping cool in the summer!?,5,4,4,2,4,0,0,0,702,80011,0,1,522222
 276,141013,spirit_A1013,Bloody Valkyrie,A spirit once used by a Valkyrie who collected the souls of fallen heroes. Its wings are stained with the blood of those heroes.,5,4,4,2,4,0,0,0,701,80014,0,1,522222
 277,141019,spirit_A1019,Lucky Turtle Plate,"A rare golden turtle long believed to bring wealth and longevity. Biologically, it is thought to be an albino, a white mutation.",5,4,4,2,4,0,0,0,702,80030,0,1,522222
 278,149015,spirit_A1019,Lucky Turtle Plate,"A rare golden turtle long believed to bring wealth and longevity. Biologically, it is thought to be an albino, a white mutation.",5,4,4,2,4,0,0,0,702,80030,0,1,522222
@@ -436,10 +436,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 434,150032,special_F0005,Lab Coat,Estiva Academy Science Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
 435,150033,foot_F0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
 436,150034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estiva Academy.,6,4,1,2,0,0,1,1,0,0,0,0,522222
-437,150035,etc_be050035,Stefano’s Handkerchief,Butler Stefano’s handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,522222
-438,150036,etc_be050036,Page’s Handkerchief,Librarian Page’s handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,522222
-439,150037,etc_be050037,Strange Bear’s Handkerchief,Strange Bear’s handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,522222
-440,150038,etc_be050038,Bianca’s Handkerchief,"Professor Bianca’s lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,522222
+437,150035,etc_be050035,Stefano's Handkerchief,Butler Stefano's handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,522222
+438,150036,etc_be050036,Page's Handkerchief,Librarian Page's handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,522222
+439,150037,etc_be050037,Strange Bear's Handkerchief,Strange Bear's handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,522222
+440,150038,etc_be050038,Bianca's Handkerchief,"Professor Bianca's lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,522222
 441,150039,special_F0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
 442,150040,foot_F0007,Animal Care Shoes,Estiva Academy Animal Care Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
 443,150041,cap_F0007,Cat Ears,Estiva Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
@@ -455,9 +455,9 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 453,150051,foot_M0008,Safari Shoes,Estiva Academy Exploration Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
 454,150052,cap_M0008,Safari Hat,Estiva Academy Exploration Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
 455,150053,etc_be050053,Sweat It Out! Madame Namaniel,A photo book of Madame Namaniel striking sultry poses in an extremely hot sauna. Just looking at it will make you feel hot.,9,4,0,0,0,0,0,0,0,0,0,0,522222
-456,150054,etc_be050054,Naughty Cover Book,"A book with only a naughty cover. The contents are actually complicated and difficult English academic papers. These days, even kindergarteners wouldn’t be fooled by such a trick.",9,4,0,0,0,0,0,0,0,0,0,0,522222
+456,150054,etc_be050054,Naughty Cover Book,"A book with only a naughty cover. The contents are actually complicated and difficult English academic papers. These days, even kindergarteners wouldn't be fooled by such a trick.",9,4,0,0,0,0,0,0,0,0,0,0,522222
 457,150055,special_M0006,Waiter Uniform,Estiva Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
-458,150056,foot_M0006,Waiter Shoes,Men’s shoes that match the Estiva Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+458,150056,foot_M0006,Waiter Shoes,Men's shoes that match the Estiva Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,1,522222
 459,150057,special_F0006,Waitress Uniform,Estiva Academy shop part-time uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
 460,150058,foot_F0006,Waitress Shoes,Cute shoes that match the Estiva Academy shop part-time uniform. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
 461,150059,cap_F0006,Headband,A cute headband that keeps your hair neatly in place while working. For female students of Estiva Academy.,6,4,1,2,0,0,2,1,0,0,0,0,522222
@@ -568,10 +568,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 566,150164,lower_F0021,Cheerleader Gloves,Estiva Academy Cheer Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,522222
 567,150165,foot_F0025,Cheer Shoes,Estiva Academy Cheer Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
 568,150166,tool_F0025,Cheer Props,Estiva Academy Cheer Club props for female students.,6,4,16,2,0,0,2,1,0,0,0,0,522222
-569,150167,upper_M0024,Gentleman’s Suit,Estiva Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-570,150168,lower_M0024,Gentleman’s Pants,Estiva Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+569,150167,upper_M0024,Gentleman's Suit,Estiva Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+570,150168,lower_M0024,Gentleman's Pants,Estiva Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
 571,150169,cap_M0024,Top Hat,Estiva Academy Tea Time Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
-572,150170,foot_M0024,Gentleman’s Shoes,Estiva Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+572,150170,foot_M0024,Gentleman's Shoes,Estiva Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
 573,150171,special_F0024,Mademoiselle Dress,Estiva Academy Tea Time Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
 574,150172,cap_F0024,Mademoiselle Hat,Estiva Academy Tea Time Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
 575,150173,foot_F0024,Mademoiselle Shoes,Estiva Academy Tea Time Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
@@ -737,8 +737,8 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 735,159903,special_GMF0001,Disciplinary Committee Uniform,A custom-made uniform for a beautiful female Disciplinary Committee member. Grants the wearer comfort and charisma.<br>(Cannot be traded or sold),12,7,192,1,0,0,2,0,0,0,0,1,522222
 736,159904,foot_GMF0001,Disciplinary Committee Shoes,"Comfortable shoes made with the new material Ntixum, offering high elasticity and rigidity.<br>(Cannot be traded or sold)",13,7,256,1,0,0,2,0,0,0,0,1,522222
 737,159905,cap_GMA0001,Disciplinary Committee Hat,Features a windmill emblem with a balanced green and black color scheme.<br>(Cannot be traded or sold),6,7,1,2,0,0,0,0,0,0,0,0,522222
-738,159906,special_M9004,Class Representative Uniform,~Three Guidelines for Class Representatives~ 1. Greet others. 2. Never forget your original intentions. 3. Stay true to yourself. (Not for exchange or sale),12,7,448,1,0,0,1,0,0,0,0,-2146826246,522222
-739,159907,special_F9004,Class Representative Uniform,~Three Guidelines for Class Representatives~ 1. Greet others. 2. Never forget your original intentions. 3. Stay true to yourself. (Not for exchange or sale),12,7,448,1,0,0,2,0,0,0,0,-2146826246,522222
+738,159906,special_M9004,Class Representative Uniform,~Three Guidelines for Class Representatives~<br>1. Greet others.<br>2. Never forget your original intentions.<br>3. Stay true to yourself.<br>(Not for exchange or sale),12,7,448,1,0,0,1,0,0,0,0,-2146826246,522222
+739,159907,special_F9004,Class Representative Uniform,~Three Guidelines for Class Representatives~<br>1. Greet others.<br>2. Never forget your original intentions.<br>3. Stay true to yourself.<br>(Not for exchange or sale),12,7,448,1,0,0,2,0,0,0,0,-2146826246,522222
 740,151282,upper_M0022,Robotic Jacket,Estiva Academy Robotics Club uniform for male students.<br>(Cannot be traded or sold),6,7,64,1,0,0,1,1,0,0,0,1,522222
 741,151283,lower_M0022,Robotic Pants,Estiva Academy Robotics Club pants for male students.<br>(Cannot be traded or sold),6,7,128,1,0,0,1,1,0,0,0,1,522222
 742,151284,foot_M0022,Robotic Boots,Estiva Academy Robotics Club boots for male students.<br>(Cannot be traded or sold),6,7,256,1,0,0,1,1,0,0,0,1,522222
@@ -765,10 +765,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 763,151221,special_F1024,Dim Sum Dress,Sowol Academy Dim Sum Club uniform for female students.<br>(Cannot be traded or sold),6,7,192,1,0,0,2,2,0,0,0,1,522222
 764,151222,cap_F1024,Dim Sum Hair Buns,Sowol Academy Dim Sum Club hair accessory for female students.<br>(Cannot be traded or sold),6,7,1,2,0,0,2,2,0,0,0,0,522222
 765,151223,foot_F1024,Dim Sum Shoes,Sowol Academy Dim Sum Club shoes for female students.<br>(Cannot be traded or sold),6,7,256,1,0,0,2,2,0,0,0,1,522222
-766,151167,upper_M0024,Gentleman’s Suit,Estiva Academy Tea Time Club uniform for male students.<br>(Cannot be traded or sold),6,7,64,1,0,0,1,1,0,0,0,1,522222
-767,151168,lower_M0024,Gentleman’s Pants,Estiva Academy Tea Time Club uniform for male students.<br>(Cannot be traded or sold),6,7,128,1,0,0,1,1,0,0,0,1,522222
+766,151167,upper_M0024,Gentleman's Suit,Estiva Academy Tea Time Club uniform for male students.<br>(Cannot be traded or sold),6,7,64,1,0,0,1,1,0,0,0,1,522222
+767,151168,lower_M0024,Gentleman's Pants,Estiva Academy Tea Time Club uniform for male students.<br>(Cannot be traded or sold),6,7,128,1,0,0,1,1,0,0,0,1,522222
 768,151169,cap_M0024,Top Hat,Estiva Academy Tea Time Club hat for male students.<br>(Cannot be traded or sold),6,7,1,2,0,0,1,1,0,0,0,0,522222
-769,151170,foot_M0024,Gentleman’s Shoes,Estiva Academy Tea Time Club shoes for male students.<br>(Cannot be traded or sold),6,7,256,1,0,0,1,1,0,0,0,1,522222
+769,151170,foot_M0024,Gentleman's Shoes,Estiva Academy Tea Time Club shoes for male students.<br>(Cannot be traded or sold),6,7,256,1,0,0,1,1,0,0,0,1,522222
 770,151171,special_F0024,Mademoiselle Dress,Estiva Academy Tea Time Club uniform for female students.<br>(Cannot be traded or sold),6,7,192,1,0,0,2,1,0,0,0,1,522222
 771,151172,cap_F0024,Mademoiselle Hat,Estiva Academy Tea Time Club hat for female students.<br>(Cannot be traded or sold),6,7,1,2,0,0,2,1,0,0,0,0,522222
 772,151173,foot_F0024,Mademoiselle Shoes,Estiva Academy Tea Time Club shoes for female students.<br>(Cannot be traded or sold),6,7,256,1,0,0,2,1,0,0,0,1,522222
@@ -805,56 +805,56 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 803,151204,lower_M1016,Summer Uniform Pants,A variation of the Sowol Academy summer uniform for male students.,6,4,128,1,0,0,1,2,0,0,0,1,522222
 804,151205,upper_F1016,Summer Uniform Jacket,A variation of the Sowol Academy summer uniform for female students.,6,4,64,1,0,0,2,2,0,0,0,1,522222
 805,151206,lower_F1016,Summer Uniform Skirt,A variation of the Sowol Academy summer uniform for female students.,6,4,128,1,0,0,2,2,0,0,0,1,522222
-806,159009,cap_M9008,Soccer Support Headband,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
-807,159010,upper_M9008,Soccer Support Tank Top,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
-808,159011,lower_M9008,Soccer Support Pants,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
-809,159012,foot_M9008,Soccer Support Shoes,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
-810,159013,cap_F9008,Soccer Support Headband,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
-811,159014,upper_F9008,Soccer Support Tube Top,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
-812,159015,lower_F9008,Soccer Support Pants,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
-813,159016,foot_F9008,Soccer Support Boots,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
-814,159017,cap_M9009,Soccer Support Headband,Let’s cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
-815,159018,upper_M9009,Soccer Support Tank Top,Let’s cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
-816,159019,lower_M9009,Soccer Support Pants,Let’s cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
-817,159020,foot_M9009,Soccer Support Shoes,Let’s cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
-818,159021,cap_F9009,Soccer Support Headband,Let’s cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
-819,159022,upper_F9009,Soccer Support Tube Top,Let’s cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
-820,159023,lower_F9009,Soccer Support Pants,Let’s cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
-821,159024,foot_F9009,Soccer Support Boots,Let’s cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
-822,159025,cap_M9010,Soccer Support Headband,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
-823,159026,upper_M9010,Soccer Support Tank Top,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
-824,159027,lower_M9010,Soccer Support Pants,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
-825,159028,foot_M9010,Soccer Support Shoes,Let’s cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
-826,159029,cap_F9010,Soccer Support Headband,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
-827,159030,upper_F9010,Soccer Support Tube Top,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
-828,159031,lower_F9010,Soccer Support Pants,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
-829,159032,foot_F9010,Soccer Support Boots,Let’s cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
+806,159009,cap_M9008,Soccer Support Headband,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
+807,159010,upper_M9008,Soccer Support Tank Top,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
+808,159011,lower_M9008,Soccer Support Pants,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
+809,159012,foot_M9008,Soccer Support Shoes,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
+810,159013,cap_F9008,Soccer Support Headband,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
+811,159014,upper_F9008,Soccer Support Tube Top,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
+812,159015,lower_F9008,Soccer Support Pants,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
+813,159016,foot_F9008,Soccer Support Boots,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
+814,159017,cap_M9009,Soccer Support Headband,Let's cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
+815,159018,upper_M9009,Soccer Support Tank Top,Let's cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
+816,159019,lower_M9009,Soccer Support Pants,Let's cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
+817,159020,foot_M9009,Soccer Support Shoes,Let's cheer for Team Japan together! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
+818,159021,cap_F9009,Soccer Support Headband,Let's cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
+819,159022,upper_F9009,Soccer Support Tube Top,Let's cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
+820,159023,lower_F9009,Soccer Support Pants,Let's cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
+821,159024,foot_F9009,Soccer Support Boots,Let's cheer for Team Japan together! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
+822,159025,cap_M9010,Soccer Support Headband,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
+823,159026,upper_M9010,Soccer Support Tank Top,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
+824,159027,lower_M9010,Soccer Support Pants,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
+825,159028,foot_M9010,Soccer Support Shoes,Let's cheer for the World Cup together! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
+826,159029,cap_F9010,Soccer Support Headband,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
+827,159030,upper_F9010,Soccer Support Tube Top,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
+828,159031,lower_F9010,Soccer Support Pants,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
+829,159032,foot_F9010,Soccer Support Boots,Let's cheer for the World Cup together! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
 830,159033,upper_M9011,Soccer Uniform,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
 831,159034,lower_M9011,Soccer Shorts,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
 832,159035,foot_M9011,Soccer Shoes,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
 833,159036,upper_F9011,Soccer Uniform,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
 834,159037,lower_F9011,Soccer Shorts,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
 835,159038,foot_F9011,Soccer Shoes,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
-836,159039,upper_M9012,Soccer Uniform,A soccer player’s uniform. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
-837,159040,lower_M9012,Soccer Shorts,A soccer player’s uniform. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
-838,159041,foot_M9012,Soccer Shoes,A soccer player’s uniform. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
-839,159042,upper_F9012,Soccer Uniform,A soccer player’s uniform. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
-840,159043,lower_F9012,Soccer Shorts,A soccer player’s uniform. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
-841,159044,foot_F9012,Soccer Shoes,A soccer player’s uniform. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
+836,159039,upper_M9012,Soccer Uniform,A soccer player's uniform. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
+837,159040,lower_M9012,Soccer Shorts,A soccer player's uniform. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
+838,159041,foot_M9012,Soccer Shoes,A soccer player's uniform. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
+839,159042,upper_F9012,Soccer Uniform,A soccer player's uniform. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
+840,159043,lower_F9012,Soccer Shorts,A soccer player's uniform. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
+841,159044,foot_F9012,Soccer Shoes,A soccer player's uniform. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
 842,159045,upper_M9013,Soccer Uniform,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,64,1,0,0,1,0,0,0,0,1,522222
 843,159046,lower_M9013,Soccer Shorts,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
 844,159047,foot_M9013,Soccer Shoes,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
 845,159048,upper_F9013,Soccer Uniform,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,64,1,0,0,2,0,0,0,0,1,522222
 846,159049,lower_F9013,Soccer Shorts,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,128,1,0,0,2,0,0,0,0,1,522222
 847,159050,foot_F9013,Soccer Shoes,A limited-edition uniform commemorating the World Cup. Feel like part of Team Japan! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
-848,159051,cap_M9014,Headgear M,"A giant headpiece that completely hides your face. Even if you’re trying to keep a cool image, this will let you cheer at full volume! For males only.<br>(Cannot be traded)",6,5,1,2,0,0,1,0,0,0,0,0,522222
-849,159052,cap_M9015,Headgear A,"A giant headpiece that completely hides your face. Even if you’re trying to keep a cool image, this will let you cheer at full volume! For males only.<br>(Cannot be traded)",6,5,1,2,0,0,1,0,0,0,0,0,522222
-850,159053,cap_M9016,Headgear H,"A giant headpiece that completely hides your face. Even if you’re trying to keep a cool image, this will let you cheer at full volume! For males only.<br>(Cannot be traded)",6,5,1,2,0,0,1,0,0,0,0,0,522222
-851,159054,cap_F9014,Headgear M,"A giant headpiece that completely hides your face. Even if you’re going for a gentle, ladylike image, this will let you cheer at full volume! For females only.<br>(Cannot be traded)",6,5,1,2,0,0,2,0,0,0,0,0,522222
-852,159055,cap_F9015,Headgear A,"A giant headpiece that completely hides your face. Even if you’re going for a gentle, ladylike image, this will let you cheer at full volume! For females only.<br>(Cannot be traded)",6,5,1,2,0,0,2,0,0,0,0,0,522222
-853,159056,cap_F9016,Headgear H,"A giant headpiece that completely hides your face. Even if you’re going for a gentle, ladylike image, this will let you cheer at full volume! For females only.<br>(Cannot be traded)",6,5,1,2,0,0,2,0,0,0,0,0,522222
-854,159057,special_M9017,Rainbow Swimsuit,"A flashy, vividly colored swimsuit.<br>Guaranteed to draw attention—from admiring looks to icy stares!",6,4,192,1,0,0,1,0,0,0,0,1,522222
-855,159058,special_F9017,White School Swimsuit,"A pure white school swimsuit.<br>With its innocent look, it’s sure to capture all the boys’ attention!",6,4,192,1,0,0,2,0,0,0,0,1,522222
+848,159051,cap_M9014,Headgear M,"A giant headpiece that completely hides your face. Even if you're trying to keep a cool image, this will let you cheer at full volume! For males only.<br>(Cannot be traded)",6,5,1,2,0,0,1,0,0,0,0,0,522222
+849,159052,cap_M9015,Headgear A,"A giant headpiece that completely hides your face. Even if you're trying to keep a cool image, this will let you cheer at full volume! For males only.<br>(Cannot be traded)",6,5,1,2,0,0,1,0,0,0,0,0,522222
+850,159053,cap_M9016,Headgear H,"A giant headpiece that completely hides your face. Even if you're trying to keep a cool image, this will let you cheer at full volume! For males only.<br>(Cannot be traded)",6,5,1,2,0,0,1,0,0,0,0,0,522222
+851,159054,cap_F9014,Headgear M,"A giant headpiece that completely hides your face. Even if you're going for a gentle, ladylike image, this will let you cheer at full volume! For females only.<br>(Cannot be traded)",6,5,1,2,0,0,2,0,0,0,0,0,522222
+852,159055,cap_F9015,Headgear A,"A giant headpiece that completely hides your face. Even if you're going for a gentle, ladylike image, this will let you cheer at full volume! For females only.<br>(Cannot be traded)",6,5,1,2,0,0,2,0,0,0,0,0,522222
+853,159056,cap_F9016,Headgear H,"A giant headpiece that completely hides your face. Even if you're going for a gentle, ladylike image, this will let you cheer at full volume! For females only.<br>(Cannot be traded)",6,5,1,2,0,0,2,0,0,0,0,0,522222
+854,159057,special_M9017,Rainbow Swimsuit,"A flashy, vividly colored swimsuit.<br>Guaranteed to draw attention - from admiring looks to icy stares!",6,4,192,1,0,0,1,0,0,0,0,1,522222
+855,159058,special_F9017,White School Swimsuit,"A pure white school swimsuit.<br>With its innocent look, it's sure to capture all the boys' attention!",6,4,192,1,0,0,2,0,0,0,0,1,522222
 856,159059,special_M9018,Cyber Suit,A futuristic bodysuit straight out of sci-fi. Will the day come when this becomes everyday wear? For male students.<br>(This item will be removed during December 2006. Please check the Yogurting official website for details.),6,5,192,1,0,0,1,0,0,0,0,1,522222
 857,159060,hand_M9018,Cyber Gloves,Futuristic gloves straight out of sci-fi. Will the day come when this becomes everyday wear? For male students.<br>(This item will be removed during December 2006. Please check the Yogurting official website for details.),6,5,8,1,0,0,1,0,0,0,0,0,522222
 858,159061,foot_M9018,Cyber Boots,Futuristic boots straight out of sci-fi. Will the day come when this becomes everyday wear? For male students.<br>(This item will be removed during December 2006. Please check the Yogurting official website for details.),6,5,256,1,0,0,1,0,0,0,0,1,522222
@@ -863,12 +863,12 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 861,159064,hand_F9018,Cyber Gloves,Futuristic gloves straight out of sci-fi. Will the day come when this becomes everyday wear? For female students.<br>(This item will be removed during December 2006. Please check the Yogurting official website for details.),6,5,8,1,0,0,2,0,0,0,0,0,522222
 862,159065,foot_F9018,Cyber Boots,Futuristic boots straight out of sci-fi. Will the day come when this becomes everyday wear? For female students.<br>(This item will be removed during December 2006. Please check the Yogurting official website for details.),6,5,256,1,0,0,2,0,0,0,0,1,522222
 863,159066,cap_F9018,Cyber Headgear,A futuristic headband straight out of sci-fi. Will the day come when this becomes everyday wear? For female students.<br>(This item will be removed during December 2006. Please check the Yogurting official website for details.),6,5,1,2,0,0,2,0,0,0,0,0,522222
-864,159067,upper_M9022,Movie Uniform Jacket (Male),"A uniform that does not exist in this world. A jacket that appeared in “Because I love you, it’s okay…”<br>(Cannot be traded)",6,5,64,1,0,0,1,0,0,0,0,1,522222
-865,159068,lower_M9022,Movie Uniform Bottom (Male),"A uniform that does not exist in this world. Bottoms that appeared in “Because I love you, it’s okay…”<br>(Cannot be traded)",6,5,128,1,0,0,1,0,0,0,0,1,522222
-866,159069,foot_M9022,Movie Uniform Shoes (Male),"A uniform that does not exist in this world. Footwear that appeared in “Because I love you, it’s okay…”<br>(Cannot be traded)",6,5,256,1,0,0,1,0,0,0,0,1,522222
-867,159070,upper_F9022,Movie Uniform Jacket (Female),"A uniform that does not exist in this world. A jacket that appeared in “Because I love you, it’s okay…”<br>(Cannot be traded)",6,5,64,1,0,0,2,0,0,0,0,1,522222
-868,159071,lower_F9022,Movie Uniform Bottom (Female),"A uniform that does not exist in this world. Bottoms that appeared in “Because I love you, it’s okay…”<br>(Cannot be traded)",6,5,128,1,0,0,2,0,0,0,0,1,522222
-869,159072,foot_F9022,Movie Uniform Shoes (Female),"A uniform that does not exist in this world. Footwear that appeared in “Because I love you, it’s okay…”<br>(Cannot be traded)",6,5,256,1,0,0,2,0,0,0,0,1,522222
+864,159067,upper_M9022,Movie Uniform Jacket (Male),"A uniform that does not exist in this world. A jacket that appeared in “Because I love you, it's okay…”<br>(Cannot be traded)",6,5,64,1,0,0,1,0,0,0,0,1,522222
+865,159068,lower_M9022,Movie Uniform Bottom (Male),"A uniform that does not exist in this world. Bottoms that appeared in “Because I love you, it's okay…”<br>(Cannot be traded)",6,5,128,1,0,0,1,0,0,0,0,1,522222
+866,159069,foot_M9022,Movie Uniform Shoes (Male),"A uniform that does not exist in this world. Footwear that appeared in “Because I love you, it's okay…”<br>(Cannot be traded)",6,5,256,1,0,0,1,0,0,0,0,1,522222
+867,159070,upper_F9022,Movie Uniform Jacket (Female),"A uniform that does not exist in this world. A jacket that appeared in “Because I love you, it's okay…”<br>(Cannot be traded)",6,5,64,1,0,0,2,0,0,0,0,1,522222
+868,159071,lower_F9022,Movie Uniform Bottom (Female),"A uniform that does not exist in this world. Bottoms that appeared in “Because I love you, it's okay…”<br>(Cannot be traded)",6,5,128,1,0,0,2,0,0,0,0,1,522222
+869,159072,foot_F9022,Movie Uniform Shoes (Female),"A uniform that does not exist in this world. Footwear that appeared in “Because I love you, it's okay…”<br>(Cannot be traded)",6,5,256,1,0,0,2,0,0,0,0,1,522222
 870,159073,upper_M9019,Orange Aloha Shirt,"A cool, orange Aloha shirt. For male students.<br>(Cannot be traded)",6,5,64,1,0,0,1,0,0,0,0,1,522222
 871,159074,lower_M9019,Blue Cropped Pants,Blue cropped pants that fall below the knee. For male students.<br>(Cannot be traded),6,5,128,1,0,0,1,0,0,0,0,1,522222
 872,159075,foot_M9019,Brown Flip-Flops,Flip-flops with brown straps. For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
@@ -925,38 +925,38 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 923,159126,foot_F9024,Spotted Cat Shoes,That cat everyone knows (Not for sale). For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
 924,159127,hand_F9024,Spotted Cat Gloves,That cat everyone knows (Not for sale). For female students.,6,5,8,1,0,0,2,0,0,0,0,0,522222
 925,159128,cap_F9024,Spotted Cat Headgear,That cat everyone knows (Not for sale). For female students.,6,5,1,2,0,0,2,0,0,0,0,0,522222
-926,159129,special_M9025,Blue Cat Costume,A blue cat costume. Put this on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,192,1,0,0,1,0,0,0,0,1,522222
-927,159130,foot_M9025,Blue Cat Shoes,Blue cat shoes. Put these on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
-928,159131,hand_M9025,Blue Cat Gloves,Blue cat gloves. Put these on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,8,1,0,0,1,0,0,0,0,0,522222
-929,159132,cap_M9025,Blue Cat Headgear,A blue cat headpiece. Put this on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
-930,159133,special_F9025,Blue Cat Costume,A blue cat costume. Put this on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,192,1,0,0,2,0,0,0,0,1,522222
-931,159134,foot_F9025,Blue Cat Shoes,Blue cat shoes. Put these on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
-932,159135,hand_F9025,Blue Cat Gloves,Blue cat gloves. Put these on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,8,1,0,0,2,0,0,0,0,0,522222
-933,159136,cap_F9025,Blue Cat Headgear,A blue cat headpiece. Put this on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
-934,159137,special_M9026,Black Cat Costume,A black cat costume. Put this on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,192,1,0,0,1,0,0,0,0,1,522222
-935,159138,foot_M9026,Black Cat Shoes,Black cat shoes. Put these on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
-936,159139,hand_M9026,Black Cat Gloves,Black cat gloves. Put these on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,8,1,0,0,1,0,0,0,0,0,522222
-937,159140,cap_M9026,Black Cat Headgear,A black cat headpiece. Put this on and become a cat—meow! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
-938,159141,special_F9026,Black Cat Costume,A black cat costume. Put this on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,192,1,0,0,2,0,0,0,0,1,522222
-939,159142,foot_F9026,Black Cat Shoes,Black cat shoes. Put these on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
-940,159143,hand_F9026,Black Cat Gloves,Black cat gloves. Put these on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,8,1,0,0,2,0,0,0,0,0,522222
-941,159144,cap_F9026,Black Cat Headgear,A black cat headpiece. Put this on and become a cat—meow! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
+926,159129,special_M9025,Blue Cat Costume,A blue cat costume. Put this on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,192,1,0,0,1,0,0,0,0,1,522222
+927,159130,foot_M9025,Blue Cat Shoes,Blue cat shoes. Put these on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
+928,159131,hand_M9025,Blue Cat Gloves,Blue cat gloves. Put these on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,8,1,0,0,1,0,0,0,0,0,522222
+929,159132,cap_M9025,Blue Cat Headgear,A blue cat headpiece. Put this on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
+930,159133,special_F9025,Blue Cat Costume,A blue cat costume. Put this on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,192,1,0,0,2,0,0,0,0,1,522222
+931,159134,foot_F9025,Blue Cat Shoes,Blue cat shoes. Put these on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
+932,159135,hand_F9025,Blue Cat Gloves,Blue cat gloves. Put these on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,8,1,0,0,2,0,0,0,0,0,522222
+933,159136,cap_F9025,Blue Cat Headgear,A blue cat headpiece. Put this on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
+934,159137,special_M9026,Black Cat Costume,A black cat costume. Put this on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,192,1,0,0,1,0,0,0,0,1,522222
+935,159138,foot_M9026,Black Cat Shoes,Black cat shoes. Put these on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,256,1,0,0,1,0,0,0,0,1,522222
+936,159139,hand_M9026,Black Cat Gloves,Black cat gloves. Put these on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,8,1,0,0,1,0,0,0,0,0,522222
+937,159140,cap_M9026,Black Cat Headgear,A black cat headpiece. Put this on and become a cat - meow! For male students.<br>(Cannot be traded),6,5,1,2,0,0,1,0,0,0,0,0,522222
+938,159141,special_F9026,Black Cat Costume,A black cat costume. Put this on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,192,1,0,0,2,0,0,0,0,1,522222
+939,159142,foot_F9026,Black Cat Shoes,Black cat shoes. Put these on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,256,1,0,0,2,0,0,0,0,1,522222
+940,159143,hand_F9026,Black Cat Gloves,Black cat gloves. Put these on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,8,1,0,0,2,0,0,0,0,0,522222
+941,159144,cap_F9026,Black Cat Headgear,A black cat headpiece. Put this on and become a cat - meow! For female students.<br>(Cannot be traded),6,5,1,2,0,0,2,0,0,0,0,0,522222
 942,159145,special_M9005,Korean Traditional Outfit,A traditional Korean-style outfit worn on special occasions. For male students.,6,5,192,1,0,0,1,0,0,0,0,1,522222
 943,159146,foot_M9005,Korean Traditional Shoes,Traditional Korean-style footwear. For male students.,6,5,256,1,0,0,1,0,0,0,0,1,522222
 944,159147,special_F9005,Korean Traditional Outfit,A traditional Korean-style outfit worn on special occasions. For female students.,6,5,192,1,0,0,2,0,0,0,0,1,522222
 945,159148,foot_F9005,Korean Traditional Shoes,Traditional Korean-style footwear. For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
-946,159149,special_M9006,Montsuki Hakama,A traditional Japanese formal outfit. Perfect for New Year’s! For male students.,6,5,192,1,0,0,1,0,0,0,0,1,522222
-947,159150,foot_M9006,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year’s! For male students.,6,5,256,1,0,0,1,0,0,0,0,1,522222
-948,159151,special_F9006,Kimono,A traditional Japanese formal outfit. Perfect for New Year’s! For female students.,6,5,192,1,0,0,2,0,0,0,0,1,522222
-949,159152,foot_F9006,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year’s! For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
-950,159153,special_M9007,Thai Traditional Outfit,A Thai-style traditional outfit. Feel like you’re in the tropics! For male students.,6,5,192,1,0,0,1,0,0,0,0,1,522222
-951,159154,foot_M9007,Thai Traditional Footwear,Thai-style traditional footwear. Feel like you’re in the tropics! For male students.,6,5,256,1,0,0,1,0,0,0,0,1,522222
-952,159155,special_F9007,Thai Traditional Outfit,A Thai-style traditional outfit. Feel like you’re in the tropics! For female students.,6,5,192,1,0,0,2,0,0,0,0,1,522222
-953,159156,foot_F9007,Thai Traditional Footwear,Thai-style traditional footwear. Feel like you’re in the tropics! For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
-954,159157,special_M9029,Montsuki Hakama,A traditional Japanese formal outfit. Perfect for New Year’s! For male students.,6,5,192,1,0,0,1,0,0,0,0,1,522222
-955,159158,foot_M9029,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year’s! For male students.,6,5,256,1,0,0,1,0,0,0,0,1,522222
-956,159159,special_F9029,Kimono,A traditional Japanese formal outfit. Perfect for New Year’s! For female students.,6,5,192,1,0,0,2,0,0,0,0,1,522222
-957,159160,foot_F9029,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year’s! For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
+946,159149,special_M9006,Montsuki Hakama,A traditional Japanese formal outfit. Perfect for New Year's! For male students.,6,5,192,1,0,0,1,0,0,0,0,1,522222
+947,159150,foot_M9006,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year's! For male students.,6,5,256,1,0,0,1,0,0,0,0,1,522222
+948,159151,special_F9006,Kimono,A traditional Japanese formal outfit. Perfect for New Year's! For female students.,6,5,192,1,0,0,2,0,0,0,0,1,522222
+949,159152,foot_F9006,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year's! For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
+950,159153,special_M9007,Thai Traditional Outfit,A Thai-style traditional outfit. Feel like you're in the tropics! For male students.,6,5,192,1,0,0,1,0,0,0,0,1,522222
+951,159154,foot_M9007,Thai Traditional Footwear,Thai-style traditional footwear. Feel like you're in the tropics! For male students.,6,5,256,1,0,0,1,0,0,0,0,1,522222
+952,159155,special_F9007,Thai Traditional Outfit,A Thai-style traditional outfit. Feel like you're in the tropics! For female students.,6,5,192,1,0,0,2,0,0,0,0,1,522222
+953,159156,foot_F9007,Thai Traditional Footwear,Thai-style traditional footwear. Feel like you're in the tropics! For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
+954,159157,special_M9029,Montsuki Hakama,A traditional Japanese formal outfit. Perfect for New Year's! For male students.,6,5,192,1,0,0,1,0,0,0,0,1,522222
+955,159158,foot_M9029,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year's! For male students.,6,5,256,1,0,0,1,0,0,0,0,1,522222
+956,159159,special_F9029,Kimono,A traditional Japanese formal outfit. Perfect for New Year's! For female students.,6,5,192,1,0,0,2,0,0,0,0,1,522222
+957,159160,foot_F9029,Zori Sandals,Traditional Japanese formal footwear. Perfect for New Year's! For female students.,6,5,256,1,0,0,2,0,0,0,0,1,522222
 958,159161,special_M9030,Sparkly Fluffy Bear Suit,"The grand prize winner of the Uniform Design Contest (Magazine Category). A “Sparkly Fluffy Bear Life” suit for male students, designed by illustrator Ryusuke Hamamoto.",6,4,192,1,0,0,1,0,0,0,0,1,522222
 959,159162,foot_M9030,Sparkly Fluffy Bear Feet,"The grand prize winner of the Uniform Design Contest (Magazine Category). Shoes from the “Sparkly Fluffy Bear Life” uniform for male students, designed by illustrator Ryusuke Hamamoto.",6,4,256,1,0,0,1,0,0,0,0,1,522222
 960,159163,hand_M9030,Sparkly Fluffy Bear Gloves,"The grand prize winner of the Uniform Design Contest (Magazine Category). Gloves from the “Sparkly Fluffy Bear Life” uniform for male students, designed by illustrator Ryusuke Hamamoto.",6,4,8,1,0,0,1,0,0,0,0,0,522222
@@ -981,32 +981,32 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 979,159182,cap_F9032,Concert Band Hat,"The grand prize winner of the Uniform Design Contest (Student Category).<br>A hat for the Concert Band Club for female students, designed by Kotera.",6,4,1,2,0,0,2,0,0,0,0,0,522222
 980,10005,blade_A0005,Ring Dagger,"It came to be called a “Ring Dagger” because a ring about the size of a fist is attached to the pommel. Because of this ring, it is difficult to conceal and is not very useful as a dagger.",2,4,16,2,1,6,0,0,0,0,0,0,0
 981,10010,blade_A0010,Kitchen Knife,"Used for peeling apples and preparing sashimi. Some say it was made as a weapon for cooking monsters, but so far no monster dishes have ever appeared.",2,4,16,2,1,6,0,0,0,0,0,0,0
-982,10014,blade_A0014,Assassin’s Thunder,"A weapon favored by assassins. Electricity flows through the entire blade except for the rubber part of the handle, and simply touching it can cause fatal damage.",2,4,16,2,1,6,0,0,0,0,0,0,0
+982,10014,blade_A0014,Assassin's Thunder,"A weapon favored by assassins. Electricity flows through the entire blade except for the rubber part of the handle, and simply touching it can cause fatal damage.",2,4,16,2,1,6,0,0,0,0,0,0,0
 983,10017,blade_A0017,Asura Blade,"A blade said to contain a sealed demon. Only those with courage greater than the demon itself can wield it. If mastered, its power is truly terrifying…",2,4,16,2,1,6,0,0,0,0,0,0,0
-984,10009,blade_A0009,Evening Star,"A weapon rumored to become strongest in the evening. However, when you actually try using it, the rumor doesn’t seem very believable.",2,4,16,2,1,6,0,0,101,20011,0,0,0
+984,10009,blade_A0009,Evening Star,"A weapon rumored to become strongest in the evening. However, when you actually try using it, the rumor doesn't seem very believable.",2,4,16,2,1,6,0,0,101,20011,0,0,0
 985,10007,blade_A0007,Spiked Bat,"Together with the wooden sword, it is considered one of the two great weapons of delinquents and is a must-have in delinquent mode. Its vicious shape is so intimidating that even the person using it sometimes gets scared.",2,4,16,2,1,6,0,0,101,20009,0,0,0
 986,19001,blade_A0001,Limit Break Stinger,"A modified Stinger of legend. Its latent power is forcibly drawn out, making it usable only by fourth-year students or higher.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",2,4,16,2,1,4,0,0,102,20001,0,0,0
 987,19002,blade_A0011,Tonic Blade,"A fake Sonic Blade. Said to have been used by a bold bartender to mix cocktails. Its output is weak, so even first-year students can use it.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",2,4,16,2,1,1,0,0,104,20014,0,0,0
 988,19003,blade_A0019,Paper Driver,"A screwdriver made of papercraft. Naturally weaker than the real thing. Keep a perfect safety record and it might turn gold?<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",2,4,16,2,1,1,0,0,104,20016,0,0,0
-989,19004,blade_A0013,Trial Hammer,"Looks just like the Juggernaut Hammer, but it’s made from a lighter metal than the real one, so even second-year students can use it.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",2,4,16,2,1,2,0,0,102,20018,0,0,0
+989,19004,blade_A0013,Trial Hammer,"Looks just like the Juggernaut Hammer, but it's made from a lighter metal than the real one, so even second-year students can use it.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",2,4,16,2,1,2,0,0,102,20018,0,0,0
 990,19005,blade_A0021,Pringer,"A fake Bringer. Even third-year students can equip it, but its attack power is low. Surprisingly useful as a mixer when making sweets?<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",2,4,16,2,1,3,0,0,102,20028,0,0,0
 991,19006,blade_A0003,Event Megaton Hammer,"A somewhat compact hammer, but with more than enough power. Its structure concentrates mass at the point of impact at the moment of the strike, allowing it to be wielded with one hand while still delivering heavy damage.",2,5,16,2,1,4,0,0,101,20003,0,0,0
 992,19007,blade_A1006,실전 목도 YT,불량 모드의 필수품. 못박힌 배트와 함께 2대 불량 무기라 불리운다. 일반 목도보다는 실전용이라 할 수 있다.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,2,4,16,2,1,1,0,0,104,20008,0,0,0
 993,19008,blade_A1002,블러디 바로 소드 YT,거리를 재는데 탁월한 기능을 가지고 있는 블레이드. 주로 초급학년들에게 적당하다.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,2,4,16,2,1,1,0,0,104,20002,0,0,0
 994,19009,blade_A0001,Stinger,Cutter-type blade,2,4,16,2,1,1,0,0,102,20001,0,0,0
 995,19010,blade_A0019,Screwdriver,A Phillips screwdriver shaped like a screw.,2,4,16,2,1,2,0,0,104,20016,0,0,0
-996,19011,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it’s swung is really cool.,2,4,16,2,1,3,0,0,104,20021,0,0,0
+996,19011,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it's swung is really cool.,2,4,16,2,1,3,0,0,104,20021,0,0,0
 997,19012,blade_A1006,Red Sandalwood Bokken,"A wooden sword made from red sandalwood, a material long said to be legendary. It has a presence and dignity unlike an ordinary wooden sword, making it a must-have if you want to call yourself a true boss!",2,4,16,2,1,1,0,0,104,20008,0,0,0
 998,19013,blade_A1002,Baro Sword M,"The Baro Sword boasts a level of precision that even professionals approve of as a measuring tool. Its length is said to exactly match the distance that light travels in a vacuum in 1/299,792,458 of a second.",2,4,16,2,1,1,0,0,104,20002,0,0,0
 999,19014,blade_A1004,Rose Rapier,"A blade with a long, pointed sword edge. Like a rose with sharp thorns, its blade is beautifully stained a deep crimson.",2,4,16,2,1,2,0,0,104,20005,0,0,0
 1000,19015,blade_A1011,Foreman Sonic Blade,"A cutting machine that enjoys tremendous support from workers at lumberyards and construction sites. As a weapon, it boasts power comparable to a standard Sonic Blade.",2,4,16,2,1,2,0,0,104,20014,0,0,0
 1001,19016,blade_A1016,Unsigned Katana,"A traditional Japanese blade. Not one from the era when such swords were treated like works of art as symbols of the samurai, but a finely crafted, unsigned weapon used by nameless soldiers during the Warring States period. Through long use, the blade has been stained a deep crimson.",2,4,16,2,1,3,0,0,104,20022,0,0,0
 1002,19017,blade_A1013,Gigantic Hammer,"A weapon created to duel against someone wielding the Juggernaut Hammer. From the day you take up this weapon, you are destined to fight the wielder of the Juggernaut Hammer.",2,4,16,2,1,3,0,0,102,20018,0,0,0
-1003,19018,blade_A1006,Jinmenju Bokken,"A wooden sword made from the yokai “Jinmenju.” It is cursed—those who keep using it are said to be transformed into a Jinmenju themselves. If that doesn’t bother you, enjoy its overwhelming cursed power.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,4,0,0,104,20008,0,0,0
-1004,19019,blade_A1004,Vampire Rapier,"A weapon said to have been used by an immortal vampire to bathe in the blood of maidens. Perhaps inhabited by its former owner’s soul, the vines wrapped around it writhe in search of prey.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,2,0,0,104,20005,0,0,0
+1003,19018,blade_A1006,Jinmenju Bokken,"A wooden sword made from the yokai “Jinmenju.” It is cursed - those who keep using it are said to be transformed into a Jinmenju themselves. If that doesn't bother you, enjoy its overwhelming cursed power.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,4,0,0,104,20008,0,0,0
+1004,19019,blade_A1004,Vampire Rapier,"A weapon said to have been used by an immortal vampire to bathe in the blood of maidens. Perhaps inhabited by its former owner's soul, the vines wrapped around it writhe in search of prey.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,2,0,0,104,20005,0,0,0
 1005,19020,blade_A1015,Raiju Stinger,"A Dark Saber empowered by the lightning of the yokai “Raiju,” said to appear with thunderbolts. When using its skill, be sure to warn others about incoming lightning.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,5,0,0,104,20021,0,0,0
 1006,19021,blade_A0021,Kamaitachi,"A blade said to be a yokai “Kamaitachi” in disguise. It is said that the first knocks a person down, the second cuts them, and the third heals the wound.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,1,0,0,102,20028,0,0,0
-1007,19022,blade_A0012,Hitōban Hammer,"A weapon that has captured the yokai “Rokurokubi,” said to be human by day but whose head flies from its body at night. Be careful it doesn’t fly off when using its skill!<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,3,0,0,101,20032,0,0,0
+1007,19022,blade_A0012,Hitōban Hammer,"A weapon that has captured the yokai “Rokurokubi,” said to be human by day but whose head flies from its body at night. Be careful it doesn't fly off when using its skill!<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",2,5,16,2,1,3,0,0,101,20032,0,0,0
 1008,10006,blade_A0006,Wooden Sword,"A must-have item for delinquent mode. Along with the nail bat, it is known as one of the two great weapons of delinquents. Its intimidating appearance is more effective than its practicality.",2,4,16,2,1,1,0,0,104,20008,0,0,0
 1009,11006,blade_A1006,Red Sandalwood Bokken,"A wooden sword made from red sandalwood, a material long said to be legendary. It has a presence and dignity unlike an ordinary wooden sword, making it a must-have if you want to call yourself a true boss!",2,4,16,2,1,1,0,0,104,20008,0,0,0
 1010,10002,blade_A0002,Baro Sword,A blade equipped with a handy measuring function. Perfect for first-year students.,2,4,16,2,1,1,0,0,104,20002,0,0,0
@@ -1023,7 +1023,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1021,11016,blade_A1016,Unsigned Katana,"A traditional Japanese blade. Not one from the era when such swords were treated like works of art as symbols of the samurai, but a finely crafted, unsigned weapon used by nameless soldiers during the Warring States period. Through long use, the blade has been stained a deep crimson.",2,4,16,2,1,3,0,0,104,20022,0,0,0
 1022,10013,blade_A0013,Juggernaut Hammer,"A crude, brutally heavy hammer. It looks so intimidating that you feel like you might take damage just by looking at it. You should absolutely avoid dueling someone wielding this weapon.",2,4,16,2,1,3,0,0,102,20018,0,0,0
 1023,11013,blade_A1013,Gigantic Hammer,"A weapon created to duel against someone wielding the Juggernaut Hammer. From the day you take up this weapon, you are destined to fight the wielder of the Juggernaut Hammer.",2,4,16,2,1,3,0,0,102,20018,0,0,0
-1024,10015,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it’s swung is really cool.,2,4,16,2,1,3,0,0,104,20021,0,0,0
+1024,10015,blade_A0015,Thunder Saber,A beam sword with a blade that focuses energy flowing from the rechargeable battery in the handle. The sound it makes each time it's swung is really cool.,2,4,16,2,1,3,0,0,104,20021,0,0,0
 1025,11015,blade_A1015,Dark Saber,"It is said that when the wielder of the Thunder Saber chooses the path of evil with a strong will, the blade becomes stained with darkness and transforms into the Dark Saber. However, there are also rumors that replacing the battery will turn it back into a normal Thunder Saber.",2,4,16,2,1,3,0,0,104,20021,0,0,0
 1026,10021,blade_A0021,Bringer,A blade shaped like a large scythe.,2,4,16,2,1,4,0,0,102,20028,0,0,0
 1027,11021,blade_A1021,Punisher,"A weapon that became the prototype for the Bringer. Originally, it was not used for hunting monsters, but rather for executing criminals.",2,4,16,2,1,4,0,0,102,20028,0,0,0
@@ -1032,12 +1032,12 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1030,10003,blade_A0003,Megaton Hammer,"A somewhat compact hammer, but with more than enough power. Its structure concentrates mass at the point of impact at the moment of the strike, allowing it to be wielded with one hand while still delivering heavy damage.",2,4,16,2,1,4,0,0,101,20003,0,0,0
 1031,10008,blade_A0008,Fly Pang☆,A very large frying pan. There is a rumor that it was originally made to cook ostrich eggs.,2,4,16,2,1,5,0,0,101,20030,0,0,0
 1032,10012,blade_A0012,Magical Stomper,"It looks like a toy, but it actually boasts considerable power. An opponent who gets hit while letting their guard down will be surprised by the damage!",2,4,16,2,1,5,0,0,101,20032,0,0,0
-1033,10023,blade_A0023,Light Breaker,"A blade made using a fluorescent light tube as its base. It has been reinforced so that it won’t break easily, allowing you to fight without worry.",2,4,16,2,1,5,0,0,102,20033,0,0,0
+1033,10023,blade_A0023,Light Breaker,"A blade made using a fluorescent light tube as its base. It has been reinforced so that it won't break easily, allowing you to fight without worry.",2,4,16,2,1,5,0,0,102,20033,0,0,0
 1034,10020,blade_A0020,Vermilion Edge,"This blade features a large red diamond set in the guard, even bigger than the blade itself. It is said to grow stronger when the gem emits light.",2,4,16,2,1,6,0,0,102,0,0,0,0
 1035,10024,blade_A0024,Stinger FE,The final evolution of the Stinger.,2,4,16,2,1,6,0,0,102,0,0,0,0
 1036,10018,blade_A0018,Vice-Principal Slayer,A legendary blade that has been secretly passed down only among sixth-year students. It is said that whoever wields this blade gains the power to defeat even the vice-principal.,2,4,16,2,1,6,0,0,102,0,0,0,0
 1037,20004,glorb_A0004,Green Bamboo Claws,A pair of gloves that have the look and feel of green bamboo.,3,4,8,1,2,0,0,0,0,40003,0,0,0
-1038,20012,glorb_A0012,Gigantic Gauntlets,"The heaviest pair of gloves. This weapon is a modified version of gloves said to have been used by an ancient race of giants, adapted for student use. They are difficult to handle, but once you get used to them, there’s nothing left to fear.",0,4,0,0,0,0,0,0,0,0,0,0,0
+1038,20012,glorb_A0012,Gigantic Gauntlets,"The heaviest pair of gloves. This weapon is a modified version of gloves said to have been used by an ancient race of giants, adapted for student use. They are difficult to handle, but once you get used to them, there's nothing left to fear.",0,4,0,0,0,0,0,0,0,0,0,0,0
 1039,20020,glorb_A0020,Dual Gauntlets,"With an appearance like having large bowling balls fitted over the hands, they look overwhelmingly powerful at a glance.",0,4,0,0,0,0,0,0,0,0,0,0,0
 1040,29001,glorb_A0002,Ultimate Spirit of Righteousness,"A weapon whose Haoran energy output has exceeded its limits. Its light shines like that of an immortal, but it places great strain on its materials. Only fourth-year students or higher can equip it.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",3,4,8,1,2,4,0,0,302,40030,0,0,0
 1041,29002,glorb_A0015,Viper Knuckles,"An unfinished Viper Knuckle. The poison coating is incomplete, so even first-year students can use it.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",3,4,8,1,2,1,0,0,301,40020,0,0,0
@@ -1048,18 +1048,18 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1046,29007,glorb_A1001,무비유환 글로브 YT,단단한 금속 재질의 글로브.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,3,4,8,1,2,1,0,0,302,40001,0,0,0
 1047,29008,glorb_A1003,The 자린고비 피스트 YT,빼빼 마른 글로브.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,3,4,8,1,2,1,0,0,302,40003,0,0,0
 1048,29009,glorb_A0002,Spirit of Righteousness,Gloves with lenses on the back that glow blue. They allow you to unleash skill attacks that fire radiant energy projectiles.,3,4,8,1,2,1,0,0,302,40030,0,0,0
-1049,29010,glorb_A0021,Joe’s Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,2,0,0,301,40028,0,0,0
+1049,29010,glorb_A0021,Joe's Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,2,0,0,301,40028,0,0,0
 1050,29011,glorb_A0013,Phoenix Knuckles,A pair of gloves said to be made from the feathers of a phoenix.,3,4,8,1,2,3,0,0,302,40016,0,0,0
 1051,29012,glorb_A1001,Forewarned is Forearmed,"A pair of hard metal gloves. When struck against solid ground or a wall, they scatter sparks and become fists of flame.",3,4,8,1,2,1,0,0,302,40001,0,0,0
 1052,29013,glorb_A1003,Ultimate Zaringobi Fist,"A pair of gloves said to drive their wearer into desperate situations. Whether you survive and seize victory or collapse from exhaustion, it truly becomes a do-or-die battle. Perfect for training the spirit.",3,4,8,1,2,1,0,0,302,40003,0,0,0
-1053,29014,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card—each with a 50% chance—when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,2,0,0,301,40008,0,0,0
+1053,29014,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card - each with a 50% chance - when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,2,0,0,301,40008,0,0,0
 1054,29015,glorb_A1015,Venom Knuckles,"Gloves made from snakeskin, finished with a special blend of snake venom applied to the surface. Anyone struck by them will inevitably suffer severe poisoning, so their sale and use are now prohibited. Prolonged use may cause the poison to affect the wearer as well…",3,4,8,1,2,2,0,0,301,40020,0,0,0
 1055,29016,glorb_A1019,Phenometer Proto,"A prototype of the Phenometer Gear developed for exploration. It has functions not found in the mass-produced Phenometer Gear, but its combat performance has already been fully perfected.",3,4,8,1,2,3,0,0,301,40014,0,0,0
 1056,29017,glorb_A1005,Violet Fist,"An improved version of the Rainbow Fist. The violet color in the rainbow trail that appears whenever a technique is unleashed is said to shine even more beautifully now. For some reason, its users often seem to be quite well-tanned.",3,4,8,1,2,3,0,0,302,40006,0,0,0
 1057,29018,glorb_A1001,Great Toad Gloves,"Gloves made from the skin of the yokai “Oogama,” said to emit an aura that lures in people and animals as prey. Sticky to the touch and constantly giving off a tempting aura, making them quite troublesome.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",3,5,8,1,2,3,0,0,302,40001,0,0,0
 1058,29019,glorb_A0021,Ittan-Momen Bandages,"A type of tsukumogami, “Ittan Momen,” a cloth yokai that has taken the form of bandages. One tan is about 11 meters, making it longer than standard bandages and suited for advanced students.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",3,5,8,1,2,1,0,0,301,40028,0,0,0
 1059,29020,glorb_A1005,Yatagarasu,"Gloves made using the wings of the yokai “Yatagarasu,” a three-legged crow said to be a divine messenger. They flap to point the correct path, making them perfect even for those with a poor sense of direction.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",3,5,8,1,2,5,0,0,302,40006,0,0,0
-1060,29021,glorb_A1009,One Hundred Yokai Scenes,"Gloves imbued with a mysterious aura after being painted by a yokai artist. Stare at them long enough and you’ll see 100 yokai emerge in 3D. Be sure to take a 15-minute break every hour?<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",3,5,8,1,2,2,0,0,302,40011,0,0,0
+1060,29021,glorb_A1009,One Hundred Yokai Scenes,"Gloves imbued with a mysterious aura after being painted by a yokai artist. Stare at them long enough and you'll see 100 yokai emerge in 3D. Be sure to take a 15-minute break every hour?<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",3,5,8,1,2,2,0,0,302,40011,0,0,0
 1061,29022,glorb_A0011,Oni Bite Claws,"Gloves said to be a yokai “Oni” in disguise, waiting to attack its wearer. Keep fighting to satisfy its hunger, or you may be devoured. The phrase “oni hitokuchi” refers to the way an oni devours things in a single bite.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",3,5,8,1,2,4,0,0,303,40013,0,0,0
 1062,20001,glorb_A0001,Forewarned is Forearmed,"A pair of hard metal gloves. When struck against solid ground or a wall, they scatter sparks and become fists of flame.",3,4,8,1,2,1,0,0,302,40001,0,0,0
 1063,21001,glorb_A1001,Unwarned is Unarmed,"The original version of “Be Prepared,” a bestselling beginner glove. Ironically, it was released with defects due to negligence and later recalled. As a result, it came to be mockingly called “Unprepared, Trouble Follows.”",3,4,8,1,2,1,0,0,302,40001,0,0,0
@@ -1067,12 +1067,12 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1065,21003,glorb_A1003,Ultimate Zaringobi Fist,"A pair of gloves said to drive their wearer into desperate situations. Whether you survive and seize victory or collapse from exhaustion, it truly becomes a do-or-die battle. Perfect for training the spirit.",3,4,8,1,2,1,0,0,302,40003,0,0,0
 1066,20002,glorb_A0002,Spirit of Righteousness,Gloves with lenses on the back that glow blue. They allow you to unleash skill attacks that fire radiant energy projectiles.,3,4,8,1,2,1,0,0,302,40030,0,0,0
 1067,21002,glorb_A1002,Righteous Heart,A pair of gloves whose gauntlet lenses glow with a blue light. It is said that only those whose hearts have nothing to be ashamed of before heaven and earth can unleash their true power.,3,4,8,1,2,1,0,0,302,40030,0,0,0
-1068,20007,glorb_A0007,Gambler’s Hand,Gloves engraved with the Ace of Spades on the back of the hand. Cards appear when using skill attacks.,3,4,8,1,2,2,0,0,301,40008,0,0,0
-1069,21007,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card—each with a 50% chance—when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,2,0,0,301,40008,0,0,0
+1068,20007,glorb_A0007,Gambler's Hand,Gloves engraved with the Ace of Spades on the back of the hand. Cards appear when using skill attacks.,3,4,8,1,2,2,0,0,301,40008,0,0,0
+1069,21007,glorb_A1007,Blackjack,"These gloves are said to draw either the best possible card or the worst possible card - each with a 50% chance - when it comes down to the decisive moment. Because of this, they are both admired and feared by many gamblers.",3,4,8,1,2,2,0,0,301,40008,0,0,0
 1070,20015,glorb_A0015,Viper Gauntlets,"Gloves made from snakeskin, finished with a coating of snake venom on the surface. Anyone struck by them will inevitably suffer severe poisoning, so their sale and use are now prohibited. They are secretly used as a weapon by delinquent students.",3,4,8,1,2,2,0,0,301,40020,0,0,0
 1071,21015,glorb_A1015,Venom Knuckles,"Gloves made from snakeskin, finished with a special blend of snake venom applied to the surface. Anyone struck by them will inevitably suffer severe poisoning, so their sale and use are now prohibited. Prolonged use may cause the poison to affect the wearer as well…",3,4,8,1,2,2,0,0,301,40020,0,0,0
-1072,20021,glorb_A0021,Joe’s Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,2,0,0,301,40028,0,0,0
-1073,21021,glorb_A1021,Joe’s Blood & Tears Bandages,"A worn set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists. They are soaked with Joe’s blood, sweat, and tears.",3,4,8,1,2,2,0,0,301,40028,0,0,0
+1072,20021,glorb_A0021,Joe's Bandages,"A set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists.",3,4,8,1,2,2,0,0,301,40028,0,0,0
+1073,21021,glorb_A1021,Joe's Blood & Tears Bandages,"A worn set of bandages said to have been wrapped around the fists of Joe, the legendary king of martial artists. They are soaked with Joe's blood, sweat, and tears.",3,4,8,1,2,2,0,0,301,40028,0,0,0
 1074,20019,glorb_A0019,Phenomenal Gauntlets,"These gloves, equipped with a gauge panel on the back of the hand, were created for exploration purposes.",3,4,8,1,2,3,0,0,301,40014,0,0,0
 1075,21019,glorb_A1019,Phenometer Proto,"A prototype of the Phenometer Gear developed for exploration. It has functions not found in the mass-produced Phenometer Gear, but its combat performance has already been fully perfected.",3,4,8,1,2,3,0,0,301,40014,0,0,0
 1076,20005,glorb_A0005,Rainbow Fist,"It came to be called the Rainbow Fist because it leaves a rainbow trail each time a technique is unleashed. A rainbow appears with every skill attack, making it popular during school festivals.",3,4,8,1,2,3,0,0,302,40006,0,0,0
@@ -1081,52 +1081,52 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1079,21013,glorb_A1013,Heavenly Phoenix,A pair of gloves said to be made from the feathers left behind by a phoenix that repeated death and rebirth a thousand times before finally ascending to the heavens.,3,4,8,1,2,3,0,0,302,40016,0,0,0
 1080,20014,glorb_A0014,Gordian Cutter,"The fastest weapon available. However, because it focuses so much on speed, its power is not very high.",3,4,8,1,2,4,0,0,302,40017,0,0,0
 1081,21014,glorb_A1014,Supernatural Might,"It is spoken of alongside the saying, “Technique is Kaitō Ranma, strength is Kairiki Ranshin.” Though this weapon was created by an evil organization as an imitation of “Kaitō Ranma,” it is said that if wielded by someone with a pure, righteous, and strong heart, it will reveal its true power.",3,4,8,1,2,4,0,0,302,40017,0,0,0
-1082,20009,glorb_A0009,Axis of Heaven and Earth,"It’s hard to understand the mindset of anyone who would use gloves with such a bizarre design. However, every student who has used these gloves can’t stop praising them.",3,4,8,1,2,4,0,0,302,40011,0,0,0
-1083,21009,glorb_A1009,Innocent Radiance,"A pair of gloves with a design that surpasses art by a hair’s breadth. Once you get used to them, they’re said to be surprisingly cute. Rumor has it the design comes from drawings made on a whim by either a child or a chimpanzee.",3,4,8,1,2,4,0,0,302,40011,0,0,0
+1082,20009,glorb_A0009,Axis of Heaven and Earth,"It's hard to understand the mindset of anyone who would use gloves with such a bizarre design. However, every student who has used these gloves can't stop praising them.",3,4,8,1,2,4,0,0,302,40011,0,0,0
+1083,21009,glorb_A1009,Innocent Radiance,"A pair of gloves with a design that surpasses art by a hair's breadth. Once you get used to them, they're said to be surprisingly cute. Rumor has it the design comes from drawings made on a whim by either a child or a chimpanzee.",3,4,8,1,2,4,0,0,302,40011,0,0,0
 1084,20008,glorb_A0008,Battle Claw,"A pair of gloves said to have been used mainly in large-scale battles in ancient times. They have since been modified for hunting monsters, but their overwhelming and intimidating presence remains unchanged.",3,4,8,1,2,4,0,0,303,40010,0,0,0
-1085,20010,glorb_A0010,Blade Hand,"This weapon is closer to a blade than a glove. When worn on both arms, it feels as if you’re fighting with two swords. It’s well suited for quick, rapid attacks.",3,4,8,1,2,5,0,0,303,40012,0,0,0
+1085,20010,glorb_A0010,Blade Hand,"This weapon is closer to a blade than a glove. When worn on both arms, it feels as if you're fighting with two swords. It's well suited for quick, rapid attacks.",3,4,8,1,2,5,0,0,303,40012,0,0,0
 1086,20016,glorb_A0016,Eagle Claw,A pair of gloves modeled after the hooked talons of a hawk. They are designed more for tearing attacks than for blunt strikes.,3,4,8,1,2,5,0,0,303,40023,0,0,0
 1087,20011,glorb_A0011,Biting Claws,A pair of gloves designed to look like a monster with its mouth open. The sharp horns growing from the fingertips show just how powerful this weapon is.,3,4,8,1,2,5,0,0,303,40013,0,0,0
 1088,20022,glorb_A0022,Riot Gauntlets,"Gauntlets that convert negative emotions like anger and sadness into strength. After battle, the wearer is said to feel strangely refreshed.",3,4,8,1,2,5,0,0,304,40031,0,0,0
 1089,20006,glorb_A0006,Maxima Gauntlet,Very heavy gloves that slow down attack speed but deliver powerful blows.,3,4,8,1,2,6,0,0,304,0,0,0,0
-1090,20017,glorb_A0017,Windscatter Slash,"Legendary gloves said to be powerful enough to shatter mountains. Their straightforward, sturdy design only adds to the rumor’s credibility.",3,4,8,1,2,6,0,0,304,0,0,0,0
+1090,20017,glorb_A0017,Windscatter Slash,"Legendary gloves said to be powerful enough to shatter mountains. Their straightforward, sturdy design only adds to the rumor's credibility.",3,4,8,1,2,6,0,0,304,0,0,0,0
 1091,20018,glorb_A0018,Ultimate Gauntlets,"As the name suggests, the ultimate pair of gloves. It is said that the gloves themselves choose their wielder.",3,4,8,1,2,6,0,0,304,0,0,0,0
 1092,30003,mura_A0003,Trump Power,It resembles a trumpet that is broken and tattered on all sides.,4,4,1,2,3,0,0,0,0,0,0,0,0
-1093,30013,mura_A0013,Scratch Mixer,"At first listen, it sends a chill down your spine, but if you keep listening, before you know it you’re completely hooked.",0,4,0,0,0,0,0,0,0,0,0,0,0
+1093,30013,mura_A0013,Scratch Mixer,"At first listen, it sends a chill down your spine, but if you keep listening, before you know it you're completely hooked.",0,4,0,0,0,0,0,0,0,0,0,0,0
 1094,30014,mura_A0014,MC MacStar,"A mass-produced version of the Mura used by the legendary MC, MC MacStar. It lets people indulge in nostalgia for MC MacStar, and has been met with an explosive reaction from the public.",0,4,0,0,0,0,0,0,0,0,0,0,0
 1095,30015,mura_A0015,Zigzag Tap,"Because this single Mura can produce a wide variety of tones, it is favored by students who aspire to avant-garde art.",0,4,0,0,0,0,0,0,0,0,0,0,0
-1096,30016,mura_A0016,Magnedio,"When surrounded by students wearing this Mura, with antennas sprouting from all over it, you start to feel as if you’ve wandered onto another planet. Just like its unusual shape, the way it’s used is equally unique.",0,4,0,0,0,0,0,0,0,0,0,0,0
-1097,30018,mura_A0018,Metal Baroque,A Mura designed for combat rather than for dancing or music. Anyone who sees this gleaming metallic Mura can’t help but feel a sense of fear.,0,4,0,0,0,0,0,0,0,0,0,0,0
+1096,30016,mura_A0016,Magnedio,"When surrounded by students wearing this Mura, with antennas sprouting from all over it, you start to feel as if you've wandered onto another planet. Just like its unusual shape, the way it's used is equally unique.",0,4,0,0,0,0,0,0,0,0,0,0,0
+1097,30018,mura_A0018,Metal Baroque,A Mura designed for combat rather than for dancing or music. Anyone who sees this gleaming metallic Mura can't help but feel a sense of fear.,0,4,0,0,0,0,0,0,0,0,0,0,0
 1098,39001,mura_A0011,Bass Clarinet,"A clarinet that excels in low tones. Only fourth-year students or higher can equip it.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",4,4,1,2,3,4,0,0,501,60013,0,0,0
-1099,39002,mura_A0002,German Bongo,"An obvious fake of the Shaman Bongo, but since even first-year students can equip it, it’s surprisingly useful for a knockoff.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",4,4,1,2,3,1,0,0,505,60002,0,0,0
+1099,39002,mura_A0002,German Bongo,"An obvious fake of the Shaman Bongo, but since even first-year students can equip it, it's surprisingly useful for a knockoff.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",4,4,1,2,3,1,0,0,505,60002,0,0,0
 1100,39003,mura_A0004,The DJ βedit,"A beginner afro wig developed so lower-year students can use it. Equipped not only with turntables, but also a state-of-the-art 4-channel mixer. Usable by first-year students.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",4,4,1,2,3,1,0,0,505,60006,0,0,0
-1101,39004,mura_A0005,Flahhi,"A worn-out Fluffy that sounds like it’s lost all its air no matter how you play it. Adjusted so it can be equipped by second-year students or higher.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",4,4,1,2,3,2,0,0,501,60029,0,0,0
+1101,39004,mura_A0005,Flahhi,"A worn-out Fluffy that sounds like it's lost all its air no matter how you play it. Adjusted so it can be equipped by second-year students or higher.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",4,4,1,2,3,2,0,0,501,60029,0,0,0
 1102,39005,mura_A0019,Trial Scarf,"A sample version of the Tam-Tam Muffler. Can be equipped by third-year students or higher.<br>It will be removed during the scheduled maintenance on Thursday, May 11, 2006.",4,4,1,2,3,3,0,0,505,60014,0,0,0
 1103,39006,mura_A0009,Event Pianio,"A Mura that looks like a keyboard and produces sound when pressed. Though it has existed for a long time, it still contains unresolved mysteries, attracting the interest of scholars.",4,5,1,2,3,4,0,0,501,60011,0,0,0
 1104,39007,mura_A1006,골든 팬 플룻 YT,사용법이 간편하고 무게가 가벼워 많은 사람들이 애용하는 황금빛 뮤라. 때문에 리코링 전용 음악 대회도 간간히 열리기도 한다.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,4,4,1,2,3,1,0,0,501,60030,0,0,0
 1105,39008,mura_A1001,브로운 YT,금관 악기 형상의 뮤라.<br>이것은 요구르팅 1주년 기념 선물이라고 한다.,4,4,1,2,3,1,0,0,501,60001,0,0,0
-1106,39009,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one’s spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,1,0,0,501,60013,0,0,0
+1106,39009,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one's spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,1,0,0,501,60013,0,0,0
 1107,39010,mura_A0004,The DJ,A giant rainbow-colored afro wig with a turntable attached.,4,4,1,2,3,2,0,0,505,60006,0,0,0
 1108,39011,mura_A0022,Tabukai,An earring shaped like a skull.,4,4,1,2,3,3,0,0,505,60028,0,0,0
 1109,39012,mura_A1006,Soprano Pan Flute,"A type of pan flute that is lightweight and easy to play, making it popular with many people. It is tuned to produce high notes.",4,4,1,2,3,1,0,0,501,60030,0,0,0
 1110,39013,mura_A1001,Classic Drone,"An early model drone. Unlike the modern drones that have been refined over time, it has a distinct charm and a sense of history.",4,4,1,2,3,1,0,0,501,60001,0,0,0
-1111,39014,mura_A1007,Crash Cymbaline,A Mura called the ‘king of percussion’ by cymbaline players. It’s so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,2,0,0,501,60009,0,0,0
+1111,39014,mura_A1007,Crash Cymbaline,A Mura called the 'king of percussion' by cymbaline players. It's so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,2,0,0,501,60009,0,0,0
 1112,39015,mura_A1002,Mystic Bongo,"A specially crafted shaman bongo passed down through generations. Used only during secret rituals closed to outsiders, it holds great folkloric value.",4,4,1,2,3,2,0,0,505,60002,0,0,0
 1113,39016,mura_A1008,Amati Violin,A master violin crafted by a top-tier artisan. It is said that many of the violins in circulation today were modeled after it.,4,4,1,2,3,3,0,0,501,60032,0,0,0
 1114,39017,mura_A1005,Alto Fluffy,"A golden Fluffy that plays beautiful low tones. When you perform a duet with it, the animals of the forest gather around, captivated by the music.",4,4,1,2,3,3,0,0,501,60029,0,0,0
-1115,39018,mura_A1001,Classic Drone WAM,"An instrument belonging to a certain composer said to haunt the music room. The user is imbued with that composer’s power, improving memory. Might come in handy during exams?<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",4,5,1,2,3,2,0,0,501,60001,0,0,0
+1115,39018,mura_A1001,Classic Drone WAM,"An instrument belonging to a certain composer said to haunt the music room. The user is imbued with that composer's power, improving memory. Might come in handy during exams?<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",4,5,1,2,3,2,0,0,501,60001,0,0,0
 1116,39019,mura_A1007,Cry Cymbaline,"A cymbaline that produces sound as loud as the cry of the yokai “Konaki-jiji.” The key is to handle it as gently as a baby. It is said that when Konaki-jiji cries, earthquakes occur.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",4,5,1,2,3,5,0,0,501,60009,0,0,0
 1117,39020,mura_A1022,Gashadokuro,"A Mura inhabited by the yokai Gashadokuro. It makes noise night after night, making it quite a nuisance. Gashadokuro is said to be a yokai formed from the grudges of the dead.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",4,5,1,2,3,4,0,0,505,60028,0,0,0
 1118,39021,mura_A0009,Pianio LVB,"An instrument belonging to a certain composer said to haunt the music room. At night, it begins composing and playing on the Pianio keys on its own. If misfortune befalls you as a result, accept it as “fate.”<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",4,5,1,2,3,1,0,0,501,60011,0,0,0
-1119,39022,mura_A0020,Tsuina: Demon-Poison Sake,"A powerful sacred sake said to have been the key to defeating the yokai Shuten Doji. Poison to demons, but medicine to humans. The more you drink, the stronger you become—but remember, alcohol is for those 20 and over!<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",4,5,1,2,3,3,0,0,506,60015,0,0,0
+1119,39022,mura_A0020,Tsuina: Demon-Poison Sake,"A powerful sacred sake said to have been the key to defeating the yokai Shuten Doji. Poison to demons, but medicine to humans. The more you drink, the stronger you become - but remember, alcohol is for those 20 and over!<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",4,5,1,2,3,3,0,0,506,60015,0,0,0
 1120,30006,mura_A0006,Pan Flute,"A Mura that is easy to use and lightweight, making it popular with many people. Dedicated Ricoring music competitions are even occasionally held for it.",4,4,1,2,3,1,0,0,501,60030,0,0,0
 1121,31006,mura_A1006,Soprano Pan Flute,"A type of pan flute that is lightweight and easy to play, making it popular with many people. It is tuned to produce high notes.",4,4,1,2,3,1,0,0,501,60030,0,0,0
 1122,30001,mura_A0001,Drone,A Mura shaped like a brass instrument.,4,4,1,2,3,1,0,0,501,60001,0,0,0
 1123,31001,mura_A1001,Classic Drone,"An early model drone. Unlike the modern drones that have been refined over time, it has a distinct charm and a sense of history.",4,4,1,2,3,1,0,0,501,60001,0,0,0
-1124,30011,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one’s spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,1,0,0,501,60013,0,0,0
+1124,30011,mura_A0011,Clarinet,Hearing the lively sound of this light-brown clarinet naturally lifts one's spirits. It is a Mura often used in ensemble performances together with the Cymbaline.,4,4,1,2,3,1,0,0,501,60013,0,0,0
 1125,31011,mura_A1011,Crystal Clarinet,"A clarinet enhanced with embedded crystal whose molecular structure amplifies the sound, producing a clearer tone.",4,4,1,2,3,1,0,0,501,60013,0,0,0
 1126,30007,mura_A0007,Cymbaline,"A Mura that produces an extremely loud and noisy sound. However, when used together with other Muras, it creates a beautiful tone. It is often used during ensemble performances.",4,4,1,2,3,2,0,0,501,60009,0,0,0
-1127,31007,mura_A1007,Crash Cymbaline,A Mura called the ‘king of percussion’ by cymbaline players. It’s so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,2,0,0,501,60009,0,0,0
+1127,31007,mura_A1007,Crash Cymbaline,A Mura called the 'king of percussion' by cymbaline players. It's so loud that its use is said to be restricted outside concert halls.,4,4,1,2,3,2,0,0,501,60009,0,0,0
 1128,30002,mura_A0002,Shaman Bongo,"It has a shape where the outer side is enlarged, with sharp feathers protruding outward.",4,4,1,2,3,2,0,0,505,60002,0,0,0
 1129,31002,mura_A1002,Mystic Bongo,"A specially crafted shaman bongo passed down through generations. Used only during secret rituals closed to outsiders, it holds great folkloric value.",4,4,1,2,3,2,0,0,505,60002,0,0,0
 1130,30004,mura_A0004,The DJ,A giant rainbow-colored afro wig with a turntable attached.,4,4,1,2,3,2,0,0,505,60006,0,0,0
@@ -1137,18 +1137,18 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1135,31005,mura_A1005,Alto Fluffy,"A golden Fluffy that plays beautiful low tones. When you perform a duet with it, the animals of the forest gather around, captivated by the music.",4,4,1,2,3,3,0,0,501,60029,0,0,0
 1136,30022,mura_A0022,Tabukai,An earring shaped like a skull.,4,4,1,2,3,3,0,0,505,60028,0,0,0
 1137,31022,mura_A1022,Ethnic Tabukai,"A Tabukai said to have been discovered in ancient ruins in Central and South America. Believed impossible to create with the technology of that era, it has stirred debate in the archaeological community.",4,4,1,2,3,3,0,0,505,60028,0,0,0
-1138,30019,mura_A0019,Tam-Tam Scarf,"This Mura is perfect for cold weather, and in winter it’s often used as a fashion item as well.",4,4,1,2,3,4,0,0,505,60014,0,0,0
+1138,30019,mura_A0019,Tam-Tam Scarf,"This Mura is perfect for cold weather, and in winter it's often used as a fashion item as well.",4,4,1,2,3,4,0,0,505,60014,0,0,0
 1139,31019,mura_A1019,Tom-Tom Scarf,"This winter, this is the must-have! Stand out with the latest fashion!",4,4,1,2,3,4,0,0,505,60014,0,0,0
 1140,30017,mura_A0017,Angelic Voice,A wing-shaped Mura said to have been left behind by an angel who returned to the heavens. Intended for upper-grade students.,4,4,1,2,3,4,0,0,501,60024,0,0,0
 1141,31017,mura_A1017,Luciferic Voice,"A Mura shaped like black wings, said to have been left behind on earth by an angel who betrayed God out of jealousy toward humans and fell into hell.",4,4,1,2,3,4,0,0,501,60024,0,0,0
 1142,30009,mura_A0009,Pianio,"A Mura that looks like a keyboard and actually produces sound when its keys are pressed. Although it has existed for a long time, some aspects of its structure remain unexplained, attracting the interest of scholars.",4,4,1,2,3,4,0,0,501,60011,0,0,0
 1143,30020,mura_A0020,Doburock,"A Mura whose power everyone acknowledges. However, continued use might lead to alcohol poisoning, so be careful. Remember: alcohol is for those 20 and older!",4,4,1,2,3,5,0,0,506,60015,0,0,0
-1144,30010,mura_A0010,Buzzanova,"A Mura whose lively and cheerful movements stand out more than its sound. Each time the wearer shakes their head, its flashy appearance captures everyone’s attention.",4,4,1,2,3,5,0,0,502,60012,0,0,0
-1145,30012,mura_A0012,Ugi Ugi,"A Mura said to have been made and used for performances by a once-famous musician. It’s said to represent the musician himself, though it’s unclear whether that refers to his musical sense… or his face.",4,4,1,2,3,5,0,0,506,60020,0,0,0
+1144,30010,mura_A0010,Buzzanova,"A Mura whose lively and cheerful movements stand out more than its sound. Each time the wearer shakes their head, its flashy appearance captures everyone's attention.",4,4,1,2,3,5,0,0,502,60012,0,0,0
+1145,30012,mura_A0012,Ugi Ugi,"A Mura said to have been made and used for performances by a once-famous musician. It's said to represent the musician himself, though it's unclear whether that refers to his musical sense… or his face.",4,4,1,2,3,5,0,0,506,60020,0,0,0
 1146,30021,mura_A0021,Utanka,A large circular earring with a carved face.,4,4,1,2,3,6,0,0,504,0,0,0,0
 1147,30023,mura_A0023,Pink Serpent,귀여운 핑크빛 뱀의 형상을 한 뮤라.,4,4,1,2,3,6,0,0,503,0,0,0,0
 1148,30024,mura_A0024,블랙 카마엘,"거대한 날개 장식이 섹시한 느낌을 풍기는, 성인 취향의 뮤라.",4,4,1,2,3,6,0,0,503,0,0,0,0
-1149,30025,mura_A0025,Drone Anna,"To commemorate Anna taking first place in the 2006 ‘Spring General Election!’<br>this original Mura was created based on a drone. Its name was also chosen through a public contest, making it a symbol of the friendship between Anna and everyone!",4,4,1,2,3,1,0,0,501,60001,0,0,0
+1149,30025,mura_A0025,Drone Anna,"To commemorate Anna taking first place in the 2006 'Spring General Election!'<br>this original Mura was created based on a drone. Its name was also chosen through a public contest, making it a symbol of the friendship between Anna and everyone!",4,4,1,2,3,1,0,0,501,60001,0,0,0
 1150,40007,spirit_A0007,Lifeguard,"Originally created to fight ancient vampires, this spirit is now mainly used for medical treatment in hospitals. Its red cross mark is distinctive.",0,4,0,0,0,0,0,0,0,0,0,0,0
 1151,40011,spirit_A0011,Ice Mantle,"Not only the target of the attack, but the user also feels the cold.",0,4,0,0,0,0,0,0,0,0,0,0,0
 1152,40017,spirit_A0017,Mephisto,A spirit named after the great demon an expedition reportedly encountered while investigating the cause of the EVP phenomenon.,0,4,0,0,0,0,0,0,0,0,0,0,0
@@ -1174,7 +1174,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1172,49018,spirit_A1001,Aquamarine KP,"A spirit containing the yokai “Kappa,” said to dwell near water and drag passersby into the depths. Toss a cucumber inside and its power might double?<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",5,5,4,2,4,5,0,0,701,80001,0,0,0
 1173,49019,spirit_A1010,Ao Andon,"A pale blue paper lantern containing the “Kijo,” said to appear at the end of a hundred ghost stories. Sure to be a must-have item for staying cool during the summer!?<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",5,5,4,2,4,1,0,0,702,80011,0,0,0
 1174,49020,spirit_A1008,Cursed Bomber Wing,"A machine built around the yokai “Kasha,” said to appear at funerals and graveyards to steal corpses, with multiple aero parts docked onto it! Its welcoming flame attack can take down even ghosts in one hit!?<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",5,5,4,2,4,2,0,0,702,80009,0,0,0
-1175,49021,spirit_A0014,Kesaram Horn,"A horn-shaped spirit that lets you raise the yokai “Kesaran Pasaran.” Be careful—its food, face powder, is sold separately. Raise it well and find happiness.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",5,5,4,2,4,3,0,0,701,80015,0,0,0
+1175,49021,spirit_A0014,Kesaram Horn,"A horn-shaped spirit that lets you raise the yokai “Kesaran Pasaran.” Be careful - its food, face powder, is sold separately. Raise it well and find happiness.<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",5,5,4,2,4,3,0,0,701,80015,0,0,0
 1176,49022,spirit_A0018,Ox-Head Demon,"A spirit formed from the head of “Gozuki,” a prison demon with the head of an ox and the body of a human who torments the dead. The constant chewing sounds and foul breath are hard to ignore, but its power is outstanding!<br>(It will become non-tradeable on August 17, 2006, and will be removed on August 24.)",5,5,4,2,4,4,0,0,701,80029,0,0,0
 1177,40001,spirit_A0001,Aquamarine,A spirit that summons a water elemental.,5,4,4,2,4,1,0,0,701,80001,0,0,0
 1178,41001,spirit_A1001,Aquamarine C,"A spirit that summons a water spirit. Its moisture contains vitamin C, which is said to help keep the skin firm.",5,4,4,2,4,1,0,0,701,80001,0,0,0
@@ -1188,7 +1188,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1186,41019,spirit_A1019,Lucky Turtle Plate,"A rare golden turtle long believed to bring wealth and longevity. Biologically, it is thought to be an albino, a white mutation.",5,4,4,2,4,2,0,0,702,80028,0,0,0
 1187,40010,spirit_A0010,Yasha Lantern,An Eastern-style lantern worn on the back. Legend says two yasha who once ravaged the world long ago were sealed inside it.,5,4,4,2,4,2,0,0,702,80011,0,0,0
 1188,41010,spirit_A1010,Yasha Andon,An Eastern-style lamp that can summon a yasha that became a guardian deity in Buddhism. This type of lamp is called an andon.,5,4,4,2,4,2,0,0,702,80011,0,0,0
-1189,40008,spirit_A0008,Winged Bomb,"A winged bomb. Wearing it might make others see you as dangerous, but it’s effective when taking down large numbers of monsters.",5,4,4,2,4,3,0,0,702,80009,0,0,0
+1189,40008,spirit_A0008,Winged Bomb,"A winged bomb. Wearing it might make others see you as dangerous, but it's effective when taking down large numbers of monsters.",5,4,4,2,4,3,0,0,702,80009,0,0,0
 1190,41008,spirit_A1008,Bomber Wing Kai,"An improved Bomber Wing that has been successfully made lighter, while keeping the same power as before.",5,4,4,2,4,3,0,0,702,80009,0,0,0
 1191,40020,spirit_A0020,Exo Topaz,A weapon used to defeat evil spirits.,5,4,4,2,4,3,0,0,701,80027,0,0,0
 1192,41020,spirit_A1020,Exo Jade,"A spirit used to banish evil spirits. It is studded with jade, believed to have protective powers.",5,4,4,2,4,3,0,0,701,80027,0,0,0
@@ -1196,7 +1196,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1194,41004,spirit_A1004,Grave Digger,A coffin-shaped spirit said to contain the vengeful ghost of someone buried alive. If you keep using it for too long…,5,4,4,2,4,3,0,0,701,80004,0,0,0
 1195,40006,spirit_A0006,Vampire Trunk,A spirit rarely used because the rows of fangs growing from it look so unsettling.,5,4,4,2,4,4,0,0,701,80007,0,0,0
 1196,41006,spirit_A1006,Gargoyle Trunk,A spirit that seals a monster created to guard buildings.,5,4,4,2,4,4,0,0,701,80007,0,0,0
-1197,40013,spirit_A0013,Valkyrie Wing,"Using its skill summons a mythic warrior maiden who throws a spear. Rumor has it that if its true power is unlocked, it can fly—but no one has ever managed to do so.",5,4,4,2,4,4,0,0,701,80014,0,0,0
+1197,40013,spirit_A0013,Valkyrie Wing,"Using its skill summons a mythic warrior maiden who throws a spear. Rumor has it that if its true power is unlocked, it can fly - but no one has ever managed to do so.",5,4,4,2,4,4,0,0,701,80014,0,0,0
 1198,41013,spirit_A1013,Bloody Valkyrie,A spirit once used by a Valkyrie who collected the souls of fallen heroes. Its wings are stained with the blood of those heroes.,5,4,4,2,4,4,0,0,701,80014,0,0,0
 1199,40014,spirit_A0014,Seraphim Horn,"A horn-shaped spirit that summons the angel Seraphim. It appears to be bound in chains, leaving one to wonder what exactly is sealed inside.",5,4,4,2,4,4,0,0,701,80015,0,0,0
 1200,40015,spirit_A0015,Blue Hope,A spirit with a large deep blue gemstone set in its center.,5,4,4,2,4,5,0,0,701,80017,0,0,0
@@ -1239,10 +1239,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1237,50032,special_F0005,Lab Coat,Estiva Academy Science Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
 1238,50033,foot_F0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
 1239,50034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estiva Academy.,6,4,1,2,0,0,1,1,0,0,0,0,0
-1240,50035,etc_be050035,Stefano’s Handkerchief,Butler Stefano’s handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,0
-1241,50036,etc_be050036,Page’s Handkerchief,Librarian Page’s handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,0
-1242,50037,etc_be050037,Strange Bear’s Handkerchief,Strange Bear’s handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,0
-1243,50038,etc_be050038,Bianca’s Handkerchief,"Professor Bianca’s lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,0
+1240,50035,etc_be050035,Stefano's Handkerchief,Butler Stefano's handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,0
+1241,50036,etc_be050036,Page's Handkerchief,Librarian Page's handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,0
+1242,50037,etc_be050037,Strange Bear's Handkerchief,Strange Bear's handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,0
+1243,50038,etc_be050038,Bianca's Handkerchief,"Professor Bianca's lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,0
 1244,50039,special_F0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
 1245,50040,foot_F0007,Animal Care Shoes,Estiva Academy Animal Care Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
 1246,50041,cap_F0007,Cat Ears,Estiva Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
@@ -1258,9 +1258,9 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1256,50051,foot_M0008,Safari Shoes,Estiva Academy Exploration Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
 1257,50052,cap_M0008,Safari Hat,Estiva Academy Exploration Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
 1258,50053,etc_be050053,Sweat It Out! Madame Namaniel,A photo book of Madame Namaniel striking sultry poses in an extremely hot sauna. Just looking at it will make you feel hot.,9,4,0,0,0,0,0,0,0,0,0,0,0
-1259,50054,etc_be050054,Naughty Cover Book,"A book with only a naughty cover. The contents are actually complicated and difficult English academic papers. These days, even kindergarteners wouldn’t be fooled by such a trick.",9,4,0,0,0,0,0,0,0,0,0,0,0
+1259,50054,etc_be050054,Naughty Cover Book,"A book with only a naughty cover. The contents are actually complicated and difficult English academic papers. These days, even kindergarteners wouldn't be fooled by such a trick.",9,4,0,0,0,0,0,0,0,0,0,0,0
 1260,50055,special_M0006,Waiter Uniform,Estiva Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
-1261,50056,foot_M0006,Waiter Shoes,Men’s shoes that match the Estiva Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1261,50056,foot_M0006,Waiter Shoes,Men's shoes that match the Estiva Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,0,0
 1262,50057,special_F0006,Waitress Uniform,Estiva Academy shop part-time uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
 1263,50058,foot_F0006,Waitress Shoes,Cute shoes that match the Estiva Academy shop part-time uniform. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
 1264,50059,cap_F0006,Headband,A cute headband that keeps your hair neatly in place while working. For female students of Estiva Academy.,6,4,1,2,0,0,2,1,0,0,0,0,0
@@ -1371,10 +1371,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1369,50164,lower_F0021,Cheerleader Gloves,Estiva Academy Cheer Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,0
 1370,50165,foot_F0025,Cheer Shoes,Estiva Academy Cheer Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
 1371,50166,tool_F0025,Cheer Props,Estiva Academy Cheer Club props for female students.,6,4,16,2,0,0,2,1,0,0,0,0,0
-1372,50167,upper_M0024,Gentleman’s Suit,Estiva Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1373,50168,lower_M0024,Gentleman’s Pants,Estiva Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1372,50167,upper_M0024,Gentleman's Suit,Estiva Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1373,50168,lower_M0024,Gentleman's Pants,Estiva Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
 1374,50169,cap_M0024,Top Hat,Estiva Academy Tea Time Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
-1375,50170,foot_M0024,Gentleman’s Shoes,Estiva Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1375,50170,foot_M0024,Gentleman's Shoes,Estiva Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
 1376,50171,special_F0024,Mademoiselle Dress,Estiva Academy Tea Time Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
 1377,50172,cap_F0024,Mademoiselle Hat,Estiva Academy Tea Time Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
 1378,50173,foot_F0024,Mademoiselle Shoes,Estiva Academy Tea Time Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
@@ -1540,8 +1540,8 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1538,59903,special_GMF0001,Disciplinary Committee Uniform,A custom-made outfit for a beautiful female disciplinary committee member. Grants the wearer comfort and charisma.,12,7,196,1,0,0,2,0,0,0,0,0,0
 1539,59904,foot_GMF0001,Disciplinary Committee Shoes,"Comfortable shoes made with the new material Ntixum, offering high elasticity and rigidity",13,7,256,1,0,0,2,0,0,0,0,0,0
 1540,59905,cap_GMA0001,Disciplinary Committee Hat,Engraved with a windmill emblem in a harmonious blend of green and black,6,7,1,2,0,0,0,0,0,0,0,0,0
-1541,59906,special_M9004,Class Representative Uniform,~Class Representative’s Three Rules~<br>1. Greet others.<br>2. Never forget your original intention.<br>3. Never lose your individuality.,12,7,448,1,0,0,1,0,0,0,0,0,0
-1542,59907,special_F9004,Class Representative Uniform,~Class Representative’s Three Rules~<br>1. Greet others.<br>2. Never forget your original resolve.<br>3. Never lose your individuality.,12,7,448,1,0,0,2,0,0,0,0,0,0
+1541,59906,special_M9004,Class Representative Uniform,~Class Representative's Three Rules~<br>1. Greet others.<br>2. Never forget your original intention.<br>3. Never lose your individuality.,12,7,448,1,0,0,1,0,0,0,0,0,0
+1542,59907,special_F9004,Class Representative Uniform,~Class Representative's Three Rules~<br>1. Greet others.<br>2. Never forget your original resolve.<br>3. Never lose your individuality.,12,7,448,1,0,0,2,0,0,0,0,0,0
 1543,51282,upper_M0022,Robotic Jacket,Estiva Academy Robotics Club uniform for male students.,6,7,64,1,0,0,1,1,0,0,0,0,0
 1544,51283,lower_M0022,Robotic Pants,Estiva Academy Robotics Club pants for male students.,6,7,128,1,0,0,1,1,0,0,0,0,0
 1545,51284,foot_M0022,Robotic Boots,Estiva Academy Robotics Club boots for male students.,6,7,256,1,0,0,1,1,0,0,0,0,0
@@ -1568,10 +1568,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1566,51221,special_F1024,Dim Sum Dress,Sowol Academy Dim Sum Club uniform for female students.,6,7,192,1,0,0,2,2,0,0,0,0,0
 1567,51222,cap_F1024,Dim Sum Hair Buns,Sowol Academy Dim Sum Club hair accessory for female students.,6,7,1,2,0,0,2,2,0,0,0,0,0
 1568,51223,foot_F1024,Dim Sum Shoes,Sowol Academy Dim Sum Club shoes for female students.,6,7,256,1,0,0,2,2,0,0,0,0,0
-1569,51167,upper_M0024,Gentleman’s Suit,Estiva Academy Tea Time Club uniform for male students.,6,7,64,1,0,0,1,1,0,0,0,0,0
-1570,51168,lower_M0024,Gentleman’s Pants,Estiva Academy Tea Time Club uniform for male students.,6,7,128,1,0,0,1,1,0,0,0,0,0
+1569,51167,upper_M0024,Gentleman's Suit,Estiva Academy Tea Time Club uniform for male students.,6,7,64,1,0,0,1,1,0,0,0,0,0
+1570,51168,lower_M0024,Gentleman's Pants,Estiva Academy Tea Time Club uniform for male students.,6,7,128,1,0,0,1,1,0,0,0,0,0
 1571,51169,cap_M0024,Top Hat,Estiva Academy Tea Time Club hat for male students.,6,7,1,2,0,0,1,1,0,0,0,0,0
-1572,51170,foot_M0024,Gentleman’s Shoes,Estiva Academy Tea Time Club shoes for male students.,6,7,256,1,0,0,1,1,0,0,0,0,0
+1572,51170,foot_M0024,Gentleman's Shoes,Estiva Academy Tea Time Club shoes for male students.,6,7,256,1,0,0,1,1,0,0,0,0,0
 1573,51171,special_F0024,Mademoiselle Dress,Estiva Academy Tea Time Club uniform for female students.,6,7,192,1,0,0,2,1,0,0,0,0,0
 1574,51172,cap_F0024,Mademoiselle Hat,Estiva Academy Tea Time Club hat for female students.,6,7,1,2,0,0,2,1,0,0,0,0,0
 1575,51173,foot_F0024,Mademoiselle Shoes,Estiva Academy Tea Time Club shoes for female students.,6,7,256,1,0,0,2,1,0,0,0,0,0
@@ -1608,30 +1608,30 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1606,51204,lower_M1016,하복 하의,소월학원의 남학생 여름용 교복<br>동호회 여러분께 선물로 드립니다~,6,5,128,1,0,0,1,2,0,0,0,0,0
 1607,51205,upper_F1016,하복 상의,소월학원의 여학생 여름용 교복<br>동호회 여러분께 선물로 드립니다~,6,5,64,1,0,0,2,2,0,0,0,0,0
 1608,51206,lower_F1016,하복 하의,소월학원의 여학생 여름용 교복<br>동호회 여러분께 선물로 드립니다~,6,5,128,1,0,0,2,2,0,0,0,0,0
-1609,59009,cap_M9008,Soccer Support Headband,Let’s all cheer for the World Cup! For Male Students,6,5,1,2,0,0,1,0,0,0,0,0,0
-1610,59010,upper_M9008,Soccer Support Tank Top,Let’s all cheer for the World Cup! For Male Students,6,5,64,1,0,0,1,0,0,0,0,0,0
-1611,59011,lower_M9008,Soccer Support Pants,Let’s all cheer for the World Cup! For Male Students,6,5,128,1,0,0,1,0,0,0,0,0,0
-1612,59012,foot_M9008,Soccer Support Shoes,Let’s all cheer for the World Cup! For Male Students,6,5,256,1,0,0,1,0,0,0,0,0,0
-1613,59013,cap_F9008,Soccer Support Headband,Let’s all cheer for the World Cup! For Female Students,6,5,1,2,0,0,2,0,0,0,0,0,0
-1614,59014,upper_F9008,Soccer Support Tube Top,Let’s all cheer for the World Cup! For Female Students,6,5,64,1,0,0,2,0,0,0,0,0,0
-1615,59015,lower_F9008,Soccer Support Pants,Let’s all cheer for the World Cup! For Female Students,6,5,128,1,0,0,2,0,0,0,0,0,0
-1616,59016,foot_F9008,Soccer Support Boots,Let’s all cheer for the World Cup! For Female Students,6,5,256,1,0,0,2,0,0,0,0,0,0
-1617,59017,cap_M9009,Soccer Support Headband,Let’s all cheer for Team Japan! For Male Students,6,7,1,2,0,0,1,0,0,0,0,0,0
-1618,59018,upper_M9009,Soccer Support Tank Top,Let’s all cheer for Team Japan! For Male Students,6,7,64,1,0,0,1,0,0,0,0,0,0
-1619,59019,lower_M9009,Soccer Support Pants,Let’s all cheer for Team Japan! For Male Students,6,7,128,1,0,0,1,0,0,0,0,0,0
-1620,59020,foot_M9009,Soccer Support Shoes,Let’s all cheer for Team Japan! For Male Students,6,7,256,1,0,0,1,0,0,0,0,0,0
-1621,59021,cap_F9009,Soccer Support Headband,Let’s all cheer for Team Japan! For Female Students,6,7,1,2,0,0,2,0,0,0,0,0,0
-1622,59022,upper_F9009,Soccer Support Tube Top,Let’s all cheer for Team Japan! For Female Students,6,7,64,1,0,0,2,0,0,0,0,0,0
-1623,59023,lower_F9009,Soccer Support Pants,Let’s all cheer for Team Japan! For Female Students,6,7,128,1,0,0,2,0,0,0,0,0,0
-1624,59024,foot_F9009,Soccer Support Boots,Let’s all cheer for Team Japan! For Female Students,6,7,256,1,0,0,2,0,0,0,0,0,0
-1625,59025,cap_M9010,Soccer Support Headband,Let’s all cheer for the World Cup! For Male Students,6,5,1,2,0,0,1,0,0,0,0,0,0
-1626,59026,upper_M9010,Soccer Support Tank Top,Let’s all cheer for the World Cup! For Male Students,6,5,64,1,0,0,1,0,0,0,0,0,0
-1627,59027,lower_M9010,Soccer Support Pants,Let’s all cheer for the World Cup! For Male Students,6,5,128,1,0,0,1,0,0,0,0,0,0
-1628,59028,foot_M9010,Soccer Support Shoes,Let’s all cheer for the World Cup! For Male Students,6,5,256,1,0,0,1,0,0,0,0,0,0
-1629,59029,cap_F9010,Soccer Support Headband,Let’s all cheer for the World Cup! For Female Students,6,5,1,2,0,0,2,0,0,0,0,0,0
-1630,59030,upper_F9010,Soccer Support Tube Top,Let’s all cheer for the World Cup! For Female Students,6,5,64,1,0,0,2,0,0,0,0,0,0
-1631,59031,lower_F9010,Soccer Support Pants,Let’s all cheer for the World Cup! For Female Students,6,5,128,1,0,0,2,0,0,0,0,0,0
-1632,59032,foot_F9010,Soccer Support Boots,Let’s all cheer for the World Cup! For Female Students,6,5,256,1,0,0,2,0,0,0,0,0,0
+1609,59009,cap_M9008,Soccer Support Headband,Let's all cheer for the World Cup! For Male Students,6,5,1,2,0,0,1,0,0,0,0,0,0
+1610,59010,upper_M9008,Soccer Support Tank Top,Let's all cheer for the World Cup! For Male Students,6,5,64,1,0,0,1,0,0,0,0,0,0
+1611,59011,lower_M9008,Soccer Support Pants,Let's all cheer for the World Cup! For Male Students,6,5,128,1,0,0,1,0,0,0,0,0,0
+1612,59012,foot_M9008,Soccer Support Shoes,Let's all cheer for the World Cup! For Male Students,6,5,256,1,0,0,1,0,0,0,0,0,0
+1613,59013,cap_F9008,Soccer Support Headband,Let's all cheer for the World Cup! For Female Students,6,5,1,2,0,0,2,0,0,0,0,0,0
+1614,59014,upper_F9008,Soccer Support Tube Top,Let's all cheer for the World Cup! For Female Students,6,5,64,1,0,0,2,0,0,0,0,0,0
+1615,59015,lower_F9008,Soccer Support Pants,Let's all cheer for the World Cup! For Female Students,6,5,128,1,0,0,2,0,0,0,0,0,0
+1616,59016,foot_F9008,Soccer Support Boots,Let's all cheer for the World Cup! For Female Students,6,5,256,1,0,0,2,0,0,0,0,0,0
+1617,59017,cap_M9009,Soccer Support Headband,Let's all cheer for Team Japan! For Male Students,6,7,1,2,0,0,1,0,0,0,0,0,0
+1618,59018,upper_M9009,Soccer Support Tank Top,Let's all cheer for Team Japan! For Male Students,6,7,64,1,0,0,1,0,0,0,0,0,0
+1619,59019,lower_M9009,Soccer Support Pants,Let's all cheer for Team Japan! For Male Students,6,7,128,1,0,0,1,0,0,0,0,0,0
+1620,59020,foot_M9009,Soccer Support Shoes,Let's all cheer for Team Japan! For Male Students,6,7,256,1,0,0,1,0,0,0,0,0,0
+1621,59021,cap_F9009,Soccer Support Headband,Let's all cheer for Team Japan! For Female Students,6,7,1,2,0,0,2,0,0,0,0,0,0
+1622,59022,upper_F9009,Soccer Support Tube Top,Let's all cheer for Team Japan! For Female Students,6,7,64,1,0,0,2,0,0,0,0,0,0
+1623,59023,lower_F9009,Soccer Support Pants,Let's all cheer for Team Japan! For Female Students,6,7,128,1,0,0,2,0,0,0,0,0,0
+1624,59024,foot_F9009,Soccer Support Boots,Let's all cheer for Team Japan! For Female Students,6,7,256,1,0,0,2,0,0,0,0,0,0
+1625,59025,cap_M9010,Soccer Support Headband,Let's all cheer for the World Cup! For Male Students,6,5,1,2,0,0,1,0,0,0,0,0,0
+1626,59026,upper_M9010,Soccer Support Tank Top,Let's all cheer for the World Cup! For Male Students,6,5,64,1,0,0,1,0,0,0,0,0,0
+1627,59027,lower_M9010,Soccer Support Pants,Let's all cheer for the World Cup! For Male Students,6,5,128,1,0,0,1,0,0,0,0,0,0
+1628,59028,foot_M9010,Soccer Support Shoes,Let's all cheer for the World Cup! For Male Students,6,5,256,1,0,0,1,0,0,0,0,0,0
+1629,59029,cap_F9010,Soccer Support Headband,Let's all cheer for the World Cup! For Female Students,6,5,1,2,0,0,2,0,0,0,0,0,0
+1630,59030,upper_F9010,Soccer Support Tube Top,Let's all cheer for the World Cup! For Female Students,6,5,64,1,0,0,2,0,0,0,0,0,0
+1631,59031,lower_F9010,Soccer Support Pants,Let's all cheer for the World Cup! For Female Students,6,5,128,1,0,0,2,0,0,0,0,0,0
+1632,59032,foot_F9010,Soccer Support Boots,Let's all cheer for the World Cup! For Female Students,6,5,256,1,0,0,2,0,0,0,0,0,0
 1633,59033,upper_M9011,Soccer Uniform,Commemorative World Cup Uniform. Feel like a member of Team Japan! For Male Students,6,5,64,1,0,0,1,0,0,0,0,0,0
 1634,59034,lower_M9011,Soccer Shorts,Commemorative World Cup Uniform. Feel like a member of Team Japan! For Male Students,6,5,128,1,0,0,1,0,0,0,0,0,0
 1635,59035,foot_M9011,Soccer Shoes,Commemorative World Cup Uniform. Feel like a member of Team Japan! For Male Students,6,5,256,1,0,0,1,0,0,0,0,0,0
@@ -1650,14 +1650,14 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1648,59048,upper_F9013,Soccer Uniform,Commemorative World Cup Uniform. Feel like a member of Team Japan! For Female Students,6,5,64,1,0,0,2,0,0,0,0,0,0
 1649,59049,lower_F9013,Soccer Shorts,Commemorative World Cup Uniform. Feel like a member of Team Japan! For Female Students,6,5,128,1,0,0,2,0,0,0,0,0,0
 1650,59050,foot_F9013,Soccer Shoes,Commemorative World Cup Uniform. Feel like a member of Team Japan! For Female Students,6,5,256,1,0,0,2,0,0,0,0,0,0
-1651,59051,cap_M9014,Headgear M,"A giant headpiece that completely hides your face. Even if you’re going for a cool image, this lets you cheer at the top of your lungs! For Male Use",6,5,1,2,0,0,1,0,0,0,0,0,0
-1652,59052,cap_M9015,Headgear A,"A giant headpiece that completely hides your face. Even if you’re going for a cool image, this lets you cheer at the top of your lungs! For Male Use",6,5,1,2,0,0,1,0,0,0,0,0,0
-1653,59053,cap_M9016,Headgear H,"A giant headpiece that completely hides your face. Even if you’re going for a cool image, this lets you cheer at the top of your lungs! For Male Use",6,5,1,2,0,0,1,0,0,0,0,0,0
-1654,59054,cap_F9014,Headgear M,"A giant headpiece that completely hides your face. Even if you’re going for a refined image, this lets you cheer at the top of your lungs! For Female Use",6,5,1,2,0,0,2,0,0,0,0,0,0
-1655,59055,cap_F9015,Headgear A,"A giant headpiece that completely hides your face. Even if you’re going for a refined image, this lets you cheer at the top of your lungs! For Female Use",6,5,1,2,0,0,2,0,0,0,0,0,0
-1656,59056,cap_F9016,Headgear H,"A giant headpiece that completely hides your face. Even if you’re going for a refined image, this lets you cheer at the top of your lungs! For Female Use",6,5,1,2,0,0,2,0,0,0,0,0,0
-1657,59057,special_M9017,Rainbow Swimsuit,"A flashy, vividly colored swimsuit.<br>Guaranteed to draw attention—from admiring looks to icy stares!",6,4,192,1,0,0,1,0,0,0,0,0,0
-1658,59058,special_F9017,White School Swimsuit,"A pure white school swimsuit.<br>With its innocent look, it’s sure to capture all the boys’ attention!",6,4,192,1,0,0,2,0,0,0,0,0,0
+1651,59051,cap_M9014,Headgear M,"A giant headpiece that completely hides your face. Even if you're going for a cool image, this lets you cheer at the top of your lungs! For Male Use",6,5,1,2,0,0,1,0,0,0,0,0,0
+1652,59052,cap_M9015,Headgear A,"A giant headpiece that completely hides your face. Even if you're going for a cool image, this lets you cheer at the top of your lungs! For Male Use",6,5,1,2,0,0,1,0,0,0,0,0,0
+1653,59053,cap_M9016,Headgear H,"A giant headpiece that completely hides your face. Even if you're going for a cool image, this lets you cheer at the top of your lungs! For Male Use",6,5,1,2,0,0,1,0,0,0,0,0,0
+1654,59054,cap_F9014,Headgear M,"A giant headpiece that completely hides your face. Even if you're going for a refined image, this lets you cheer at the top of your lungs! For Female Use",6,5,1,2,0,0,2,0,0,0,0,0,0
+1655,59055,cap_F9015,Headgear A,"A giant headpiece that completely hides your face. Even if you're going for a refined image, this lets you cheer at the top of your lungs! For Female Use",6,5,1,2,0,0,2,0,0,0,0,0,0
+1656,59056,cap_F9016,Headgear H,"A giant headpiece that completely hides your face. Even if you're going for a refined image, this lets you cheer at the top of your lungs! For Female Use",6,5,1,2,0,0,2,0,0,0,0,0,0
+1657,59057,special_M9017,Rainbow Swimsuit,"A flashy, vividly colored swimsuit.<br>Guaranteed to draw attention - from admiring looks to icy stares!",6,4,192,1,0,0,1,0,0,0,0,0,0
+1658,59058,special_F9017,White School Swimsuit,"A pure white school swimsuit.<br>With its innocent look, it's sure to capture all the boys' attention!",6,4,192,1,0,0,2,0,0,0,0,0,0
 1659,59059,special_M9018,Cyber Suit,A futuristic sci-fi style outfit. Will there ever come a day when this becomes everyday wear? For Male Students,6,5,192,1,0,0,1,0,0,0,0,0,0
 1660,59060,hand_M9018,Cyber Gloves,A futuristic sci-fi style outfit. Will there ever come a day when this becomes everyday wear? For Male Students,6,5,8,1,0,0,1,0,0,0,0,0,0
 1661,59061,foot_M9018,Cyber Boots,A futuristic sci-fi style outfit. Will there ever come a day when this becomes everyday wear? For Male Students,6,5,256,1,0,0,1,0,0,0,0,0,0
@@ -1666,12 +1666,12 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1664,59064,hand_F9018,Cyber Gloves,A futuristic sci-fi style outfit. Will there ever come a day when this becomes everyday wear? For Female Students,6,5,8,1,0,0,2,0,0,0,0,0,0
 1665,59065,foot_F9018,Cyber Boots,A futuristic sci-fi style outfit. Will there ever come a day when this becomes everyday wear? For Female Students,6,5,256,1,0,0,2,0,0,0,0,0,0
 1666,59066,cap_F9018,Cyber Headgear,A futuristic sci-fi style outfit. Will there ever come a day when this becomes everyday wear? For Female Students,6,5,1,2,0,0,2,0,0,0,0,0,0
-1667,59067,upper_M9022,Male Film Uniform Consultation,"A uniform that doesn’t exist in this world. A “Uniform Consultation” that appeared with the line, “Because I love you… it’s okay.”",6,5,64,1,0,0,1,0,0,0,0,0,0
-1668,59068,lower_M9022,Movie Uniform Bottom (Male),"A bottom piece of a uniform that doesn’t exist in this world. Appeared with the line, “Because I love you… it’s okay.”",6,5,128,1,0,0,1,0,0,0,0,0,0
-1669,59069,foot_M9022,Movie Uniform Shoes (Male),"Footwear from a uniform that doesn’t exist in this world. Appeared with the line, “Because I love you… it’s okay.”",6,5,256,1,0,0,1,0,0,0,0,0,0
-1670,59070,upper_F9022,Female Film Uniform Consultation,"A uniform that doesn’t exist in this world. A “Uniform Consultation” that appeared with the line, “Because I love you… it’s okay.”",6,5,64,1,0,0,2,0,0,0,0,0,0
-1671,59071,lower_F9022,Movie Uniform Bottom (Female),"A bottom piece of a uniform that doesn’t exist in this world. Appeared with the line, “Because I love you… it’s okay.”",6,5,128,1,0,0,2,0,0,0,0,0,0
-1672,59072,foot_F9022,Movie Uniform Shoes (Female),"Footwear from a uniform that doesn’t exist in this world. Appeared with the line, “Because I love you… it’s okay.”",6,5,256,1,0,0,2,0,0,0,0,0,0
+1667,59067,upper_M9022,Male Film Uniform Consultation,"A uniform that doesn't exist in this world. A “Uniform Consultation” that appeared with the line, “Because I love you… it's okay.”",6,5,64,1,0,0,1,0,0,0,0,0,0
+1668,59068,lower_M9022,Movie Uniform Bottom (Male),"A bottom piece of a uniform that doesn't exist in this world. Appeared with the line, “Because I love you… it's okay.”",6,5,128,1,0,0,1,0,0,0,0,0,0
+1669,59069,foot_M9022,Movie Uniform Shoes (Male),"Footwear from a uniform that doesn't exist in this world. Appeared with the line, “Because I love you… it's okay.”",6,5,256,1,0,0,1,0,0,0,0,0,0
+1670,59070,upper_F9022,Female Film Uniform Consultation,"A uniform that doesn't exist in this world. A “Uniform Consultation” that appeared with the line, “Because I love you… it's okay.”",6,5,64,1,0,0,2,0,0,0,0,0,0
+1671,59071,lower_F9022,Movie Uniform Bottom (Female),"A bottom piece of a uniform that doesn't exist in this world. Appeared with the line, “Because I love you… it's okay.”",6,5,128,1,0,0,2,0,0,0,0,0,0
+1672,59072,foot_F9022,Movie Uniform Shoes (Female),"Footwear from a uniform that doesn't exist in this world. Appeared with the line, “Because I love you… it's okay.”",6,5,256,1,0,0,2,0,0,0,0,0,0
 1673,59073,upper_M9019,Orange Aloha Shirt,Orange Aloha Shirt for Male Students,6,5,64,1,0,0,1,0,0,0,0,0,0
 1674,59074,lower_M9019,Blue Cropped Pants,Blue Cropped Pants for Male Students,6,5,128,1,0,0,1,0,0,0,0,0,0
 1675,59075,foot_M9019,Brown Flip-Flops,Brown-Strap Flip-Flops for Male Students,6,5,256,1,0,0,1,0,0,0,0,0,0
