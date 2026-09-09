@@ -402,65 +402,65 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 400,952035,special_F9017,White School Swimsuit,Slot 5,6,4,192,1,0,5,2,0,0,0,50,5,533333
 401,951435,cap_M9027,Purple School Hat,Slot 5<br>(Cannot be traded),6,5,1,2,0,5,1,0,0,0,50,5,533333
 402,952435,cap_F9027,Purple School Hat,Slot 5<br>(Cannot be traded),6,5,1,2,0,5,2,0,0,0,50,5,533333
-403,150001,upper_M0002,Winter Uniform Jacket,Estivar Academy winter uniform for male students<br>(Cannot be traded/sold),6,7,64,1,0,0,1,1,0,0,0,1,522222
-404,150002,lower_M0002,Winter Uniform Pants,Estivar Academy winter uniform for male students<br>(Cannot be traded/sold),6,7,128,1,0,0,1,1,0,0,0,1,522222
-405,150003,foot_M0002,Winter Uniform Shoes,Estivar Academy winter uniform shoes for male students<br>(Cannot be traded/sold),6,7,256,1,0,0,1,1,0,0,0,1,522222
-406,150004,upper_F0002,Winter Uniform Jacket,Estivar Academy winter uniform for female students<br>(Cannot be traded/sold),6,7,64,1,0,0,2,1,0,0,0,1,522222
-407,150005,lower_F0002,Winter Uniform Skirt,Estivar Academy winter uniform for female students<br>(Cannot be traded/sold),6,7,128,1,0,0,2,1,0,0,0,1,522222
-408,150006,foot_F0002,Winter Uniform Boots,Estivar Academy winter uniform shoes for female students<br>(Cannot be traded/sold),6,7,256,1,0,0,2,1,0,0,0,1,522222
-409,150007,upper_M0001,Summer Uniform Jacket,Estivar Academy summer uniform for male students<br>(Cannot be traded/sold),6,7,64,1,0,0,1,1,0,0,0,1,522222
-410,150008,lower_M0001,Summer Uniform Pants,Estivar Academy summer uniform for male students<br>(Cannot be traded/sold),6,7,128,1,0,0,1,1,0,0,0,1,522222
-411,150009,foot_M0001,Summer Uniform Shoes,Estivar Academy summer uniform shoes for male students<br>(Cannot be traded/sold),6,7,256,1,0,0,1,1,0,0,0,1,522222
-412,150010,upper_F0001,Summer Uniform Jacket,Estivar Academy summer uniform for female students<br>(Cannot be traded/sold),6,7,64,1,0,0,2,1,0,0,0,1,522222
-413,150011,lower_F0001,Summer Uniform Skirt,Estivar Academy summer uniform for female students<br>(Cannot be traded/sold),6,7,128,1,0,0,2,1,0,0,0,1,522222
-414,150012,foot_F0001,Summer Uniform Shoes,Estivar Academy summer uniform shoes for female students<br>(Cannot be traded/sold),6,7,256,1,0,0,2,1,0,0,0,1,522222
-415,150013,special_F0004,Nurse Uniform,Estivar Academy Nursing Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-416,150014,cap_F0004,Nurse Cap,Estivar Academy Nursing Club cap for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
-417,150015,hand_F0004,Nurse Gloves,Estivar Academy Nursing Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,522222
-418,150016,foot_F0004,Nurse Shoes,Estivar Academy Nursing Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-419,150017,back_F0004,First Aid Bag,Estivar Academy Nursing Club bag for female students.,6,4,4,2,0,0,2,1,0,0,0,0,522222
-420,150018,upper_M0004,Nurse Uniform Jacket,Estivar Academy Nursing Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-421,150019,lower_M0004,Nurse Uniform Pants,Estivar Academy Nursing Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-422,150020,hand_M0004,Nurse Gloves,Estivar Academy Nursing Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,522222
-423,150021,foot_M0004,Nurse Shoes,Estivar Academy Nursing Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-424,150022,back_M0004,First Aid Bag,Estivar Academy Nursing Club bag for male students.,8,4,4,2,0,0,1,1,0,0,0,0,522222
-425,150023,upper_F0003,Handicrafts Club Jacket,Estivar Academy Handicrafts Club jacket for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-426,150024,lower_F0003,Handicrafts Club Skirt,Estivar Academy Handicrafts Club skirt for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-427,150025,foot_F0003,Handicrafts Club Shoes,Estivar Academy Handicrafts Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-428,150026,,Handicrafts Club Hat,Estivar Academy Handicrafts Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
-429,150027,upper_M0003,Handicrafts Club Jacket,Estivar Academy Handicrafts Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-430,150028,lower_M0003,Handicrafts Club Pants,Estivar Academy Handicrafts Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-431,150029,foot_M0003,Handicrafts Club Shoes,Estivar Academy Handicrafts Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-432,150030,special_M0005,Lab Coat,Estivar Academy Science Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
-433,150031,foot_M0005,Lab Shoes,Estivar Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-434,150032,special_F0005,Lab Coat,Estivar Academy Science Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-435,150033,foot_F0005,Lab Shoes,Estivar Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-436,150034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estivar Academy.,6,4,1,2,0,0,1,1,0,0,0,0,522222
+403,150001,upper_M0002,Winter Uniform Jacket,Estiva Academy winter uniform for male students<br>(Cannot be traded/sold),6,7,64,1,0,0,1,1,0,0,0,1,522222
+404,150002,lower_M0002,Winter Uniform Pants,Estiva Academy winter uniform for male students<br>(Cannot be traded/sold),6,7,128,1,0,0,1,1,0,0,0,1,522222
+405,150003,foot_M0002,Winter Uniform Shoes,Estiva Academy winter uniform shoes for male students<br>(Cannot be traded/sold),6,7,256,1,0,0,1,1,0,0,0,1,522222
+406,150004,upper_F0002,Winter Uniform Jacket,Estiva Academy winter uniform for female students<br>(Cannot be traded/sold),6,7,64,1,0,0,2,1,0,0,0,1,522222
+407,150005,lower_F0002,Winter Uniform Skirt,Estiva Academy winter uniform for female students<br>(Cannot be traded/sold),6,7,128,1,0,0,2,1,0,0,0,1,522222
+408,150006,foot_F0002,Winter Uniform Boots,Estiva Academy winter uniform shoes for female students<br>(Cannot be traded/sold),6,7,256,1,0,0,2,1,0,0,0,1,522222
+409,150007,upper_M0001,Summer Uniform Jacket,Estiva Academy summer uniform for male students<br>(Cannot be traded/sold),6,7,64,1,0,0,1,1,0,0,0,1,522222
+410,150008,lower_M0001,Summer Uniform Pants,Estiva Academy summer uniform for male students<br>(Cannot be traded/sold),6,7,128,1,0,0,1,1,0,0,0,1,522222
+411,150009,foot_M0001,Summer Uniform Shoes,Estiva Academy summer uniform shoes for male students<br>(Cannot be traded/sold),6,7,256,1,0,0,1,1,0,0,0,1,522222
+412,150010,upper_F0001,Summer Uniform Jacket,Estiva Academy summer uniform for female students<br>(Cannot be traded/sold),6,7,64,1,0,0,2,1,0,0,0,1,522222
+413,150011,lower_F0001,Summer Uniform Skirt,Estiva Academy summer uniform for female students<br>(Cannot be traded/sold),6,7,128,1,0,0,2,1,0,0,0,1,522222
+414,150012,foot_F0001,Summer Uniform Shoes,Estiva Academy summer uniform shoes for female students<br>(Cannot be traded/sold),6,7,256,1,0,0,2,1,0,0,0,1,522222
+415,150013,special_F0004,Nurse Uniform,Estiva Academy Nursing Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+416,150014,cap_F0004,Nurse Cap,Estiva Academy Nursing Club cap for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+417,150015,hand_F0004,Nurse Gloves,Estiva Academy Nursing Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,522222
+418,150016,foot_F0004,Nurse Shoes,Estiva Academy Nursing Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+419,150017,back_F0004,First Aid Bag,Estiva Academy Nursing Club bag for female students.,6,4,4,2,0,0,2,1,0,0,0,0,522222
+420,150018,upper_M0004,Nurse Uniform Jacket,Estiva Academy Nursing Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+421,150019,lower_M0004,Nurse Uniform Pants,Estiva Academy Nursing Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+422,150020,hand_M0004,Nurse Gloves,Estiva Academy Nursing Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,522222
+423,150021,foot_M0004,Nurse Shoes,Estiva Academy Nursing Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+424,150022,back_M0004,First Aid Bag,Estiva Academy Nursing Club bag for male students.,8,4,4,2,0,0,1,1,0,0,0,0,522222
+425,150023,upper_F0003,Handicrafts Club Jacket,Estiva Academy Handicrafts Club jacket for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+426,150024,lower_F0003,Handicrafts Club Skirt,Estiva Academy Handicrafts Club skirt for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+427,150025,foot_F0003,Handicrafts Club Shoes,Estiva Academy Handicrafts Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+428,150026,,Handicrafts Club Hat,Estiva Academy Handicrafts Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+429,150027,upper_M0003,Handicrafts Club Jacket,Estiva Academy Handicrafts Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+430,150028,lower_M0003,Handicrafts Club Pants,Estiva Academy Handicrafts Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+431,150029,foot_M0003,Handicrafts Club Shoes,Estiva Academy Handicrafts Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+432,150030,special_M0005,Lab Coat,Estiva Academy Science Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
+433,150031,foot_M0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+434,150032,special_F0005,Lab Coat,Estiva Academy Science Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+435,150033,foot_F0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+436,150034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estiva Academy.,6,4,1,2,0,0,1,1,0,0,0,0,522222
 437,150035,etc_be050035,Stefano’s Handkerchief,Butler Stefano’s handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,522222
 438,150036,etc_be050036,Page’s Handkerchief,Librarian Page’s handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,522222
 439,150037,etc_be050037,Strange Bear’s Handkerchief,Strange Bear’s handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,522222
 440,150038,etc_be050038,Bianca’s Handkerchief,"Professor Bianca’s lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,522222
-441,150039,special_F0007,Animal Care Uniform,Estivar Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-442,150040,foot_F0007,Animal Care Shoes,Estivar Academy Animal Care Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-443,150041,cap_F0007,Cat Ears,Estivar Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
-444,150042,special_M0007,Animal Care Uniform,Estivar Academy Animal Care Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
-445,150043,foot_M0007,Animal Care Shoes,Estivar Academy Animal Care Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-446,150044,cap_M0007,Dog Ears,Estivar Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
-447,150045,upper_F0008,Safari Shirt,Estivar Academy Exploration Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-448,150046,lower_F0008,Safari Pants,Estivar Academy Exploration Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-449,150047,foot_F0008,Safari Shoes,Estivar Academy Exploration Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-450,150048,cap_F0008,Safari Hat,Estivar Academy Exploration Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
-451,150049,upper_M0008,Safari Shirt,Estivar Academy Exploration Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-452,150050,lower_M0008,Safari Pants,Estivar Academy Exploration Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-453,150051,foot_M0008,Safari Shoes,Estivar Academy Exploration Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-454,150052,cap_M0008,Safari Hat,Estivar Academy Exploration Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
+441,150039,special_F0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+442,150040,foot_F0007,Animal Care Shoes,Estiva Academy Animal Care Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+443,150041,cap_F0007,Cat Ears,Estiva Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+444,150042,special_M0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
+445,150043,foot_M0007,Animal Care Shoes,Estiva Academy Animal Care Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+446,150044,cap_M0007,Dog Ears,Estiva Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
+447,150045,upper_F0008,Safari Shirt,Estiva Academy Exploration Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+448,150046,lower_F0008,Safari Pants,Estiva Academy Exploration Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+449,150047,foot_F0008,Safari Shoes,Estiva Academy Exploration Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+450,150048,cap_F0008,Safari Hat,Estiva Academy Exploration Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+451,150049,upper_M0008,Safari Shirt,Estiva Academy Exploration Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+452,150050,lower_M0008,Safari Pants,Estiva Academy Exploration Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+453,150051,foot_M0008,Safari Shoes,Estiva Academy Exploration Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+454,150052,cap_M0008,Safari Hat,Estiva Academy Exploration Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
 455,150053,etc_be050053,Sweat It Out! Madame Namaniel,A photo book of Madame Namaniel striking sultry poses in an extremely hot sauna. Just looking at it will make you feel hot.,9,4,0,0,0,0,0,0,0,0,0,0,522222
 456,150054,etc_be050054,Naughty Cover Book,"A book with only a naughty cover. The contents are actually complicated and difficult English academic papers. These days, even kindergarteners wouldn’t be fooled by such a trick.",9,4,0,0,0,0,0,0,0,0,0,0,522222
-457,150055,special_M0006,Waiter Uniform,Estivar Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
-458,150056,foot_M0006,Waiter Shoes,Men’s shoes that match the Estivar Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-459,150057,special_F0006,Waitress Uniform,Estivar Academy shop part-time uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-460,150058,foot_F0006,Waitress Shoes,Cute shoes that match the Estivar Academy shop part-time uniform. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-461,150059,cap_F0006,Headband,A cute headband that keeps your hair neatly in place while working. For female students of Estivar Academy.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+457,150055,special_M0006,Waiter Uniform,Estiva Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
+458,150056,foot_M0006,Waiter Shoes,Men’s shoes that match the Estiva Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+459,150057,special_F0006,Waitress Uniform,Estiva Academy shop part-time uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+460,150058,foot_F0006,Waitress Shoes,Cute shoes that match the Estiva Academy shop part-time uniform. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+461,150059,cap_F0006,Headband,A cute headband that keeps your hair neatly in place while working. For female students of Estiva Academy.,6,4,1,2,0,0,2,1,0,0,0,0,522222
 462,150060,upper_M1002,Winter Uniform Jacket,Sowol Academy winter uniform for male students<br>(Cannot be traded/sold),6,7,64,1,0,0,1,2,0,0,0,1,522222
 463,150061,lower_M1002,Winter Uniform Pants,Sowol Academy winter uniform for male students<br>(Cannot be traded/sold),6,7,128,1,0,0,1,2,0,0,0,1,522222
 464,150062,foot_M1002,Winter Uniform Shoes,Sowol Academy winter uniform shoes for male students<br>(Cannot be traded/sold),6,7,256,1,0,0,1,2,0,0,0,1,522222
@@ -502,80 +502,80 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 500,150098,hand_M9001,Santa Gloves,"Striking red-and-white gloves. The palms are made of soft leather, giving them a premium feel.",6,4,8,1,0,0,1,0,0,0,0,0,522222
 501,150099,hand_F9001,Santa Gloves,"Striking red-and-white gloves. The palms are made of soft leather, giving them a premium feel.",6,4,8,1,0,0,2,0,0,0,0,0,522222
 502,150100,hand_F1005,Lab Gloves,Sowol Academy Science Club gloves for female students.,6,4,8,1,0,0,2,2,0,0,0,0,522222
-503,150101,upper_M0009,Basketball Club Uniform,Estivar Academy Basketball Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-504,150102,lower_M0009,Basketball Club Shorts,Estivar Academy Basketball Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-505,150103,foot_M0009,Basketball Shoes,Estivar Academy Basketball Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-506,150104,upper_F0009,Basketball Club Uniform,Estivar Academy Basketball Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-507,150105,lower_F0009,Basketball Club Shorts,Estivar Academy Basketball Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-508,150106,foot_F0009,Basketball Shoes,Estivar Academy Basketball Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-509,150107,special_M0010,Coat,Estivar Academy winter coat for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
-510,150108,special_F0010,Coat,Estivar Academy winter coat for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-511,150109,upper_M0011,Gym Uniform,Estivar Academy gym uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-512,150110,lower_M0011,Shorts,Estivar Academy gym uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-513,150111,upper_F0011,Gym Uniform,Estivar Academy gym uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-514,150112,lower_F0011,Shorts,Estivar Academy gym uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-515,150113,upper_M0012,Training Outfit,Estivar Academy winter training outfit for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-516,150114,lower_M0012,Training Pants,Estivar Academy winter training outfit for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-517,150115,upper_F0012,Training Outfit,Estivar Academy winter training outfit for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-518,150116,lower_F0012,Training Pants,Estivar Academy winter training outfit for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-519,150117,upper_M0013,Cardigan,Estivar Academy cardigan for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-520,150118,upper_F0013,Cardigan,Estivar Academy cardigan for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-521,150119,upper_M0014,Student Council Uniform,Estivar Academy Student Council uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-522,150120,lower_M0014,Student Council Pants,Estivar Academy Student Council uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-523,150121,foot_M0014,Student Council Shoes,Estivar Academy Student Council shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-524,150122,special_F0014,Student Council Uniform,Estivar Academy Student Council uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-525,150123,lower_F0014,Student Council Uniform Skirt,Estivar Academy Student Council uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-526,150124,foot_F0014,Student Council Shoes,Estivar Academy Student Council shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-527,150125,special_M0015,Swimsuit,Estivar Academy Swimming Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
-528,150126,special_F0015,School Swimsuit,Estivar Academy Swimming Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-529,150127,upper_M0016,Summer Uniform Jacket,A variation of the Estivar Academy summer uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-530,150128,lower_M0016,Summer Uniform Pants,A variation of the Estivar Academy summer uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-531,150129,upper_M0017,Winter Uniform Jacket,A variation of the Estivar Academy winter uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-532,150130,upper_F0016,Summer Uniform Jacket,A variation of the Estivar Academy summer uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-533,150131,lower_F0016,Summer Uniform Shorts,A variation of the Estivar Academy summer uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-534,150132,special_F0017,Winter Uniform,A variation of the Estivar Academy winter uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-535,150133,upper_M0026,Gambler Jacket,Estivar Academy Gambling Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-536,150134,lower_M0026,Gambler Pants,Estivar Academy Gambling Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-537,150135,foot_M0026,Gambler Shoes,Estivar Academy Gambling Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-538,150136,upper_F0026,Gambler Jacket,Estivar Academy Gambling Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-539,150137,lower_F0026,Gambler Skirt,Estivar Academy Gambling Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-540,150138,foot_F0026,Gambler Shoes,Estivar Academy Gambling Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-541,150139,upper_M0019,Martial Arts Top,Estivar Academy Martial Arts Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-542,150140,lower_M0019,Martial Arts Pants,Estivar Academy Martial Arts Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-543,150141,hand_M0019,Knuckle Guard,"Estivar Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For male students.",6,4,8,1,0,0,1,1,0,0,0,0,522222
-544,150142,cap_M0019,Guts Headband,Estivar Academy Martial Arts Club headgear. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
-545,150143,foot_M0019,Build-Up Shoes,Estivar Academy Martial Arts Club shoes with built-in weights for training. For male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-546,150144,upper_F0019,Martial Arts Top,Estivar Academy Martial Arts Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-547,150145,lower_F0019,Martial Arts Pants,Estivar Academy Martial Arts Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-548,150146,hand_F0019,Knuckle Guard,"Estivar Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For female students.",6,4,8,1,0,0,2,1,0,0,0,0,522222
-549,150147,cap_F0019,Guts Headband,Estivar Academy Martial Arts Club headgear. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
-550,150148,foot_F0019,Build-Up Shoes,Estivar Academy Martial Arts Club shoes with built-in weights for training. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-551,150149,upper_M0023,Chef Jacket,Estivar Academy Cooking Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-552,150150,lower_M0023,Chef Pants,Estivar Academy Cooking Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-553,150151,cap_M0023,Chef Hat,Estivar Academy Cooking Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
-554,150152,foot_M0023,Chef Shoes,Estivar Academy Cooking Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-555,150153,upper_F0023,Chef Uniform,Estivar Academy Cooking Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-556,150154,lower_F0023,Apron Skirt,Estivar Academy Cooking Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-557,150155,cap_F0023,Chef Hat,Estivar Academy Cooking Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
-558,150156,foot_F0023,Chef Shoes,Estivar Academy Cooking Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-559,150157,upper_M0025,Cheer Uniform Top,Estivar Academy Cheer Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-560,150158,lower_M0025,Cheer Uniform Pants,Estivar Academy Cheer Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-561,150159,hand_M0025,Cheer Gloves,Estivar Academy Cheer Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,522222
-562,150160,foot_M0025,Cheer Shoes,Estivar Academy Cheer Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-563,150161,tool_M0025,Cheer Props,Estivar Academy Cheer Club props for male students.,6,4,16,2,0,0,1,1,0,0,0,0,522222
-564,150162,upper_F0025,Cheer Uniform,Estivar Academy Cheer Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-565,150163,lower_F0025,Cheer Skirt,Estivar Academy Cheer Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-566,150164,lower_F0021,Cheerleader Gloves,Estivar Academy Cheer Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,522222
-567,150165,foot_F0025,Cheer Shoes,Estivar Academy Cheer Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-568,150166,tool_F0025,Cheer Props,Estivar Academy Cheer Club props for female students.,6,4,16,2,0,0,2,1,0,0,0,0,522222
-569,150167,upper_M0024,Gentleman’s Suit,Estivar Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-570,150168,lower_M0024,Gentleman’s Pants,Estivar Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-571,150169,cap_M0024,Top Hat,Estivar Academy Tea Time Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
-572,150170,foot_M0024,Gentleman’s Shoes,Estivar Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-573,150171,special_F0024,Mademoiselle Dress,Estivar Academy Tea Time Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
-574,150172,cap_F0024,Mademoiselle Hat,Estivar Academy Tea Time Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
-575,150173,foot_F0024,Mademoiselle Shoes,Estivar Academy Tea Time Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
-576,150174,tool_F0024,Elegant Fan,Estivar Academy Tea Time Club fan. Female-only prop.,6,4,16,2,0,0,2,1,0,0,0,0,522222
+503,150101,upper_M0009,Basketball Club Uniform,Estiva Academy Basketball Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+504,150102,lower_M0009,Basketball Club Shorts,Estiva Academy Basketball Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+505,150103,foot_M0009,Basketball Shoes,Estiva Academy Basketball Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+506,150104,upper_F0009,Basketball Club Uniform,Estiva Academy Basketball Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+507,150105,lower_F0009,Basketball Club Shorts,Estiva Academy Basketball Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+508,150106,foot_F0009,Basketball Shoes,Estiva Academy Basketball Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+509,150107,special_M0010,Coat,Estiva Academy winter coat for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
+510,150108,special_F0010,Coat,Estiva Academy winter coat for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+511,150109,upper_M0011,Gym Uniform,Estiva Academy gym uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+512,150110,lower_M0011,Shorts,Estiva Academy gym uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+513,150111,upper_F0011,Gym Uniform,Estiva Academy gym uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+514,150112,lower_F0011,Shorts,Estiva Academy gym uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+515,150113,upper_M0012,Training Outfit,Estiva Academy winter training outfit for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+516,150114,lower_M0012,Training Pants,Estiva Academy winter training outfit for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+517,150115,upper_F0012,Training Outfit,Estiva Academy winter training outfit for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+518,150116,lower_F0012,Training Pants,Estiva Academy winter training outfit for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+519,150117,upper_M0013,Cardigan,Estiva Academy cardigan for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+520,150118,upper_F0013,Cardigan,Estiva Academy cardigan for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+521,150119,upper_M0014,Student Council Uniform,Estiva Academy Student Council uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+522,150120,lower_M0014,Student Council Pants,Estiva Academy Student Council uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+523,150121,foot_M0014,Student Council Shoes,Estiva Academy Student Council shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+524,150122,special_F0014,Student Council Uniform,Estiva Academy Student Council uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+525,150123,lower_F0014,Student Council Uniform Skirt,Estiva Academy Student Council uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+526,150124,foot_F0014,Student Council Shoes,Estiva Academy Student Council shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+527,150125,special_M0015,Swimsuit,Estiva Academy Swimming Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,1,522222
+528,150126,special_F0015,School Swimsuit,Estiva Academy Swimming Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+529,150127,upper_M0016,Summer Uniform Jacket,A variation of the Estiva Academy summer uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+530,150128,lower_M0016,Summer Uniform Pants,A variation of the Estiva Academy summer uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+531,150129,upper_M0017,Winter Uniform Jacket,A variation of the Estiva Academy winter uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+532,150130,upper_F0016,Summer Uniform Jacket,A variation of the Estiva Academy summer uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+533,150131,lower_F0016,Summer Uniform Shorts,A variation of the Estiva Academy summer uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+534,150132,special_F0017,Winter Uniform,A variation of the Estiva Academy winter uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+535,150133,upper_M0026,Gambler Jacket,Estiva Academy Gambling Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+536,150134,lower_M0026,Gambler Pants,Estiva Academy Gambling Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+537,150135,foot_M0026,Gambler Shoes,Estiva Academy Gambling Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+538,150136,upper_F0026,Gambler Jacket,Estiva Academy Gambling Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+539,150137,lower_F0026,Gambler Skirt,Estiva Academy Gambling Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+540,150138,foot_F0026,Gambler Shoes,Estiva Academy Gambling Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+541,150139,upper_M0019,Martial Arts Top,Estiva Academy Martial Arts Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+542,150140,lower_M0019,Martial Arts Pants,Estiva Academy Martial Arts Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+543,150141,hand_M0019,Knuckle Guard,"Estiva Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For male students.",6,4,8,1,0,0,1,1,0,0,0,0,522222
+544,150142,cap_M0019,Guts Headband,Estiva Academy Martial Arts Club headgear. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
+545,150143,foot_M0019,Build-Up Shoes,Estiva Academy Martial Arts Club shoes with built-in weights for training. For male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+546,150144,upper_F0019,Martial Arts Top,Estiva Academy Martial Arts Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+547,150145,lower_F0019,Martial Arts Pants,Estiva Academy Martial Arts Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+548,150146,hand_F0019,Knuckle Guard,"Estiva Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For female students.",6,4,8,1,0,0,2,1,0,0,0,0,522222
+549,150147,cap_F0019,Guts Headband,Estiva Academy Martial Arts Club headgear. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+550,150148,foot_F0019,Build-Up Shoes,Estiva Academy Martial Arts Club shoes with built-in weights for training. For female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+551,150149,upper_M0023,Chef Jacket,Estiva Academy Cooking Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+552,150150,lower_M0023,Chef Pants,Estiva Academy Cooking Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+553,150151,cap_M0023,Chef Hat,Estiva Academy Cooking Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
+554,150152,foot_M0023,Chef Shoes,Estiva Academy Cooking Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+555,150153,upper_F0023,Chef Uniform,Estiva Academy Cooking Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+556,150154,lower_F0023,Apron Skirt,Estiva Academy Cooking Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+557,150155,cap_F0023,Chef Hat,Estiva Academy Cooking Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+558,150156,foot_F0023,Chef Shoes,Estiva Academy Cooking Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+559,150157,upper_M0025,Cheer Uniform Top,Estiva Academy Cheer Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+560,150158,lower_M0025,Cheer Uniform Pants,Estiva Academy Cheer Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+561,150159,hand_M0025,Cheer Gloves,Estiva Academy Cheer Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,522222
+562,150160,foot_M0025,Cheer Shoes,Estiva Academy Cheer Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+563,150161,tool_M0025,Cheer Props,Estiva Academy Cheer Club props for male students.,6,4,16,2,0,0,1,1,0,0,0,0,522222
+564,150162,upper_F0025,Cheer Uniform,Estiva Academy Cheer Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+565,150163,lower_F0025,Cheer Skirt,Estiva Academy Cheer Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+566,150164,lower_F0021,Cheerleader Gloves,Estiva Academy Cheer Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,522222
+567,150165,foot_F0025,Cheer Shoes,Estiva Academy Cheer Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+568,150166,tool_F0025,Cheer Props,Estiva Academy Cheer Club props for female students.,6,4,16,2,0,0,2,1,0,0,0,0,522222
+569,150167,upper_M0024,Gentleman’s Suit,Estiva Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+570,150168,lower_M0024,Gentleman’s Pants,Estiva Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+571,150169,cap_M0024,Top Hat,Estiva Academy Tea Time Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,522222
+572,150170,foot_M0024,Gentleman’s Shoes,Estiva Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+573,150171,special_F0024,Mademoiselle Dress,Estiva Academy Tea Time Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,1,522222
+574,150172,cap_F0024,Mademoiselle Hat,Estiva Academy Tea Time Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,522222
+575,150173,foot_F0024,Mademoiselle Shoes,Estiva Academy Tea Time Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+576,150174,tool_F0024,Elegant Fan,Estiva Academy Tea Time Club fan. Female-only prop.,6,4,16,2,0,0,2,1,0,0,0,0,522222
 577,150175,special_M1006,Shop Part-Time Uniform,Sowol Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,2,0,0,0,1,522222
 578,150176,foot_M1006,Shop Part-Time Shoes,Sowol Academy shop part-time shoes for male students.,6,4,256,1,0,0,1,2,0,0,0,1,522222
 579,150177,cap_M1006,Shop Part-Time Headband,Sowol Academy shop part-time headband for male students.,6,4,1,2,0,0,1,2,0,0,0,0,522222
@@ -784,12 +784,12 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 782,151183,upper_F1034,Chorus Robe,Sowol Academy Chorus Club robe for female students.<br>(Cannot be traded or sold),6,7,64,1,0,0,2,2,0,0,0,1,522222
 783,151184,lower_F1034,Chorus Skirt,Sowol Academy Chorus Club skirt for female students.<br>(Cannot be traded or sold),6,7,128,1,0,0,2,2,0,0,0,1,522222
 784,151185,foot_F1034,Chorus Shoes,Sowol Academy Chorus Club shoes for female students.<br>(Cannot be traded or sold),6,7,256,1,0,0,2,2,0,0,0,1,522222
-785,151186,upper_M0026,Gambler Jacket,Estivar Academy Gambling Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-786,151187,lower_M0026,Gambler Pants,Estivar Academy Gambling Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-787,151188,foot_M0026,Gambler Shoes,Estivar Academy Gambling Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
-788,151189,upper_F0026,Gambler Jacket,Estivar Academy Gambling Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-789,151190,lower_F0026,Gambler Skirt,Estivar Academy Gambling Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
-790,151191,foot_F0026,Gambler Shoes,Estivar Academy Gambling Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
+785,151186,upper_M0026,Gambler Jacket,Estiva Academy Gambling Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+786,151187,lower_M0026,Gambler Pants,Estiva Academy Gambling Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+787,151188,foot_M0026,Gambler Shoes,Estiva Academy Gambling Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,1,522222
+788,151189,upper_F0026,Gambler Jacket,Estiva Academy Gambling Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+789,151190,lower_F0026,Gambler Skirt,Estiva Academy Gambling Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+790,151191,foot_F0026,Gambler Shoes,Estiva Academy Gambling Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,1,522222
 791,151192,special_M1019,Ninja Outfit,Sowol Academy Ninja Club outfit for male students.,6,4,192,1,0,0,1,2,0,0,0,1,522222
 792,151193,foot_M1019,Ninja Leg Wraps,"Sowol Academy Ninja Club leg wraps. With proper training, they allow you to move without making a sound. For male students.",6,4,256,1,0,0,1,2,0,0,0,1,522222
 793,151194,hand_M1019,Ninja Arm Guards,Sowol Academy Ninja Club gloves for male students.,6,4,8,1,0,0,1,2,0,0,0,0,522222
@@ -797,10 +797,10 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 795,151196,special_F1019,Ninja Outfit,Sowol Academy Ninja Club outfit for female students.,6,4,192,1,0,0,2,2,0,0,0,1,522222
 796,151197,foot_F1019,Ninja Leg Wraps,"Sowol Academy Ninja Club leg wraps. With proper training, they allow you to move without making a sound. For female students.",6,4,256,1,0,0,2,2,0,0,0,1,522222
 797,151198,hand_F1019,Ninja Arm Guards,Sowol Academy Ninja Club gloves for female students.,6,4,8,1,0,0,2,2,0,0,0,0,522222
-798,151199,upper_M0016,Summer Uniform Jacket,A variation of the Estivar Academy summer uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
-799,151200,lower_M0016,Summer Uniform Pants,A variation of the Estivar Academy summer uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
-800,151201,upper_F0016,Summer Uniform Jacket,A variation of the Estivar Academy summer uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
-801,151202,lower_F0016,Summer Uniform Shorts,A variation of the Estivar Academy summer uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
+798,151199,upper_M0016,Summer Uniform Jacket,A variation of the Estiva Academy summer uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,1,522222
+799,151200,lower_M0016,Summer Uniform Pants,A variation of the Estiva Academy summer uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,1,522222
+800,151201,upper_F0016,Summer Uniform Jacket,A variation of the Estiva Academy summer uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,1,522222
+801,151202,lower_F0016,Summer Uniform Shorts,A variation of the Estiva Academy summer uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,1,522222
 802,151203,upper_M1016,Summer Uniform Jacket,A variation of the Sowol Academy summer uniform for male students.,6,4,64,1,0,0,1,2,0,0,0,1,522222
 803,151204,lower_M1016,Summer Uniform Pants,A variation of the Sowol Academy summer uniform for male students.,6,4,128,1,0,0,1,2,0,0,0,1,522222
 804,151205,upper_F1016,Summer Uniform Jacket,A variation of the Sowol Academy summer uniform for female students.,6,4,64,1,0,0,2,2,0,0,0,1,522222
@@ -1217,53 +1217,53 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1215,50010,upper_F0001,Summer Uniform Jacket,Estiva Academy summer uniform for female students.,6,7,64,1,0,0,2,1,0,0,0,0,0
 1216,50011,lower_F0001,Summer Uniform Skirt,Estiva Academy summer uniform for female students.,6,7,128,1,0,0,2,1,0,0,0,0,0
 1217,50012,foot_F0001,Summer Uniform Shoes,Estiva Academy summer school shoes for female students.,6,7,256,1,0,0,2,1,0,0,0,0,0
-1218,50013,special_F0004,Nurse Uniform,Estivar Academy Nursing Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1219,50014,cap_F0004,Nurse Cap,Estivar Academy Nursing Club cap for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
-1220,50015,hand_F0004,Nurse Gloves,Estivar Academy Nursing Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,0
-1221,50016,foot_F0004,Nurse Shoes,Estivar Academy Nursing Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1222,50017,back_F0004,First Aid Bag,Estivar Academy Nursing Club bag for female students.,6,4,4,2,0,0,2,1,0,0,0,0,0
-1223,50018,upper_M0004,Nurse Uniform Jacket,Estivar Academy Nursing Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1224,50019,lower_M0004,Nurse Uniform Pants,Estivar Academy Nursing Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1225,50020,hand_M0004,Nurse Gloves,Estivar Academy Nursing Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,0
-1226,50021,foot_M0004,Nurse Shoes,Estivar Academy Nursing Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1227,50022,back_M0004,First Aid Bag,Estivar Academy Nursing Club bag for male students.,8,4,4,2,0,0,1,1,0,0,0,0,0
-1228,50023,upper_F0003,Handicrafts Club Jacket,Estivar Academy Handicrafts Club jacket for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1229,50024,lower_F0003,Handicrafts Club Skirt,Estivar Academy Handicrafts Club skirt for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1230,50025,foot_F0003,Handicrafts Club Shoes,Estivar Academy Handicrafts Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1231,50026,,Handicrafts Club Hat,Estivar Academy Handicrafts Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
-1232,50027,upper_M0003,Handicrafts Club Jacket,Estivar Academy Handicrafts Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1233,50028,lower_M0003,Handicrafts Club Pants,Estivar Academy Handicrafts Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1234,50029,foot_M0003,Handicrafts Club Shoes,Estivar Academy Handicrafts Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1235,50030,special_M0005,Lab Coat,Estivar Academy Science Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
-1236,50031,foot_M0005,Lab Shoes,Estivar Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1237,50032,special_F0005,Lab Coat,Estivar Academy Science Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1238,50033,foot_F0005,Lab Shoes,Estivar Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1239,50034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estivar Academy.,6,4,1,2,0,0,1,1,0,0,0,0,0
+1218,50013,special_F0004,Nurse Uniform,Estiva Academy Nursing Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1219,50014,cap_F0004,Nurse Cap,Estiva Academy Nursing Club cap for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1220,50015,hand_F0004,Nurse Gloves,Estiva Academy Nursing Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,0
+1221,50016,foot_F0004,Nurse Shoes,Estiva Academy Nursing Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1222,50017,back_F0004,First Aid Bag,Estiva Academy Nursing Club bag for female students.,6,4,4,2,0,0,2,1,0,0,0,0,0
+1223,50018,upper_M0004,Nurse Uniform Jacket,Estiva Academy Nursing Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1224,50019,lower_M0004,Nurse Uniform Pants,Estiva Academy Nursing Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1225,50020,hand_M0004,Nurse Gloves,Estiva Academy Nursing Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,0
+1226,50021,foot_M0004,Nurse Shoes,Estiva Academy Nursing Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1227,50022,back_M0004,First Aid Bag,Estiva Academy Nursing Club bag for male students.,8,4,4,2,0,0,1,1,0,0,0,0,0
+1228,50023,upper_F0003,Handicrafts Club Jacket,Estiva Academy Handicrafts Club jacket for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1229,50024,lower_F0003,Handicrafts Club Skirt,Estiva Academy Handicrafts Club skirt for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1230,50025,foot_F0003,Handicrafts Club Shoes,Estiva Academy Handicrafts Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1231,50026,,Handicrafts Club Hat,Estiva Academy Handicrafts Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1232,50027,upper_M0003,Handicrafts Club Jacket,Estiva Academy Handicrafts Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1233,50028,lower_M0003,Handicrafts Club Pants,Estiva Academy Handicrafts Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1234,50029,foot_M0003,Handicrafts Club Shoes,Estiva Academy Handicrafts Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1235,50030,special_M0005,Lab Coat,Estiva Academy Science Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
+1236,50031,foot_M0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1237,50032,special_F0005,Lab Coat,Estiva Academy Science Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1238,50033,foot_F0005,Lab Shoes,Estiva Academy Science Club shoes designed to protect against dangerous chemicals and broken glass. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1239,50034,cap_M0004,Nurse Glasses,Stylish glasses favored by nurses. For male students of Estiva Academy.,6,4,1,2,0,0,1,1,0,0,0,0,0
 1240,50035,etc_be050035,Stefano’s Handkerchief,Butler Stefano’s handkerchief. Does anyone actually collect things like this?,7,4,0,0,0,0,0,0,0,0,0,0,0
 1241,50036,etc_be050036,Page’s Handkerchief,Librarian Page’s handkerchief. Be careful not to let Page catch you.,7,4,0,0,0,0,0,0,0,0,0,0,0
 1242,50037,etc_be050037,Strange Bear’s Handkerchief,Strange Bear’s handkerchief. What terrible taste.,7,4,0,0,0,0,0,0,0,0,0,0,0
 1243,50038,etc_be050038,Bianca’s Handkerchief,"Professor Bianca’s lace handkerchief, known among collectors as an ultra-rare item. Extremely difficult to obtain.",7,4,0,0,0,0,0,0,0,0,0,0,0
-1244,50039,special_F0007,Animal Care Uniform,Estivar Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1245,50040,foot_F0007,Animal Care Shoes,Estivar Academy Animal Care Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1246,50041,cap_F0007,Cat Ears,Estivar Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
-1247,50042,special_M0007,Animal Care Uniform,Estivar Academy Animal Care Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
-1248,50043,foot_M0007,Animal Care Shoes,Estivar Academy Animal Care Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1249,50044,cap_M0007,Dog Ears,Estivar Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
-1250,50045,upper_F0008,Safari Shirt,Estivar Academy Exploration Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1251,50046,lower_F0008,Safari Pants,Estivar Academy Exploration Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1252,50047,foot_F0008,Safari Shoes,Estivar Academy Exploration Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1253,50048,cap_F0008,Safari Hat,Estivar Academy Exploration Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
-1254,50049,upper_M0008,Safari Shirt,Estivar Academy Exploration Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1255,50050,lower_M0008,Safari Pants,Estivar Academy Exploration Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1256,50051,foot_M0008,Safari Shoes,Estivar Academy Exploration Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1257,50052,cap_M0008,Safari Hat,Estivar Academy Exploration Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
+1244,50039,special_F0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1245,50040,foot_F0007,Animal Care Shoes,Estiva Academy Animal Care Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1246,50041,cap_F0007,Cat Ears,Estiva Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1247,50042,special_M0007,Animal Care Uniform,Estiva Academy Animal Care Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
+1248,50043,foot_M0007,Animal Care Shoes,Estiva Academy Animal Care Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1249,50044,cap_M0007,Dog Ears,Estiva Academy Animal Care Club hat. Wearing it makes you feel like you can understand animals. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
+1250,50045,upper_F0008,Safari Shirt,Estiva Academy Exploration Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1251,50046,lower_F0008,Safari Pants,Estiva Academy Exploration Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1252,50047,foot_F0008,Safari Shoes,Estiva Academy Exploration Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1253,50048,cap_F0008,Safari Hat,Estiva Academy Exploration Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1254,50049,upper_M0008,Safari Shirt,Estiva Academy Exploration Club jacket for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1255,50050,lower_M0008,Safari Pants,Estiva Academy Exploration Club pants for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1256,50051,foot_M0008,Safari Shoes,Estiva Academy Exploration Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1257,50052,cap_M0008,Safari Hat,Estiva Academy Exploration Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
 1258,50053,etc_be050053,Sweat It Out! Madame Namaniel,A photo book of Madame Namaniel striking sultry poses in an extremely hot sauna. Just looking at it will make you feel hot.,9,4,0,0,0,0,0,0,0,0,0,0,0
 1259,50054,etc_be050054,Naughty Cover Book,"A book with only a naughty cover. The contents are actually complicated and difficult English academic papers. These days, even kindergarteners wouldn’t be fooled by such a trick.",9,4,0,0,0,0,0,0,0,0,0,0,0
-1260,50055,special_M0006,Waiter Uniform,Estivar Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
-1261,50056,foot_M0006,Waiter Shoes,Men’s shoes that match the Estivar Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1262,50057,special_F0006,Waitress Uniform,Estivar Academy shop part-time uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1263,50058,foot_F0006,Waitress Shoes,Cute shoes that match the Estivar Academy shop part-time uniform. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1264,50059,cap_F0006,Headband,A cute headband that keeps your hair neatly in place while working. For female students of Estivar Academy.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1260,50055,special_M0006,Waiter Uniform,Estiva Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
+1261,50056,foot_M0006,Waiter Shoes,Men’s shoes that match the Estiva Academy shop part-time uniform.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1262,50057,special_F0006,Waitress Uniform,Estiva Academy shop part-time uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1263,50058,foot_F0006,Waitress Shoes,Cute shoes that match the Estiva Academy shop part-time uniform. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1264,50059,cap_F0006,Headband,A cute headband that keeps your hair neatly in place while working. For female students of Estiva Academy.,6,4,1,2,0,0,2,1,0,0,0,0,0
 1265,50060,upper_M1002,Winter Uniform Jacket,Sowol Academy winter uniform for male students.,6,7,64,1,0,0,1,2,0,0,0,0,0
 1266,50061,lower_M1002,Winter Uniform Pants,Sowol Academy winter uniform for male students.,6,7,128,1,0,0,1,2,0,0,0,0,0
 1267,50062,foot_M1002,Winter Uniform Shoes,Sowol Academy winter school shoes for male students.,6,7,256,1,0,0,1,2,0,0,0,0,0
@@ -1305,80 +1305,80 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1303,50098,hand_M9001,Santa Gloves,"Striking red-and-white gloves. The palms are made of soft leather, giving them a premium feel.",6,4,8,1,0,0,1,0,0,0,0,0,0
 1304,50099,hand_F9001,Santa Gloves,"Striking red-and-white gloves. The palms are made of soft leather, giving them a premium feel.",6,4,8,1,0,0,2,0,0,0,0,0,0
 1305,50100,hand_F1005,Lab Gloves,Sowol Academy Science Club gloves for female students.,6,4,8,1,0,0,2,2,0,0,0,0,0
-1306,50101,upper_M0009,Basketball Club Uniform,Estivar Academy Basketball Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1307,50102,lower_M0009,Basketball Club Shorts,Estivar Academy Basketball Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1308,50103,foot_M0009,Basketball Shoes,Estivar Academy Basketball Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1309,50104,upper_F0009,Basketball Club Uniform,Estivar Academy Basketball Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1310,50105,lower_F0009,Basketball Club Shorts,Estivar Academy Basketball Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1311,50106,foot_F0009,Basketball Shoes,Estivar Academy Basketball Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1312,50107,special_M0010,Coat,Estivar Academy winter coat for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
-1313,50108,special_F0010,Coat,Estivar Academy winter coat for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1314,50109,upper_M0011,Gym Uniform,Estivar Academy gym uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1315,50110,lower_M0011,Shorts,Estivar Academy gym uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1316,50111,upper_F0011,Gym Uniform,Estivar Academy gym uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1317,50112,lower_F0011,Shorts,Estivar Academy gym uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1318,50113,upper_M0012,Training Outfit,Estivar Academy winter training outfit for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1319,50114,lower_M0012,Training Pants,Estivar Academy winter training outfit for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1320,50115,upper_F0012,Training Outfit,Estivar Academy winter training outfit for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1321,50116,lower_F0012,Training Pants,Estivar Academy winter training outfit for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1322,50117,upper_M0013,Cardigan,Estivar Academy cardigan for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1323,50118,upper_F0013,Cardigan,Estivar Academy cardigan for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1324,50119,upper_M0014,Student Council Uniform,Estivar Academy Student Council uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1325,50120,lower_M0014,Student Council Pants,Estivar Academy Student Council uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1326,50121,foot_M0014,Student Council Shoes,Estivar Academy Student Council shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1327,50122,special_F0014,Student Council Uniform,Estivar Academy Student Council uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1328,50123,lower_F0014,Student Council Uniform Skirt,Estivar Academy Student Council uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1329,50124,foot_F0014,Student Council Shoes,Estivar Academy Student Council shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1330,50125,special_M0015,Swimsuit,Estivar Academy Swimming Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
-1331,50126,special_F0015,School Swimsuit,Estivar Academy Swimming Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1332,50127,upper_M0016,Summer Uniform Jacket,A variation of the Estivar Academy summer uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1333,50128,lower_M0016,Summer Uniform Pants,A variation of the Estivar Academy summer uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1334,50129,upper_M0017,Winter Uniform Jacket,A variation of the Estivar Academy winter uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1335,50130,upper_F0016,Summer Uniform Jacket,A variation of the Estivar Academy summer uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1336,50131,lower_F0016,Summer Uniform Shorts,A variation of the Estivar Academy summer uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1337,50132,special_F0017,Winter Uniform,A variation of the Estivar Academy winter uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1338,50133,upper_M0026,Gambler Jacket,Estivar Academy Gambling Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1339,50134,lower_M0026,Gambler Pants,Estivar Academy Gambling Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1340,50135,foot_M0026,Gambler Shoes,Estivar Academy Gambling Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1341,50136,upper_F0026,Gambler Jacket,Estivar Academy Gambling Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1342,50137,lower_F0026,Gambler Skirt,Estivar Academy Gambling Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1343,50138,foot_F0026,Gambler Shoes,Estivar Academy Gambling Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1344,50139,upper_M0019,Martial Arts Top,Estivar Academy Martial Arts Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1345,50140,lower_M0019,Martial Arts Pants,Estivar Academy Martial Arts Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1346,50141,hand_M0019,Knuckle Guard,"Estivar Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For male students.",6,4,8,1,0,0,1,1,0,0,0,0,0
-1347,50142,cap_M0019,Guts Headband,Estivar Academy Martial Arts Club headgear. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
-1348,50143,foot_M0019,Build-Up Shoes,Estivar Academy Martial Arts Club shoes with built-in weights for training. For male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1349,50144,upper_F0019,Martial Arts Top,Estivar Academy Martial Arts Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1350,50145,lower_F0019,Martial Arts Pants,Estivar Academy Martial Arts Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1351,50146,hand_F0019,Knuckle Guard,"Estivar Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For female students.",6,4,8,1,0,0,2,1,0,0,0,0,0
-1352,50147,cap_F0019,Guts Headband,Estivar Academy Martial Arts Club headgear. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
-1353,50148,foot_F0019,Build-Up Shoes,Estivar Academy Martial Arts Club shoes with built-in weights for training. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1354,50149,upper_M0023,Chef Jacket,Estivar Academy Cooking Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1355,50150,lower_M0023,Chef Pants,Estivar Academy Cooking Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1356,50151,cap_M0023,Chef Hat,Estivar Academy Cooking Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
-1357,50152,foot_M0023,Chef Shoes,Estivar Academy Cooking Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1358,50153,upper_F0023,Chef Uniform,Estivar Academy Cooking Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1359,50154,lower_F0023,Apron Skirt,Estivar Academy Cooking Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1360,50155,cap_F0023,Chef Hat,Estivar Academy Cooking Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
-1361,50156,foot_F0023,Chef Shoes,Estivar Academy Cooking Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1362,50157,upper_M0025,Cheer Uniform Top,Estivar Academy Cheer Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1363,50158,lower_M0025,Cheer Uniform Pants,Estivar Academy Cheer Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1364,50159,hand_M0025,Cheer Gloves,Estivar Academy Cheer Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,0
-1365,50160,foot_M0025,Cheer Shoes,Estivar Academy Cheer Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1366,50161,tool_M0025,Cheer Props,Estivar Academy Cheer Club props for male students.,6,4,16,2,0,0,1,1,0,0,0,0,0
-1367,50162,upper_F0025,Cheer Uniform,Estivar Academy Cheer Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
-1368,50163,lower_F0025,Cheer Skirt,Estivar Academy Cheer Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
-1369,50164,lower_F0021,Cheerleader Gloves,Estivar Academy Cheer Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,0
-1370,50165,foot_F0025,Cheer Shoes,Estivar Academy Cheer Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1371,50166,tool_F0025,Cheer Props,Estivar Academy Cheer Club props for female students.,6,4,16,2,0,0,2,1,0,0,0,0,0
-1372,50167,upper_M0024,Gentleman’s Suit,Estivar Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
-1373,50168,lower_M0024,Gentleman’s Pants,Estivar Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
-1374,50169,cap_M0024,Top Hat,Estivar Academy Tea Time Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
-1375,50170,foot_M0024,Gentleman’s Shoes,Estivar Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
-1376,50171,special_F0024,Mademoiselle Dress,Estivar Academy Tea Time Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
-1377,50172,cap_F0024,Mademoiselle Hat,Estivar Academy Tea Time Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
-1378,50173,foot_F0024,Mademoiselle Shoes,Estivar Academy Tea Time Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
-1379,50174,tool_F0024,Elegant Fan,Estivar Academy Tea Time Club fan. Female-only prop.,6,4,16,2,0,0,2,1,0,0,0,0,0
+1306,50101,upper_M0009,Basketball Club Uniform,Estiva Academy Basketball Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1307,50102,lower_M0009,Basketball Club Shorts,Estiva Academy Basketball Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1308,50103,foot_M0009,Basketball Shoes,Estiva Academy Basketball Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1309,50104,upper_F0009,Basketball Club Uniform,Estiva Academy Basketball Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1310,50105,lower_F0009,Basketball Club Shorts,Estiva Academy Basketball Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1311,50106,foot_F0009,Basketball Shoes,Estiva Academy Basketball Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1312,50107,special_M0010,Coat,Estiva Academy winter coat for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
+1313,50108,special_F0010,Coat,Estiva Academy winter coat for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1314,50109,upper_M0011,Gym Uniform,Estiva Academy gym uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1315,50110,lower_M0011,Shorts,Estiva Academy gym uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1316,50111,upper_F0011,Gym Uniform,Estiva Academy gym uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1317,50112,lower_F0011,Shorts,Estiva Academy gym uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1318,50113,upper_M0012,Training Outfit,Estiva Academy winter training outfit for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1319,50114,lower_M0012,Training Pants,Estiva Academy winter training outfit for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1320,50115,upper_F0012,Training Outfit,Estiva Academy winter training outfit for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1321,50116,lower_F0012,Training Pants,Estiva Academy winter training outfit for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1322,50117,upper_M0013,Cardigan,Estiva Academy cardigan for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1323,50118,upper_F0013,Cardigan,Estiva Academy cardigan for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1324,50119,upper_M0014,Student Council Uniform,Estiva Academy Student Council uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1325,50120,lower_M0014,Student Council Pants,Estiva Academy Student Council uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1326,50121,foot_M0014,Student Council Shoes,Estiva Academy Student Council shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1327,50122,special_F0014,Student Council Uniform,Estiva Academy Student Council uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1328,50123,lower_F0014,Student Council Uniform Skirt,Estiva Academy Student Council uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1329,50124,foot_F0014,Student Council Shoes,Estiva Academy Student Council shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1330,50125,special_M0015,Swimsuit,Estiva Academy Swimming Club uniform for male students.,6,4,192,1,0,0,1,1,0,0,0,0,0
+1331,50126,special_F0015,School Swimsuit,Estiva Academy Swimming Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1332,50127,upper_M0016,Summer Uniform Jacket,A variation of the Estiva Academy summer uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1333,50128,lower_M0016,Summer Uniform Pants,A variation of the Estiva Academy summer uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1334,50129,upper_M0017,Winter Uniform Jacket,A variation of the Estiva Academy winter uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1335,50130,upper_F0016,Summer Uniform Jacket,A variation of the Estiva Academy summer uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1336,50131,lower_F0016,Summer Uniform Shorts,A variation of the Estiva Academy summer uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1337,50132,special_F0017,Winter Uniform,A variation of the Estiva Academy winter uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1338,50133,upper_M0026,Gambler Jacket,Estiva Academy Gambling Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1339,50134,lower_M0026,Gambler Pants,Estiva Academy Gambling Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1340,50135,foot_M0026,Gambler Shoes,Estiva Academy Gambling Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1341,50136,upper_F0026,Gambler Jacket,Estiva Academy Gambling Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1342,50137,lower_F0026,Gambler Skirt,Estiva Academy Gambling Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1343,50138,foot_F0026,Gambler Shoes,Estiva Academy Gambling Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1344,50139,upper_M0019,Martial Arts Top,Estiva Academy Martial Arts Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1345,50140,lower_M0019,Martial Arts Pants,Estiva Academy Martial Arts Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1346,50141,hand_M0019,Knuckle Guard,"Estiva Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For male students.",6,4,8,1,0,0,1,1,0,0,0,0,0
+1347,50142,cap_M0019,Guts Headband,Estiva Academy Martial Arts Club headgear. For male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
+1348,50143,foot_M0019,Build-Up Shoes,Estiva Academy Martial Arts Club shoes with built-in weights for training. For male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1349,50144,upper_F0019,Martial Arts Top,Estiva Academy Martial Arts Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1350,50145,lower_F0019,Martial Arts Pants,Estiva Academy Martial Arts Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1351,50146,hand_F0019,Knuckle Guard,"Estiva Academy Martial Arts Club gloves. Padding protects the fists, making it safer for both the attacker and the target. For female students.",6,4,8,1,0,0,2,1,0,0,0,0,0
+1352,50147,cap_F0019,Guts Headband,Estiva Academy Martial Arts Club headgear. For female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1353,50148,foot_F0019,Build-Up Shoes,Estiva Academy Martial Arts Club shoes with built-in weights for training. For female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1354,50149,upper_M0023,Chef Jacket,Estiva Academy Cooking Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1355,50150,lower_M0023,Chef Pants,Estiva Academy Cooking Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1356,50151,cap_M0023,Chef Hat,Estiva Academy Cooking Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
+1357,50152,foot_M0023,Chef Shoes,Estiva Academy Cooking Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1358,50153,upper_F0023,Chef Uniform,Estiva Academy Cooking Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1359,50154,lower_F0023,Apron Skirt,Estiva Academy Cooking Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1360,50155,cap_F0023,Chef Hat,Estiva Academy Cooking Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1361,50156,foot_F0023,Chef Shoes,Estiva Academy Cooking Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1362,50157,upper_M0025,Cheer Uniform Top,Estiva Academy Cheer Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1363,50158,lower_M0025,Cheer Uniform Pants,Estiva Academy Cheer Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1364,50159,hand_M0025,Cheer Gloves,Estiva Academy Cheer Club gloves for male students.,6,4,8,1,0,0,1,1,0,0,0,0,0
+1365,50160,foot_M0025,Cheer Shoes,Estiva Academy Cheer Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1366,50161,tool_M0025,Cheer Props,Estiva Academy Cheer Club props for male students.,6,4,16,2,0,0,1,1,0,0,0,0,0
+1367,50162,upper_F0025,Cheer Uniform,Estiva Academy Cheer Club uniform for female students.,6,4,64,1,0,0,2,1,0,0,0,0,0
+1368,50163,lower_F0025,Cheer Skirt,Estiva Academy Cheer Club uniform for female students.,6,4,128,1,0,0,2,1,0,0,0,0,0
+1369,50164,lower_F0021,Cheerleader Gloves,Estiva Academy Cheer Club gloves for female students.,6,4,8,1,0,0,2,1,0,0,0,0,0
+1370,50165,foot_F0025,Cheer Shoes,Estiva Academy Cheer Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1371,50166,tool_F0025,Cheer Props,Estiva Academy Cheer Club props for female students.,6,4,16,2,0,0,2,1,0,0,0,0,0
+1372,50167,upper_M0024,Gentleman’s Suit,Estiva Academy Tea Time Club uniform for male students.,6,4,64,1,0,0,1,1,0,0,0,0,0
+1373,50168,lower_M0024,Gentleman’s Pants,Estiva Academy Tea Time Club uniform for male students.,6,4,128,1,0,0,1,1,0,0,0,0,0
+1374,50169,cap_M0024,Top Hat,Estiva Academy Tea Time Club hat for male students.,6,4,1,2,0,0,1,1,0,0,0,0,0
+1375,50170,foot_M0024,Gentleman’s Shoes,Estiva Academy Tea Time Club shoes for male students.,6,4,256,1,0,0,1,1,0,0,0,0,0
+1376,50171,special_F0024,Mademoiselle Dress,Estiva Academy Tea Time Club uniform for female students.,6,4,192,1,0,0,2,1,0,0,0,0,0
+1377,50172,cap_F0024,Mademoiselle Hat,Estiva Academy Tea Time Club hat for female students.,6,4,1,2,0,0,2,1,0,0,0,0,0
+1378,50173,foot_F0024,Mademoiselle Shoes,Estiva Academy Tea Time Club shoes for female students.,6,4,256,1,0,0,2,1,0,0,0,0,0
+1379,50174,tool_F0024,Elegant Fan,Estiva Academy Tea Time Club fan. Female-only prop.,6,4,16,2,0,0,2,1,0,0,0,0,0
 1380,50175,special_M1006,Shop Part-Time Uniform,Sowol Academy shop part-time uniform for male students.,6,4,192,1,0,0,1,2,0,0,0,0,0
 1381,50176,foot_M1006,Shop Part-Time Shoes,Sowol Academy shop part-time shoes for male students.,6,4,256,1,0,0,1,2,0,0,0,0,0
 1382,50177,cap_M1006,Shop Part-Time Headband,Sowol Academy shop part-time headband for male students.,6,4,1,2,0,0,1,2,0,0,0,0,0
@@ -1541,7 +1541,7 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1539,59904,foot_GMF0001,Disciplinary Committee Shoes,"Comfortable shoes made with the new material Ntixum, offering high elasticity and rigidity",13,7,256,1,0,0,2,0,0,0,0,0,0
 1540,59905,cap_GMA0001,Disciplinary Committee Hat,Engraved with a windmill emblem in a harmonious blend of green and black,6,7,1,2,0,0,0,0,0,0,0,0,0
 1541,59906,special_M9004,Class Representative Uniform,~Class Representative’s Three Rules~<br>1. Greet others.<br>2. Never forget your original intention.<br>3. Never lose your individuality.,12,7,448,1,0,0,1,0,0,0,0,0,0
-1542,59907,special_F9004,Class Representative Uniform,~Class Representative’s Three Rules~<br>1. Greet others.<br>2. Never forget your初心.<br>3. Never lose your individuality.,12,7,448,1,0,0,2,0,0,0,0,0,0
+1542,59907,special_F9004,Class Representative Uniform,~Class Representative’s Three Rules~<br>1. Greet others.<br>2. Never forget your original resolve.<br>3. Never lose your individuality.,12,7,448,1,0,0,2,0,0,0,0,0,0
 1543,51282,upper_M0022,Robotic Jacket,Estiva Academy Robotics Club uniform for male students.,6,7,64,1,0,0,1,1,0,0,0,0,0
 1544,51283,lower_M0022,Robotic Pants,Estiva Academy Robotics Club pants for male students.,6,7,128,1,0,0,1,1,0,0,0,0,0
 1545,51284,foot_M0022,Robotic Boots,Estiva Academy Robotics Club boots for male students.,6,7,256,1,0,0,1,1,0,0,0,0,0
@@ -1568,13 +1568,13 @@ index,item_id,code,name,desc,i0,i1,i2,i3,i4,i5,i6,i7,i8,i9,i10,i11,i12
 1566,51221,special_F1024,Dim Sum Dress,Sowol Academy Dim Sum Club uniform for female students.,6,7,192,1,0,0,2,2,0,0,0,0,0
 1567,51222,cap_F1024,Dim Sum Hair Buns,Sowol Academy Dim Sum Club hair accessory for female students.,6,7,1,2,0,0,2,2,0,0,0,0,0
 1568,51223,foot_F1024,Dim Sum Shoes,Sowol Academy Dim Sum Club shoes for female students.,6,7,256,1,0,0,2,2,0,0,0,0,0
-1569,51167,upper_M0024,Gentleman’s Suit,Estivar Academy Tea Time Club uniform for male students.,6,7,64,1,0,0,1,1,0,0,0,0,0
-1570,51168,lower_M0024,Gentleman’s Pants,Estivar Academy Tea Time Club uniform for male students.,6,7,128,1,0,0,1,1,0,0,0,0,0
-1571,51169,cap_M0024,Top Hat,Estivar Academy Tea Time Club hat for male students.,6,7,1,2,0,0,1,1,0,0,0,0,0
-1572,51170,foot_M0024,Gentleman’s Shoes,Estivar Academy Tea Time Club shoes for male students.,6,7,256,1,0,0,1,1,0,0,0,0,0
-1573,51171,special_F0024,Mademoiselle Dress,Estivar Academy Tea Time Club uniform for female students.,6,7,192,1,0,0,2,1,0,0,0,0,0
-1574,51172,cap_F0024,Mademoiselle Hat,Estivar Academy Tea Time Club hat for female students.,6,7,1,2,0,0,2,1,0,0,0,0,0
-1575,51173,foot_F0024,Mademoiselle Shoes,Estivar Academy Tea Time Club shoes for female students.,6,7,256,1,0,0,2,1,0,0,0,0,0
+1569,51167,upper_M0024,Gentleman’s Suit,Estiva Academy Tea Time Club uniform for male students.,6,7,64,1,0,0,1,1,0,0,0,0,0
+1570,51168,lower_M0024,Gentleman’s Pants,Estiva Academy Tea Time Club uniform for male students.,6,7,128,1,0,0,1,1,0,0,0,0,0
+1571,51169,cap_M0024,Top Hat,Estiva Academy Tea Time Club hat for male students.,6,7,1,2,0,0,1,1,0,0,0,0,0
+1572,51170,foot_M0024,Gentleman’s Shoes,Estiva Academy Tea Time Club shoes for male students.,6,7,256,1,0,0,1,1,0,0,0,0,0
+1573,51171,special_F0024,Mademoiselle Dress,Estiva Academy Tea Time Club uniform for female students.,6,7,192,1,0,0,2,1,0,0,0,0,0
+1574,51172,cap_F0024,Mademoiselle Hat,Estiva Academy Tea Time Club hat for female students.,6,7,1,2,0,0,2,1,0,0,0,0,0
+1575,51173,foot_F0024,Mademoiselle Shoes,Estiva Academy Tea Time Club shoes for female students.,6,7,256,1,0,0,2,1,0,0,0,0,0
 1576,51174,upper_M0034,Chorus Suit,Estiva Academy Chorus Club suit for male students.,6,7,64,1,0,0,1,1,0,0,0,0,0
 1577,51175,lower_M0034,Chorus Pants,Estiva Academy Chorus Club pants for male students.,6,7,128,1,0,0,1,1,0,0,0,0,0
 1578,51176,foot_M0034,Chorus Shoes,Estiva Academy Chorus Club shoes for male students.,6,7,256,1,0,0,1,1,0,0,0,0,0
