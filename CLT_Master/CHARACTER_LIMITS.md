@@ -43,7 +43,7 @@ at all. They're not the same, and it matters which one you're editing.
 | COITEM_TYPE | name | 64 characters | tool-side cap, not read directly off a client buffer -- stay under it |
 | COITEM_TYPE | desc | 1024 characters | tool-side cap, not read directly off a client buffer -- stay under it |
 | COITEM_TYPE | extra | 64 characters | tool-side cap, not read directly off a client buffer -- stay under it |
-| EPISODE | t1 | 28 characters | confirmed client buffer size |
+| EPISODE | t1 | 28 characters | confirmed twice over: the record is 0xc87 bytes, t1 sits at +0x04 and t2 at +0x3e, so the field is 29 wchars and 28 characters plus a terminator fits exactly. |
 | EPISODE | t2 | 1024 characters | confirmed client buffer size |
 | EPISODE | t3 | 512 characters | confirmed client buffer size |
 | EPISODE | t4 | 24 characters | confirmed client buffer size (not in the coverage table since it reads as ASCII, but it exists in this file) |
@@ -52,7 +52,7 @@ at all. They're not the same, and it matters which one you're editing.
 | ITEM_BYUL_TYPE | desc | ~1045 characters | inferred, not directly confirmed -- be conservative |
 | ITEM_CHARGED_TYPE | desc1 | 1024 characters | confirmed client buffer size |
 | ITEM_CHARGED_TYPE | desc2 | 1024 characters | confirmed client buffer size (same file as desc1) |
-| LOBBY | name | ~28 characters | confirmed buffer, but slightly ambiguous whether the full 29 is usable -- stay at 28 or under |
+| LOBBY | name | 27 characters | the record is 0x140 bytes and no code path pins the field boundary, so 28 vs 29 wchars stays ambiguous. TITLE showed what filling a field exactly costs, so treat 27 as the limit rather than 28. |
 | LOBBY | desc | ~128 characters | same ambiguity -- stay at 128 or under |
 | MATCHING_EMOTICON | text | 255 characters, less for non-Latin languages | client converts this to a single-byte buffer at load, so multi-byte-per-character languages (CJK, etc.) get meaningfully less than 255 actual characters |
 | MATCHING_SYS_MSG | id_code | 32 characters | client buffer size, but overflow here is a soft/display issue rather than a hard parse failure -- still don't rely on going over |
@@ -72,7 +72,8 @@ at all. They're not the same, and it matters which one you're editing.
 | SKL_Desc2 | text | unbounded | no confirmed buffer |
 | SPECIAL_REWARD | name | unbounded | no confirmed buffer |
 | STATE_CHANGE | name | unbounded | no confirmed buffer |
-| TITLE | name, description, condition | unbounded | no confirmed buffer |
+| TITLE | name | 10 characters | confirmed: LoadTitle reads a fixed 0x1b2-byte record, the name sits at +0x04, and the nameplate converts it into a 0x15-byte buffer. The field is 11 wchars, so 11 characters fills it and leaves no terminator: the nameplate then runs straight on into the description ("New StudentA title f"). The longest Japanese name is exactly 10. |
+| TITLE | description, condition | not confirmed | the client never reads either one in any decompiled path, so nothing displays them and no buffer has been measured. The record leaves 213 wchars for name + description + condition together. |
 
 Tables not listed here have no translatable text columns at all (pure
 numeric/config data) -- see the coverage table in
