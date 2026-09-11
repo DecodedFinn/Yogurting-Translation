@@ -2950,5 +2950,6 @@
    ],
    "era": "game"
   }
- ]
+ ],
+ "provenance": "This file and resources/score/*/npc_*.json are the only two sources of NPC dialogue this project has, and they are not equal. The client ships none: NPC_EX is npc_id, name, unk_int, scale, and no CLT table holds a spoken line, so there is no decomp to check either against. The score/*.json corpus came from octet's XML and octet is a hand-made reconstruction, not original data -- good groundwork, but its wording is someone's rendering and its quest logic is someone's guess. This file is a transcription of the game's own Japanese text. Where the two disagree about what an NPC says, this one is the better authority."
 }
