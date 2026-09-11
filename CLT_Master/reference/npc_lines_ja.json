@@ -1,21 +1,30 @@
 {
  "source": "https://web.archive.org/web/20090516043921/http://peke.ojaru.jp/game/yogurting2_mes_npc.htm",
- "note": "Fan transcription of the Japanese NPC lines. Speaker plus spoken text; lines beginning with a full-width bullet are the player reply options.",
+ "note": "Fan transcription of the Japanese NPC lines. Speaker plus spoken text; lines beginning with a full-width bullet are the player reply options. text_en/selections_en are this project's English; era marks entries that talk about the 2008-2009 live service (Yogurt Box, EVP events, auctions, anniversaries), which postdates the 2006 client this server targets.",
  "entries": [
   {
    "npc": "アンナ",
    "text": "3月といえば卒業シーズン…って言いたいとこだけど、ＥＶＰが続く限り\nわたし達の学園生活はエンドレス！ でもせっかくだから、\n大好きなセンパイに告白したり、第二ボタンを奪い取っちゃおう！",
-   "selections": []
+   "selections": [],
+   "text_en": "March means graduation season... or it would, but as long as the EVP goes on\nour school life is endless! Still, while we're here,\nwhy not confess to the senior you like, or snatch their second button!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "4月といえば入学＆進級シーズン！\n初々しい新入生を見てると、ちょっと懐かしい気分になっちゃうな(^^)\n今月のヨーグル！ボックスからは、「春の総選挙」2周年記念で\nあの幻のアイテムとか、他にも4月らしいアイテムが手に入るらしいよ！",
-   "selections": []
+   "selections": [],
+   "text_en": "April means enrolment and promotion season!\nWatching the fresh new first-years makes me a little nostalgic (^^)\nThis month's Yogurt Box is celebrating two years of the Spring General Election,\nso that legendary item and other April-ish things might turn up!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "5月といえばゴールデンウィークと新緑の季節！\nさわやかに晴れた日は、どっか遠い場所に行きたくなっちゃうよね！\n高原のリゾートで、思いっきりステキな出会いとかしてみた～い！",
-   "selections": []
+   "selections": [],
+   "text_en": "May means Golden Week and new greenery!\nOn a clear, bright day you just want to go somewhere far away!\nA resort up in the highlands, and a really lovely encounter~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アンナ",
@@ -24,52 +33,86 @@
     "今月のイベント情報",
     "ガリ勉かばんのヒント",
     "う～ん、あのエピソードかな？"
-   ]
+   ],
+   "text_en": "Hey there~! How've you been? I saw a bride at the church the other day!\nThey say marrying in June brings happiness~.\nSomeday me too, with someone lovely... just kidding!\nRight now the Gungho Games site is running an event where 300 people\nwin a random box that might hold that legendary Blade Hand!\nAnd apparently a certain episode drops the swot's bag!\nThe swot's bag suits someone who takes lessons seriously even during the EVP, maybe?\nCome to think of it, somebody did lose an important bag......\nOpen the Yogurt Box now and you might get the football supporter's outfit!\nLet's build a supporters' club for this summer's big match!",
+   "selections_en": [
+    "This month's event news",
+    "A hint about the swot's bag",
+    "Hmm, that episode maybe?"
+   ],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "今、ヨーグル！ボックスを開けると、水着とサッカーユニフォームが出るらしいよ。\n青い空と真夏の太陽にも負けないくらい、今年も熱く！真っ白に！\n燃えまくっちゃおう！",
-   "selections": []
+   "selections": [],
+   "text_en": "Open the Yogurt Box now and you can get swimsuits and football kit.\nLet's burn hotter than the blue sky and the midsummer sun this year!\nBlazing white!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "やっほー！ 夏休み、楽しんでる～？ もちろんＥＶＰのおかげで\n一年中お休みなんだけど、やっぱ夏休みっていいよね～！\n海に山に花火にリゾートに、スイカに梨にそうめん！ 夏全開でいこうよ！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey there~! Enjoying the summer holiday~? Thanks to the EVP we're\noff all year round of course, but summer holidays are still the best~!\nSea, mountains, fireworks, resorts, watermelon, pears, somen! Summer, full throttle!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "天高くクマ超える秋！\n変熊たちをやっつけて、「ワルグマーハンター」の称号を手に入れるには\nピッタリの季節だよ！ …な～んてね！\nお隣の韓国には秋夕（チュソク）って祝日があって、みんなでお餅とか\n果物を食べるんだって。「食欲の秋」は世界共通語なんだね！",
-   "selections": []
+   "selections": [],
+   "text_en": "Autumn: the sky is high and the bears are higher!\nIt's the perfect season for thrashing Henkuma and earning\nthe Guma Bane title! ...just kidding!\nNext door in Korea there's a holiday called Chuseok where everyone eats\nrice cakes and fruit. Appetites in autumn really are a universal language!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アンナ",
    "text": "季節は人恋しい秋だけど、キミがいちばん会いたいのは誰かな？\nいつも一緒にいるあの人？ それとも今は遠いどこかにいる人？\nそんな秋だから、今ヨーグル！ボックスを開けると、\nずっと前に消滅したはずの制服が出ることがあるんだって！\nドラマチックだよね！",
-   "selections": []
+   "selections": [],
+   "text_en": "Autumn makes you miss people. Who do you most want to see?\nThe one who's always beside you? Or someone far away right now?\nBecause it's that kind of autumn, opening the Yogurt Box now\nmight give you a uniform that was supposed to be gone for good!\nDramatic, isn't it!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "今月はサードアニバーサリー！\nヨーグル！ボックスからはガリ勉かばんが、11月24日のオークションボックス\nからはブレードハンドや、幻のあの服が手に入るかも！？\n毎年恒例、落札額で倍率アップもあるみたい！\nレアアイテムゲットの大チャンス、いつも以上に楽しんじゃおう！",
-   "selections": []
+   "selections": [],
+   "text_en": "This month is our third anniversary!\nThe Yogurt Box has the swot's bag, and the auction box on 24 November\nmight hold the Blade Hand or that legendary outfit!\nAs every year, the winning bid can push the odds up!\nA big chance at rare items, so enjoy it even more than usual!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "EVPが解決しないまま、3回目のクリスマスが来ちゃったね！\n今年もキミといっしょにクリスマスを祝えて、なんかうれしいな(^^)\nチャリティオークションのおかげで、エピソードが3倍お得な今こそ！\nみんなでいろんなエピソードを楽しんじゃおうよ！",
-   "selections": []
+   "selections": [],
+   "text_en": "The EVP still isn't solved and here's our third Christmas!\nI'm glad I get to celebrate Christmas with you again this year (^^)\nThanks to the charity auction, episodes are three times the value right now!\nLet's all go and enjoy every episode we can!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "いよいよ2009年！ キミはどんな年にしたいのかな？\n今ヨーグル！ボックスを開けると、晴れ着が出ることがあるらしいよ！\nお正月は正装で、カッコかわゆくキメちゃおう！",
-   "selections": []
+   "selections": [],
+   "text_en": "2009 at last! What kind of year do you want it to be?\nOpen the Yogurt Box now and you might get formal New Year dress!\nLet's ring in the year properly, looking sharp and cute!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "やっほー！ 調子はどう？\nエピソードをクリアできない時は、友達に声をかけて一緒にプレイ！\nみんなで力を合わせればきっとうまくいくし、何倍も楽しいよ！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey there~! How's it going?\nWhen you can't clear an episode, call a friend and play it together!\nPut your strength together and it'll work out, and it's far more fun!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アンナ",
    "text": "4月といえば入学＆進級シーズン！\n初々しい新入生を見てると、ちょっと懐かしい気分になっちゃうな（＾＾）\n今月のヨーグル！ボックスからは、「春の総選挙」3周年記念で\nあの幻のアイテムとか、他にも4月らしいアイテムが手に入るらしいよ！",
-   "selections": []
+   "selections": [],
+   "text_en": "April means enrolment and promotion season!\nWatching the fresh new first-years makes me a little nostalgic (^^)\nThis month's Yogurt Box is celebrating three years of the Spring General Election,\nso that legendary item and other April-ish things might turn up!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
@@ -85,7 +128,21 @@
     "ありがとう！",
     "うん、そうする",
     "ありがとう！"
-   ]
+   ],
+   "text_en": "So you want to change your save point!\nWhere shall it be?\nIn front of the library?\nThat's a good place for students who aren't used to fighting yet to practise!\nRight then, when you faint on a battle field you'll\nreturn to the front of the library!\nThe backyard?\nOnce you're used to fighting, that's the area I'd recommend!\nRight then, when you faint on a battle field you'll\nreturn to the backyard!\nThe grounds?\nIt's the middle of the school, so it's handy for getting anywhere~!\nRight then, when you faint on a battle field you'll\nreturn to the grounds!",
+   "selections_en": [
+    "In front of the library",
+    "The backyard",
+    "The grounds",
+    "Yes, let's do that",
+    "Actually, somewhere else",
+    "Thank you!",
+    "Yes, let's do that",
+    "Thank you!",
+    "Yes, let's do that",
+    "Thank you!"
+   ],
+   "era": "game"
   },
   {
    "npc": "アンナ",
@@ -108,32 +165,68 @@
     "つ、次は絶対勝つよ！",
     "やった、勝った！",
     "いや、次もきっと勝つよ！"
-   ]
+   ],
+   "text_en": "So you've come to play me! You know the rules, right?\nOpening the Yogurt Box sometimes gives you rock, scissors and paper items.\nBring one and you can play me!\nKarte of the nursing club hands out the Yogurt Boxes!\nCollect the five coloured balls spelling Yo-gur-ting and take them\nto Karte in front of the school gate!\nI'll give you a present for a draw or even a loss,\nbut win and you get the best one~ if you win, that is!\nRight! Ready?\nHere we go~! Rock, paper, scissors!\nHold on a moment!\nYou can't throw rock without a rock item, you know?\nOh, you threw scissors?\nHmm, a draw.\nHere's a It's-a-Draw Box for you then.\nHope there's something good inside!\nHehehe, you threw paper~?\nYes~! I win!\nHere, a Losing-Hurts Box.\nChin up~!\nUgh, you threw rock?\nOww~, I lost~...\nHere, have this Winning-Feels-Great Box.\nI won't lose next time!",
+   "selections_en": [
+    "Yes, let's play!",
+    "Um, could you explain the rules?",
+    "Oh, bringing one isn't enough?",
+    "Where do I get a Yogurt Box?",
+    "Yes, got it!",
+    "Yes, let's play!",
+    "Sorry, another time",
+    "Rock!",
+    "Scissors!",
+    "Paper!",
+    "Ah, I see...",
+    "Hmm, a draw then",
+    "Let's play again another time",
+    "Aaah, I lost...",
+    "N-next time I'll definitely win!",
+    "Yes, I won!",
+    "No, I'll win next time too!"
+   ],
+   "era": "later-service"
   },
   {
    "npc": "◆ １年生\nチャイナ",
    "text": "今度の新入生の数が…\n宵月学院にも先に連絡しないと、あっ！ 書類も整理しなくちゃ。\n〓 宵月学院 生徒 〓\nあっ、宵月学院から来たのね。\n今度、エスティバーの新入生と一緒に、宵月学院を訪問する事になったんだけど、\n一緒に行かない？",
-   "selections": []
+   "selections": [],
+   "text_en": "The number of new students this time...\nI have to let Sowol Academy know first too, ah! And sort out the paperwork.\n= Sowol Academy student =\nOh, you're from Sowol Academy.\nWe're going to visit Sowol Academy soon with Estiva's new students,\nwould you like to come along?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "チャイナ",
    "text": "2年生進級おめでとう！\n同好会の事で用事があったら、いつでも来てね！",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on reaching year 2!\nIf you ever need anything about clubs, come and see me any time!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "チャイナ",
    "text": "ハ～イ！ 最近どう？ 何か困ってたりすることはない？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hi~! How are things? Anything troubling you?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "チャイナ",
    "text": "ハ～イ！\n学校生活、エンジョイしてるみたいね。\n同好会の事で、何かある？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hi~!\nLooks like you're enjoying school life.\nAnything about clubs?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "チャイナ",
    "text": "ハ～イ！\nもう 5年生なのね、頼もしいわ！\n同好会の事で、何かある？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hi~!\nYear 5 already, that's reassuring!\nAnything about clubs?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "チャイナ",
@@ -141,7 +234,13 @@
    "selections": [
     "そうですか、失礼します",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Thank you. But I can manage this job on my own.\nHuh? I didn't ask you for anything though...?",
+   "selections_en": [
+    "I see, excuse me",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "チャイナ",
@@ -178,6 +277,41 @@
     "はい",
     "はい",
     "わかりました"
+   ],
+   "era": "game",
+   "text_en": "Is there something you'd like to ask about clubs?\nA club is a gathering of friends, for getting along\nwith one another.\nA club has a president and members.\nThe president is the one who founded it, and is responsible for running it.\nAlso, which functions a club can use changes with its club level.\nEvery time you reach a higher level you can do more things,\nso do your best with it. Good luck!\nFounding a new club?\nSorry. Founding a club needs a club founding item.\nYou should go and buy a Stone of Friendship at the shop.\nSorry, another club is already using that name.\nSorry, you can't found a club until a week has passed since you left\nanother one.\nSorry... something seems to have gone wrong that I don't understand....\nGiving up on founding a club?\nCongratulations on founding your club~!\nCongratulations, your new club is set up!\nI look forward to working with you, president!\nHi~! Busy again today?\nWhich would you like to do?\nLevelling up the club?\nWithout a club level-up item, you can't level it up.\nWould you check your items again?\nYou don't have enough points yet, so it looks like you can't level up.\nChanging the club's name?\nSorry, without a club name change item you can't change the name.\nWould you check your items again?\nRight then, I'll change the club's name.\nThere! Change complete!\nChanging the club mark?\nSorry, without a club mark change item you can't change the mark.\nWould you check your items again?\nDisbanding the club?\nYou're sure? You really want to disband the club?\nOK.\nThe disbanding will be completed a week after the day you applied.",
+   "selections_en": [
+    "I've come about clubs",
+    "Found a club",
+    "About clubs",
+    "I see",
+    "I see",
+    "I see",
+    "Yes",
+    "I see",
+    "I see",
+    "I see",
+    "Understood",
+    "No",
+    "Thank you",
+    "I look forward to it!",
+    "Disband the club",
+    "Change the club settings",
+    "Club level up",
+    "Change the club mark",
+    "Change the club name",
+    "Yes",
+    "I see",
+    "Understood",
+    "Yes",
+    "I see",
+    "Yes, please",
+    "Thank you",
+    "Yes",
+    "I see",
+    "Yes",
+    "Yes",
+    "Understood"
    ]
   },
   {
@@ -185,27 +319,44 @@
    "text": "入学おめでとう。入学したばかりですから、まずは一番基本的な エピソードを\nやってみるといいですよ。校舎前にいるベン先生のそばのエピソードゲートに\n入って、「廊下いっぱいの箱」エピソードを一度やってみて下さい。\n〓 宵月学院 生徒 〓\n僕は、エスティバー生徒会実行委員長のグレイです。\nエスティバーへの訪問を歓迎します。他の学校の生徒でも、何か助けが必要な時は、\n遠慮せずにいつでも相談に来て下さい。",
    "selections": [
     "はい、エピソードをやってみます"
-   ]
+   ],
+   "text_en": "Congratulations on enrolling. Since you've only just started, why not try the most\nbasic episode first. Go through the Episode Gate beside Ben-sensei in front of the\nschool building and try the Hallway Full of Boxes episode once.\n= Sowol Academy student =\nI'm Grey, chair of the Estiva student council executive committee.\nWelcome to Estiva. Even students from other schools should feel free to come\nand ask whenever you need help.",
+   "selections_en": [
+    "Yes, I'll try the episode"
+   ],
+   "era": "game"
   },
   {
    "npc": "グレイ",
    "text": "2年生に進級おめでとう。\n何か助けが必要なことはありませんか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on reaching year 2.\nIs there anything you need help with?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "グレイ",
    "text": "あ、何か御用ですか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah, can I help you with something?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "グレイ",
    "text": "こんにちは。\n何か助けが必要ですか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello.\nDo you need any help?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "グレイ",
    "text": "あ、はい、どんな御用でしょう？",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah, yes, what can I do for you?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "グレイ",
@@ -213,32 +364,53 @@
    "selections": [
     "そうですか、失礼します",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Hmm, I appreciate it, but there's nothing I need to ask of you right now.\nIt would help if you came back some other time.\nI haven't asked you for anything though...\nDid Suchong put you up to something strange again?",
+   "selections_en": [
+    "I see, excuse me",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nスーチョン",
    "text": "ハ～ッハッハッハ！\nエスティバー生徒会のため！\nそしてこの私のために滅私奉公する新入生たちよ、歓迎するぞ！\n〓 宵月学院 生徒 〓\nハハハ！ 私はスーチョン。エスティバー生徒会の最重要ＶＩＰだ。\n見たところ宵月学院の生徒のようだが、よく憶えておくように。",
-   "selections": []
+   "selections": [],
+   "text_en": "Ha~hahahaha!\nFor the Estiva student council!\nAnd to the new students who will serve me selflessly, welcome!\n= Sowol Academy student =\nHaha! I am Suchong, the most important VIP of the Estiva student council.\nYou appear to be a Sowol Academy student, but see that you remember it well.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "スーチョン",
    "text": "ほほう、もう 2年生進級か？ おめでとう！\n今後とも精進するように！\n〓 宵月学院 生徒 〓\nたとえ他の学校の生徒でも、このエスティバーのために働く諸君の勇姿！\nこのスーチョン、いつも見ているぞ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Oho, year 2 already? Congratulations!\nApply yourself from here on!\n= Sowol Academy student =\nEven a student of another school, labouring so gallantly for Estiva!\nI, Suchong, am always watching.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "スーチョン",
    "text": "そうか、諸君も 3年生になった以上、そろそろ重要な任務を与えても\nいいだろう。\nこのスーチョンが、諸君のために特別任務を用意するから、\n期待していいぞ！",
-   "selections": []
+   "selections": [],
+   "text_en": "I see. Now that you are in year 3, it is about time I entrusted you\nwith an important mission.\nI, Suchong, shall prepare a special assignment for you,\nso look forward to it!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "スーチョン",
    "text": "ハッハッハ。\n今日も額に汗して働いてるか、諸君！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hahaha.\nSweating away at your work again today, I trust!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "スーチョン",
    "text": "ハハハ！ 諸君もとうとう 5年生か！\n今後はこれまで以上に、私と生徒会に忠誠を尽くすように！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hahaha! Year 5 at last!\nFrom now on, serve me and the student council even more loyally than before!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "スーチョン",
@@ -246,32 +418,53 @@
    "selections": [
     "…それじゃまた",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Hmph, you have the fundamentals down.\nRegrettably there is nothing for you to do yet, but do not lose that attitude.\nI have given you no assignment, have I?",
+   "selections_en": [
+    "...See you, then",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nモカ",
    "text": "こんにちは…\nえ～と…エスティバーにご入学おめでとうございます～\n〓 宵月学院 生徒 〓\nこんにちは…\nあの、エスティバー生徒会の書記を務めております、モカと申します…\nよろしくお願いします…",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello...\nErm... congratulations on enrolling at Estiva~\n= Sowol Academy student =\nHello...\nUm, I'm Mocha, secretary of the Estiva student council...\nIt's nice to meet you...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "モカ",
    "text": "あっ、今度、 2年生に進級なさったって聞きました。\n進級おめでとうございます～\n〓〓 迷える子羊 【43】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah, I heard you've been promoted to year 2.\nCongratulations on your promotion~\n== The Lost Lamb [43] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "モカ",
    "text": "あの…っ、 3年生にご進級なさったんですね、おめでとうございます。",
-   "selections": []
+   "selections": [],
+   "text_en": "Um...! You've been promoted to year 3, congratulations.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "モカ",
    "text": "…あの…その…、ええと…\n何かわたしにお手伝い出来る事、ありますか？",
-   "selections": []
+   "selections": [],
+   "text_en": "...Um... well... erm...\nIs there anything I can help you with?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "モカ",
    "text": "あ… あの… ええと…\nもう、「先輩」ってお呼びしないと…ダメですか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah... um... erm...\nDo I... have to call you senpai now?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "モカ",
@@ -279,32 +472,53 @@
    "selections": [
     "ううん、ごめんね",
     "ごめん、なんでもない"
-   ]
+   ],
+   "text_en": "Er... um, nothing in particular...\nDo I look like I'm in trouble?\nEh~? Did I ask you for something?\nOh no, sorry, sorry! So, um... what was it I asked for?",
+   "selections_en": [
+    "No, sorry",
+    "Sorry, it's nothing"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nアリーナ",
    "text": "フ～ン、フフ～ン、うん？ 音楽聞いてんだから、ジャマしないでくんない？\n〓 宵月学院 生徒 〓\nフ～ン、フフ～ン、うん？ なんか用？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hmm~, hmm-hmm~, hm? I'm listening to music, do you mind not interrupting?\n= Sowol Academy student =\nHmm~, hmm-hmm~, hm? Something you want?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
    "text": "へえ？ 音楽に興味ある？ これ、「騒音庭園」ってバンドなんだけどさ。\nこの前出したアルバムでブレイクしたけど、アタシみたいにインディーズ時代\nからチェックしてたファンってそんなにいないんだよね～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh? Interested in music? This is a band called Noise Garden.\nThey broke through with their last album, but there aren't many fans like me\nwho were following them back in their indie days~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
    "text": "なに？\n大事な用じゃないんなら、音楽聞くのジャマしないんで欲しいんだけど。",
-   "selections": []
+   "selections": [],
+   "text_en": "What?\nIf it isn't important, I'd rather you didn't interrupt my music.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
    "text": "フフ～ン、フ～ン、うん？\nなんか用？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hmm-hmm~, hmm~, hm?\nSomething you want?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
    "text": "フフ～ン、フン、ダダン！\nん？ なんか用？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hmm-hmm~, hmm, da-dan!\nHm? Something you want?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
@@ -312,12 +526,21 @@
    "selections": [
     "そう？ またね",
     "なんでもない、またね"
-   ]
+   ],
+   "text_en": "Mm, not really...\nHm? What was that?",
+   "selections_en": [
+    "Really? See you",
+    "It's nothing, see you"
+   ],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
    "text": "じゃあさ、\nどのスキルにする？\nそのスキルで\nいいんだね？\nう～ん、悪いんだけど、\n授業料足んないよ？",
-   "selections": []
+   "selections": [],
+   "text_en": "Right then,\nwhich skill will it be?\nThat skill,\nyou're sure?\nHmm~, sorry, but\nyou can't cover the tuition, you know?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
@@ -325,32 +548,53 @@
    "selections": [
     "熟練度？",
     "わかった！"
-   ]
+   ],
+   "text_en": "Hmm-hmm~, hmm, da-dan!\nEh? Skills?\nAh~, then first you have to raise your mastery!\nEach of the four weapon types has its own mastery.\nRaise your mastery and you can learn all sorts of skills, and your accuracy goes up too!\nSo, pick two weapons you like!",
+   "selections_en": [
+    "Mastery?",
+    "Got it!"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nカルテ",
    "text": "こんにちは、私はカルテ！ エスティバー学園看護部の部員よ。\nもし 5色のカラーボールを見つけたら、私のところに持ってきてね。\nプレゼントと交換してあげるから！\n〓 宵月学院 生徒 〓\nエスティバーにようこそ！ 私はカルテ、エスティバー学園の看護部員よ。\nもし 5色のカラーボールを見つけたら、私のところに持ってきてね。\nプレゼントと交換してあげるから！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello, I'm Karte! I'm a member of the Estiva Academy nursing club.\nIf you find the five coloured balls, bring them to me.\nI'll trade you a present for them!\n= Sowol Academy student =\nWelcome to Estiva! I'm Karte, a nursing club member at Estiva Academy.\nIf you find the five coloured balls, bring them to me.\nI'll trade you a present for them!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "カルテ",
    "text": "こんにちは、元気？\n5色のカラーボールを見つけたら、私のところに持ってきてね。\nプレゼントと交換してあげるから！\n〓 宵月学院 生徒 〓\nこんにちは、友達と遊びに来たの？\nケガをしないように気をつけてね～\nそうそう、 5色のカラーボールを見つけたら、私のところに持ってきてね～。",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello, how are you?\nIf you find the five coloured balls, bring them to me.\nI'll trade you a present for them!\n= Sowol Academy student =\nHello, have you come to play with your friends?\nTake care not to get hurt~\nOh yes, if you find the five coloured balls, bring them to me~.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "カルテ",
    "text": "どこか痛いところがあったら、保健室のビアンカ先生に相談してみて。\nちゃんと手当てしてくれるから。 …ちょっと乱暴な治療だけどね。\n5色のカラーボールを見つけたら、私のところに持ってきてね。\n〓 宵月学院 生徒 〓\nこんにちは、調子はどう？\n健康に気をつけて、充実した学園生活を送ってね！\n5色のカラーボールを見つけたら、私のところに持ってきてね～。",
-   "selections": []
+   "selections": [],
+   "text_en": "If anything hurts, go and see Bianca-sensei in the infirmary.\nShe'll treat it properly. ...Her treatment is a little rough, mind.\nIf you find the five coloured balls, bring them to me.\n= Sowol Academy student =\nHello, how are things?\nLook after your health and have a full school life!\nIf you find the five coloured balls, bring them to me~.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "カルテ",
    "text": "調子が悪い時は、ビアンカ先生と相談してみるといいわよ。\nまあ、よくなるとは限らないけど…\nそれと、 5色のカラーボールを見つけたら、私のところに持ってきてね。\n〓 宵月学院 生徒 〓\nこんにちは、よくエスティバーに遊びに来てるみたいね。\nうふふっ、誰か気になる人でもいるのかな？\n5色のカラーボールを見つけたら、私のところに持ってきてね～。",
-   "selections": []
+   "selections": [],
+   "text_en": "When you're feeling off, it's worth talking to Bianca-sensei.\nWell, it won't necessarily make you better...\nAnd if you find the five coloured balls, bring them to me.\n= Sowol Academy student =\nHello, you seem to visit Estiva a lot.\nHeehee, is there someone here you're interested in?\nIf you find the five coloured balls, bring them to me~.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "カルテ",
    "text": "もう 5年生なのね！ でも、無理は禁物よ。\n5色のカラーボールを見つけたら、私のところに持ってきてね。\n〓 宵月学院 生徒 〓\nこんにちは、よくエスティバーに遊びに来てるみたいね。\nもしかして、こっちに好きな人がいたりして？\n5色のカラーボールを見つけたら、私のところに持ってきてね～。",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 5 already! Still, don't overdo it.\nIf you find the five coloured balls, bring them to me.\n= Sowol Academy student =\nHello, you seem to visit Estiva a lot.\nCould it be there's someone here you like?\nIf you find the five coloured balls, bring them to me~.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "カルテ",
@@ -358,7 +602,13 @@
    "selections": [
     "うん、じゃね",
     "ごめん、勘違い"
-   ]
+   ],
+   "text_en": "No, nothing in particular.\nHuh, I didn't ask you for anything, did I?",
+   "selections_en": [
+    "Right, see you",
+    "Sorry, my mistake"
+   ],
+   "era": "game"
   },
   {
    "npc": "カルテ",
@@ -372,32 +622,57 @@
     "うん、よろしく～",
     "ありがとう！",
     "メリークリスマ～ス！"
-   ]
+   ],
+   "text_en": "The nursing club gives an exciting Yogurt Box to anyone who brings in\nthe five coloured balls spelling Yo-gur-ting.\nThere might be a lovely item inside, so go and look for them!\nThe five balls spelling Yo-gur-ting\nare obtained by clearing episodes.\nDifferent episodes give different balls, so it's worth challenging\nlots of different ones!\nOh dear, it looks like you're missing a ball?\nBianca-sensei's orders are that I can only trade for the full set of five,\nsorry! Come back when you've found the ones you're missing!\nAh, you've collected all five coloured balls?\nThen here's your Yogurt Box!\nHere! A year 1 Yogurt Box!\nMaybe a rare item will come out?",
+   "selections_en": [
+    "Coloured balls?",
+    "Where do I get the coloured balls?",
+    "Yes, got it!",
+    "All right, I'll come back",
+    "I've collected all five coloured balls!",
+    "Yes, please~"
+   ],
+   "era": "later-service"
   },
   {
    "npc": "◆ １年生\nヒョンラン",
    "text": "やあ…\n可愛い羊たちと…仲良くして…\n〓 宵月学院 生徒 〓\n…ここは飼育場で、僕はヒョンラン…。",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey...\nBe kind... to the sweet sheep...\n= Sowol Academy student =\n...This is the breeding ground, and I'm Hyunrang....",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ヒョンラン",
    "text": "羊たちが温室に…バラウスに襲われる…\n〓〓 羊か温室か 【32】 クリア 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "The sheep, into the greenhouse... attacked by Baraus...\n== Sheep or Greenhouse [32] cleared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ヒョンラン",
    "text": "3年生進級…おめでとう。",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 3... congratulations.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ヒョンラン",
    "text": "やあ…どうしたの…？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey... what is it...?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ヒョンラン",
    "text": "やあ… 今日は何しに…？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey... what brings you here today...?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ヒョンラン",
@@ -405,32 +680,53 @@
    "selections": [
     "そう？ またね",
     "ごめん…"
-   ]
+   ],
+   "text_en": "Mm... I'm glad, but... not just now...\n...Did I... ask you for something?",
+   "selections_en": [
+    "Really? See you",
+    "Sorry..."
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\n四刀丸",
    "text": "うーむ…何か画期的にうまいものがどこかにないか？\n〓 宵月学院 生徒 〓\nむむ、制服が違うところを見ると、他の学校の生徒のようだな。\n拙者は四刀丸（よちまる）と申す。これからよろしく頼むぞ。\nいずれ時間があれば、古今東西の食生活について共に話そうぞ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Hmm... is there not some revolutionary delicious food somewhere?\n= Sowol Academy student =\nMm, seeing that your uniform is different, you appear to be from another school.\nI am called Yochimaru. I look forward to your acquaintance.\nWhen there is time, let us talk of the culinary ways of all ages and countries.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "四刀丸",
    "text": "おっ、よく来たな。\n最近メシはたらふく食っておるか？\n何かうまいものがあったら教えてくれ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah, welcome.\nHave you been eating your fill lately?\nIf you find anything good, do tell me.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "四刀丸",
    "text": "ほお、もう 3年生になったか、これはめでたい！\n進級パーティを開くのなら、よろこんでご馳走になるぞ。\n〓〓 エスカルゴ・ラッシュ 【71】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Oho, year 3 already, splendid!\nIf you hold a promotion party I shall gladly accept the feast.\n== Escargot Rush [71] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "四刀丸",
    "text": "人生とは単純なもの。いくら不幸に見舞われようが、ただうまいメシさえ\n食えば、充分に幸せになれるのだ。\n府に落ちぬか？ ならば拙者と共にうまいメシを食おう。",
-   "selections": []
+   "selections": [],
+   "text_en": "Life is a simple thing. However much misfortune befalls you, so long as\nyou eat a good meal you can be perfectly happy.\nNot convinced? Then come and eat well with me.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "四刀丸",
    "text": "おお、お主が噂の 5年生か。\n共に美食の道を究めようぞ！",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah, so you are the year 5 I have heard of.\nLet us master the way of fine food together!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "四刀丸",
@@ -438,12 +734,21 @@
    "selections": [
     "そうですか、失礼します",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "Hmm. Would you mind returning at a later time?\nHmmm...\nI do not believe I requested anything of you lot, but is it my own misunderstanding?",
+   "selections_en": [
+    "I see. Excuse me, then.",
+    "Pardon me, excuse me."
+   ],
+   "era": "game"
   },
   {
    "npc": "四刀丸",
    "text": "どのスキルを\n会得したいのだ？\nそのスキルで\n良いのだな？\nむむ、\n授業料が足りんぞ？",
-   "selections": []
+   "selections": [],
+   "text_en": "Which skill\ndo you wish to acquire?\nThat skill,\nyou are certain?\nMm, your\ntuition falls short.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アリーナ",
@@ -451,32 +756,53 @@
    "selections": [
     "熟練度？",
     "わかりました！"
-   ]
+   ],
+   "text_en": "Ah, you have come to learn a skill?\nThen first let me set your mastery to suit the experience you have gathered.\nEach of the four weapon types has a thing called mastery.\nRaise your mastery and you can learn a wider range of skills, and your accuracy rises too.\nChoose the two weapons you are best with.",
+   "selections_en": [
+    "Mastery?",
+    "Understood!"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nジョニー",
    "text": "お、よく来たな。いつでも温室に遊びに来なよ。\n〓 宵月学院 生徒 〓\n別の学校から遊びに来てくれたのかい？\n俺は温室を管理してるジョニーってもんだ、\nよろしく頼むわ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh, welcome. Drop by the greenhouse any time.\n= Sowol Academy student =\nCome over from another school, have you?\nI'm Johnny, I look after the greenhouse.\nGood to meet you.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ジョニー",
    "text": "ハハッ、また来てくれたな。\n最近は温室にもモンスターが出るんで、あんま生徒たちが来なくなってな。\nまた遊びに来とくれや。\n〓〓 スーチョンの奇妙な事件簿 【34】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Haha, you came back.\nMonsters have been showing up in the greenhouse lately, so the students don't come much.\nDo come and visit again.\n== Suchong's Case Files [34] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ジョニー",
    "text": "温室によく来たな。\n調子はどうだい？",
-   "selections": []
+   "selections": [],
+   "text_en": "Good of you to come to the greenhouse.\nHow's it going?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ジョニー",
    "text": "温室によく来たな。\n楽しんでってなぁ～",
-   "selections": []
+   "selections": [],
+   "text_en": "Good of you to come to the greenhouse.\nEnjoy yourself~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ジョニー",
    "text": "温室によく来たな。\n別になんにもねぇけど、楽しんでってなぁ～",
-   "selections": []
+   "selections": [],
+   "text_en": "Good of you to come to the greenhouse.\nNothing much going on, but enjoy yourself~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ジョニー",
@@ -484,32 +810,53 @@
    "selections": [
     "そうですか、それじゃまた",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "I've got hands enough for now.\nDid I ask you for something...\nHaven't you got the wrong person?",
+   "selections_en": [
+    "I see, see you then",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nメイ",
    "text": "あたしはメイ！ ジョニーを助けてる温室管理補佐だよ！\n新入生みたいだけど、温室に何の用？\n〓 宵月学院 生徒 〓\nあたしはメイ！ エスティバーの温室管理補佐をしてるの。\n宵月からエスティバーまで何しに来たの？\nまさか…盗み食いに来たんじゃないでしょうね！",
-   "selections": []
+   "selections": [],
+   "text_en": "I'm Mei! Johnny's assistant greenhouse keeper!\nYou look like a new student, what do you want in the greenhouse?\n= Sowol Academy student =\nI'm Mei! I'm the assistant greenhouse keeper at Estiva.\nWhat have you come all the way from Sowol to Estiva for?\nDon't tell me... you've come to nick something!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイ",
    "text": "はぁい！ もうずいぶん立派なエスティバーの生徒になったじゃない？\n授業がないからって遊んでばっかりじゃなくて、たまには温室にも来てね。\n草むしりとか肥料をやるとか、やりがいのある仕事がい～っくらでもあるから。\n〓〓 真実はそこにある 【55】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Hiya! You've turned into quite the Estiva student, haven't you?\nDon't just laze about because there are no lessons, come to the greenhouse now and then.\nThere's no end of worthwhile work: weeding, fertilising, all of it.\n== Is the Truth Out There? [55] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイ",
    "text": "もう 3年生になったの？ ふーん、思ったよりがんばってるんだね。\nとにかく、 3年生に進級おめでとう！\nこれからはもっともっと、温室の仕事を手伝いに来てね★",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 3 already? Huh, you're working harder than I thought.\nAnyway, congratulations on year 3!\nCome and help with the greenhouse even more from now on *",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイ",
    "text": "いらっしゃい★\n今日手伝ってもらいたいのは、温室の裏側の草むしりと、モンスター退治と…\n（とても長くて覚え切れない…）\nわかった？ しっかり働いてね～",
-   "selections": []
+   "selections": [],
+   "text_en": "Welcome *\nWhat I'd like help with today is weeding behind the greenhouse, and killing monsters, and...\n(It's far too long to remember...)\nGot that? Work hard now~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイ",
    "text": "うわあ、もう 5年生なんだ？ ジョニーほどじゃないけど、ステキだよ★",
-   "selections": []
+   "selections": [],
+   "text_en": "Wow, year 5 already? Not quite Johnny, but you're doing great *",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイ",
@@ -517,32 +864,53 @@
    "selections": [
     "そう？ またね",
     "そうだった、ごめん"
-   ]
+   ],
+   "text_en": "Mm, nothing I need in particular right now.\nWhat's this about?\nI didn't ask you for anything?",
+   "selections_en": [
+    "Really? See you",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nペコー",
    "text": "ニャ～～ ニャアアオオン～\n（うざがってるようだ。）",
-   "selections": []
+   "selections": [],
+   "text_en": "Meow~~ meeeoooow~\n(Seems annoyed.)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ペコー",
    "text": "ｚＺＺ ｚＺＺ～\n（目は開いているのに寝てるみたい。）",
-   "selections": []
+   "selections": [],
+   "text_en": "zZZ zZZ~\n(Its eyes are open but it seems to be asleep.)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ペコー",
    "text": "ニャ～ ニャニャ～\n（おめでとうって言ってるみたい。）\n〓 宵月学院 生徒 〓\nニャニャニャ～ ニャ～～～～\n（よく来たね、って言ってるみたい。）",
-   "selections": []
+   "selections": [],
+   "text_en": "Meow~ mew-mew~\n(Seems to be saying congratulations.)\n= Sowol Academy student =\nMew-mew-mew~ meow~~~~\n(Seems to be saying welcome.)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ペコー",
    "text": "ｚＺＺ ｚＺＺ～\n（寝てるのか起きてるのか…）",
-   "selections": []
+   "selections": [],
+   "text_en": "zZZ zZZ~\n(Asleep or awake, who can say...)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ペコー",
    "text": "ｚＺＺ ｚＺＺ～\n（目を開けたまま寝てる？）",
-   "selections": []
+   "selections": [],
+   "text_en": "zZZ zZZ~\n(Sleeping with its eyes open?)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ペコー",
@@ -550,32 +918,53 @@
    "selections": [
     "寝てるね…",
     "…"
-   ]
+   ],
+   "text_en": "Mrow~\nzZZ~ zZZ~\nzZZ zZZZZZ",
+   "selections_en": [
+    "It's asleep...",
+    "..."
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nラミン",
    "text": "ミャオ～オウ。ミャオオオオン！ ミャオオウ！\nミャ～～～！\n（何か言ってるみたいだけど分からない）",
-   "selections": []
+   "selections": [],
+   "text_en": "Miaow~ow. Miaooooow! Miaoow!\nMyaaa~~~!\n(It seems to be saying something, but you can't tell what.)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ラミン",
    "text": "ミャオオウ！ ミャオオオオン！ ミャ～～～～オウ！！\n（ 2年生になったのを祝ってくれてるみたい）",
-   "selections": []
+   "selections": [],
+   "text_en": "Miaoow! Miaooooow! Myaaa~~~~ow!!\n(Seems to be congratulating you on reaching year 2.)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ラミン",
    "text": "ミャ～～～ ミャ～ミャ～ ミャミャッ！\n（何て言ってるんだろう？）",
-   "selections": []
+   "selections": [],
+   "text_en": "Myaaa~~~ mya~mya~ mya-mya!\n(What could it be saying?)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ラミン",
    "text": "ミャミャミャ～～\n（いつでも遊びにおいで、って言ってるみたい）",
-   "selections": []
+   "selections": [],
+   "text_en": "Mya-mya-mya~~\n(Seems to be saying come and visit any time.)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ラミン",
    "text": "ミャ～ミャオォ～ン\n（もっと遊びにおいで、って言ってるみたい）",
-   "selections": []
+   "selections": [],
+   "text_en": "Mya~miaooo~n\n(Seems to be saying come and visit more often.)",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ラミン",
@@ -583,34 +972,57 @@
    "selections": [
     "？？？？？？？",
     "…寝てるみたい"
-   ]
+   ],
+   "text_en": "Mya-mya-mya-myan!\nzZZ zZZ",
+   "selections_en": [
+    "???????",
+    "...it seems to be asleep"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nベン",
    "text": "エスティバーに入学おめでとう。まだ入学したばかりだし、まずは\n図書館のモンスター退治とか、ワタクシのそばにあるエピソードゲートに入って、\n廊下いっぱいの箱エピソードをやってみてごらん。\n〓 宵月学院 生徒 〓\n宵月学院から遊びに来たようだね。エスティバーにようこそ。\nえっ、ワタクシと似ている人が宵月にもいるって？\nこの着ぐるみは見習い教師の制服だから似ていて当然だよ。\n楽しく遊んでいくといいよ。",
    "selections": [
     "はい、エピソードをやってみます"
-   ]
+   ],
+   "text_en": "Congratulations on enrolling at Estiva. You've only just started, so first try\nkilling the monsters in the library, or go through the Episode Gate beside me\nand try the Hallway Full of Boxes episode.\n= Sowol Academy student =\nCome over from Sowol Academy, I see. Welcome to Estiva.\nEh, there's someone at Sowol who looks like me?\nThis costume is the trainee teacher's uniform, so of course we look alike.\nEnjoy yourself while you're here.",
+   "selections_en": [
+    "Yes, I'll try the episode"
+   ],
+   "era": "game"
   },
   {
    "npc": "ベン",
    "text": "もう 2年生になったんだね。おめでとう。\n友達はたくさん出来たかな？\n〓〓 ベン先生の家計 【38】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "You've reached year 2. Congratulations.\nHave you made lots of friends?\n== Ben-sensei's Household [38] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ベン",
    "text": "3年生に進級おめでとう。\n後輩がたくさん出来たわけだから、よ～く面倒を見てあげるんだよ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on reaching year 3.\nYou have plenty of juniors now, so look after them well.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ベン",
    "text": "諸君もずいぶん頼もしくなったね。\n後輩の面倒も見てあげるようにね。\nそれで、何かワタクシの助けがいるのかい？",
-   "selections": []
+   "selections": [],
+   "text_en": "You've all become quite dependable.\nDo look after your juniors.\nSo, is there something you need my help with?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ベン",
    "text": "諸君ももう 5年生だね。\n上級生としての自覚を持って、後輩たちをしっかり指導してあげるんだよ。",
-   "selections": []
+   "selections": [],
+   "text_en": "You're all in year 5 now.\nCarry yourselves as seniors and guide the younger ones properly.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ベン",
@@ -618,7 +1030,13 @@
    "selections": [
     "そうですか、失礼します",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "There's nothing in particular I need right now.\nHm? Did I ask you for something?",
+   "selections_en": [
+    "I see, excuse me",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "ベン",
@@ -645,32 +1063,57 @@
     "献血車とバス停はどこですか？",
     "科学室はどこですか？",
     "ありがとうございます"
-   ]
+   ],
+   "text_en": "What would you like to know about?\nA quest is a special favour that all sorts of people ask of you.\nTake a quest on, see it through, and you'll get some sort of thanks for it.\nSome of those thanks are special things you can only get from quests.\nFinding people with quests is easy. Click the guide boards around the school\nand look at the quest information.\nYou can find out who needs help and where.\nMeet someone with a quest, choose the new quest display, and a list of the\nquests you can take will come up. Pick one from the list and say you'll\nhelp them.\nUsually you just do what the person who asked has asked for.\nThey'll ask you to go and talk to someone, or to go and collect something.\nIf you still can't work it out, there's an easy way to find out.",
+   "selections_en": [
+    "Please tell me about the school",
+    "Please tell me about quests",
+    "How do I find people with quests?",
+    "How do I take a quest on?",
+    "How does a quest progress?",
+    "What way is that?"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nリエズ",
    "text": "おっ、よく来たな新入生！ エスティバーに入学おめでとう。\nまだ右も左も分からないだろうから、図書館のモンスター退治とか、\nエピソードをやってみたらどうだ？\n詳しくは校舎前のベンに聞くといい。\n〓 宵月学院 生徒 〓\nあたしはリエズ。エスティバーの生徒たちを指導してる。\nお前たちは宵月学院の生徒のようだが、友達に会いに来たのか？\nケンカせず、仲良くしなよ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh, welcome, new student! Congratulations on enrolling at Estiva.\nYou won't know left from right yet, so how about killing the monsters in the\nlibrary, or trying an episode?\nAsk Ben in front of the school building for the details.\n= Sowol Academy student =\nI'm Riez. I train the students at Estiva.\nYou lot look like Sowol Academy students, come to see friends?\nNo fighting, play nicely.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "リエズ",
    "text": "よし。 2年生になったな。\nこれからは後輩も出来るんだから、後輩のお手本になるように行動するんだぞ。\n〓〓 真夜中の幽霊 【36】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Good. You've reached year 2.\nYou'll have juniors from now on, so behave in a way they can follow.\n== Midnight Ghost [36] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "リエズ",
    "text": "3年生進級おめでとう！\n今後もがんばって勉強するんだぞ。\n〓〓 校門の決斗 【67】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on year 3!\nKeep studying hard from here on.\n== Duel at the School Gate [67] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "リエズ",
    "text": "お前たちがいろいろ手を貸してくれて、本当に助かってるよ。\n今後ともよろしく頼む。",
-   "selections": []
+   "selections": [],
+   "text_en": "You lot have lent a hand with all sorts of things, it's a real help.\nI'm counting on you from here on.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "リエズ",
    "text": "お前たちもいつの間にか 5年生か。\n考えてみれば、お前たちにはずいぶん世話になってるな。\nこれからも、よろしく頼む！",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 5 already, before I knew it.\nCome to think of it, I owe you a great deal.\nI'm counting on you from here on too!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "リエズ",
@@ -678,27 +1121,45 @@
    "selections": [
     "そうですか、失礼します",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "Mm, nothing to ask of you right now.\nI haven't asked you for anything, what's this about?",
+   "selections_en": [
+    "I see, excuse me",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nページ",
    "text": "エスティバー図書館にようこそ。\nどんな本をお探しですか？\n〓 宵月学院 生徒 〓\n…宵月からいらっしゃったのですね。\nエスティバーの図書館司書を務めているページです。\n図書館は常時開館されているので、何か本を読みたい時は、いつでもおいで下さい。",
-   "selections": []
+   "selections": [],
+   "text_en": "Welcome to the Estiva Library.\nWhat sort of book are you looking for?\n= Sowol Academy student =\n...You've come from Sowol, I see.\nI'm Paige, the librarian here at Estiva.\nThe library is always open, so do come whenever you'd like to read something.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ページ",
    "text": "2年生進級をお祝い申し上げます。\n〓〓 本泥棒を捕まえろ！ 【49】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations on reaching year 2.\n== Catch the Book Thief! [49] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ページ",
    "text": "3年生進級をお祝い申し上げます。\n図書館はいつも開館されていますから、いつでもおいで下さい。\n〓 宵月学院 生徒 〓\nいったい誰が、地下のレバーを故障させたのでしょうか。\n一つ間違えば、大きな事故も起こりかねないのに…",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations on reaching year 3.\nThe library is always open, so please come any time.\n= Sowol Academy student =\nWho on earth could have broken the lever in the basement?\nOne slip and it could have caused a serious accident...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ページ",
    "text": "ようこそ。\n今日はどんな本をお探しですか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Welcome.\nWhat sort of book are you looking for today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ページ",
@@ -706,12 +1167,21 @@
    "selections": [
     "そうですか、失礼します",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "There is nothing in particular I need to ask of you at the moment.\nI have not asked you for anything.\nThere seems to be some misunderstanding.",
+   "selections_en": [
+    "I see, excuse me",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nビアンカ",
    "text": "おっほほほほ～、よく来たわね。\n痛い所はないみたいだけど、何の用で保健室に来たの？\nあたしのファンクラブにでも入りたいのかしら？\n〓 宵月学院 生徒 〓\nほほほ、いらっしゃい、可愛い子ちゃんたち。\n宵月の生徒みたいだけど、何の用で来たの？\nウフフ…あたしのファンクラブに入りたいのかしら？",
-   "selections": []
+   "selections": [],
+   "text_en": "Ohohohoho~, good of you to come.\nNothing seems to hurt, so what brings you to the infirmary?\nCome to join my fan club, perhaps?\n= Sowol Academy student =\nHohoho, welcome, my pretty things.\nYou look like Sowol students, what brings you here?\nOhoho... come to join my fan club, have you?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ビアンカ",
@@ -720,12 +1190,22 @@
     "3年生に進級させて下さい",
     "もっとがんばります；；；",
     "ありがとうございます"
-   ]
+   ],
+   "text_en": "Good of you to come, my pretty things. What is it today?\nListen. They say marks aren't everything in life, but do your parents\nknow about yours? Go away and try a little harder.\nMm. This will do nicely. I'll promote you to year 3.\nCongratulations!",
+   "selections_en": [
+    "Please promote me to year 3",
+    "I'll try harder...",
+    "Thank you very much"
+   ],
+   "era": "game"
   },
   {
    "npc": "ビアンカ",
    "text": "おほほ、キミたちももう 3年生なのね～。\nそれで、今日は何の用かしら？\n〓〓 変熊のシツコイ依頼 【69】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Ohoho, so you're in year 3 now~.\nAnd what is it today?\n== Henkuma's Persistent Request [69] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ビアンカ",
@@ -734,14 +1214,26 @@
     "5年生に進級させて下さい",
     "もっとがんばります；；；",
     "ありがとうございます～"
-   ]
+   ],
+   "text_en": "Congratulations on your promotion, but don't get cocky and start slacking.\nApply yourself sincerely and work harder still. Ho ho ho!\nPromote you, you say? You?\nGo and pour some water over your head to cool it, then study hard.",
+   "selections_en": [
+    "Please promote me to year 5",
+    "I'll try harder...",
+    "Thank you very much~"
+   ],
+   "era": "game"
   },
   {
    "npc": "ビアンカ",
    "text": "キミたちもずいぶん立派になったわね。\n上級生として、後輩のヒヨッ子ちゃん達の模範になるよう、これからも\nあたしには絶対服従よ！ おーっほっほっほ！",
    "selections": [
     "6年生に進級させて下さい"
-   ]
+   ],
+   "text_en": "You've all become quite splendid.\nAs seniors, be a model for the little fledglings below you, and from now on\nyou obey me absolutely! Ohohohoho!",
+   "selections_en": [
+    "Please promote me to year 6"
+   ],
+   "era": "game"
   },
   {
    "npc": "ビアンカ",
@@ -749,32 +1241,53 @@
    "selections": [
     "そうですか、失礼します",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Ohohoho,\nunfortunately I have no business with you right now. Come again another time.\nWhat? Are you running a fever?\nI don't recall asking you for anything.",
+   "selections_en": [
+    "I see, excuse me",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nソムンヤン",
    "text": "新入生のみなさま、御入学をお祝い申し上げます。\n御入学なさったばかりですから、手始めに図書館のモンスター退治や\n廊下いっぱいの箱エピソードをなさってみて下さいませ。\n〓 宵月学院 生徒 〓\nご機嫌いかがでしょうか。\nエスティバーで生徒を指導しております、ソムンヤンと申します。\nエスティバーにはどのような御用でいらっしゃったのですか。",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations to all the new students on your enrolment.\nAs you have only just enrolled, please begin by killing the monsters in the\nlibrary or trying the Hallway Full of Boxes episode.\n= Sowol Academy student =\nHow do you do.\nI am Somunyang, and I instruct the students here at Estiva.\nWhat brings you to Estiva?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ソムンヤン",
    "text": "2年生に進級なさったことをお祝い申し上げます。\n今後とも楽しい学校生活を送って下さいませ。\n〓〓 迷える子羊 【43】 出現クリア 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations on your promotion to year 2.\nPlease continue to enjoy your school life.\n== The Lost Lamb [43] cleared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ソムンヤン",
    "text": "3年生に進級なさったことを、お祝い申し上げます。\n〓〓 エスカルゴ・ラッシュ 【71】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations on your promotion to year 3.\n== Escargot Rush [71] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ソムンヤン",
    "text": "ようこそいらっしゃいました。\n本日は、どのようなご用事でしょうか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Welcome.\nWhat can I do for you today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ソムンヤン",
    "text": "5年生に進級なさったこと、心よりお祝い申し上げます。",
-   "selections": []
+   "selections": [],
+   "text_en": "My sincere congratulations on your promotion to year 5.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ソムンヤン",
@@ -782,27 +1295,45 @@
    "selections": [
     "そうですか、失礼します",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "There is nothing I need a hand with at the moment.\nI don't believe I have asked you for anything, have I?",
+   "selections_en": [
+    "I see, excuse me",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "マオ＝シャオピン",
    "text": "君ももう 2年生になったんだね。\n先輩になったんだから、後輩の模範になるようにするんだよ。\n〓〓 マオ先生のかばん 【46】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "You've reached year 2 as well.\nYou're a senior now, so set an example for those below you.\n== Mao-sensei's Bag [46] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "マオ＝シャオピン",
    "text": "君たちももう 3年生だね。おめでとう。\n今後も楽しい学校生活を過ごすといいよ。\n〓〓 地下水路を封鎖せよ 【65】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "You're all in year 3 now. Congratulations.\nDo carry on enjoying your school life.\n== Seal the Underground [65] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "マオ＝シャオピン",
    "text": "そろそろ実験も最終段階だが、いくつか不足してるものがあって、\n進捗が思わしくなくてね。\n是非君たちの手を借りたいんだ。よろしく頼むよ。",
-   "selections": []
+   "selections": [],
+   "text_en": "The experiment is nearing its final stage, but a few things are missing\nand progress isn't what I'd like.\nI would very much like your help. I'm counting on you.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "マオ＝シャオピン",
    "text": "君たちももう 5年生？ ふ～ん、早いものだね。\nこれからも、私の実験に手を貸して欲しい。よろしく頼むよ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 5 already? Hmm, how time flies.\nI'd like your help with my experiments from here on too. I'm counting on you.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "マオ＝シャオピン",
@@ -810,32 +1341,53 @@
    "selections": [
     "そうですか、失礼します",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Hm? Nothing urgent at the moment.\nCome back later.\nI shouldn't have given you any work, should I?",
+   "selections_en": [
+    "I see, excuse me",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\n購買No．2",
    "text": "いらっしゃい～ 新鮮な牛乳やで～！\nおっ！ 新入生かい！ 新規のお客さんやね！\n入学おめでとう、ちょくちょく寄ってってや～！\n値引きはあらへんけど、ええもん揃てるで。\n〓 宵月学院 生徒 〓\n見かけへん顔やねぇ…ははぁ、宵月から来たんやな。\nなあ～、牛乳は新鮮で武器もええもんが揃ってるよ、いっぺん見てってな！\nそっちじゃどないなんか知らへんけど、うちは値引きはせぇへんよ～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Welcome~ fresh milk here~!\nOh! A new student! A new customer!\nCongratulations on enrolling, drop by often~!\nNo discounts, mind, but I've good stock.\n= Sowol Academy student =\nDon't know that face... ahh, you're from Sowol.\nListen~, the milk's fresh and the weapons are good, have a look!\nI don't know how they do it over there, but we don't discount here~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．2",
    "text": "あらあら、もう 2年生になったんか、おめでとう！\nそうそう、この頃生徒たちの間で、牛乳箱運び競争が流行っててな～、\nいっぺんやってみぃひん？\n〓 宵月学院 生徒 〓\nこの頃生徒たちの間で、牛乳箱争奪戦が流行っててな…、いっぺん\nやってみぃひん？",
-   "selections": []
+   "selections": [],
+   "text_en": "Well well, year 2 already, congratulations!\nOh yes, there's a milk-crate carrying race going round the students\nlately~, why not give it a go?\n= Sowol Academy student =\nThere's a scramble for the milk crates going round the students lately...,\nwhy not give it a go?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．2",
    "text": "入学してからそない経ってへんのに、もう 3年生になったんやね。\nおめでと～、これからもがんばって勉強しーや～",
-   "selections": []
+   "selections": [],
+   "text_en": "Hardly any time since you enrolled and you're in year 3 already.\nCongratulations~, keep studying hard~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．2",
    "text": "いらっしゃ～い！\nほんで今日は何買いに来たん？",
-   "selections": []
+   "selections": [],
+   "text_en": "Welcome~!\nSo what have you come to buy today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．2",
    "text": "もう 5年生なんやね～\n上級生らしく、パァーッと後輩に牛乳でもおごってやったらどや～？",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 5 already~\nWhy not act the senior and stand your juniors a milk~?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．2",
@@ -843,27 +1395,45 @@
    "selections": [
     "そうですか、それじゃまた",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Well now... I don't need any part-timers at the moment.\nHm? I haven't hired you lot, have I?",
+   "selections_en": [
+    "I see, see you then",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "購買No．386",
    "text": "よう来たなぁ、ほんで、今日はどのアイテム強化しよか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Good of you to come, so which item are we enhancing today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．386",
    "text": "ぼちぼち Ａ+アイテム持ったかてええ頃とちゃう？\nＡ+ 武器はデキる生徒のステータスシンボルやで～！",
-   "selections": []
+   "selections": [],
+   "text_en": "About time you had an A+ item, isn't it?\nAn A+ weapon is the status symbol of a capable student~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．386",
    "text": "よう来たなぁ～\nええ源石手に入れたんか～？\nバッチリ強化したるで～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Good of you to come~\nGot hold of a good source stone~?\nI'll enhance it properly for you~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．386",
    "text": "なぁ～、ごっつい源石手に入れたら、今使ぉてる源石外して、\n入れ替えるのも手やで？\nお気に入りの武器と服、バリバリに強ぅしたってや～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Listen~, if you get hold of a really good source stone, taking out the one\nyou're using and swapping it is an option too, you know?\nGet that favourite weapon and outfit of yours seriously strong~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買No．386",
@@ -871,7 +1441,13 @@
    "selections": [
     "そうですか、それじゃまた",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Well now... I don't need any part-timers at the moment.\nHm? I haven't hired you lot, have I?",
+   "selections_en": [
+    "I see, see you then",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "購買No．386",
@@ -891,27 +1467,48 @@
     "源石を解除したい",
     "源石を破壊したい",
     "結晶を精製したい"
-   ]
+   ],
+   "text_en": "Fitting source stones to a weapon or a uniform to make the item stronger,\nthat's item enhancement~\nAnd after you've fitted a stone, if you find a better one you can refit it,\nso enhance away~!\nWhat you need for enhancement is\nan item with an enhancement slot, a source stone, and a textbook.\nSome weapons and uniforms have enhancement slots.\nLook at the very bottom of the item information window\nand you'll see whether it has a slot~\nWhen you find an item you can enhance, bring it along.\nAnd don't forget the textbook~?\nYou need a textbook to fit a source stone.\nThe textbook's year has to be at least the source stone's year limit.\nNo. 2 at the shop sells them.\nLooks just like me",
+   "selections_en": [
+    "I see!",
+    "What do I need for enhancement?",
+    "An item with an enhancement slot?",
+    "I see!",
+    "A textbook?"
+   ],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "あら～、いらっしゃい、もう2年生になったんか、一段と頼もしくなったなぁ。\n〓 宵月学院 生徒 〓\nまた遊びに来たんやね。うれしいわぁ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh my~, welcome, year 2 already, you've grown more dependable.\n= Sowol Academy student =\nCome to visit again. That's lovely.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "今日は何の用事で来たん？\n〓 宵月学院 生徒 〓\nもう戻るんか？",
-   "selections": []
+   "selections": [],
+   "text_en": "What brings you here today?\n= Sowol Academy student =\nHeading back already?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "もうかりまった～？\n宵月に遊びに行くんか？ 楽しんできぃや～\n〓 宵月学院 生徒 〓\nもう戻るんか？\nもっと遊んでけばええのに。",
-   "selections": []
+   "selections": [],
+   "text_en": "Business good~?\nOff to visit Sowol? Enjoy yourself~\n= Sowol Academy student =\nHeading back already?\nYou could stay and enjoy yourself a bit longer.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "宵月の友達に会うてくるん？ 仲良うなぁ～\n〓 宵月学院 生徒 〓\nエスティバーの友達に会うて来たん？\nまたおいでや～",
-   "selections": []
+   "selections": [],
+   "text_en": "Off to see your friends at Sowol? Play nicely~\n= Sowol Academy student =\nBeen to see your friends at Estiva?\nCome again~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
@@ -919,7 +1516,13 @@
    "selections": [
     "そうですか、それじゃまた",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Well now... I don't need any part-timers at the moment.\nHm? I haven't hired you lot, have I?",
+   "selections_en": [
+    "I see, see you then",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
@@ -929,32 +1532,55 @@
     "はい、乗ります",
     "いいえ、今はいいです",
     "「エスティバー乗車券」ですね？ わかりました"
-   ]
+   ],
+   "text_en": "Taking the bus that's leaving now?\nYou need an Estiva Ticket to ride~.\nThe shop sells them, go and buy one~",
+   "selections_en": [
+    "I want to go to Sowol Academy",
+    "Yes, I'll ride",
+    "No, not just now",
+    "An Estiva Ticket, right? Understood"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nワルグマー",
    "text": "何見てんだ、ああ？ オレたちが優しいお兄さんに見えんのか？\nジロジロ見上げてねぇで失せな、チビどもが！",
-   "selections": []
+   "selections": [],
+   "text_en": "What are you looking at, eh? Do we look like your kind big brothers?\nStop gawping up at us and clear off, squirts!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ワルグマー",
    "text": "ほぉ～…ちったぁ成長したらしいじゃねぇか？\nオレたちの仕事にクチバシつっこんでねぇで行っちまいな。\n〓〓 ベン先生の家計 【38】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Oho~... grown a bit, have you?\nStop sticking your beak into our business and get lost.\n== Ben-sensei's Household [38] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ワルグマー",
    "text": "ヘッ、テメェら、ずいぶんデカいツラするようになったじゃねぇか。\n何か用か、ああ？\n〓〓 校門の決斗 【67】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Heh, you lot have got awfully big for your boots.\nSomething you want, eh?\n== Duel at the School Gate [67] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ワルグマー",
    "text": "あ～あ…\n下っ端はあっちこっちパシらされるわ、なんかありゃあドツかれるわ、\nつれぇな～…",
-   "selections": []
+   "selections": [],
+   "text_en": "Aah...\nThe small fry get run around everywhere, and thumped whenever anything goes wrong.\nIt's rough~...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ワルグマー",
    "text": "よお～ テメェらはもう上級生サマだってか？\nオレたちゃいつまで下っ端やってりゃいいんだろな～…",
-   "selections": []
+   "selections": [],
+   "text_en": "Oi~ so you're upperclassmen now, are you?\nHow long are we going to be stuck as the small fry~...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ワルグマー",
@@ -962,32 +1588,53 @@
    "selections": [
     "…すみません",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "You lot clear off, now!\nEh? What are you on about.",
+   "selections_en": [
+    "...Sorry",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nドワルグマー",
    "text": "ん？ 何じゃワレ？\nどうやら何も分からんで来たみたいじゃけぇ、今日んとこは見逃したるけぇ、\nとっとと帰んな。\n〓 宵月学院 生徒 〓\nん？ 何じゃワレ？\nどうやら何も分からんで来たみたいじゃけぇ、今日んとこは見逃したるさかい、\nとっとと帰んな。",
-   "selections": []
+   "selections": [],
+   "text_en": "Hm? What do you want?\nLooks like you came here not knowing anything, so I'll let it go for today,\nnow get home.\n= Sowol Academy student =\nHm? What do you want?\nLooks like you came here not knowing anything, so I'll let it go for today,\nnow get home.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ドワルグマー",
    "text": "おうコラ。とっとと帰んな。\n何うろうろしとんのじゃ？\nワシの気が変わらんうちに、はよぅ去ね！ あぁ？！\n〓〓 ベン先生の家計 【38】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Oi. Get home.\nWhat are you loitering about for?\nClear off before I change my mind! Eh?!\n== Ben-sensei's Household [38] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ドワルグマー",
    "text": "ちぃっとこっち来いや。\n短期間高収入のバイトがあるんじゃが、いっぺんやってみんか？\n〓〓 校門の決斗 【67】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Come here a minute.\nI've got some short-term, well-paid work, fancy giving it a go?\n== Duel at the School Gate [67] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ドワルグマー",
    "text": "兄ィにゃあムチ打たれ、子分どもにゃあ楯突かれ。\nいっそ抜けてもぉて、独立でもしようかのぉ。つらいのぅ…。",
-   "selections": []
+   "selections": [],
+   "text_en": "Whipped by the big brothers, defied by the underlings.\nMaybe I should just quit and go independent. It's a hard life...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ドワルグマー",
    "text": "ワレ達も上級生なら、ちったぁワシらの苦労がわかるよのぉ。\n兄貴分と子分に挟まれて、にっちもさっちも行かん気分じゃ。",
-   "selections": []
+   "selections": [],
+   "text_en": "If you lot are upperclassmen too you'll understand our troubles a bit.\nCaught between the big brothers and the underlings, stuck fast.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ドワルグマー",
@@ -995,32 +1642,53 @@
    "selections": [
     "…すみません",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "Oi you,\nare you picking a fight with me?\nWhat rubbish are you talking!",
+   "selections_en": [
+    "...Sorry",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\n変熊",
    "text": "あらあらカワイイ子！ まだちっちゃいクセにどうしてこんなとこに来たの。\nママにお尻をぶたれないうちに、100メートルほど遠ぉ～くに離れなさいね。\nお子ちゃまに用はないのよ～ん★",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh my, what a sweet child! Still so little, and what are you doing here.\nRun along about a hundred metres away before Mummy smacks your bottom.\nI've no business with children~ *",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "変熊",
    "text": "あらら。ちょっと見ないうちにアンタもでっかくなったみたいね？\n〓〓 ベン先生の家計 【38】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Well well. Haven't seen you in a while and you've grown, haven't you?\n== Ben-sensei's Household [38] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "変熊",
    "text": "あら～、アンタたちもずいぶんリッパになったわね～！\nうふっ、それで、アタシにどんな用事なの？\n〓〓 校門の決斗 【67】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh my~, you've all grown quite splendid~!\nHehe, so what do you want with me?\n== Duel at the School Gate [67] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "変熊",
    "text": "前よりは、アタシの趣味を理解してくれる人が増えて来てるみたいだけど…\nとにかく世間がアタシをどう思ったって、アタシはアタシの道を極めるのよっ！",
-   "selections": []
+   "selections": [],
+   "text_en": "More people seem to understand my tastes than before, but...\nwhatever the world thinks of me, I shall perfect my own path!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "変熊",
    "text": "アンタたちも、そろそろアタシの高尚なシュミがわかるようになって\n来たんじゃなぁい？",
-   "selections": []
+   "selections": [],
+   "text_en": "You're starting to appreciate my refined tastes\nabout now, aren't you?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "変熊",
@@ -1028,7 +1696,13 @@
    "selections": [
     "はあ…そうですか",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "There's no work right now that needs your hands~.\nDo come again~.\nHmm~? What's this about~?\nI haven't asked you lot for anything~.",
+   "selections_en": [
+    "Er... I see",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ 2008 ２月\nナナ",
@@ -1038,22 +1712,39 @@
     "うん、これだよね？",
     "ありがとう～！",
     "…あ、ありがとう；；；"
-   ]
+   ],
+   "text_en": "Hey there! February means Valentine's!\nWant the chocolate I made?\nYou won't get it that easily~?\nOh, you found the Valentine ring?\nYes, that's the one!\nThen as promised, here's your present.\nHere, take it! A present from me to you!\nIt's an obligation gift, obviously, but you're pleased, aren't you?\nThere might be boys' clothing inside, why not open it?",
+   "selections_en": [
+    "The Valentine event",
+    "Yes, this is it, right?",
+    "Thank you~!",
+    "...Th-thank you..."
+   ],
+   "era": "game"
   },
   {
    "npc": "ナナ",
    "text": "3月といえば年度末テスト！ みんなが今年どれだけ勉強したか、\n数字で計られるキョーフの季節だよね、フフフ……なんてね！\nだいじょーぶ、ＥＶＰ中はテストも宿題もナッシングだからさ！\nボクは普段からちゃ～んと勉強してるから平気けどね！",
-   "selections": []
+   "selections": [],
+   "text_en": "March means the end-of-year exams! The terrifying season where how much\nyou studied gets measured in numbers, hehehe...... just kidding!\nIt's fine, there are no exams and no homework during the EVP!\nNot that it matters, I study properly all the time anyway!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "ナナ",
    "text": "4月といえば入学＆進級！ ＥＶＰのおかげでボクは今年も１年生さ！\n今月のヨーグル！ボックスからは、「春の総選挙」2周年記念で\n幻のアイテムとか、4月らしいアイテムが手に入るんだって！\n……ボクも欲しいなぁ、アレ……",
-   "selections": []
+   "selections": [],
+   "text_en": "April means enrolment and promotion! Thanks to the EVP I'm a first-year again this year!\nThis month's Yogurt Box is celebrating two years of the Spring General Election,\nso apparently you can get that legendary item and other April-ish things!\n......I want it too, that thing......",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "ナナ",
    "text": "5月といえば…五月病？ なんか気分がユーウツで、誰も自分を知らない\nどこかに行きたい、な～んて気持ちになってたりして？\nそんな時は思い切って、すっごく遠くに行ってみればいいと思うよ！\nでも、ボクがここでキミを待ってるってこと、忘れないでよね！",
-   "selections": []
+   "selections": [],
+   "text_en": "May means... the May blues? Feeling a bit down, wanting to go somewhere\nnobody knows you, something like that?\nWhen that happens I think you should just go somewhere really far away!\nBut don't forget I'll be here waiting for you!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ナナ",
@@ -1063,52 +1754,87 @@
     "ガリ勉かばんのヒント",
     "う～ん、あのエピソードかな？",
     "カラーボール集めなきゃ！"
-   ]
+   ],
+   "text_en": "The rainy season drags on with this dull weather, keeping well?\nI'm a sensitive soul, so rainy days get me down.\nStill, when I saw that lovely rainbow the other day it cheered me up.\nRight now the Gungho Games site is running an event where 300 people\nwin a random box that might hold that legendary Blade Hand!\nAnd apparently a certain episode drops the swot's bag!\nThe swot's bag suits someone who takes the hard lessons seriously even during\nthe EVP, someone like me!\nCome to think of it, there was someone trying to force students to swot......\nRight now the Yogurt Box",
+   "selections_en": [
+    "This month's event news",
+    "A hint about the swot's bag",
+    "Hmm, that episode maybe?",
+    "I need to collect the coloured balls!"
+   ],
+   "era": "later-service"
   },
   {
    "npc": "ナナ",
    "text": "今、ヨーグル！ボックスを開けると、水着とサッカーユニフォームが出るんだって。\n紫外線と日射病に気を付けて、健康に過ごそうよ！\nボクは繊細だから、クーラーの利いた保健室がいいけどさ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Apparently the Yogurt Box gives swimsuits and football kit right now.\nWatch out for UV and heatstroke and stay healthy!\nI'm a sensitive soul, so I'd rather be in the air-conditioned infirmary.",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "ナナ",
    "text": "暑い日が続いてるけど、ちゃんと暑さ対策してる？\n水分補強を忘れないで、外に出る時は帽子をかぶってね！\nやっぱ夏っていったら麦わら帽子かな？",
-   "selections": []
+   "selections": [],
+   "text_en": "The hot days keep coming, are you coping with the heat properly?\nDon't forget to stay hydrated, and wear a hat when you go out!\nSummer means a straw hat, doesn't it?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アンナ",
    "text": "秋は、夕暮。夕日のさして、山の端いと近うなりたるも、いとあはれなり。\n…沈む夕日を見てると、なんとなく切なくて、思わず枕草子の一節が\nでてきちゃうんだ。\n韓国には秋夕（チュソク）って祝日があるけど、秋の夕暮れを美しいって\n思う心は万国共通なんだね、きっと。",
-   "selections": []
+   "selections": [],
+   "text_en": "In autumn, the evening. The setting sun draws close to the mountain's edge, and it is very moving.\n...Watching the sun go down makes me a little wistful, and a line from\nThe Pillow Book just comes out.\nKorea has a holiday called Chuseok, and I'm sure the feeling that an\nautumn evening is beautiful is the same the world over.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "アンナ",
    "text": "10月は「神無月」、神様がいなくなる月なんだってさ。\nでも神様は消えてなくなるんじゃなくて、出雲の国に集まるんだって。\nだから、一度は消滅したはずの制服が、またヨーグル！ボックスから\n出てきたっておかしくないよねっ！",
-   "selections": []
+   "selections": [],
+   "text_en": "October is Kannazuki, the month without gods, they say.\nBut the gods don't vanish, they all gather in the land of Izumo.\nSo it's hardly strange that a uniform that was supposed to be gone for good\nhas turned up in the Yogurt Box again!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "今月はサードアニバーサリー！\nヨーグル！ボックスからはガリ勉かばんが、11月24日のオークションボックス\nからはブレードハンドや、幻のあの服が手に入るかも！？\n毎年恒例、落札額での倍率アップもあるってさ！\n全力で入札して、ボクのレアアイテムゲットの確率をアップしてよねっ☆",
-   "selections": []
+   "selections": [],
+   "text_en": "This month is our third anniversary!\nThe Yogurt Box has the swot's bag, and the auction box on 24 November\nmight hold the Blade Hand or that legendary outfit!\nAs every year, the winning bid can push the odds up!\nBid with everything you've got and raise my chances of a rare item *",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "今年も楽しいクリスマスのシーズンが来たね！\nチャリティオークションのおかげで、エピソードが3倍お得な今こそ！\nみんなでエピソードを楽しみながら、可愛くていい子のボクへのプレゼントを\nたくさん集めるといいと思うよ！ 期待してるからね☆",
-   "selections": []
+   "selections": [],
+   "text_en": "The happy Christmas season is here again this year!\nThanks to the charity auction, episodes are three times the value right now!\nEveryone enjoy the episodes, and collect plenty of presents for\nsweet, well-behaved me! I'm counting on you *",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "いよいよ2009年！ キミはどんな年になると思う？\n今ヨーグル！ボックスを開けると、晴れ着が出ることがあるらしいよ！\nお正月は正装で、身も心も引き締めようね！",
-   "selections": []
+   "selections": [],
+   "text_en": "2009 at last! What sort of year do you think it'll be?\nOpen the Yogurt Box now and you might get formal New Year dress!\nLet's ring in the year properly, body and mind!",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "アンナ",
    "text": "やっほー！ 調子はどう？\nエピソードをクリアできない時は、先輩に声をかけて手伝って\nもらうといいよ！\n１人でできることでも、みんなでやると違った楽しみ方もあるからさっ！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey there~! How's it going?\nWhen you can't clear an episode, call a senior over and\nget them to help!\nEven something you could do alone is a different kind of fun together!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ナナ",
    "text": "4月といえば入学＆進級！ ＥＶＰのおかげでボクは今年も１年生さ！\n今月のヨーグル！ボックスからは、「春の総選挙」3周年記念で\n幻のアイテムとか、4月らしいアイテムが手に入るんだって！\n……ボクも欲しいなぁ、アレ……",
-   "selections": []
+   "selections": [],
+   "text_en": "April means enrolment and promotion! Thanks to the EVP I'm a first-year again this year!\nThis month's Yogurt Box is celebrating three years of the Spring General Election,\nso apparently you can get that legendary item and other April-ish things!\n......I want it too, that thing......",
+   "selections_en": [],
+   "era": "later-service"
   },
   {
    "npc": "ナナ",
@@ -1124,7 +1850,16 @@
     "ありがとう！",
     "うん、そうするよ",
     "ありがとう！"
-   ]
+   ],
+   "text_en": "Changing your save point?\nSo, where shall it be?\nThe public cemetery?\nThe perfect place for students who aren't used to fighting to practise.\nThen when you faint on a battle field you'll\nreturn to the public cemetery.\nThe old school building, 1F?\nI'd recommend it once the cemetery monsters aren't enough for you...\nbut it's an eerie place and ghosts come out in droves, is that all right?\nThen when you faint on a battle field you'll\nreturn to the old school building, 1F.\nThe grounds?\nIt's the middle of the school, so it's handy for getting anywhere.\nThen when you faint on a battle field you'll\nreturn to the grounds.",
+   "selections_en": [
+    "The public cemetery",
+    "The old school building, 1F",
+    "The grounds",
+    "Yes, let's do that",
+    "Actually, somewhere else"
+   ],
+   "era": "game"
   },
   {
    "npc": "ナナ",
@@ -1147,32 +1882,56 @@
     "勝負はまた今度ね",
     "やった、勝った！",
     "うん、次はナナが勝つかもね"
-   ]
+   ],
+   "text_en": "Hmm, come to play me, have you.\nYou know the rules, right?\nOpening the Yogurt Box sometimes gives you rock, scissors and paper items.\nBring one and I'll play you!\nInject of the nursing club hands out the Yogurt Boxes.\nCollect the five coloured balls spelling Yo-gur-ting and take them\nto Inject in front of the school gate!\nI'll give you a present for a draw or even a loss,\nbut win and you get the best one. I'm strong though!\nRight, ready?\nHere we go! Rock, paper, scissors!\nWait!\nWithout a rock item, you can't",
+   "selections_en": [
+    "Yes, let's play!",
+    "Um, could you explain the rules?",
+    "Oh, bringing one isn't enough?",
+    "Where do I get a Yogurt Box?",
+    "Yes, got it!"
+   ],
+   "era": "later-service"
   },
   {
    "npc": "◆ １年生\nルーベン",
    "text": "あ…ふむ。\nＷｅｌｃｏｍｅ…\n〓〓 オカルト研究部入部案内 【26】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah... hm.\nWelcome...\n== Occult Club Guide [26] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ルーベン",
    "text": "……何だ？",
-   "selections": []
+   "selections": [],
+   "text_en": "......What is it?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ルーベン",
    "text": "Ｃｏｎｇｒａｔｕｌａｔｉｏｎ．\n〓 エスティバー 生徒 〓\n暗田には気を付けろ…",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations.\n= Estiva student =\nBe careful of Kurata...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ルーベン",
    "text": "Ｈｉ～\n楽しい、学校生活を…",
-   "selections": []
+   "selections": [],
+   "text_en": "Hi~\nA pleasant... school life...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ルーベン",
    "text": "Ｈｅｌｌｏ～\n幸運を…",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello~\nGood luck...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ルーベン",
@@ -1180,32 +1939,53 @@
    "selections": [
     "…失礼します",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "Hm... Nothing\n...?",
+   "selections_en": [
+    "...Excuse me",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nシンソヒョン",
    "text": "新入生の皆さん、ご入学をお祝い申し上げます。\nまずは、共同墓地のモンスター退治や、校舎前のエピソードゲートから\n箱でいっぱいの廊下エピソードをなさってみて下さい。\n〓 エスティバー 生徒 〓\nエスティバーの生徒の皆様ですね、わたくしは宵月学院の\n生徒会副会長を努めている、シンソヒョンです。\n宵月学院へようこそ。",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations to all the new students on your enrolment.\nTo begin with, try killing the monsters in the public cemetery, or the\nBox-Filled Hallway episode through the Episode Gate in front of the school building.\n= Estiva student =\nEstiva students, I take it. I am Shin Sohyun, vice president of the\nSowol Academy student council.\nWelcome to Sowol Academy.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "シンソヒョン",
    "text": "進級おめでとうございます。\n今後とも楽しい学校生活を送って下さい。\n〓 エスティバー 生徒 〓\nようこそ。お友達を訪ねて来たのですか？\n楽しくお過ごし下さい。",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on your promotion.\nPlease continue to enjoy your school life.\n= Estiva student =\nWelcome. Have you come to see a friend?\nDo enjoy yourself.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "シンソヒョン",
    "text": "3年生への進級、おめでとうございます。\n今日はどのような御用でしょうか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on your promotion to year 3.\nWhat can I do for you today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "シンソヒョン",
    "text": "ようこそ。\n同好会に関して、何か手続きが必要ですか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Welcome.\nDo you need anything handled regarding clubs?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "シンソヒョン",
    "text": "皆さんももう ５年生なんですね。\n上級生として、節度ある行動を心がけて下さい。",
-   "selections": []
+   "selections": [],
+   "text_en": "You're all in year 5 now.\nAs seniors, please conduct yourselves with restraint.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "シンソヒョン",
@@ -1213,7 +1993,13 @@
    "selections": [
     "そうですか、失礼します",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "The thought is appreciated, but there's nothing at present I need your\nhelp with.\nWould you come and see me again some time?\nWhat is this about?",
+   "selections_en": [
+    "I see, excuse me",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "シンソヒョン",
@@ -1248,32 +2034,56 @@
     "はい",
     "はい",
     "わかりました"
-   ]
+   ],
+   "text_en": "What would you like handled regarding clubs?\nA group of friends gathering to deepen their friendship is called a club.\nA club has a president and members, and the president is responsible for it.\nWhich functions a club can use changes with its club level, so raising\nthe level is important.\nThe higher the level, the more you can do.\nWould you like to found a club?\nI'm sorry, but founding a club requires a club founding item.\nPlease buy a Stone of Friendship from the shop.\nI'm sorry. A club of that name already exists.\nI'm sorry, but that name cannot be used",
+   "selections_en": [
+    "I've come about clubs",
+    "About clubs",
+    "I see",
+    "I see",
+    "I see"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\n暗田",
    "text": "さぁ、新入生の皆さぁん～\n宵月学院で最高の同好会である、オカルト研究部ですよ～ クックック…\n〓 エスティバー 生徒 〓\nこの宵月学院まで何の御用でいらっしゃったんです？\n僕は、オカルト研究部の暗田と申します。\nどうぞお見知りおきを、ククク。",
-   "selections": []
+   "selections": [],
+   "text_en": "Now then, new students~\nThis is the Occult Research Club, the finest club in Sowol Academy~ Heheheh...\n= Estiva student =\nWhat brings you all the way to Sowol Academy?\nI am Kurata, of the Occult Research Club.\nDo remember me, heheh.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "暗田",
    "text": "皆さん、オカルト研究部を信じる者は救われますよ！！\nシンソヒョンがいないと何も出来ないルーベンが導く生徒会を信じると、\n地獄に落ちますよぉ！！\n〓〓 月夜の大魔術 【34】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Everyone, those who believe in the Occult Research Club shall be saved!!\nBelieve in a student council led by Ruben, who can do nothing without\nShin Sohyun, and you'll fall into hell!!\n== Great Magic on a Moonlit Night [34] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "暗田",
    "text": "もう 3年生ですか。やっぱり僕の目に間違いはありませんでしたねぇ。\n今後ともオカルト研究部のために、力を尽くして下さいねぇ～、ククク。",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 3 already. My eye was not mistaken after all.\nDo keep devoting your strength to the Occult Research Club~, heheh.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "暗田",
    "text": "ふ～む。そろそろいい頃合ですね…",
-   "selections": []
+   "selections": [],
+   "text_en": "Hmm. It's about that time...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "暗田",
    "text": "ククク…いよいよですね…",
-   "selections": []
+   "selections": [],
+   "text_en": "Heheh... at last...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "暗田",
@@ -1281,32 +2091,53 @@
    "selections": [
     "そう？ またね",
     "そうだった、ごめん"
-   ]
+   ],
+   "text_en": "Heheh. Wait just a little longer...\nWhat on earth is this about...?",
+   "selections_en": [
+    "Really? See you",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nハチ",
    "text": "ヤッホー！ 私はハチ！ 宵月の飼育部員なんだ～！\nあ、グローブのスキルのことなら私に任せて！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey there! I'm Hachi! I'm in Sowol's breeding club~!\nOh, if it's glove skills you want, leave it to me!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ハチ",
    "text": "えっ！？ もう 2年生？ なんか、時間が経つのって早いね。\nじゃあさ！ もっと強力なスキル！ 習いたいでしょ？",
-   "selections": []
+   "selections": [],
+   "text_en": "Eh!? Year 2 already? Time really does fly.\nSo then! You want to learn more powerful skills, right?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ハチ",
    "text": "部長…早く帰って来ないかな…\nあ、グローブのスキル、ちゃんと練習してる？",
-   "selections": []
+   "selections": [],
+   "text_en": "I wonder when the club president will come back...\nOh, have you been practising your glove skills properly?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ハチ",
    "text": "部長…今どこにいるのかな…\nあ、グローブのスキル、ちゃんと練習してる？",
-   "selections": []
+   "selections": [],
+   "text_en": "I wonder where the club president is right now...\nOh, have you been practising your glove skills properly?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ハチ",
    "text": "部長…何してるのかな…\nあ、グローブのスキル、ちゃんと練習してる？",
-   "selections": []
+   "selections": [],
+   "text_en": "I wonder what the club president is doing...\nOh, have you been practising your glove skills properly?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ハチ",
@@ -1314,37 +2145,61 @@
    "selections": [
     "うん、じゃね",
     "ごめん、勘違い"
-   ]
+   ],
+   "text_en": "Mm, nothing in particular right now... another time, please!\nHuh, I didn't ask you for anything, did I?",
+   "selections_en": [
+    "Right, see you",
+    "Sorry, my mistake"
+   ],
+   "era": "game"
   },
   {
    "npc": "ハチ",
    "text": "どのスキルを\n教えて欲しいの？\nそのスキルで\nいいのね？\nえっと、言いにくいんだけど、\n授業料がちょっと…\n足りないよ？",
-   "selections": []
+   "selections": [],
+   "text_en": "Which skill\nwould you like me to teach you?\nThat skill,\nyes?\nUm, this is awkward, but\nthe tuition is a little...\nshort, you see?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nインジェクト",
    "text": "私はインジェクト。看護部員として妖艶先生のお手伝いをしています。\n看護部では、 5色のカラーボールを集めて下さった方に、プレゼントを\n配布しております。\n〓 エスティバー 生徒 〓\n宵月学院へようこそ。私はインジェクト、宵月学院看護部員です。\n看護部では、5色のカラーボールを集めて下さった方に、\nプレゼントを配布しております。",
-   "selections": []
+   "selections": [],
+   "text_en": "I'm Inject. I assist Youen-sensei as a member of the nursing club.\nThe nursing club hands out presents to anyone who collects the five\ncoloured balls.\n= Estiva student =\nWelcome to Sowol Academy. I'm Inject, a nursing club member at Sowol Academy.\nThe nursing club hands out presents to anyone who collects the five\ncoloured balls.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "インジェクト",
    "text": "看護部では、 5色のカラーボールを集めて下さった方に、プレゼントを\n配布しております。\n…妖艶先生の研究のため、ご協力をお願い致します。\n〓 エスティバー 生徒 〓\n…こんにちは。\n看護部では、5色のカラーボールを集めて下さった方に、\nプレゼントを配布しております。",
-   "selections": []
+   "selections": [],
+   "text_en": "The nursing club hands out presents to anyone who collects the five\ncoloured balls.\n...Please cooperate, for Youen-sensei's research.\n= Estiva student =\n...Hello.\nThe nursing club hands out presents to anyone who collects the five\ncoloured balls.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "インジェクト",
    "text": "妖艶先生は見かけは子供ですが、簡単な外科手術なら\nこなせるほどの方です。体調が悪い時には診ていただくといいですよ。\n5色のボールが研究に必要とのことですので、どうかご協力を…\n〓 エスティバー 生徒 〓\n…こんにちは。お友達に会いにいらっしゃったのですか？\n看護部では、5色のカラーボールを集めて下さった方に、\nプレゼントを配布しております。",
-   "selections": []
+   "selections": [],
+   "text_en": "Youen-sensei looks like a child, but she's capable enough to handle\nsimple surgery. It's worth seeing her when you're unwell.\nThe five coloured balls are needed for the research, so please help...\n= Estiva student =\n...Hello. Have you come to see a friend?\nThe nursing club hands out presents to anyone who collects the five\ncoloured balls.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "インジェクト",
    "text": "妖艶先生は、お若いのに医学の博士号を取得なさっていらっしゃいます。\nですが、やはり時には年相応に振舞われることも…\n5色のボールが研究に必要とのことですので、どうかご協力を…\n〓 エスティバー 生徒 〓\n…こんにちは。最近よくお見かけしますね…\n看護部では、5色のカラーボールを集めて下さった方に、\nプレゼントを配布しております。",
-   "selections": []
+   "selections": [],
+   "text_en": "Youen-sensei holds a doctorate in medicine despite her youth.\nThough at times she does act her age...\nThe five coloured balls are needed for the research, so please help...\n= Estiva student =\n...Hello. I see you here often lately...\nThe nursing club hands out presents to anyone who collects the five\ncoloured balls.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "インジェクト",
    "text": "聡明な妖艶先生も、幽霊は苦手でいらっしゃるそうですね。\n先生がお困りの時には、どうかお力添えを…\nまた、5色のボールが研究に必要とのことですので、こちらも…\n〓 エスティバー 生徒 〓\n…こんにちは。最近よくお見かけしますね。おケガをなさらぬよう…\n看護部では、5色のカラーボールを集めて下さった方に、\nプレゼントを配布しております。",
-   "selections": []
+   "selections": [],
+   "text_en": "Even the brilliant Youen-sensei is no good with ghosts, apparently.\nWhen sensei is in difficulty, please lend your strength...\nAnd the five coloured balls are needed for the research, so those too...\n= Estiva student =\n...Hello. I see you here often lately. Do take care not to get hurt...\nThe nursing club hands out presents to anyone who collects the five\ncoloured balls.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "インジェクト",
@@ -1352,7 +2207,13 @@
    "selections": [
     "うん、じゃね",
     "ごめん、勘違い"
-   ]
+   ],
+   "text_en": "No, there's no problem.\nI haven't asked you for anything.",
+   "selections_en": [
+    "Right, see you",
+    "Sorry, my mistake"
+   ],
+   "era": "game"
   },
   {
    "npc": "インジェクト",
@@ -1366,32 +2227,56 @@
     "よろしくお願いします",
     "ありがとう！",
     "メリークリスマス！"
-   ]
+   ],
+   "text_en": "Here we give a Yogurt Box to anyone who collects the five balls\nspelling Yo-gur-ting.\nThere might be a lovely item inside......\nThe five balls spelling Yo-gur-ting are obtained by clearing\nepisodes. Different episodes give different balls...\nPlease try a variety of episodes.\n...You don't have all five.\nYouen-sensei wishes them collected as a set of five...\nI'm sorry, but please come again once you have the missing balls...\nSo you've collected all five coloured balls.\nThen, your Yogurt Box...",
+   "selections_en": [
+    "Coloured balls?",
+    "Where do I get the coloured balls?",
+    "Understood!",
+    "Understood, I'll come back",
+    "I've collected all five coloured balls!"
+   ],
+   "era": "later-service"
   },
   {
    "npc": "◆ １年生\nホヤン",
    "text": "ああ…会いに行くことが出来るなら…",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah... if only I could go and see her...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ホヤン",
    "text": "やあ。\n今日はどんな用事だい？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello.\nWhat brings you here today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ホヤン",
    "text": "ああ…もうすぐ三日月の夜が来る。\nムジナ守衛たちをどうにかしないと…\n協力してくれてありがとう。\n僕はこの校舎を離れられないけど、それでも何か助けが必要な時は\n言っておくれよ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah... the crescent-moon night is nearly here.\nSomething must be done about the Mujina guards...\nThank you for your help.\nI can't leave this building, but even so, if you ever need help,\ndo say.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ホヤン",
    "text": "ああ…彼女はどんな人なんだろう…？",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah... what sort of person is she, I wonder...?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ホヤン",
    "text": "ああ…彼女に一目会えるなら…",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah... if I could just catch one glimpse of her...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "ホヤン",
@@ -1399,32 +2284,53 @@
    "selections": [
     "そう？ またね",
     "そうだった、ごめん"
-   ]
+   ],
+   "text_en": "Something to ask of you? No, nothing...\nWhat's this about? I haven't asked you for anything?",
+   "selections_en": [
+    "Really? See you",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nメイイェン",
    "text": "いつまで一人でいなければならないの…",
-   "selections": []
+   "selections": [],
+   "text_en": "How long must I stay alone...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイイェン",
    "text": "こんにちは。\nどうしたの？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello.\nWhat's the matter?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイイェン",
    "text": "彼はまだ、この学校に残ってるみたい。\nこわい…",
-   "selections": []
+   "selections": [],
+   "text_en": "It seems he's still here in this school.\nI'm frightened...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイイェン",
    "text": "…まだ、この学校のどこかに残ってるみたい…",
-   "selections": []
+   "selections": [],
+   "text_en": "...He still seems to be somewhere in this school...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイイェン",
    "text": "…会いたい…会いたいよ…",
-   "selections": []
+   "selections": [],
+   "text_en": "...I want to see him... I want to see him...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "メイイェン",
@@ -1432,32 +2338,53 @@
    "selections": [
     "そう？ またね",
     "いいえ、お元気で"
-   ]
+   ],
+   "text_en": "Thank you, but there's nothing in particular I need right now.\nA favour? What do you mean?",
+   "selections_en": [
+    "Really? See you",
+    "No, take care"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nサム",
    "text": "おっ、新入生だね。入学おめでとう。まだ入学したばかりだから、\n最初は、共同墓地のモンスター退治とか、ワタクシのそばにある\nエピドードゲートに入って、箱で一杯の廊下エピソードをやってみたら？\n〓 エスティバー 生徒 〓\nエスティバーから遊びに来たようだね。ようこそ宵月学院へ。\nえっ、エスティバーのベン先生と似てるって？\nうん、同じ制服を着てるから、当然と言えば当然だね。",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh, a new student. Congratulations on enrolling. You've only just started,\nso to begin with, why not kill the monsters in the public cemetery, or go\nthrough the Episode Gate beside me and try the Box-Filled Hallway episode?\n= Estiva student =\nCome over from Estiva, I see. Welcome to Sowol Academy.\nEh, I look like Ben-sensei at Estiva?\nWell, we wear the same uniform, so that's only natural.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "サム",
    "text": "やあ。今日は何の用事かな？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello. What brings you here today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "サム",
    "text": "3年生になったんだね、おめでとう～\n後輩の面倒もたくさん見てあげるんだよ。\n〓〓 クロコがいる風景 【67】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "You've reached year 3, congratulations~\nDo look after your juniors well.\n== A Landscape with Croco [67] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "サム",
    "text": "やあ。\n今日は何の用かな？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello.\nWhat is it today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "サム",
    "text": "諸君ももう 5年生なんだね～\n頼りにしてるよ、諸君！",
-   "selections": []
+   "selections": [],
+   "text_en": "You're all in year 5 now~\nI'm counting on you!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "サム",
@@ -1465,7 +2392,13 @@
    "selections": [
     "そうですか、失礼します",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "There's nothing in particular I need right now.\nHm? Did I ask you for something?",
+   "selections_en": [
+    "I see, excuse me",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "サム",
@@ -1493,22 +2426,40 @@
     "献血車とバス停はどこですか？",
     "桜並木はどこですか？",
     "ありがとうございます"
-   ]
+   ],
+   "text_en": "What would you like to know about?\nA quest is a special favour that all sorts of people ask of you.\nTake a quest on, see it through, and you'll get some sort of thanks for it.\nSome of those thanks are special things you can only get from quests.\nFinding people with quests is easy. Click the guide boards around the school\nand look at the quest information.\nYou can find out who needs help and where.\nMeet someone with a quest, choose the new quest display, and a list of the\nquests you can take will come up. Pick one from the list and say you'll\nhelp them.",
+   "selections_en": [
+    "There's something I'd like to ask",
+    "Please tell me about quests",
+    "How do I find the NPCs who give quests?",
+    "How do I take a quest on?",
+    "How does a quest progress?"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\n妖艶",
    "text": "入学おめでとう～、これからよろしくね。\n〓 エスティバー 生徒 〓\nわたしは宵月学院で保健の先生をしている妖艶といいます。\nどんな用事で来たのかしら？",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on enrolling~, I look forward to working with you.\n= Estiva student =\nI'm Youen, the school nurse here at Sowol Academy.\nWhat brings you here?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "妖艶",
    "text": "うぇ～ん、また幽霊が出てるみたいなの。どうしよう？\nサム先生も怖いって言って、当直を代わってくれなくて…\n〓〓 私の三角定規を返して！ 【32】 クリア 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Waaah, it seems there are ghosts about again. What shall I do?\nSam-sensei says he's scared too and won't swap night duty with me...\n== Give Back My Set Square [32] cleared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "妖艶",
    "text": "この頃、旧校舎の近くで何かに切られたって言う生徒が多いんだけど、\nどういうことかしら？\n〓〓 切り裂き魔の夜 【65】 クリア 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Lately a lot of students say they've been cut by something near the old\nschool building. What could be going on?\n== Night of the Ripper [65] cleared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "妖艶",
@@ -1517,7 +2468,14 @@
     "5年生に進級させて下さい",
     "失礼します；；；",
     "ありがとうございます"
-   ]
+   ],
+   "text_en": "You're working hard, very impressive~ *\nYou seem to have got much stronger, but even so, do take care\nnot to get hurt~\nMm... with your current marks it's not possible.\nPlaying is important, but studying is very important too.\nYay!\nYear 5 already~, congratulations~!",
+   "selections_en": [
+    "Please promote me to year 5",
+    "Excuse me...",
+    "Thank you very much"
+   ],
+   "era": "game"
   },
   {
    "npc": "妖艶",
@@ -1525,7 +2483,13 @@
    "selections": [
     "6年生に進級させて下さい",
     "…わかりました"
-   ]
+   ],
+   "text_en": "You're all in year 5 now.\nWith you here, even if lots of ghosts come out...\nmm, it's still a bit scary...\nPromotion? Erm...... ah!\nSorry, I was so sleepy yesterday that I went to bed early and haven't\nfinished the marking yet... would you come again another time?",
+   "selections_en": [
+    "Please promote me to year 6",
+    "...Understood"
+   ],
+   "era": "game"
   },
   {
    "npc": "妖艶",
@@ -1533,32 +2497,53 @@
    "selections": [
     "そうですか、それじゃまた",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "Mmm~, nothing in particular?\nEh? Did I ask you for something?",
+   "selections_en": [
+    "I see, see you then",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nＮｏ．27",
    "text": "お～、新入生！ いらっしゃい。\n牛乳は新鮮やし、武器もきれいな新品やで！\nこれからちょくちょく寄ってって～ 値引き以外は何でもあるで～！\n〓 エスティバー 生徒 〓\nなあ～、寄っといで～！ 新鮮な牛乳～、きれいな新しい武器～、何が欲しいんや？\n値引きはせえへんけど品ぞろいは豊富やで～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh~, a new student! Welcome.\nThe milk is fresh and the weapons are clean and new!\nDrop by often from now on~ we've got everything except discounts~!\n= Estiva student =\nHey~, come on in~! Fresh milk~, clean new weapons~, what do you want?\nNo discounts, but the range is generous~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．27",
    "text": "なあなあ～、新鮮な武器が届いたで～、\nかっこええ牛乳もあるで～、\n見てって、見てって～、あれ？ 何か変やなぁ？\n〓 エスティバー 生徒 〓\nいらっしゃい～、欲しい物があったら見てってや～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey, hey~, fresh weapons have come in~,\nand there's cool milk too~,\ncome and look, come and look~, hm? Something's off there?\n= Estiva student =\nWelcome~, have a look if there's anything you want~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．27",
    "text": "もう 3年生やて？ あんた秀才やろ！\nほんで、今日は何買うの、秀才さん？\n〓 エスティバー 生徒 〓\nあ～、いらっしゃ～い。何が必要なんや？",
-   "selections": []
+   "selections": [],
+   "text_en": "Year 3 already? You're a bright one!\nSo what are you buying today, clever clogs?\n= Estiva student =\nAh~, welcome~. What do you need?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．27",
    "text": "なあ～\nおいし～い牛乳～、新～鮮～な牛乳～！\nはよ買わんと売り切れるで～～～！\n〓 エスティバー 生徒 〓\nいらっしゃ～い。必要なもんあったら選んでみぃや～",
-   "selections": []
+   "selections": [],
+   "text_en": "Hey~\nDelicious milk~, fre~sh milk~!\nBuy quick or it'll sell out~~~!\n= Estiva student =\nWelcome~. Pick out anything you need~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．27",
    "text": "おー、もう 5年生なんやて？ ほんま頼もしいなぁ！\nぎょうさん買うてってや～！\n〓 エスティバー 生徒 〓\nいらっしゃ～い！ 何買いに来たん？ それとも売りに来たんか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh, year 5 already? Really reassuring!\nBuy plenty~!\n= Estiva student =\nWelcome~! What have you come to buy? Or are you here to sell?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．27",
@@ -1566,7 +2551,13 @@
    "selections": [
     "そうですか、それじゃまた",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Well now... I don't need any part-timers at the moment.\nHm? I haven't hired you lot, have I?",
+   "selections_en": [
+    "I see, see you then",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "購買No．27",
@@ -1574,32 +2565,53 @@
    "selections": [
     "通販で買い物をしたいです",
     "間違えました、すみません"
-   ]
+   ],
+   "text_en": "Yes yes~, School Shop No. 27, mail order, everything in stock! Your order?\nDelivery is fine too, of course!",
+   "selections_en": [
+    "I'd like to shop by mail order",
+    "My mistake, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nＮｏ．486",
    "text": "お～、新入生やね、いらっしゃ～い！\nほんで、なに手伝おか～？\n〓 エスティバー 生徒 〓\nエスティバーからよう来たなぁ。\nで、なに手伝おか～？",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh~, a new student, welcome~!\nSo, what can I help with~?\n= Estiva student =\nGood of you to come all the way from Estiva.\nSo, what can I help with~?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．486",
    "text": "よう来たなぁ、ほんで、今日はどのアイテム強化してやろか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Good of you to come, so which item shall I enhance today?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．486",
    "text": "ぼちぼち Ａ+アイテム持ったかてええ頃とちゃう？\nＡ+ 武器はデキる生徒のステータスシンボルやで～！",
-   "selections": []
+   "selections": [],
+   "text_en": "About time you had an A+ item, isn't it?\nAn A+ weapon is the status symbol of a capable student~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．486",
    "text": "よう来たなぁ～\nええ源石手に入れたんか～？\nバッチリ強化したるで～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Good of you to come~\nGot hold of a good source stone~?\nI'll enhance it properly for you~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．486",
    "text": "なぁ～、ごっつい源石手に入れたら、今使ぉてる源石外して、\n入れ替えるのも手やで？\nお気に入りの武器と服、バリバリに強ぅしたってや～！",
-   "selections": []
+   "selections": [],
+   "text_en": "Listen~, if you get hold of a really good source stone, taking out the one\nyou're using and swapping it is an option too, you know?\nGet that favourite weapon and outfit of yours seriously strong~!",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "Ｎｏ．486",
@@ -1607,27 +2619,45 @@
    "selections": [
     "そうですか、それじゃまた",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Well now... I don't need any part-timers at the moment.\nHm? I haven't hired you lot, have I?",
+   "selections_en": [
+    "I see, see you then",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "あら～、いらっしゃい、もう 2年生になったんか、一段と頼もしくなったなぁ。\n〓 エスティバー 生徒 〓\nあらぁ、また遊びに来たんやね、うれしいなぁ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Oh my~, welcome, year 2 already, you've grown more dependable.\n= Estiva student =\nOh my, come to visit again, that's lovely.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "エスティバーに遊びに行くのん？\nいてらっしゃ～い！\n〓 エスティバー 生徒 〓\nもう戻るんか？ もっと遊んでけばええのに。\nほな気ぃ付けて帰りや～",
-   "selections": []
+   "selections": [],
+   "text_en": "Off to visit Estiva?\nOff you go~!\n= Estiva student =\nHeading back already? You could stay a bit longer.\nMind how you go~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "エスティバーに遊びに行くのん？\n気ぃつけてなぁ～！\n〓 エスティバー 生徒 〓\nもう戻るんか？\n気ぃ付けて帰って、また遊びに来ぃや～",
-   "selections": []
+   "selections": [],
+   "text_en": "Off to visit Estiva?\nTake care~!\n= Estiva student =\nHeading back already?\nGet home safe, and come again~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
    "text": "エスティバーに行くんか？\nぎょうさん遊んできぃや～！\n〓 エスティバー 生徒 〓\n友達に会いに来たんやね？\n仲良う遊んでなぁ～",
-   "selections": []
+   "selections": [],
+   "text_en": "Off to Estiva?\nHave plenty of fun~!\n= Estiva student =\nCome to see your friends?\nPlay nicely~",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
@@ -1635,7 +2665,13 @@
    "selections": [
     "そうですか、それじゃまた",
     "そうでした、すみません"
-   ]
+   ],
+   "text_en": "Well now... I don't need any part-timers at the moment.\nHm? I haven't hired you lot, have I?",
+   "selections_en": [
+    "I see, see you then",
+    "That's right, sorry"
+   ],
+   "era": "game"
   },
   {
    "npc": "購買おばちゃん",
@@ -1645,32 +2681,55 @@
     "はい、乗ります",
     "いいえ、今はいいです",
     "宵月の購買ですね？ わかりました"
-   ]
+   ],
+   "text_en": "Taking the bus that's leaving now?\nOh my~, you haven't got a ticket. You need a ticket to ride the bus.\nThe shop sells them, go and buy one~\nOh, be sure to buy it at the Sowol shop, mind?",
+   "selections_en": [
+    "I want to go to Estiva Academy",
+    "Yes, I'll ride",
+    "No, not just now",
+    "The Sowol shop, right? Understood"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\nバーモント",
    "text": "宵月に入学おめでとう。君たちはまだ入学したばかりだから、\nエピソードをやってみるか、ミニマップの右に見えるワープポイントを通じて\n共同墓地のモンスター退治をしに行ってみるといい。\n〓 エスティバー 生徒 〓\n遠くから宵月学院まで遊びに来たようだね。\n私はバーモント、この聖堂と墓地の管理を担当している。\n楽しく過ごすといいよ。",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on enrolling at Sowol. You've only just started, so try an\nepisode, or go through the warp point you can see to the right of the minimap\nand kill the monsters in the public cemetery.\n= Estiva student =\nCome all the way to Sowol Academy to visit, I see.\nI'm Vermont, and I look after this chapel and the cemetery.\nDo enjoy yourself.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "バーモント",
    "text": "おぉ、 2年生に進級おめでとう。\n〓〓 宝物を返して 【40】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Ah, congratulations on reaching year 2.\n== Give Back the Treasure [40] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "バーモント",
    "text": "3年生に進級おめでとう。",
-   "selections": []
+   "selections": [],
+   "text_en": "Congratulations on reaching year 3.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "バーモント",
    "text": "やあ、よく来たね。学校生活は順調かな？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello, good of you to come. Is school life going well?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "バーモント",
    "text": "ハハハ、君たちももう 5年生か。\n君たちの前途に、幸多からんことを。",
-   "selections": []
+   "selections": [],
+   "text_en": "Hahaha, year 5 already.\nMay your road ahead be a fortunate one.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "バーモント",
@@ -1678,37 +2737,61 @@
    "selections": [
     "そうですか、失礼します",
     "すみません、失礼します"
-   ]
+   ],
+   "text_en": "There's nothing I need to ask of you right now.\nI don't believe I asked you for anything, what is this about?",
+   "selections_en": [
+    "I see, excuse me",
+    "Sorry, excuse me"
+   ],
+   "era": "game"
   },
   {
    "npc": "バーモント",
    "text": "どのスキルを\n学びたいのかな？\nそのスキルで\n良いんだね？\nううむ、言いにくいのだが\n授業料が足りないようだね…",
-   "selections": []
+   "selections": [],
+   "text_en": "Which skill\nwould you like to learn?\nThat skill,\nyes?\nHmm, this is awkward to say, but\nyour tuition appears to be short...",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\n水蓮",
    "text": "ご入学をお祝い申し上げます。エピソードはなさってみましたか？\nまず、校舎前にいらっしゃるサム先生のそばのエピソードゲートに入って、\n箱でいっぱいの廊下に行ってみてはいかがですか。\n〓 エスティバー 生徒 〓\nはじめまして。\nわたくしは水蓮と申します。\n聖堂の神父様の仕事をお手伝いしています。",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations on your enrolment. Have you tried an episode yet?\nFirst, why not go through the Episode Gate beside Sam-sensei in front of the\nschool building and visit the Box-Filled Hallway.\n= Estiva student =\nHow do you do.\nI am called Suiren.\nI assist the Father with his work at the chapel.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "水蓮",
    "text": "初めてお会いしてからずいぶん経ちましたが、学校生活はいかがですか？\n〓〓 ハロウィーン・トリック 【38】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "It's been a long while since we first met, how is school life?\n== Halloween Trick [38] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "水蓮",
    "text": "3年生へのご進級、おめでとうございます。",
-   "selections": []
+   "selections": [],
+   "text_en": "My congratulations on your promotion to year 3.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "水蓮",
    "text": "こんにちは。\n最近はいかがお過ごしですか？",
-   "selections": []
+   "selections": [],
+   "text_en": "Hello.\nHow have you been lately?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "水蓮",
    "text": "もう 5年生に進級なさったんですね。 おめでとうございます。",
-   "selections": []
+   "selections": [],
+   "text_en": "You've been promoted to year 5 already. Congratulations.",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "水蓮",
@@ -1716,32 +2799,53 @@
    "selections": [
     "そう？ またね",
     "ううん、またね"
-   ]
+   ],
+   "text_en": "Thank you, but there's nothing in particular I need help with right now.\nYes? What was it you finished?",
+   "selections_en": [
+    "Really? See you",
+    "No, see you"
+   ],
+   "era": "game"
   },
   {
    "npc": "◆ １年生\n火蓮",
    "text": "何よアンタたち。\nまた、ヤな人間たちが増えたのね。\nあっち行け！\n〓〓 食い物の恨み 【11】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "What do you want.\nMore unpleasant people, just what we needed.\nGo away!\n== Food Grudge [11] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "火蓮",
    "text": "ふ～ん、進級出来たんだ。思ってたほどバカじゃなかったみたいだね。\n〓〓 月夜の大魔術 【34】 出現 〓〓",
-   "selections": []
+   "selections": [],
+   "text_en": "Hmph, so you got promoted. Not as stupid as I thought, then.\n== Great Magic on a Moonlit Night [34] has appeared ==",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "火蓮",
    "text": "……なに？ なんか用？",
-   "selections": []
+   "selections": [],
+   "text_en": "......What? Something you want?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "火蓮",
    "text": "…なに？",
-   "selections": []
+   "selections": [],
+   "text_en": "...What?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "火蓮",
    "text": "…で？",
-   "selections": []
+   "selections": [],
+   "text_en": "...And?",
+   "selections_en": [],
+   "era": "game"
   },
   {
    "npc": "火蓮",
@@ -1750,7 +2854,14 @@
     "ごめん、今ちょっと忙しくて…",
     "…またね",
     "…ごめんね"
-   ]
+   ],
+   "text_en": "Grrr... if you can't help, don't come near me!\nI've no business with you.\nDon't mess with me! Go away!",
+   "selections_en": [
+    "Sorry, I'm a bit busy right now...",
+    "...See you",
+    "...Sorry"
+   ],
+   "era": "game"
   }
  ]
 }
