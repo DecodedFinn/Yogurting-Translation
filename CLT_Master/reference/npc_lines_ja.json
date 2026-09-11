@@ -630,7 +630,9 @@
     "Yes, got it!",
     "All right, I'll come back",
     "I've collected all five coloured balls!",
-    "Yes, please~"
+    "Yes, please~",
+    "Thank you!",
+    "Merry Christma~s!"
    ],
    "era": "later-service"
   },
@@ -1071,7 +1073,22 @@
     "How do I find people with quests?",
     "How do I take a quest on?",
     "How does a quest progress?",
-    "What way is that?"
+    "What way is that?",
+    "Understood",
+    "How do I finish a quest?",
+    "I report to the person who asked, right?",
+    "Thank you very much",
+    "Tell me about something else",
+    "Please show me the way",
+    "Where do the monsters appear?",
+    "Where can I enhance items?",
+    "Where are the staff room, the library and the infirmary?",
+    "Where are the shop and the auditorium?",
+    "Where are the training room and the guidance room?",
+    "Where are the greenhouse and the breeding ground?",
+    "Where are the blood donation van and the bus stop?",
+    "Where is the science room?",
+    "Thank you very much"
    ],
    "era": "game"
   },
@@ -1474,7 +1491,16 @@
     "What do I need for enhancement?",
     "An item with an enhancement slot?",
     "I see!",
-    "A textbook?"
+    "A textbook?",
+    "Where do I get them?",
+    "Understood",
+    "I want to fit a source stone to an item",
+    "I want to remove a fitted source stone",
+    "Please tell me about item enhancement",
+    "I want to remove a fitted source stone",
+    "I want to release a source stone",
+    "I want to destroy a source stone",
+    "I want to refine a crystal"
    ],
    "era": "game"
   },
@@ -1857,7 +1883,12 @@
     "The old school building, 1F",
     "The grounds",
     "Yes, let's do that",
-    "Actually, somewhere else"
+    "Actually, somewhere else",
+    "Thank you!",
+    "Yes, let's do that",
+    "Thank you!",
+    "Yes, let's do that",
+    "Thank you!"
    ],
    "era": "game"
   },
@@ -1889,7 +1920,19 @@
     "Um, could you explain the rules?",
     "Oh, bringing one isn't enough?",
     "Where do I get a Yogurt Box?",
-    "Yes, got it!"
+    "Yes, got it!",
+    "Yes, let's play!",
+    "Sorry, another time",
+    "Rock!",
+    "Scissors!",
+    "Paper!",
+    "Ah, I see...",
+    "Aaah, I lost...",
+    "N-next time I'll go all out!",
+    "Hmm, a draw then",
+    "Let's play again another time",
+    "Yes, I won!",
+    "Yeah, maybe Nana wins next time"
    ],
    "era": "later-service"
   },
@@ -2041,7 +2084,31 @@
     "About clubs",
     "I see",
     "I see",
-    "I see"
+    "I see",
+    "Yes",
+    "I see",
+    "I see",
+    "I see",
+    "No",
+    "Thank you very much",
+    "Understood",
+    "Disband the club",
+    "Change the club settings",
+    "Club level up",
+    "Change the club mark",
+    "Change the club name",
+    "Yes",
+    "I see",
+    "Understood",
+    "Yes",
+    "I see",
+    "Yes, please",
+    "Thank you very much",
+    "Yes",
+    "I see",
+    "Yes",
+    "Yes",
+    "Understood"
    ],
    "era": "game"
   },
@@ -2234,7 +2301,10 @@
     "Where do I get the coloured balls?",
     "Understood!",
     "Understood, I'll come back",
-    "I've collected all five coloured balls!"
+    "I've collected all five coloured balls!",
+    "Yes, please",
+    "Thank you!",
+    "Merry Christmas!"
    ],
    "era": "later-service"
   },
@@ -2433,7 +2503,24 @@
     "Please tell me about quests",
     "How do I find the NPCs who give quests?",
     "How do I take a quest on?",
-    "How does a quest progress?"
+    "How does a quest progress?",
+    "What way is that?",
+    "Understood",
+    "How do I finish a quest?",
+    "I report to the person who asked, right?",
+    "Tell me about something else",
+    "Please show me the way",
+    "Where do the monsters appear?",
+    "Where can I enhance items?",
+    "Where are the staff room and the infirmary?",
+    "Where is the shop?",
+    "Where are the auditorium and the cherry blossom square?",
+    "Where are the chapel and the cemetery?",
+    "Where is the old school building?",
+    "Where is the science room?",
+    "Where are the blood donation van and the bus stop?",
+    "Where is the cherry tree avenue?",
+    "Thank you very much"
    ],
    "era": "game"
   },
