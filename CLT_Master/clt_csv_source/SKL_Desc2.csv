@@ -1,4 +1,4 @@
-index,skill_id,ref_skill_id,effect_id,effect_desc_id,weapon_type,stage,next_skill_id,power_value,v8,f0,text,v9
+index,skill_id,ref_skill_id,effect_id,effect_desc_id,weapon_type,stage,next_skill_id,req_dex,v8,f0,text,v9
 0,41001,41001,91011,92011,1,1,41002,1,0,8.0,初級攻撃(攻撃力：1),0
 1,41002,41001,91011,92011,1,2,41003,8,0,8.0,初級攻撃(攻撃力：4),0
 2,41003,41001,91011,92011,1,3,41004,15,0,8.0,初級攻撃(攻撃力：8),0

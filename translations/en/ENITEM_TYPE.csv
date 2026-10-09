@@ -1,37 +1,37 @@
 item_id,code,name,desc,extra,i0,i1,i2
-1,EN000001,Red Crayon,A fire-attribute energy crystal for year 1.<br>Used to unset or destroy source stones for year 1 and below.,Used when unsetting or destroying a source stone,1,1,1
-2,EN000002,Red Coloured Pencil,A fire-attribute energy crystal for year 2.<br>Used to unset or destroy source stones for year 2 and below.,Used when unsetting or destroying a source stone,1,1,2
-3,EN000003,Red Pastel,A fire-attribute energy crystal for year 3.<br>Used to unset or destroy source stones for year 3 and below.,Used when unsetting or destroying a source stone,1,1,3
-4,EN000004,Red Watercolour,A fire-attribute energy crystal for year 4.<br>Used to unset or destroy source stones for year 4 and below.,Used when unsetting or destroying a source stone,1,1,4
-5,EN000005,Red Acrylic Paint,A fire-attribute energy crystal for year 5.<br>Used to unset or destroy source stones for year 5 and below.,Used when unsetting or destroying a source stone,1,1,5
-6,EN000006,Red Oil Paint,A fire-attribute energy crystal for year 6.<br>Used to unset or destroy source stones for year 6 and below.,Used when unsetting or destroying a source stone,1,1,6
-7,EN000007,Blue Crayon,A water-attribute energy crystal for year 1.<br>Used to unset or destroy source stones for year 1 and below.,Used when unsetting or destroying a source stone,1,2,1
-8,EN000008,Blue Coloured Pencil,A water-attribute energy crystal for year 2.<br>Used to unset or destroy source stones for year 2 and below.,Used when unsetting or destroying a source stone,1,2,2
-9,EN000009,Blue Pastel,A water-attribute energy crystal for year 3.<br>Used to unset or destroy source stones for year 3 and below.,Used when unsetting or destroying a source stone,1,2,3
-10,EN000010,Blue Watercolour,A water-attribute energy crystal for year 4.<br>Used to unset or destroy source stones for year 4 and below.,Used when unsetting or destroying a source stone,1,2,4
-11,EN000011,Blue Acrylic Paint,A water-attribute energy crystal for year 5.<br>Used to unset or destroy source stones for year 5 and below.,Used when unsetting or destroying a source stone,1,2,5
-12,EN000012,Blue Oil Paint,A water-attribute energy crystal for year 6.<br>Used to unset or destroy source stones for year 6 and below.,Used when unsetting or destroying a source stone,1,2,6
-13,EN000013,Green Crayon,A wood-attribute energy crystal for year 1.<br>Used to unset or destroy source stones for year 1 and below.,Used when unsetting or destroying a source stone,1,3,1
-14,EN000014,Green Coloured Pencil,A wood-attribute energy crystal for year 2.<br>Used to unset or destroy source stones for year 2 and below.,Used when unsetting or destroying a source stone,1,3,2
-15,EN000015,Green Pastel,A wood-attribute energy crystal for year 3.<br>Used to unset or destroy source stones for year 3 and below.,Used when unsetting or destroying a source stone,1,3,3
-16,EN000016,Green Watercolour,A wood-attribute energy crystal for year 4.<br>Used to unset or destroy source stones for year 4 and below.,Used when unsetting or destroying a source stone,1,3,4
-17,EN000017,Green Acrylic Paint,A wood-attribute energy crystal for year 5.<br>Used to unset or destroy source stones for year 5 and below.,Used when unsetting or destroying a source stone,1,3,5
-18,EN000018,Green Oil Paint,A wood-attribute energy crystal for year 6.<br>Used to unset or destroy source stones for year 6 and below.,Used when unsetting or destroying a source stone,1,3,6
-19,EN000019,Yellow Crayon,A metal-attribute energy crystal for year 1.<br>Used to unset or destroy source stones for year 1 and below.,Used when unsetting or destroying a source stone,1,4,1
-20,EN000020,Yellow Coloured Pencil,A metal-attribute energy crystal for year 2.<br>Used to unset or destroy source stones for year 2 and below.,Used when unsetting or destroying a source stone,1,4,2
-21,EN000021,Yellow Pastel,A metal-attribute energy crystal for year 3.<br>Used to unset or destroy source stones for year 3 and below.,Used when unsetting or destroying a source stone,1,4,3
-22,EN000022,Yellow Watercolour,A metal-attribute energy crystal for year 4.<br>Used to unset or destroy source stones for year 4 and below.,Used when unsetting or destroying a source stone,1,4,4
-23,EN000023,Yellow Acrylic Paint,A metal-attribute energy crystal for year 5.<br>Used to unset or destroy source stones for year 5 and below.,Used when unsetting or destroying a source stone,1,4,5
-24,EN000024,Yellow Oil Paint,A metal-attribute energy crystal for year 6.<br>Used to unset or destroy source stones for year 6 and below.,Used when unsetting or destroying a source stone,1,4,6
-25,EN000025,Brown Crayon,An earth-attribute energy crystal for year 1.<br>Used to unset or destroy source stones for year 1 and below.,Used when unsetting or destroying a source stone,1,5,1
-26,EN000026,Brown Coloured Pencil,An earth-attribute energy crystal for year 2.<br>Used to unset or destroy source stones for year 2 and below.,Used when unsetting or destroying a source stone,1,5,2
-27,EN000027,Brown Pastel,An earth-attribute energy crystal for year 3.<br>Used to unset or destroy source stones for year 3 and below.,Used when unsetting or destroying a source stone,1,5,3
-28,EN000028,Brown Watercolour,An earth-attribute energy crystal for year 4.<br>Used to unset or destroy source stones for year 4 and below.,Used when unsetting or destroying a source stone,1,5,4
-29,EN000029,Brown Acrylic Paint,An earth-attribute energy crystal for year 5.<br>Used to unset or destroy source stones for year 5 and below.,Used when unsetting or destroying a source stone,1,5,5
-30,EN000030,Brown Oil Paint,An earth-attribute energy crystal for year 6.<br>Used to unset or destroy source stones for year 6 and below.,Used when unsetting or destroying a source stone,1,5,6
-10001,EN010001,Enhancement study guide for year 1,"An enhancement study guide for year 1. It covers the most basic mindset for enhancing equipment. Plenty of diagrams, and easy to follow.<br>Used to set, unset or destroy source stones for year 1 and below.","Used to set, unset or destroy a source stone",2,0,1
-10002,EN010002,Enhancement study guide for year 2,"An enhancement study guide for year 2. It covers the rough procedure for enhancing equipment. Large print, easy to read.<br>Used to set, unset or destroy source stones for year 2 and below.","Used to set, unset or destroy a source stone",2,0,2
-10003,EN010003,Enhancement study guide for year 3,"An enhancement study guide for year 3. It covers practical material on enhancing equipment.<br>Used to set, unset or destroy source stones for year 3 and below.","Used to set, unset or destroy a source stone",2,0,3
-10004,EN010004,Enhancement study guide for year 4,"An enhancement study guide for year 4. It covers applied theory on enhancing equipment.<br>Used to set, unset or destroy source stones for year 4 and below.","Used to set, unset or destroy a source stone",2,0,4
-10005,EN010005,Enhancement study guide for year 5,"An enhancement study guide for year 5. It covers more advanced information on enhancing equipment. You need a dictionary of technical terms to make sense of it.<br>Used to set, unset or destroy source stones for year 5 and below.","Used to set, unset or destroy a source stone",2,0,5
-10006,EN010006,Enhancement study guide for year 6,"An enhancement study guide for year 6. It covers a difficult, convoluted paper on enhancing equipment. Misread it and you may come away scarred.<br>Used to set, unset or destroy source stones for year 6 and below.","Used to set, unset or destroy a source stone",2,0,6
+1,EN000001,Red Crayon,Fire energy crystal for year 1.<br>Unsets or destroys source stones up to year 1.,Unset/destroy stones,1,1,1
+2,EN000002,Red Coloured Pencil,Fire energy crystal for year 2.<br>Unsets or destroys source stones up to year 2.,Unset/destroy stones,1,1,2
+3,EN000003,Red Pastel,Fire energy crystal for year 3.<br>Unsets or destroys source stones up to year 3.,Unset/destroy stones,1,1,3
+4,EN000004,Red Watercolour,Fire energy crystal for year 4.<br>Unsets or destroys source stones up to year 4.,Unset/destroy stones,1,1,4
+5,EN000005,Red Acrylic Paint,Fire energy crystal for year 5.<br>Unsets or destroys source stones up to year 5.,Unset/destroy stones,1,1,5
+6,EN000006,Red Oil Paint,Fire energy crystal for year 6.<br>Unsets or destroys source stones up to year 6.,Unset/destroy stones,1,1,6
+7,EN000007,Blue Crayon,Water energy crystal for year 1.<br>Unsets or destroys source stones up to year 1.,Unset/destroy stones,1,2,1
+8,EN000008,Blue Coloured Pencil,Water energy crystal for year 2.<br>Unsets or destroys source stones up to year 2.,Unset/destroy stones,1,2,2
+9,EN000009,Blue Pastel,Water energy crystal for year 3.<br>Unsets or destroys source stones up to year 3.,Unset/destroy stones,1,2,3
+10,EN000010,Blue Watercolour,Water energy crystal for year 4.<br>Unsets or destroys source stones up to year 4.,Unset/destroy stones,1,2,4
+11,EN000011,Blue Acrylic Paint,Water energy crystal for year 5.<br>Unsets or destroys source stones up to year 5.,Unset/destroy stones,1,2,5
+12,EN000012,Blue Oil Paint,Water energy crystal for year 6.<br>Unsets or destroys source stones up to year 6.,Unset/destroy stones,1,2,6
+13,EN000013,Green Crayon,Wood energy crystal for year 1.<br>Unsets or destroys source stones up to year 1.,Unset/destroy stones,1,3,1
+14,EN000014,Green Coloured Pencil,Wood energy crystal for year 2.<br>Unsets or destroys source stones up to year 2.,Unset/destroy stones,1,3,2
+15,EN000015,Green Pastel,Wood energy crystal for year 3.<br>Unsets or destroys source stones up to year 3.,Unset/destroy stones,1,3,3
+16,EN000016,Green Watercolour,Wood energy crystal for year 4.<br>Unsets or destroys source stones up to year 4.,Unset/destroy stones,1,3,4
+17,EN000017,Green Acrylic Paint,Wood energy crystal for year 5.<br>Unsets or destroys source stones up to year 5.,Unset/destroy stones,1,3,5
+18,EN000018,Green Oil Paint,Wood energy crystal for year 6.<br>Unsets or destroys source stones up to year 6.,Unset/destroy stones,1,3,6
+19,EN000019,Yellow Crayon,Metal energy crystal for year 1.<br>Unsets or destroys source stones up to year 1.,Unset/destroy stones,1,4,1
+20,EN000020,Yellow Coloured Pencil,Metal energy crystal for year 2.<br>Unsets or destroys source stones up to year 2.,Unset/destroy stones,1,4,2
+21,EN000021,Yellow Pastel,Metal energy crystal for year 3.<br>Unsets or destroys source stones up to year 3.,Unset/destroy stones,1,4,3
+22,EN000022,Yellow Watercolour,Metal energy crystal for year 4.<br>Unsets or destroys source stones up to year 4.,Unset/destroy stones,1,4,4
+23,EN000023,Yellow Acrylic Paint,Metal energy crystal for year 5.<br>Unsets or destroys source stones up to year 5.,Unset/destroy stones,1,4,5
+24,EN000024,Yellow Oil Paint,Metal energy crystal for year 6.<br>Unsets or destroys source stones up to year 6.,Unset/destroy stones,1,4,6
+25,EN000025,Brown Crayon,Earth energy crystal for year 1.<br>Unsets or destroys source stones up to year 1.,Unset/destroy stones,1,5,1
+26,EN000026,Brown Coloured Pencil,Earth energy crystal for year 2.<br>Unsets or destroys source stones up to year 2.,Unset/destroy stones,1,5,2
+27,EN000027,Brown Pastel,Earth energy crystal for year 3.<br>Unsets or destroys source stones up to year 3.,Unset/destroy stones,1,5,3
+28,EN000028,Brown Watercolour,Earth energy crystal for year 4.<br>Unsets or destroys source stones up to year 4.,Unset/destroy stones,1,5,4
+29,EN000029,Brown Acrylic Paint,Earth energy crystal for year 5.<br>Unsets or destroys source stones up to year 5.,Unset/destroy stones,1,5,5
+30,EN000030,Brown Oil Paint,Earth energy crystal for year 6.<br>Unsets or destroys source stones up to year 6.,Unset/destroy stones,1,5,6
+10001,EN010001,Study guide for year 1,"Basics of enhancing, with lots of diagrams.<br>Sets, unsets or destroys source stones up to year 1.",Set or remove stones,2,0,1
+10002,EN010002,Study guide for year 2,"The rough steps of enhancing. Large print.<br>Sets, unsets or destroys source stones up to year 2.",Set or remove stones,2,0,2
+10003,EN010003,Study guide for year 3,"Practical notes on enhancing equipment.<br>Sets, unsets or destroys source stones up to year 3.",Set or remove stones,2,0,3
+10004,EN010004,Study guide for year 4,"Applied theory of enhancing equipment.<br>Sets, unsets or destroys source stones up to year 4.",Set or remove stones,2,0,4
+10005,EN010005,Study guide for year 5,"Advanced. You will need a jargon dictionary.<br>Sets, unsets or destroys source stones up to year 5.",Set or remove stones,2,0,5
+10006,EN010006,Study guide for year 6,"A convoluted paper. Misreading it hurts.<br>Sets, unsets or destroys source stones up to year 6.",Set or remove stones,2,0,6

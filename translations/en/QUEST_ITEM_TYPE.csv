@@ -23,10 +23,10 @@ index,quest_item_id,code,name,description
 21,22,qe000022,Somunyan's Star Mark,
 22,23,qe000023,Mao Xiaoping's Star Mark,
 23,24,qe000024,Paige's Letter of Recommendation,
-24,25,qe000025,Shitoumaru's Letter of Recommendation,
+24,25,qe000025,Shitoumaru's Reference Letter,
 25,26,qe000026,Riez's Letter of Recommendation,
-26,27,qe000027,Somunyan's Letter of Recommendation,
-27,28,qe000028,Mao Xiaoping's Letter of Recommendation,
+26,27,qe000027,Somunyan's Reference Letter,
+27,28,qe000028,Mao Xiaoping's Reference Letter,
 28,39,qe000039,Glowing Antenna,The antenna that grows from a Ratchu's forehead. It contains a luminous substance and shines brightly in the dark.
 29,40,qe000040,Geto's Horn,The green horn attached to Geto's head. It has no particular use.
 30,41,qe000041,Sheep's Tail Wool,"Tail wool, said to be the softest wool of all. The wool from the sheep Hyunrang raises is clean and smells lovely."
@@ -98,14 +98,14 @@ index,quest_item_id,code,name,description
 96,107,qe000107,,
 97,108,qe000108,,
 98,109,qe000109,,
-99,110,qe000110,"""Pass in 30 Days: Certified Public Accountant""",A study guide for the certified public accountant exam.
+99,110,qe000110,"""Pass the CPA Exam in 30 Days""",A study guide for the certified public accountant exam.
 100,111,qe000111,Johnny's ** Photo,"A ** photo of Johnny, or the envelope it came in."
 101,112,qe000112,Part of the Library Floor Plan,Part of a top-secret document said to show the library's secret map.
 102,113,qe000113,New Book,"A clean book, newly purchased."
 103,114,qe000114,Celeb Monthly,"The magazine Bianca likes to read. It covers precious jewellery, the latest fashion and the like."
 104,115,qe000115,Stolen Book,"A book stolen from the library. It was handled roughly, so the cover is crumpled."
 105,116,qe000116,Barausu Stem,A Barausu's stem.
-106,117,qe000117,Silhouette Photo of the Giant Robot,A photo showing the silhouette of the giant robot the Robotics Club built.
+106,117,qe000117,Giant Robot Silhouette Photo,A photo showing the silhouette of the giant robot the Robotics Club built.
 107,118,qe000118,Giant Robot Wreckage,Wreckage of the giant robot.
 108,119,qe000119,Adults-Only Book,An adults-only book. The cover is rather saucy.
 109,120,qe000120,Tattered Old Uniform,"An old Sowol Academy uniform, torn to rags."
@@ -126,7 +126,7 @@ index,quest_item_id,code,name,description
 124,135,qe000135,Forgotten Bag,A bag somebody left behind.
 125,136,qe000136,Locked Treasure Chest,A locked treasure chest.
 126,137,qe000137,Ancient Text,An ancient text.
-127,138,qe000138,Student Council Volunteer Certificate,Student Council Volunteer Certificate
+127,138,qe000138,Council Volunteer Certificate,Student Council Volunteer Certificate
 128,139,qe000139,Murder Case Report,A murder case report.
 129,140,qe000140,Sucheong Stamp,A stamp Sucheong hands out to students who help the student council.
 130,141,qe000141,Mocha's Handout,Mocha's Handout
@@ -141,7 +141,7 @@ index,quest_item_id,code,name,description
 139,150,qe000150,Rock Fragment,A fragment of rock.
 140,151,qe000151,Love Fulfillment Talisman,Love Fulfillment Talisman
 141,152,qe000152,School Newsletter,School Newsletter
-142,153,qe000153,Student Council Introduction Leaflet,Student Council Introduction Leaflet
+142,153,qe000153,Student Council Leaflet,Student Council Introduction Leaflet
 143,154,qe000154,Offering Bag,A bag with dog food in it.
 144,155,qe000155,Suiren's Broom,Suiren's broom.
 145,156,qe000156,Spirit Photo,Spirit Photo
@@ -209,7 +209,7 @@ index,quest_item_id,code,name,description
 207,218,qe000218,Draft of Suiren's Manuscript,A draft written neatly in pencil on manuscript paper. It has been revised over and over.
 208,219,qe000219,Youen-sensei's Manuscript,"A new manuscript, written neatly on manuscript paper."
 209,220,qe000220,Grey's Manuscript,A manuscript printed neatly on A4 paper.
-210,221,qe000221,Bianca-sensei's Full-Course Lunchbox,Bianca-sensei's absurdly lavish lunchbox: three chefs make it at lunchtime and deliver it by car.
+210,221,qe000221,Bianca-sensei's Deluxe Lunchbox,Bianca-sensei's absurdly lavish lunchbox: three chefs make it at lunchtime and deliver it by car.
 211,222,qe000222,Broken Lever Fragment,What was left after the lever in the Estiva library's underground waterway broke.
 212,223,qe000223,Gravestone Fragment,A fragment of a broken gravestone.
 213,224,qe000224,Letter of Apology,"A letter of apology reading ""We will never do anything bad again. The Warguma, all of us."" In place of a seal, it is stamped with a Warguma's forepaw."
@@ -326,7 +326,7 @@ index,quest_item_id,code,name,description
 324,335,qe000353,Hoyang's Glasses,The glasses Hoyang always wears. An old-fashioned design.
 325,336,qe000336,Blood-Soaked Blade,A blade thickly caked with dried blood. Dangerous to be seen carrying.
 326,337,qe000357,Oddly Coloured Mushroom,"An eerie mushroom, coloured in a way that saps your courage to eat it."
-327,338,qe000351,Certificate of Demolition Mastery,"A certificate saying you have excellent demolition skills. Issued by Inject, officially recognised by Sowol Academy."
+327,338,qe000351,Demolition Mastery Certificate,"A certificate saying you have excellent demolition skills. Issued by Inject, officially recognised by Sowol Academy."
 328,339,qe000337,Desk Fragment,"A broken piece of an old desk. Some have nails sticking out, so be careful."
 329,340,qe000345,Soso Mummy's Bandage,The bandage that was wrapped around a Soso Mummy. It looks cleaner than you would expect.
 330,341,qe000344,Music Box Part,A part from a music box. The construction looks fairly complicated.
@@ -418,7 +418,7 @@ index,quest_item_id,code,name,description
 416,461,etc_cs030174,Dimension Fish's Float Tissue,The float tissue of a dimension fish. It hardly seems enough to fly with...?
 417,462,etc_cs030215,Chair Fighter Fragment,A fragment of a Chair Fighter. It gives off a strange air.
 418,463,etc_cs030015,Luminous Substance,A mysterious substance giving off a glow so faint you only notice it in the dark. Gather enough and it will light a book at night.
-419,464,etc_cs030096,The Unknown Way to Raise a Cockoo,"A book handed down among the mysterious Linti tribe, describing their secret method of raising Cockoos."
+419,464,etc_cs030096,How to Raise a Cockoo,"A book handed down among the mysterious Linti tribe, describing their secret method of raising Cockoos."
 420,465,etc_cs030204,Mysterious Flower,A special flower said to grow as a parasite on the bodies of the mysterious Linti. It smells extremely odd.
 421,466,etc_cs030023,Fruit of Conversation,A mysterious fruit known for letting you talk with Woodherians when eaten.
 422,467,etc_cs030192,100x Sweetness Special Candy,A candy made by a special method known only to the mysterious Linti tribe. It is said to be 100 times sweeter than ordinary sweets.
